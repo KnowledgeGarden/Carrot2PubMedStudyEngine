@@ -16,9 +16,10 @@
 	<parameter name="NumDuplicates" value="0"/>
 	
 	
-	<!-- Multiple entries possible for clusters -->
+	<!-- Multiple entries possible for clusters 
+		"localhost" -->
 	<list name="Clusters">
-		<parameter name="localhost" value="9200" /> 
+		<parameter name="192.168.8.13" value="9200" /> 
 	</list>
 
 	<!-- Index must be lowercase

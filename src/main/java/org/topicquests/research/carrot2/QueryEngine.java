@@ -23,7 +23,7 @@ import org.topicquests.research.carrot2.impl.PubMedDocumentSource;
  */
 public class QueryEngine {
 	private Environment environment;
-	private final String outputPath = "data/output/";
+	private final String outputPath;
 	private Controller controller;
 	private StringBuilder buf;
 	private Accountant accountant;
@@ -33,6 +33,7 @@ public class QueryEngine {
 	 */
 	public QueryEngine(Environment env) {
 		environment = env;
+		outputPath = environment.getStringProperty("ClusterDataPath");
 		accountant = environment.getAccountant();
 		buf = new StringBuilder();
 		String x =  environment.getStringProperty("MAX_COUNT");

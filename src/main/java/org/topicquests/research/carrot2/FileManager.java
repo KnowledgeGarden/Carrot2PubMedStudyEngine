@@ -5,18 +5,25 @@
  */
 package org.topicquests.research.carrot2;
 
+import java.io.*;
+import java.nio.charset.StandardCharsets;
+import java.util.zip.GZIPOutputStream;
 /**
  * @author jackpark
  *
  */
 public class FileManager {
 	private Environment environment;
+	private final String pubMedPath;
+	private final String nlpPath;
 
 	/**
 	 * 
 	 */
 	public FileManager(Environment env) {
 		environment = env;
+		pubMedPath = environment.getStringProperty("PubMedAbstractPath");
+		nlpPath = environment.getStringProperty("NlpPath");
 	}
 
 	/**
@@ -32,27 +39,28 @@ public class FileManager {
 	 * @param xml
 	 */
 	public void persistAbstract(String pmid, String xml) {
-	   /*	String filePath = buf.toString();
+	   	String filePath = this.pubMedPath+pmid+".xml.gzip";
     	File f = new File(filePath);
-    	if (!f.exists()) {
-	    	buf.setLength(0);;
-	    	buf = buf.append("<?xml version=\"1.0\"?>\n")
-	    			.append("<!DOCTYPE PubmedArticleSet PUBLIC \"-//NLM//DTD PubMedArticle, 1st January 2014//EN\" \"http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd\">\n")
-	    			.append(xml);
-	    	System.out.println("PD: "+f.getAbsolutePath());
-	    	//FileOutputStream fos = new FileOutputStream(f);
-	    	try {
-	    	PrintWriter out = new PrintWriter(f, StandardCharsets.UTF_8.toString());
-	    	out.print(buf.toString());
-	    	System.out.println("PD-1: ");
-	    	out.flush();
-	    	out.close();
-	    	} catch (Exception e) {
-	    		System.out.println("DANG!");
-	    		e.printStackTrace();
+    	try {
+	    	if (!f.exists()) {
+		    	StringBuilder buf = new StringBuilder();
+		    	buf = buf.append("<?xml version=\"1.0\"?>\n")
+		    			.append("<!DOCTYPE PubmedArticleSet PUBLIC \"-//NLM//DTD PubMedArticle, 1st January 2014//EN\" \"http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd\">\n")
+		    			.append(xml);
+		    	System.out.println("PD: "+f.getAbsolutePath());
+		    	FileOutputStream fos = new FileOutputStream(f);
+		    	GZIPOutputStream gos = new GZIPOutputStream(fos);
+		    	PrintWriter out = new PrintWriter(gos);
+		    	out.print(buf.toString());
+		    	System.out.println("PD-1: ");
+		    	out.flush();
+		    	out.close();
 	    	}
-	    	
-    	}*/
+    	} catch (Exception e) {
+    		environment.logError(e.getMessage(), e);
+    		System.out.println("DANG!");
+    		e.printStackTrace();
+    	}
 	}
 	
 	/**

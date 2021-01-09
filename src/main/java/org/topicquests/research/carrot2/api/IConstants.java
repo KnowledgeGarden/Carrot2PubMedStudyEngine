@@ -10,7 +10,7 @@ package org.topicquests.research.carrot2.api;
  *
  */
 public interface IConstants {
-	/** must coordinate with config/wordgram-props.xml */
+	/** must coordinate with config/provider-config.xml */
 	public static final String
 		ES_INDEX_NAME	= "abstracts";
 }

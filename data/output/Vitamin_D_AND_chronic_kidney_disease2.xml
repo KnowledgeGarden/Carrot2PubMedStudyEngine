@@ -218,7 +218,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="451"/>
+      <value type="java.lang.Long" value="418"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="40"/>
@@ -230,7 +230,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="2832"/>
+      <value type="java.lang.Long" value="3500"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -239,7 +239,7 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="3283"/>
+      <value type="java.lang.Long" value="3918"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
