@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32207420</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0030-9982</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>70</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JPMA. The Journal of the Pakistan Medical Association</Title>
+                <ISOAbbreviation>J Pak Med Assoc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The frequency of vitamin D deficiency in chronic kidney disease and its relation with baseline mineral bone markers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>432-436</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5455/JPMA.302411</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To assess the frequency of Vitamin D deficiency in chronic kidney disease and its association with baseline mineral bone markers in patients visiting nephrology clinics.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The observational study was conducted at the Indus Hospital, Karachi, from January 2017 to January 2018, and comprised patients of either gender aged &gt;16 years diagnosed with chronic kidney disease stage I-V. The patients were divided into two groups on the basis of severity of vitamin D deficiency. Severe vitamin D deficiency was defined as &lt;10ng/ml, and moderate deficiency ad 10- 25ng/ml. Data was analysed using SPSS 21.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 267 patients, 146(54.7%) were males and 189(70.8%) had vitamin D deficiency. Vitamin D-deficient patients were younger than those with normal levels (p=0.044). Serum creatinine was raised in the deficient patients compared to those with normal vitamin D level (p=0.042). Females and currently employed patients were at a higher risk of having vitamin D deficiency (p=0.048, 0.009). There was no si gn ific ant as s ociation between disease stage a nd vitamin D defic ienc y ( p= 0.311).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Vitamin D deficiency was found in a significant proportion of chronic kidney disease patients irrespective of the disease stage. Females, currently employed and young patients were more prone to having vitamin D deficiency.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Memon</LastName>
+                    <ForeName>Shoukat</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Indus Hospital, Karachi, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alam</LastName>
+                    <ForeName>Ashar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Indus Hospital, Karachi, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iftikhar</LastName>
+                    <ForeName>Sundus</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Indus Hospital, Karachi, Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Pakistan</Country>
+            <MedlineTA>J Pak Med Assoc</MedlineTA>
+            <NlmUniqueID>7501162</NlmUniqueID>
+            <ISSNLinking>0030-9982</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">  CKD, Vitamin D deficiency, Mineral bone markers.
+
+</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32207420</ArticleId>
+            <ArticleId IdType="pii">9677</ArticleId>
+            <ArticleId IdType="doi">10.5455/JPMA.302411</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

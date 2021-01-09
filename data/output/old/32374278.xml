@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32374278</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-4331</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>May</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical chemistry and laboratory medicine</Title>
+                <ISOAbbreviation>Clin Chem Lab Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy of weekly administration of cholecalciferol on parathyroid hormone in stable kidney-transplanted patients with CKD stage 1-3.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1515/cclm-2020-0282</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">/j/cclm.ahead-of-print/cclm-2020-0282/cclm-2020-0282.xml</ELocationID>
+            <Abstract>
+                <AbstractText>Objectives Kidney transplant (KTx) recipients frequently have deficient or insufficient levels of serum vitamin D. Few studies have investigated the effect of cholecalciferol in these patients. We evaluated the efficacy of weekly cholecalciferol administration on parathyroid hormone (PTH) levels in stable KTx patients with chronic kidney disease stage 1-3. Methods In this retrospective cohort study, 48 stable KTx recipients (37 males, 11 females, aged 52âÂ±â11 years and 26 months post-transplantation) were treated weekly with oral cholecalciferol (7500-8750 IU) for 12 months and compared to 44 untreated age- and gender-matched recipients. Changes in levels of PTH, 25(OH) vitamin D (25[OH]D), serum calcium, phosphate, creatinine and estimated glomerular filtration rate (eGFR) were measured at baseline, 6 and 12 months. Results At baseline, clinical characteristics were similar between treated and untreated patients. Considering the entire cohort, 87 (94.6%) were deficient in vitamin D and 64 (69.6%) had PTH â¥130 pg/mL. Serum calcium, phosphate, creatinine and eGFR did not differ between groups over the follow-up period. However, 25(OH)D levels were significantly higher at both 6 (63.5 vs. 30.3 nmol/L, pâ&lt;â0.001) and 12 months (69.4 vs. 30 nmol/L, pâ&lt;â0.001) in treated vs. untreated patients, corresponding with a significant reduction in PTH at both 6 (112 vs. 161 pg/mL) and 12 months (109 vs. 154 pg/mL) in treated vs. untreated patients, respectively (pâ&lt;â0.001 for both). Conclusions Weekly administration of cholecalciferol can significantly and stably reduce PTH levels, without any adverse effects on serum calcium and renal function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sella</LastName>
+                    <ForeName>Stefania</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Clinica Medica 1, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonfante</LastName>
+                    <ForeName>Luciana</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Nephrology, Dialysis and Transplantation Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fusaro</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Research Council, Institute of Clinical Physiology, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neri</LastName>
+                    <ForeName>Flavia</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Renal and Pancreas Transplant Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plebani</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-0270-1711</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Laboratory Medicine Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zaninotto</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Laboratory Medicine Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aghi</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Clinica Medica 1, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Innico</LastName>
+                    <ForeName>Georgie</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Nephrology, Dialysis and Transplantation Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripepi</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR, Institute of Biomedicine, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michielin</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Clinica Medica 1, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prandini</LastName>
+                    <ForeName>Tancredi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Clinica Medica 1, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>CalÃ²</LastName>
+                    <ForeName>Lorenzo A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Nephrology, Dialysis and Transplantation Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giannini</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Clinica Medica 1, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Chem Lab Med</MedlineTA>
+            <NlmUniqueID>9806306</NlmUniqueID>
+            <ISSNLinking>1434-6621</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">kidney transplant</Keyword>
+            <Keyword MajorTopicYN="N">parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">secondary hyperparathyroidism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32374278</ArticleId>
+            <ArticleId IdType="doi">10.1515/cclm-2020-0282</ArticleId>
+            <ArticleId IdType="pii">/j/cclm.ahead-of-print/cclm-2020-0282/cclm-2020-0282.xml</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32780482</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-4681</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bone and mineral research : the official journal of the American Society for Bone and Mineral Research</Title>
+                <ISOAbbreviation>J Bone Miner Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The CKD-MBD Syndrome: Hysteresis in PTH Involvement and PTH Administration for Its Management.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2313-2317</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jbmr.4155</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) disturbs mineral homeostasis, leading to mineral and bone disorders (MBD). CKD-MBD is a significant problem and currently available treatment options have important limitations. Phosphate retention is thought to be the initial cause of CKD-MBD but serum phosphate remains normal until the late stages of CKD, due to elevated levels of the phosphaturic hormone fibroblast growth factor-23 (FGF-23), and parathyroid hormone (PTH). Reduction of 1,25-dihydroxy-vitamin D (1,25[OH]<sub>2</sub> D) concentration is the next event in the adaptive response of the homeostatic system. We argue, and provide the rationale, that calcium retention which takes place concurrently with phosphate retention, could be the reason behind the hysteresis in the response of PTH. If indeed this is the case, intermittent administration of PTH in early CKD could prevent the hysteresis, which arguably leads to the development of secondary hyperparathyroidism, and provide the platform for an effective management of CKD-MBD. Â© 2020 American Society for Bone and Mineral Research (ASBMR).</AbstractText>
+                <CopyrightInformation>Â© 2020 American Society for Bone and Mineral Research (ASBMR).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pazianas</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4670-0016</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Musculoskeletal Sciences, Oxford University, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Paul D</ForeName>
+                    <Initials>PD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Colorado Health Sciences Center, Denver, CO, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Colorado Center for Bone Health, Lakewood, CO, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Bone Miner Res</MedlineTA>
+            <NlmUniqueID>8610640</NlmUniqueID>
+            <ISSNLinking>0884-0431</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CALCIUM</Keyword>
+            <Keyword MajorTopicYN="N">CHRONIC KIDNEY DISEASE (CKD)</Keyword>
+            <Keyword MajorTopicYN="N">INTERMITTENT PTH ADMINISTRATION</Keyword>
+            <Keyword MajorTopicYN="N">MINERAL AND BONE DISORDERS OF CHRONIC KIDNEY DISEASE (CKD-MBD)</Keyword>
+            <Keyword MajorTopicYN="N">PARATHYROID HORMONE (PTH)</Keyword>
+            <Keyword MajorTopicYN="N">PHOSPHATE</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32780482</ArticleId>
+            <ArticleId IdType="doi">10.1002/jbmr.4155</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>References</Title>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney Int Suppl (2011). 2013;3(1):1-150 [Note: this reference is to the entire special issue.].</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Grams ME, Chow EK, Segev DL, et al. Lifetime incidence of CKD stages 3-5 in the United States. Am J Kidney Dis. 2013;62:245-52.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>United States Renal Data System (USRDS). 2017 USRDS Annual Data Report. Chapter 1. CKD in the general population. Vol. 1. [Internet]. Bethesda, MD: USRDS; 2017 [cited 2020 August 16]. Available from: https://www.usrds.org/media/1672/v1_c01_genpop_17.pdf.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Public Health England. Chronic kidney disease prevalence and model [Internet]. London, UK: Public Health England; 2014 [cited 2020 Aug 16]. https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/612303/ChronickidneydiseaseCKDprevalencemodelbriefing.pdf.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Moe S, DrÃ¼eke T, Cunningham J, et al. Definition, evaluation, and classification of renal osteodystrophy: a position statement from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2006;69:1945-53.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hogan J, Goldfarb S. Regulation of calcium and phosphate balance [Internet]. Waltham, MA: UpToDate Inc.; 2018 [updated: 2019 Dec 11; cited 2020 Aug 16]. Available from: https://www.uptodate.com/contents/regulation-of-calcium-and-phosphate-balance.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mirams M, Robinson BG, Mason RS, Nelson AE. Bone as a source of FGF23: regulation by phosphate? Bone. 2004;35:1192-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Takashi Y, Fukumoto S. Phosphate-sensing and regulatory mechanism of FGF23 production. J Endocrinol Invest. 2020;43(7):877-83.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bricker NS. On the pathogenesis of the uremic state. An exposition of the âtrade-off hypothesisâ. N Engl J Med. 1972;286:1093-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Isakova T, Wolf MS. FGF23 or PTH: which comes first in CKD? Kidney Int. 2010;78:947-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hasegawa H, Nagano N, Urakawa I, et al. Direct evidence for a causative role of FGF23 in the abnormal renal phosphate handling and vitamin D metabolism in rats with early-stage chronic kidney disease. Kidney Int. 2010;78:975-80.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Shigematsu T, Kazama JJ, Yamashita T, et al. Possible involvement of circulating fibroblast growth factor 23 in the development of secondary hyperparathyroidism associated with renal insufficiency. Am J Kidney Dis. 2004;44:250-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Gutierrez O, Isakova T, Rhee E, et al. Fibroblast growth factor-23 mitigates hyperphosphatemia but accentuates calcitriol deficiency in chronic kidney disease. J Am Soc Nephrol. 2005;16:2205-15.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Vervloet MG, Sezer S, Massy ZA, et al. The role of phosphate in kidney disease. Nat Rev Nephrol. 2017;13:27-38.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Adler AJ, Ferran N, Berlyne GM. Effect of inorganic phosphate on serum ionized calcium concentration in vitro: a reassessment of the âtrade-off hypothesisâ. Kidney Int. 1985;28:932-5.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mace ML, Gravesen E, Nordholm A, et al. Fibroblast growth factor (FGF) 23 regulates the plasma levels of parathyroid hormone in vivo through the FGF receptor in normocalcemia, but not in hypocalcemia. Calcif Tissue Int. 2018;102:85-92.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Massry SG, Coburn JW, Lee DB, et al. Skeletal resistance to parathyroid hormone in renal failure. Studies in 105 human subjects. Ann Intern Med. 1973;78:357-64.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dobnig H, Turner RT. The effects of programmed administration of human parathyroid hormone fragment (1-34) on bone histomorphometry and serum chemistry in rats. Endocrinology. 1997;138(11):4607-12.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Scialla JJ, Wolf M. Roles of phosphate and fibroblast growth factor 23 in cardiovascular disease. Nat Rev Nephrol. 2014;10:268-78.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Fang Y, Ginsberg C, Sugatani T, et al. Early chronic kidney disease-mineral bone disorder stimulates vascular calcification. Kidney Int. 2014;85:142-50.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cozzolino M, Mangano M, Stucchi A, et al. Cardiovascular disease in dialysis patients. Nephrol Dial Transplant. 2018;33(suppl_3):iii28-34.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Herzog CA, Asinger RW, Berger AK, et al. Cardiovascular disease in chronic kidney disease. A clinical update from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2011;80:572-86.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>United States Renal Data System. Chapter 4. Cardiovascular disease in patients with CKD. USRDS 2018 Annual Data Report [Internet]. Bethesda, MD: The National Institutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases; 2018 [cited 2020 Aug 16]. Available from. https://www.usrds.org/media/1717/v1_c04_ckd_cvd_18_usrds.pdf.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Goodman WG, London G, Amann K, et al. Vascular calcification in chronic kidney disease. Am J Kidney Dis. 2004;43:572-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ketteler M, Block GA, Evenepoel P, et al. Executive summary of the 2017 KDIGO Chronic Kidney Disease-Mineral And Bone Disorder (CKD-MBD) guideline update: what's changed and why it matters. Kidney Int. 2017;92:26-36.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kandula P, Dobre M, Schold JD, et al. Vitamin D supplementation in chronic kidney disease: a systematic review and meta-analysis of observational studies and randomized controlled trials. Clin J Am Soc Nephrol. 2011;6(1):50-62.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Marcuccilli M, Chonchol M, Jovanovich A. Phosphate binders and targets over decades: do we have it right now? Semin Dial. 2017;30:134-41.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kuro-O M. A phosphate-centric paradigm for pathophysiology and therapy of chronic kidney disease. Kidney Int Suppl (2011). 2013;3:420-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Alshayeb MH, Quarles DL. Treatment of chronic kidney disease mineral bone disorder (CKD-MBD). In Rosen CJ, ed. Primer on the metabolic bone diseases and disorders of mineral metabolism. Hoboken, NJ: John Wiley &amp; Sons; 2013. Chapter 78 pp 640-50.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Oliveira RB, Cancela AL, Graciolli FG, et al. Early control of PTH and FGF23 in normophosphatemic CKD patients: a new target in CKD-MBD therapy? Clin J Am Soc Nephrol. 2010;5:286-91.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Pavik I, Jaeger P, Ebner L, et al. Secreted Klotho and FGF23 in chronic kidney disease Stage 1 to 5: a sequence suggested from a cross-sectional study. Nephrol Dial Transplant. 2013;28:352-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Palcu P, Dion N, Ste-Marie LG, et al. Teriparatide and bone turnover and formation in a hemodialysis patient with low-turnover bone disease: a case report. Am J Kidney Dis. 2015;65:933-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tabacco G, Bilezikian JP. Osteoanabolic and dual action drugs. Br J Clin Pharmacol. 2019;85:1084-94.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Macdonald HM, Nishiyama KK, Hanley DA, et al. Changes in trabecular and cortical bone microarchitecture at peripheral sites associated with 18 months of teriparatide therapy in postmenopausal women with osteoporosis. Osteoporos Int. 2011;22:357-62.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Metzger CE, Swallow EA, Allen MR. Elevations in cortical porosity occur prior to significant rise in serum parathyroid hormone in young female mice with adenine-induced CKD. Calcif Tissue Int. 2020;106(4):392-400.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sharma AK, Toussaint ND, Masterson R, et al. Deterioration of cortical bone microarchitecture: critical component of renal osteodystrophy evaluation. Am J Nephrol. 2018;47(6):376-84.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Doyle N, Varela A, Haile S, et al. Abaloparatide, a novel PTH receptor agonist, increased bone mass and strength in ovariectomized cynomolgus monkeys by increasing bone formation without increasing bone resorption. Osteoporos Int. 2018;29:685-97.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Besschetnova T, Brooks DJ, Hu D, et al. Abaloparatide improves cortical geometry and trabecular microarchitecture and increases vertebral and femoral neck strength in a rat model of male osteoporosis. Bone. 2019;124:148-57.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Watts NB, Hattersley G, Fitzpatrick LA, et al. Abaloparatide effect on forearm bone mineral density and wrist fracture risk in postmenopausal women with osteoporosis. Osteoporos Int. 2019;30:1187-94.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hattersley G, Dean T, Corbin BA, et al. Binding selectivity of abaloparatide for PTH-Type-1-receptor conformations and effects on downstream signaling. Endocrinology. 2016;157:141-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>DrÃ¼eke TB, Massy ZA. Changing bone patterns with progression of chronic kidney disease. Kidney Int. 2016;89:289-302.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Yamamoto J, Nakazawa D, Nishio S, et al. Impact of weekly teriparatide on the bone and mineral metabolism in hemodialysis patients with relatively low serum parathyroid hormone: a pilot study. Ther Apher Dial. 2020;24(2):146-53.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sebastian EM, Suva LJ, Friedman PA. Differential effects of intermittent PTH(1-34) and PTH(7-34) on bone microarchitecture and aortic calcification in experimental renal failure. Bone. 2008;43:1022-30.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ota M, Takahata M, Shimizu T, et al. Efficacy and safety of osteoporosis medications in a rat model of late-stage chronic kidney disease accompanied by secondary hyperparathyroidism and hyperphosphatemia. Osteoporos Int. 2017;28:1481-90.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Miller PD, Schwartz EN, Chen P, et al. Teriparatide in postmenopausal women with osteoporosis and mild or moderate renal impairment. Osteoporos Int. 2007;18:59-68.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nishikawa A, Yoshiki F, Taketsuna M, et al. Safety and effectiveness of daily teriparatide for osteoporosis in patients with severe stages of chronic kidney disease: post hoc analysis of a postmarketing observational study. Clin Interv Aging. 2016;11:1653-9.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

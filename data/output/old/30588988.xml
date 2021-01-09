@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30588988</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1319-2442</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>29</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia</Title>
+                <ISOAbbreviation>Saudi J Kidney Dis Transpl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Periarticular calcification mimicking inflammatory polyarthritis in chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1506-1510</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/1319-2442.248309</ELocationID>
+            <Abstract>
+                <AbstractText>Periarticular calcification is a frequent radiographic manifestation in chronic kidney disease (CKD). However, clinical presentation as inflammatory periarthritis, tenosynovitis, and bursitis is unusual. A 34-year-old man with CKD on dialysis for three years presented with painful swollen joints. His adherence to regular dialysis, phosphate binders, Vitamin D supplements, and antihypertension therapy was poor. He had swelling of the right thumb, index, and little fingers; periarticular swelling of the left middle finger and right little toe; and extensor tenosynovitis of the wrists and right olecranon bursitis. Laboratory investigations showed the following: urea 36 mmol/L; creatinine 1764 umol/L; serum urate 0.37 mmol/L; corrected calcium 1.76 mmol/L; phosphate 4.32 mmol/L; 25-dihydroxycholecalciferol 30 ng/mL; and parathyroid hormone 104 pmol/L. Radiographs showed periarticular calcification corresponding to the sites of inflammation. The inflammation resolved with oral steroids. In our patient, deranged mineral and bone metabolism contributed to periarticular calcification at multiple sites, mimicking inflammatory polyarthritis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Naidoo</LastName>
+                    <ForeName>Kumari</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, School of Clinical Medicine, University of KwaZulu-Natal and Inkosi Albert Luthuli Central Hospital, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ndlovu</LastName>
+                    <ForeName>Kwazi C Z</ForeName>
+                    <Initials>KCZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, School of Clinical Medicine, University of KwaZulu-Natal and Inkosi Albert Luthuli Central Hospital, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mody</LastName>
+                    <ForeName>Girish M</ForeName>
+                    <Initials>GM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology, School of Clinical Medicine, University of KwaZulu-Natal and Inkosi Albert Luthuli Central Hospital, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Saudi Arabia</Country>
+            <MedlineTA>Saudi J Kidney Dis Transpl</MedlineTA>
+            <NlmUniqueID>9436968</NlmUniqueID>
+            <ISSNLinking>1319-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001168" MajorTopicYN="N">Arthritis</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002114" MajorTopicYN="N">Calcinosis</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005384" MajorTopicYN="N">Finger Joint</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014033" MajorTopicYN="N">Toe Joint</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <CoiStatement>None</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30588988</ArticleId>
+            <ArticleId IdType="pii">SaudiJKidneyDisTranspl_2018_29_6_1506_248309</ArticleId>
+            <ArticleId IdType="doi">10.4103/1319-2442.248309</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

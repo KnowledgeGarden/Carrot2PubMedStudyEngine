@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31769778</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2175-8239</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>42</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Jornal brasileiro de nefrologia : 'orgao oficial de Sociedades Brasileira e Latino-Americana de Nefrologia</Title>
+                <ISOAbbreviation>J Bras Nefrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chronic kidney disease is a main confounding factor for 25-vitamin D measurement.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>94-98</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0101-28002019005030101</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1590/2175-8239-jbn-2019-0053</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Current guidelines recommend assessment of 25-vitamin D status in patients with chronic kidney disease (CKD). Although significant differences among assays have been described, the impact of CKD on this variability has never been tested.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We tested the variability between two 25-vitamin D assays in patients with CKD (eGFR &lt; 60 mL/min/1.73m2) who had consecutive 25-vitamin D measurements in 2015 (Assay 1 - Diasorin LIASON 25 TOTAL - D assayÂ®) and 2016 (Assay 2 - Beckman Coulter Unicel Xl 800Â®). The cohort consisted of 791 adult patients (122 with normal renal function and 669 with CKD - 33, 30, and 37% in stages 3, 4, and 5 on dialysis, respectively).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Levels of 25-vitamin D were lower and the prevalence of hypovitaminosis D using assay 1 was higher than using assay 2 in patients with CKD, regardless of similar levels of calcium, phosphate, and parathyroid hormone. As kidney function decreased, the percentage of disagreement between the assays increased.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">There is a noteworthy variability between assays in patients with CKD such that the diagnosis of hypovitaminosis D is modified. The mechanism behind this result is still unclear and might be due to a possible interference in the analytical process. However, the clinical significance is unquestionable, as the supplementation of vitamin D can be erroneously prescribed to these patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Machado</LastName>
+                    <ForeName>Hanna Karla Andrade GuapyassÃº</ForeName>
+                    <Initials>HKAG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DivisÃ£o de Nefrologia, Universidade de SÃ£o Paulo, SÃ£o Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martins</LastName>
+                    <ForeName>Carolina Steller Wagner</ForeName>
+                    <Initials>CSW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DivisÃ£o de Nefrologia, Universidade de SÃ£o Paulo, SÃ£o Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jorgetti</LastName>
+                    <ForeName>Vanda</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DivisÃ£o de Nefrologia, Universidade de SÃ£o Paulo, SÃ£o Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elias</LastName>
+                    <ForeName>Rosilene Motta</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DivisÃ£o de Nefrologia, Universidade de SÃ£o Paulo, SÃ£o Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MoysÃ©s</LastName>
+                    <ForeName>Rosa Maria Affonso</ForeName>
+                    <Initials>RMA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>DivisÃ£o de Nefrologia, Universidade de SÃ£o Paulo, SÃ£o Paulo, SP, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>por</Language>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>J Bras Nefrol</MedlineTA>
+            <NlmUniqueID>9426946</NlmUniqueID>
+            <ISSNLinking>0101-2800</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31769778</ArticleId>
+            <ArticleId IdType="pii">S0101-28002019005030101</ArticleId>
+            <ArticleId IdType="doi">10.1590/2175-8239-JBN-2019-0053</ArticleId>
+            <ArticleId IdType="pmc">PMC7213929</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J AOAC Int. 2017 Sep 1;100(5):1318-1322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28492143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2018 Mar;33(3):404-409</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29044707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2006 Apr 20;311(1-2):174-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16524587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2012 Mar;58(3):486-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22238254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):480-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17197167</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Adv Musculoskelet Dis. 2017 Apr;9(4):97-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28382113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2017 Oct;173:117-121</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27979577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J AOAC Int. 2017 Sep 1;100(5):1225-1229</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28492144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinol Metab Clin North Am. 2010 Jun;39(2):271-86, table of contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20511051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J AOAC Int. 2017 Sep 1;100(5):1323-1327</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28492133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2016 Apr;49(6):486-491</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26655254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem Rev. 2005 Feb;26(1):33-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16278775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Epidemiol. 2009 Feb;19(2):73-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18329892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chim Acta. 2013 Jan 16;415:255-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23159781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Feb 6;10(2):331-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25107951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

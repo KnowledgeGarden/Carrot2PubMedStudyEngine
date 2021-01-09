@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">32846760</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-5964</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>99</Volume>
+                    <Issue>34</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Aug</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medicine</Title>
+                <ISOAbbreviation>Medicine (Baltimore)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D supplement on prevention of fall and fracture: A Meta-analysis of Randomized Controlled Trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e21506</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/MD.0000000000021506</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Vitamin D supplement is one of the current possible interventions to reduce fall and fracture. Despite having several studies on vitamin D supplement and fall and fracture reductions, the results are still inconclusive. We conducted a meta-analysis to examine the effect of vitamin D supplement in different forms and patient settings on fall and fracture.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A systematic literature research was conducted in MEDLINE, EMBASE, and Cochrane Central Register of Controlled Trials to identify randomized controlled trials (RCTs) to compare the effects of vitamin D supplements on fall and fracture outcomes. Random-effect models were used to compute the weighted mean difference for continuous variables and the risk ratio for binary variables.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Forty-seven RCTs with 58,424 participants were identified reporting on fall outcome. Twenty-four of 47 studies with 40,102 subjects also reported fracture outcome. Major populations were elderly women with age less than 80 years. Overall, vitamin D supplement demonstrated a significant effect on fall reduction, RRâ=â0.948 (95% CI 0.914-0.984; Pâ=â.004, Iâ=â41.52). By subgroup analyses, only vitamin D with calcium supplement significantly reduce fall incidence, RRâ=â0.881 (95% CI 0.821-0.945; Pâ&lt;â.001, Iâ=â49.19). Vitamin D3 supplement decreased incidence of fall but this occurred only when vitamin D3 was supplemented with calcium. Regarding fracture outcome, vitamin D supplement failed to show fracture lowering benefit, RRâ=â0.949 (95% CI 0.846-1.064; Pâ=â.37, Iâ=â37.92). Vitamin D along with calcium supplement could significantly lower fracture rates, RRâ=â0.859 (95% CI 0.741-0.996; Pâ=â.045, Iâ=â25.48).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The use of vitamin D supplement, especially vitamin D3 could reduce incidence of fall. Only vitamin D with calcium supplement showed benefit in fracture reduction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thanapluetiwong</LastName>
+                    <ForeName>Saran</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Geriatric Medicine, Department of Medicine, Ramathibodi Hospital, Mahidol University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chewcharat</LastName>
+                    <ForeName>Api</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Faculty of Medicine, King Chulalongkorn Memorial Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takkavatakarn</LastName>
+                    <ForeName>Kullaya</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Faculty of Medicine, King Chulalongkorn Memorial Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Praditpornsilpa</LastName>
+                    <ForeName>Kearkiat</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Faculty of Medicine, King Chulalongkorn Memorial Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eiam-Ong</LastName>
+                    <ForeName>Somchai</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Faculty of Medicine, King Chulalongkorn Memorial Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Susantitaphong</LastName>
+                    <ForeName>Paweena</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">0000-0001-9813-9219</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Faculty of Medicine, King Chulalongkorn Memorial Hospital.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Unit for Metabolic Bone Disease in CKD Patients, Faculty of Medicine, Chulalongkorn University, Bangkok, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Medicine (Baltimore)</MedlineTA>
+            <NlmUniqueID>2985248R</NlmUniqueID>
+            <ISSNLinking>0025-7974</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050071">Bone Density Conservation Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000058" MajorTopicYN="N">Accidental Falls</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050071" MajorTopicYN="N">Bone Density Conservation Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050723" MajorTopicYN="N">Fractures, Bone</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32846760</ArticleId>
+            <ArticleId IdType="doi">10.1097/MD.0000000000021506</ArticleId>
+            <ArticleId IdType="pii">00005792-202008210-00014</ArticleId>
+            <ArticleId IdType="pmc">PMC7447507</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Bergen G, Stevens MR, Burns ER. Falls and Fall Injuries Among Adults Aged &gt;/â=â65 Years - United States, 2014. MMWR Morb Mortal Wkly Rep 2016;65:993â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stevens JA, Sogolow ED. Gender differences for non-fatal unintentional fall related injuries among older adults. Inj Prev 2005;11:115â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ambrose AF, Paul G, Hausdorff JM. Risk factors for falls among older adults: a review of the literature. Maturitas 2013;75:51â61.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ungar A, Rafanelli M, Iacomelli I, et al. Fall prevention in the elderly. Clin Cases Miner Bone Metab 2013;10:91â5.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>British Geriatrics S. Panel on Prevention of Falls in Older Persons AGS. Summary of the Updated American Geriatrics Society/British Geriatrics Society clinical practice guideline for prevention of falls in older persons. J Am Geriatr Soc 2011;59:148â57.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Blain H, Masud T, Dargent-Molina P, et al. A comprehensive fracture prevention strategy in older adults: the European Union Geriatric Medicine Society (EUGMS) statement. Aging Clin Exp Res 2016;28:797â803.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Papaioannou A, Santesso N, Morin SN, et al. Recommendations for preventing fracture in long-term care. CMAJ 2015;187:1135â44.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Force USPST, Grossman DC, Curry SJ, et al. Vitamin D, calcium, or combined supplementation for the primary prevention of fractures in community-dwelling adults: US Preventive services task force recommendation statement. JAMA 2018;319:1592â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jackson C, Gaugris S, Sen SS, et al. The effect of cholecalciferol (vitamin D3) on the risk of fall and fracture: a meta-analysis. QJM 2007;100:185â92.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bischoff-Ferrari HA, Dawson-Hughes B, Staehelin HB, et al. Fall prevention with supplemental and active forms of vitamin D: a meta-analysis of randomised controlled trials. BMJ 2009;339:b3692.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chua GT, Wong RY. Association between vitamin D dosing regimen and fall prevention in long-term care seniors. Can Geriatr J 2011;14:93â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Murad MH, Elamin KB, Abu Elnour NO, et al. Clinical review: The effect of vitamin D on falls: a systematic review and meta-analysis. J Clin Endocrinol Metab 2011;96:2997â3006.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zheng YT, Cui QQ, Hong YM, et al. A meta-analysis of high dose, intermittent vitamin D supplementation among older adults. PLoS One 2015;10:e0115850.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Force USPST, Grossman DC, Curry SJ, et al. Interventions to prevent falls in community-dwelling older adults: US preventive services task force recommendation statement. JAMA 2018;319:1696â704.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bolland MJ, Grey A, Avenell A. Effects of vitamin D supplementation on musculoskeletal health: a systematic review, meta-analysis, and trial sequential analysis. Lancet Diabetes Endocrinol 2018;6:847â58.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jadad AR, Moore RA, Carroll D, et al. Assessing the quality of reports of randomized clinical trials: is blinding necessary? Control Clin Trials 1996;17:1â2.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Huedo-Medina TB, Sanchez-Meca J, Marin-Martinez F, et al. Assessing heterogeneity in meta-analysis: Q statistic or I2 index? Psychol Methods 2006;11:193â206.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Egger M, Davey Smith G, Schneider M, et al. Bias in meta-analysis detected by a simple, graphical test. BMJ 1997;315:629â34.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chapuy MC, Arlot ME, Duboeuf F, et al. Vitamin D3 and calcium to prevent hip fractures in elderly women. N Engl J Med 1992;327:1637â42.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Graafmans WC, Ooms ME, Hofstee HM, et al. Falls in the elderly: a prospective study of risk factors and risk profiles. Am J Epidemiol 1996;143:1129â36.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Pfeifer M, Begerow B, Minne HW, et al. Effects of a short-term vitamin D and calcium supplementation on body sway and secondary hyperparathyroidism in elderly women. J Bone Miner Res 2000;15:1113â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chapuy MC, Pamphile R, Paris E, et al. Combined calcium and vitamin D3 supplementation in elderly women: confirmation of reversal of secondary hyperparathyroidism and hip fracture risk: the Decalyos II study. Osteoporos Int 2002;13:257â64.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bischoff HA, Stahelin HB, Dick W, et al. Effects of vitamin D and calcium supplementation on falls: a randomized controlled trial. J Bone Miner Res 2003;18:343â51.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Latham NK, Anderson CS, Lee A, et al. A randomized, controlled trial of quadriceps resistance exercise and vitamin D in frail older people: the Frailty Interventions Trial in Elderly Subjects (FITNESS). J Am Geriatr Soc 2003;51:291â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Trivedi DP, Doll R, Khaw KT. Effect of four monthly oral vitamin D3 (cholecalciferol) supplementation on fractures and mortality in men and women living in the community: randomised double blind controlled trial. BMJ 2003;326:469.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dhesi JK, Jackson SH, Bearne LM, et al. Vitamin D supplementation improves neuromuscular function in older people who fall. Age Ageing 2004;33:589â95.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Harwood RH, Sahota O, Gaynor K, et al. A randomised, controlled comparison of different calcium and vitamin D supplementation regimens in elderly women after hip fracture: The Nottingham Neck of Femur (NONOF) Study. Age Ageing 2004;33:45â51.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dukas L, Schacht E, Mazor Z, et al. Treatment with alfacalcidol in elderly people significantly decreases the high risk of falls associated with a low creatinine clearance of &lt;65âml/min. Osteoporos Int 2005;16:198â203.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Flicker L, MacInnis RJ, Stein MS, et al. Should older people in residential care receive vitamin D to prevent falls? Results of a randomized trial. J Am Geriatr Soc 2005;53:1881â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Grant AM, Avenell A, Campbell MK, et al. Oral vitamin D3 and calcium for secondary prevention of low-trauma fractures in elderly people (Randomised Evaluation of Calcium Or vitamin D, RECORD): a randomised placebo-controlled trial. Lancet 2005;365:1621â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Larsen ER, Mosekilde L, Foldspang A. Vitamin D and calcium supplementation prevents severe falls in elderly community-dwelling women: a pragmatic population-based 3-year intervention study. Aging Clin Exp Res 2005;17:125â32.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Porthouse J, Cockayne S, King C, et al. Randomised controlled trial of calcium and supplementation with cholecalciferol (vitamin D3) for prevention of fractures in primary care. BMJ 2005;330:1003.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bischoff-Ferrari HA, Conzelmann M, Stahelin HB, et al. Is fall prevention by vitamin D mediated by a change in postural or dynamic balance? Osteoporos Int 2006;17:656â63.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bischoff-Ferrari HA, Orav EJ, Dawson-Hughes B. Effect of cholecalciferol plus calcium on falling in ambulatory older men and women: a 3-year randomized controlled trial. Arch Intern Med 2006;166:424â30.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bunout D, Barrera G, Leiva L, et al. Effects of vitamin D supplementation and exercise training on physical performance in Chilean vitamin D deficient elderly subjects. Exp Gerontol 2006;41:746â52.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Law M, Withers H, Morris J, et al. Vitamin D supplementation and the prevention of fractures and falls: results of a randomised trial in elderly people in residential accommodation. Age Ageing 2006;35:482â6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Broe KE, Chen TC, Weinberg J, et al. A higher dose of vitamin d reduces the risk of falls in nursing home residents: a randomized, multiple-dose study. J Am Geriatr Soc 2007;55:234â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Burleigh E, McColl J, Potter J. Does vitamin D stop inpatients falling? A randomised controlled trial. Age Ageing 2007;36:507â13.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Gallagher JC, Rapuri PB, Smith LM. An age-related decrease in creatinine clearance is associated with an increase in number of falls in untreated women but not in women receiving calcitriol treatment. J Clin Endocrinol Metab 2007;92:51â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Smith H, Anderson F, Raphael H, et al. Effect of annual intramuscular vitamin D on fracture risk in elderly men and women--a population-based, randomized, double-blind, placebo-controlled trial. Rheumatology (Oxford) 2007;46:1852â7.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Berggren M, Stenvall M, Olofsson B, et al. Evaluation of a fall-prevention program in older people after femoral neck fracture: a one-year follow-up. Osteoporos Int 2008;19:801â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Prince RL, Austin N, Devine A, et al. Effects of ergocalciferol added to calcium on the risk of falls in elderly high-risk women. Arch Intern Med 2008;168:103â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Pfeifer M, Begerow B, Minne HW, et al. Effects of a long-term vitamin D and calcium supplementation on falls and parameters of muscle function in community-dwelling older individuals. Osteoporos Int 2009;20:315â22.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Karkkainen MK, Tuppurainen M, Salovaara K, et al. Does daily vitamin D 800 IU and calcium 1000âmg supplementation decrease the risk of falling in ambulatory women aged 65-71 years? A 3-year randomized population-based trial (OSTPRE-FPS). Maturitas 2010;65:359â65.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sanders KM, Stuart AL, Williamson EJ, et al. Annual high-dose oral vitamin D and falls and fractures in older women: a randomized controlled trial. JAMA 2010;303:1815â22.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Witham MD, Crighton LJ, Gillespie ND, et al. The effects of vitamin D supplementation on physical function and quality of life in older patients with heart failure: a randomized controlled trial. Circ Heart Fail 2010;3:195â201.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ralston SH, Binkley N, Boonen S, et al. Randomized trial of alendronate plus vitamin D3 versus standard care in osteoporotic postmenopausal women with vitamin D insufficiency. Calcif Tissue Int 2011;88:485â94.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Glendenning P, Zhu K, Inderjeeth C, et al. Effects of three-monthly oral 150,000 IU cholecalciferol supplementation on falls, mobility, and muscle strength in older postmenopausal women: a randomized controlled trial. J Bone Miner Res 2012;27:170â6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Neelemaat F, Lips P, Bosmans JE, et al. Short-term oral nutritional intervention with protein and vitamin D decreases falls in malnourished older adults. J Am Geriatr Soc 2012;60:691â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Witham MD, Price RJ, Struthers AD, et al. Cholecalciferol treatment to reduce blood pressure in older patients with isolated systolic hypertension: the VitDISH randomized controlled trial. JAMA Intern Med 2013;173:1672â9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Massart A, Debelle FD, Racape J, et al. Biochemical parameters after cholecalciferol repletion in hemodialysis: results From the VitaDial randomized trial. Am J Kidney Dis 2014;64:696â705.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Rizzoli R, Dawson-Hughes B, Kaufman JM, et al. Correction of vitamin D insufficiency with combined strontium ranelate and vitamin D3 in osteoporotic patients. Eur J Endocrinol 2014;170:441â50.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wood AD, Secombes KR, Thies F, et al. A parallel group double-blind RCT of vitamin D3 assessing physical function: is the biochemical response to treatment affected by overweight and obesity? Osteoporos Int 2014;25:305â15.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hansen KE, Johnson RE, Chambers KR, et al. Treatment of Vitamin D insufficiency in postmenopausal women: a randomized clinical trial. JAMA Intern Med 2015;175:1612â21.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Houston DK, Tooze JA, Demons JL, et al. Delivery of a Vitamin D intervention in homebound older adults using a meals-on-wheels program: a pilot study. J Am Geriatr Soc 2015;63:1861â7.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Uusi-Rasi K, Patil R, Karinkanta S, et al. Exercise and vitamin D in fall prevention among older women: a randomized clinical trial. JAMA Intern Med 2015;175:703â11.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Arden NK, Cro S, Sheard S, et al. The effect of vitamin D supplementation on knee osteoarthritis, the VIDEO study: a randomised controlled trial. Osteoarthritis Cartilage 2016;24:1858â66.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cangussu LM, Nahas-Neto J, Orsatti CL, et al. Effect of isolated vitamin D supplementation on the rate of falls and postural balance in postmenopausal women fallers: a randomized, double-blind, placebo-controlled trial. Menopause 2016;23:267â74.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jin X, Jones G, Cicuttini F, et al. Effect of Vitamin D supplementation on tibial cartilage volume and knee pain among patients with symptomatic knee osteoarthritis: a randomized clinical trial. JAMA 2016;315:1005â13.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Aloia JF, Mikhail M, Fazzari M, et al. Physical performance and vitamin D in elderly black women-the PODA randomized clinical trial. J Clin Endocrinol Metab 2019;104:1441â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hin H, Tomson J, Newman C, et al. Optimum dose of vitamin D for disease prevention in older people: BEST-D trial of vitamin D in primary care. Osteoporos Int 2017;28:841â51.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Khaw KT, Stewart AW, Waayer D, et al. Effect of monthly high-dose vitamin D supplementation on falls and non-vertebral fractures: secondary and post-hoc outcomes from the randomised, double-blind, placebo-controlled ViDA trial. Lancet Diabetes Endocrinol 2017;5:438â47.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Levis S, Gomez-Marin O. Vitamin D and physical function in sedentary older men. J Am Geriatr Soc 2017;65:323â31.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schwetz V, Schnedl C, Urbanic-Purkart T, et al. Effect of vitamin D3 on bone turnover markers in critical illness: post hoc analysis from the VITdAL-ICU study. Osteoporos Int 2017;28:3347â54.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Smith LM, Gallagher JC, Suiter C. Medium doses of daily vitamin D decrease falls and higher doses of daily vitamin D3 increase falls: A randomized clinical trial. J Steroid Biochem Mol Biol 2017;173:317â22.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Trang HM, Cole DE, Rubin LA, et al. Evidence that vitamin D3 increases serum 25-hydroxyvitamin D more efficiently than does vitamin D2. Am J Clin Nutr 1998;68:854â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Shieh A, Chun RF, Ma C, et al. Effects of High-Dose Vitamin D2 Versus D3 on Total and Free 25-Hydroxyvitamin D and markers of calcium balance. J Clin Endocrinol Metab 2016;101:3070â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tripkovic L, Lambert H, Hart K, et al. Comparison of vitamin D2 and vitamin D3 supplementation in raising serum 25-hydroxyvitamin D status: a systematic review and meta-analysis. Am J Clin Nutr 2012;95:1357â64.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Flicker L, Mead K, MacInnis RJ, et al. Serum vitamin D and falls in older women in residential care in Australia. J Am Geriatr Soc 2003;51:1533â8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sanders KM, Nicholson GC, Ebeling PR. Is high dose vitamin D harmful? Calcif Tissue Int 2013;92:191â206.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Simpson RU, Thomas GA, Arnold AJ. Identification of 1,25-dihydroxyvitamin D3 receptors and activities in muscle. J Biol Chem 1985;260:8882â91.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Costa EM, Blau HM, Feldman D. 1,25-dihydroxyvitamin D3 receptors and hormonal responses in cloned human skeletal muscle cells. Endocrinology 1986;119:2214â20.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Haddad JG, Walgate J, Min C, et al. Vitamin D metabolite-binding proteins in human tissue. Biochim Biophys Acta 1976;444:921â5.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bischoff HA, Borchers M, Gudat F, et al. In situ detection of 1,25-dihydroxyvitamin D3 receptor in human skeletal muscle tissue. Histochem J 2001;33:19â24.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lips P, Netelenbos JC, Jongen MJ, et al. Histomorphometric profile and vitamin D status in patients with femoral neck fracture. Metab Bone Dis Relat Res 1982;4:85â93.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chapuy MC, Arlot ME, Delmas PD, et al. Effect of calcium and cholecalciferol treatment for three years on hip fractures in elderly women. BMJ 1994;308:1081â2.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Beaudart C, Buckinx F, Rabenda V, et al. The effects of vitamin D on skeletal muscle strength, muscle mass, and muscle power: a systematic review and meta-analysis of randomized controlled trials. J Clin Endocrinol Metab 2014;99:4336â45.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dhesi JK, Bearne LM, Moniz C, et al. Neuromuscular and psychomotor function in elderly subjects who fall and the relationship with vitamin D status. J Bone Miner Res 2002;17:891â7.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chevalley T, Rizzoli R, Nydegger V, et al. Effects of calcium supplements on femoral bone mineral density and vertebral fracture rate in vitamin-D-replete elderly patients. Osteoporos Int 1994;4:245â52.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dawson-Hughes B, Harris SS, Krall EA, et al. Effect of calcium and vitamin D supplementation on bone density in men and women 65 years of age or older. N Engl J Med 1997;337:670â6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jackson RD, LaCroix AZ, Gass M, et al. Calcium plus vitamin D supplementation and the risk of fractures. N Engl J Med 2006;354:669â83.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

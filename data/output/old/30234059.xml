@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30234059</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2249-4863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Jul-Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of family medicine and primary care</Title>
+                <ISOAbbreviation>J Family Med Prim Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of Vitamin D and secondary hyperparathyroidism with anemia in diabetic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>815-818</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/jfmpc.jfmpc_174_17</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Anemia is common in Chronic Kidney Disease (CKD) and diabetes is a major leading risk factor for it. In Diabetic Kidney Disease (DKD), it worsens more, which further increases cardiovascular morbidity and mortality. Despite of adequate iron stores anemia persist, which may be due to impaired iron release from body stores that is unable to meet the demand for erythropoiesis (also called reticuloendothelial cell iron blockade). High parathyroid hormone (PTH) along with vitamin D, may be attributable for anemia.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A cross-sectional study of 150 advanced (Stage 4 &amp; 5) pre dialyzed DKD patients (GFR &lt;30ml/min/1.73 m2), aged 40-70 years were included over a period of 1 year. Any other concomitant illness/ drugs leading to anemia were excluded. Serum samples were collected and urea, creatinine, hemoglobin, iron profile, vitamin D, iPTH, uric acid, calcium, phosphorous and albumin levels were measured. A data base was constructed on Microsoft Excel 2007 and statistical analyses were performed using the SPSS software version 20.0 (IBM, NY, USA).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Stage 5 DKD had more pronounced anemia compared to stage 4 DKD (<i>P</i> &lt; 0.001). Hemoglobin (Hb) was inversely correlated with iPTH (r = -0.74, <i>P</i> &lt; 0.001) and was associated with vitamin D deficiency (r = 0.51, <i>P</i> &lt; 0.001) but not with serum ferritin. DKD patients with low eGFR (r = -0.6, <i>P</i> &lt; 0.001), vitamin D (r = -0.43, <i>P</i> &lt; 0.001) and serum calcium (r = -0.37, <i>P</i> &lt; 0.001) had higher iPTH. Secondary hyperparathyroidism (beta=-0.005; <i>P</i> &lt; 0.001) and Vitamin D (beta=0.053; <i>P</i> &lt; 0.01) were strong predictor for Hb while parameters of iron profile was not statistically significant.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">An efficient control of PTH hypersecretion is therefore required to achieve a better management of anemia as well as mineral metabolism in DKD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sonkar</LastName>
+                    <ForeName>Satyendra Kumar</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Dialysis Unit, King George's Medical University, Lucknow, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Harendra Pratap</ForeName>
+                    <Initials>HP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, King George's Medical University, Lucknow, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonkar</LastName>
+                    <ForeName>Gyanendra Kumar</ForeName>
+                    <Initials>GK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, King George's Medical University, Lucknow, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pandey</LastName>
+                    <ForeName>Sant</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, King George's Medical University, Lucknow, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Family Med Prim Care</MedlineTA>
+            <NlmUniqueID>101610082</NlmUniqueID>
+            <ISSNLinking>2249-4863</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Anemia</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">diabetes kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">intact parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">iron profile</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30234059</ArticleId>
+            <ArticleId IdType="doi">10.4103/jfmpc.jfmpc_174_17</ArticleId>
+            <ArticleId IdType="pii">JFMPC-7-815</ArticleId>
+            <ArticleId IdType="pmc">PMC6131998</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Diabetes Care. 2009 Jul;32(7):1320-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19564475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cleve Clin J Med. 2016 Aug;83(8):613-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27505883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Springerplus. 2015 May 20;4:233</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26155438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yonsei Med J. 2016 Sep;57(5):1159-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27401647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Endocrinol Metab. 2011 Apr;15(2):105-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21731867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Manag Care Pharm. 2007 Jun;13(5):397-411</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17605511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Endocrinol Metab. 2016 Mar-Apr;20(2):268-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27042425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2002;17 Suppl 5:28-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12091604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2015 Sep;20(9):601-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25917812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 Jul;28(7):1672-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23468534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2000 Mar-Apr;20(2):89-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10773607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EXCLI J. 2013 Jun 11;12:511-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26933400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lab Physicians. 2013 Jan;5(1):51-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24014970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cleve Clin J Med. 2006 Mar;73(3):289-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16548452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Apr;6(4):913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21454719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiorenal Med. 2013 Jul;3(2):120-127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23922552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2012 Oct;23(10):1631-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22935483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1998;78(1):28-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9453400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

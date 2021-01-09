@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30651805</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1792-0981</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental and therapeutic medicine</Title>
+                <ISOAbbreviation>Exp Ther Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlation of the severity of chronic kidney disease with serum inflammation, osteoporosis and vitamin D deficiency.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>368-372</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3892/etm.2018.6916</ELocationID>
+            <Abstract>
+                <AbstractText>Correlation of the severity of chronic kidney disease (CKD) with serum inflammation, osteoporosis and vitamin D deficiency was investigated. A total of 78 patients suffering from CKD who presented to the Union Hospital from December 2015 to December 2017 were selected randomly and divided into three groups based on the severity of the disease. Comparisons of interleukin-6 (IL-6), C-reactive protein (CRP), tumor necrosis factor-Î± (TNF-Î±), indicators of osteoporosis [serum phosphate, serum calcium and bone mineral density (BMD)], content of 25(OH)D, serum sodium, serum potassium and BUN were conducted among groups. The correlation of <i>in vivo</i> creatinine (Cr) with C-reactive protein (CRP), TNF-Î±, BMD and vitamin D deficiency were analyzed. With the aggravation of illness, IL-6, CRP, TNF-Î±, serum phosphate, serum sodium, serum potassium and blood urea nitrogen (BUN) were increased gradually, while serum calcium, BMD and vitamin D were decreased significantly (P&lt;0.05). The content of Cr in patients suffering from osteoporosis was significantly higher than that in normal group (P&lt;0.05). The Cr of patients in the group with abnormal CRP was significantly higher than that with normal CRP (P&lt;0.05). Analysis showed that there is positive correlation between Cr and CRP (r=0.6961, P&lt;0.001), as well as between Cr and TNF-Î± (r=0.8969, P&lt;0.001); and negative correlation between Cr and BMD (r=0.5472, P&lt;0.001), and between Cr and 25(OH)D (r=0.4733, P&lt;0.001). The severity of CKD is correlated with serum inflammation, osteoporosis and vitamin D deficiency. The higher the severity of the illness, the worse the condition of osteoporosis will be.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Cewen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430022, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei 430022, P.R. China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Greece</Country>
+            <MedlineTA>Exp Ther Med</MedlineTA>
+            <NlmUniqueID>101531947</NlmUniqueID>
+            <ISSNLinking>1792-0981</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">osteoporosis</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D deficiency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30651805</ArticleId>
+            <ArticleId IdType="doi">10.3892/etm.2018.6916</ArticleId>
+            <ArticleId IdType="pii">ETM-0-0-6916</ArticleId>
+            <ArticleId IdType="pmc">PMC6307476</ArticleId>
+        </ArticleIdList>
+        <?pmcsd?>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2007 Apr;22(4):1100-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17272313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2012 Mar-Apr;25(2):204-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21688248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clinics (Sao Paulo). 2011;66(6):991-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21808864</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2013 Aug;62(2):302-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23774230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2014 Feb;29(2):273-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24077647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NDT Plus. 2009 Feb;2(1):76-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25949293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2016 Apr;27(4):1477-1484</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26576540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cardiol. 2016 Apr;13(4):183</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26888168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Am J Med Sci. 2016 Jan;8(1):47-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27011947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clinics (Sao Paulo). 2016 May;71(5):243-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27276392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Clin North Am Small Anim Pract. 2016 Nov;46(6):1015-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27461408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JRSM Cardiovasc Dis. 2016 Nov 03;5:2048004016677687</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27867500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2017 Feb 15;18(1):66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28201994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Epidemiol. 2017 Aug;27(8):389-397</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28385348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inflammation. 2017 Aug;40(4):1365-1374</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28497277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Lab Sci. 2017 May;47(3):310-314</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28667032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2017 Oct;30(5):671-675</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28940158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiol. 2018 Mar;71(3):277-283</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28969969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2018 Jan 28;32(3):393-398</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29135575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Apr;93(4):803-813</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29477239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Vasc Endovasc Surg. 1998 Feb;15(2):122-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9551050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

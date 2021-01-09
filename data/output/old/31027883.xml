@@ -1,0 +1,612 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31027883</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-6838</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>74</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of kidney diseases : the official journal of the National Kidney Foundation</Title>
+                <ISOAbbreviation>Am J Kidney Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of Sevelamer Carbonate in Patients With CKD and Proteinuria: The ANSWER Randomized Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>338-350</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0272-6386(19)30136-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.ajkd.2019.01.029</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE &amp; OBJECTIVE">Hyperphosphatemia is associated with increased risk for chronic kidney disease (CKD) progression and reduced antiproteinuric effects of renin-angiotensin system (RAS) blockers. We investigated whether the phosphate binder sevelamer carbonate may enhance the antiproteinuric effect of RAS inhibitors in patients with CKD.</AbstractText>
+                <AbstractText Label="STUDY DESIGN">Phase 2, randomized, controlled, open-label, crossover trial.</AbstractText>
+                <AbstractText Label="SETTING &amp; PARTICIPANTS">Between November 2013 and December 2014, we enrolled 53 patients with CKD with estimated glomerular filtration rates (eGFRs)&gt;15mL/min/1.73m<sup>2</sup> and residual proteinuria with protein excretionâ¥0.5g/24h despite maximal tolerated ramipril and/or irbesartan therapy from 2 nephrology units in Italy.</AbstractText>
+                <AbstractText Label="INTERVENTION">After stratification by serum phosphate level,Â â¤4 or&gt;4mg/dL, patients were randomly assigned to 3 months of sevelamer (1,600mg thrice daily) treatment followed by 3 months without sevelamer separated by a 1-month washout period or 3 months without sevelamer followed by 3 months with sevelamer, also separated by a 1-month washout period.</AbstractText>
+                <AbstractText Label="OUTCOMES">The primary outcome was 24-hour proteinuria (n=49patients). Secondary outcomes included measured GFR (using iohexol plasma clearance), office blood pressure (BP), serum lipid levels, levels of inflammation and bone metabolism biomarkers, urinary electrolyte levels, and arterial stiffness.</AbstractText>
+                <AbstractText Label="RESULTS">Changes in proteinuria during the 3-month treatment with (from 1.36 [IQR, 0.77-2.51] to 1.36 [IQR, 0.77-2.60] g/24h) or without (from 1.36 [IQR, 0.99-2.38] to 1.48 [IQR, 0.81-2.77] g/24h) sevelamer were similar (P=0.1). Sevelamer reduced urinary phosphate excretion without affecting serum phosphate levels. Sevelamer reduced C-reactive protein (CRP), glycated hemoglobin, and total and low-density lipoprotein cholesterol levels and increased high-density lipoprotein cholesterol levels without affecting levels of office BP, measured GFR, fibroblast growth factor 23, klotho, intact parathyroid hormone, serum vitamin D, or other urinary electrolytes. Results were similar in the low- and high-phosphate groups. Sevelamer was well tolerated. Adverse events were comparable between treatment periods. One case of transient hypophosphatemia was observed during treatment with sevelamer.</AbstractText>
+                <AbstractText Label="LIMITATIONS">Short treatment duration, lower pretreatment proteinuria than expected.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">3-month sevelamer treatment did not reduce proteinuria in patients with CKD on maximal RAS blockade. Amelioration of inflammation and dyslipidemia with sevelamer treatment raises the possibility that it may confer benefit in patients with CKD beyond reduction of proteinuria.</AbstractText>
+                <AbstractText Label="FUNDING">Sanofi (Milan, Italy).</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION">Registered at ClinicalTrials.gov with study number NCT01968759.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2019 National Kidney Foundation, Inc. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ruggiero</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trillini</LastName>
+                    <ForeName>Matias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tartaglione</LastName>
+                    <ForeName>Lida</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiovascular, Respiratory, Nephrologic, Anesthetic and Geriatric Sciences, Sapienza University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rotondi</LastName>
+                    <ForeName>Silverio</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiovascular, Respiratory, Nephrologic, Anesthetic and Geriatric Sciences, Sapienza University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perticucci</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit of Nephrology and Dialysis, Azienda Socio-Sanitaria Territoriale Papa Giovanni XXIII, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripepi</LastName>
+                    <ForeName>Rocco</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bianchi-Melacrino-Morelli Hospital, Nephrology Unit, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aparicio</LastName>
+                    <ForeName>Carolina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lecchi</LastName>
+                    <ForeName>Veruska</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perna</LastName>
+                    <ForeName>Annalisa</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peraro</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villa</LastName>
+                    <ForeName>Davide</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrari</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cannata</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzaferro</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiovascular, Respiratory, Nephrologic, Anesthetic and Geriatric Sciences, Sapienza University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mallamaci</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bianchi-Melacrino-Morelli Hospital, Nephrology Unit, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zoccali</LastName>
+                    <ForeName>Carmine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bianchi-Melacrino-Morelli Hospital, Nephrology Unit, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bellasi</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Dialysis, Sant'Anna Hospital, ASST-Lariana, Como, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cozzolino</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, San Paolo Hospital, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Remuzzi</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy; L. Sacco Department of Biomedical and Clinical Sciences, University of Milan, Italy. Electronic address: giuseppe.remuzzi@marionegri.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ruggenenti</LastName>
+                    <ForeName>Piero</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Bergamo, Italy; Unit of Nephrology and Dialysis, Azienda Socio-Sanitaria Territoriale Papa Giovanni XXIII, Bergamo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kohan</LastName>
+                    <ForeName>Donald E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University of Utah Health Sciences Center, Salt Lake City, UT.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>ANSWER Study Organization</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT01968759</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Kidney Dis</MedlineTA>
+            <NlmUniqueID>8110075</NlmUniqueID>
+            <ISSNLinking>0272-6386</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000806">Angiotensin-Converting Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002614">Chelating Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9YCX42I8IU</RegistryNumber>
+                <NameOfSubstance UI="D000069603">Sevelamer</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J0E2756Z7N</RegistryNumber>
+                <NameOfSubstance UI="D000077405">Irbesartan</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>L35JN3I7SJ</RegistryNumber>
+                <NameOfSubstance UI="D017257">Ramipril</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000806" MajorTopicYN="N">Angiotensin-Converting Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002614" MajorTopicYN="N">Chelating Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018592" MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016903" MajorTopicYN="N">Drug Monitoring</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004359" MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054559" MajorTopicYN="N">Hyperphosphatemia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077405" MajorTopicYN="Y">Irbesartan</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011507" MajorTopicYN="N">Proteinuria</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017257" MajorTopicYN="Y">Ramipril</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012084" MajorTopicYN="N">Renin-Angiotensin System</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069603" MajorTopicYN="Y">Sevelamer</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CKD progression</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease (CKD)</Keyword>
+            <Keyword MajorTopicYN="Y">FGF-23</Keyword>
+            <Keyword MajorTopicYN="Y">Klotho</Keyword>
+            <Keyword MajorTopicYN="Y">RAS blockade</Keyword>
+            <Keyword MajorTopicYN="Y">clinical trial</Keyword>
+            <Keyword MajorTopicYN="Y">inflammation</Keyword>
+            <Keyword MajorTopicYN="Y">mineral metabolism</Keyword>
+            <Keyword MajorTopicYN="Y">phosphate binder</Keyword>
+            <Keyword MajorTopicYN="Y">protein excretion</Keyword>
+            <Keyword MajorTopicYN="Y">proteinuria</Keyword>
+            <Keyword MajorTopicYN="Y">renin-angiotensin system (RAS)</Keyword>
+            <Keyword MajorTopicYN="Y">serum phosphate</Keyword>
+            <Keyword MajorTopicYN="Y">sevelamer carbonate</Keyword>
+        </KeywordList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Perico</LastName>
+                <ForeName>N</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ruggenenti</LastName>
+                <ForeName>P</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Remuzzi</LastName>
+                <ForeName>G</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Perico</LastName>
+                <ForeName>N</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ruggiero</LastName>
+                <ForeName>B</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Trillini</LastName>
+                <ForeName>M</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Aparicio</LastName>
+                <ForeName>C</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tartaglione</LastName>
+                <ForeName>L</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rotondi</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Prandini</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lecchi</LastName>
+                <ForeName>V</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cugini</LastName>
+                <ForeName>D</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gherardi</LastName>
+                <ForeName>G</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Zoccali</LastName>
+                <ForeName>C</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mallamaci</LastName>
+                <ForeName>F</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Parlongo</LastName>
+                <ForeName>G</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Panuccio</LastName>
+                <ForeName>V</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Caridi</LastName>
+                <ForeName>G</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tripepi</LastName>
+                <ForeName>R</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rubis</LastName>
+                <ForeName>N</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Diadei</LastName>
+                <ForeName>O</ForeName>
+                <Initials>O</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Villa</LastName>
+                <ForeName>D</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Carminati</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Martinetti</LastName>
+                <ForeName>D</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Giuliano</LastName>
+                <ForeName>G A</ForeName>
+                <Initials>GA</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Perna</LastName>
+                <ForeName>A</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Peraro</LastName>
+                <ForeName>F</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Celeste</LastName>
+                <ForeName>A</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gaspari</LastName>
+                <ForeName>F</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Carrara</LastName>
+                <ForeName>F</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ferrari</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Stucchi</LastName>
+                <ForeName>N</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cannata</LastName>
+                <ForeName>A</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mazzaferro</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tartaglione</LastName>
+                <ForeName>L</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rotondi</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Fassino</LastName>
+                <ForeName>V</ForeName>
+                <Initials>V</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Boccardo</LastName>
+                <ForeName>P</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Peracchi</LastName>
+                <ForeName>S</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31027883</ArticleId>
+            <ArticleId IdType="pii">S0272-6386(19)30136-2</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.ajkd.2019.01.029</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,454 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30325060</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1939-1676</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of veterinary internal medicine</Title>
+                <ISOAbbreviation>J Vet Intern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors associated with survival in dogs with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1977-1982</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/jvim.15322</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Chronic kidney disease (CKD) is associated with morbidity and mortality in dogs. Plasma fibroblast growth factor-23 (FGF-23) concentration is an independent predictor of CKD progression and survival in cats and people with CKD.</AbstractText>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To investigate the relationship among FGF-23, parathyroid hormone (PTH), vitamin D metabolites, and other clinical variables with survival time in dogs with CKD.</AbstractText>
+                <AbstractText Label="ANIMALS" NlmCategory="METHODS">Twenty-seven azotemic CKD dogs.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Dogs were recruited prospectively into the study and followed until death or study conclusion. Dogs were International Renal Interest Society (IRIS) staged into stage 2 (n = 9), stage 3 (n = 12), and stage 4 (n = 6) CKD. Survival times were calculated from the date of study inclusion. Univariable Cox regression was used to assess variables associated with survival including body condition score (BCS), muscle condition score, hematocrit, creatinine, CKD stage, serum phosphorus, urine protein:creatinine ratio (UPC), calcium phosphorus product (CaPP), PTH, 25-hydroxyvitamin D, 1,25--dihydroxyvitamin D, and FGF-23 concentrations.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Significant hazard ratios (hazard ratio; 95% confidence interval; P value) were as follows: BCSâ&lt; 4/9 (1.579; 1.003-2.282; P =â.05), muscle atrophy (2.334; 1.352-4.030; P =â.01), increased creatinine (1.383; 1.16-1.64; .01), hyperphosphatemia (3.20; 1.357-7.548; P =â.005), increased UPC (3.191; 1.310-7.773; P =â.01), increased CaPP (4.092; 1.771-9.454; P =â.003), and increased FGF-23 (2.609; 1.090-6.240; P =â.05). Survival times for each IRIS CKD stage were significantly different (P =â.01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS AND CLINICAL IMPORTANCE" NlmCategory="CONCLUSIONS">Multiple variables, including FGF-23, were associated with duration of survival in CKD dogs. FGF-23 could be a prognostic marker in dogs with CKD.</AbstractText>
+                <CopyrightInformation>Â© 2018 The Authors. Journal of Veterinary Internal Medicine published by Wiley Periodicals, Inc. on behalf of the American College of Veterinary Internal Medicine.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rudinsky</LastName>
+                    <ForeName>Adam J</ForeName>
+                    <Initials>AJ</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5369-3152</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harjes</LastName>
+                    <ForeName>Laura M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Byron</LastName>
+                    <ForeName>Julie</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chew</LastName>
+                    <ForeName>Dennis J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toribio</LastName>
+                    <ForeName>Ramiro E</ForeName>
+                    <Initials>RE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Langston</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parker</LastName>
+                    <ForeName>Valerie J</ForeName>
+                    <Initials>VJ</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-6505-8068</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Veterinary Clinical Sciences, College of Veterinary Medicine, The Ohio State University, Columbus, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Vet Intern Med</MedlineTA>
+            <NlmUniqueID>8708660</NlmUniqueID>
+            <ISSNLinking>0891-6640</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>AYI8EX34EU</RegistryNumber>
+                <NameOfSubstance UI="D003404">Creatinine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003404" MajorTopicYN="N">Creatinine</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004283" MajorTopicYN="N">Dog Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004285" MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006400" MajorTopicYN="N">Hematocrit</DescriptorName>
+                <QualifierName UI="Q000662" MajorTopicYN="N">veterinary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000662" MajorTopicYN="Y">veterinary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">dog</Keyword>
+            <Keyword MajorTopicYN="N">fibroblast growth factor-23</Keyword>
+            <Keyword MajorTopicYN="N">mortality</Keyword>
+            <Keyword MajorTopicYN="N">prognostic</Keyword>
+            <Keyword MajorTopicYN="N">renal</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30325060</ArticleId>
+            <ArticleId IdType="doi">10.1111/jvim.15322</ArticleId>
+            <ArticleId IdType="pmc">PMC6271312</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Vet Intern Med. 2013 Mar-Apr;27(2):227-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23363336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 Sep;24(9):2792-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19395730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Vet Med Assoc. 1999 May 1;214(9):1336-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10319174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Epidemiol. 2003 Feb;13(2):136-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12559673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2017 May;31(3):791-798</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28186657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Small Anim Pract. 2006 Aug;47(8):446-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16911112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 Oct;22(10):1913-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21903574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Jun 15;305(23):2432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21673295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Vet Med Assoc. 2005 Feb 1;226(3):393-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15702689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Vet Med Assoc. 2014 Nov 15;245(10):1135-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25356714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Nov;26(11):3603-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21378153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Small Anim Pract. 1998 Feb;39(2):78-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9513888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2006 May-Jun;20(3):528-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16734085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1991 Apr;1(10):1169-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1768812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2011 Nov-Dec;25(6):1306-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22092621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 May;22(5):956-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21436289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2018 Apr;22(2):388-394</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28815319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2015 Nov-Dec;29(6):1494-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26403212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2008 Sep-Oct;22(5):1111-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18691369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Rec. 2015 Jun 20;176(25):656</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25940343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2009 Aug;90(2):407-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19535427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Oct;25(10):2091-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20593414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 May;49(5):581-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17472839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2013 Mar-Apr;27(2):234-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23398216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Small Anim Pract. 1998 Mar;39(3):108-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9551377</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ Open. 2017 Aug 23;7(8):e016528</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28838895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2017 May;31(3):784-790</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28419560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Mar 16;305(11):1119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21406649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 Sep;56(3):1136-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10469384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1990 May;15(5):458-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2333868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Mar;93(3):733-740</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29102374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Vet Res. 1992 Dec;53(12):2264-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1476305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 2017;137(3):190-196</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28743129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prev Vet Med. 2010 May 1;94(3-4):264-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20129684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

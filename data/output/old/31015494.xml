@@ -1,0 +1,288 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31015494</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>04</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long-Term Efficacy and Safety of Evocalcet in Japanese Patients with Secondary Hyperparathyroidism Receiving Hemodialysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6410</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-019-42017-z</ELocationID>
+            <Abstract>
+                <AbstractText>Secondary hyperparathyroidism (SHPT) is a common complication of chronic kidney disease (CKD), and as the disease progresses SHPT is associated with systemic consequences, termed CKD-mineral and bone disorder. Currently, cinacalcet is indicated for the treatment of SHPT; however, cinacalcet is associated with upper gastrointestinal adverse events. Evocalcet has been developed to address these issues, but the long-term safety and efficacy of evocalcet need to be evaluated. To more accurately reflect clinical practice, this phase 3, multicenter, open-label study was specifically designed without a cinacalcet washout period, and focused on those patients who switched from cinacalcet to evocalcet. A total of 137 SHPT patients undergoing hemodialysis were enrolled, of whom 113 switched from cinacalcet to evocalcet. The most frequent type of adverse drug reaction was decreased adjusted calcium. The incidence of gastrointestinal-related adverse events did not increase in a dose-dependent manner as the dose of evocalcet was increased. The percentage of patients achieving the target intact parathyroid hormone concentration increased from 40.9% to 72.3% with 52-week treatment. The corrected serum calcium and phosphorus levels remained largely unchanged throughout the study. The long-term safety and efficacy of evocalcet was confirmed using a clinically relevant intra-subject dose-adjustment strategy in SHPT patients undergoing hemodialysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yokoyama</LastName>
+                    <ForeName>Keitaro</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Department of Internal Medicine, The Jikei University School of Medicine, 3-25-8 Nishi-Shimbashi, Minato-ku, Tokyo, 105-8461, Japan. keitaro@jikei.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shimazaki</LastName>
+                    <ForeName>Ryutaro</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., 1-9-2 Otemachi, Chiyoda-ku, Tokyo, 100-0004, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukagawa</LastName>
+                    <ForeName>Masafumi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Endocrinology and Metabolism, Department of Internal Medicine, Tokai University School of Medicine, 143 Shimokasuya, Isehara-shi, Kanagawa, 259-1193, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akizawa</LastName>
+                    <ForeName>Tadao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Showa University School of Medicine, Namics 301, 4-24-51 Takanawa, Minato-ku, Tokyo, 108-0074, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Evocalcet Study Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009281">Naphthalenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011759">Pyrrolidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E58MLH082P</RegistryNumber>
+                <NameOfSubstance UI="C000631688">evocalcet</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D044466" MajorTopicYN="Y">Asian Continental Ancestry Group</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009281" MajorTopicYN="N">Naphthalenes</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011759" MajorTopicYN="N">Pyrrolidines</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Maeda</LastName>
+                <ForeName>Yoshitaka</ForeName>
+                <Initials>Y</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ueki</LastName>
+                <ForeName>Kazue</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Fujii</LastName>
+                <ForeName>Takayuki</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Miyazaki</LastName>
+                <ForeName>Ryoichi</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Azekura</LastName>
+                <ForeName>Hisanori</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Kasuga</LastName>
+                <ForeName>Hirotake</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tomiyoshi</LastName>
+                <ForeName>Yoshiyuki</ForeName>
+                <Initials>Y</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Shinzato</LastName>
+                <ForeName>Takeaki</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Iwashita</LastName>
+                <ForeName>Ryuji</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Takada</LastName>
+                <ForeName>Kenji</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Suda</LastName>
+                <ForeName>Akio</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Nagaoka</LastName>
+                <ForeName>Takashi</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Yoshimoto</LastName>
+                <ForeName>Mitsuru</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Taniguchi</LastName>
+                <ForeName>Masatomo</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ogawa</LastName>
+                <ForeName>Hiroshi</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31015494</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-019-42017-z</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-019-42017-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6478860</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

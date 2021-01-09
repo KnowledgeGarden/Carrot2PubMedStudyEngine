@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31924826</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>01</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>25-vitamin D reduces inflammation in uremic environment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>128</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-019-56874-1</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) is characterized by loss of renal function and a consequent increase of serum uremic toxins, which contribute to inflammation status. Deficiency of 25-vitamin D, often found in patients with CKD, has been included as an inflammatory factor since it might modulate the immune system. The aim of this study was to investigate the role of 25-vitamin D on inflammatory pathways in healthy and uremic environment. Toll-like receptor 4 (TLR4), oxidative stress (ROS), vitamin D receptor (VDR), 1-Î± hydroxylase (CYP27), 24 hydroxylase, cathelicidin, and MCP-1 were evaluated in monocytes exposed to a uremic serum pool compared with healthy pool. The human monocytes lineage (U937) was incubated with or without 25-vitamin D (50âng/ml for 24âhours). TRL4, VDR, CYP27, CYP24, and ROS were evaluated by flow cytometry. We used ELISA to measure IL-6, TNF-Î±, IL-10, cathelicidin, and MCP-1 in the cell culture supernatant. We observed a higher expression of TRL-4, IL-6, TNF-Î±, IL-10, cathelicidin and MCP-1 in monocytes incubated with uremic serum when compared with serum from healthy individuals. Supplementation of 25-vitamin D was able to reduce the expression of TRL4, cathelicidin, and MCP-1 in the uremic environment. There was no difference in the expression of VDR, CYP27 and CYP24 intracellular enzymes. This in vitro study showed that the uremic pool activates inflammatory response in monocytes, which was reversed by 25-vitamin D supplementation; this finding suggests that 25-vitamin D has an anti-inflammatory role in the uremic environment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brito</LastName>
+                    <ForeName>Rodrigo Barbosa de Oliveira</ForeName>
+                    <Initials>RBO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rebello</LastName>
+                    <ForeName>Jacqueline Ferritto</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grabulosa</LastName>
+                    <ForeName>Caren Cristina</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinto</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morales</LastName>
+                    <ForeName>Armando</ForeName>
+                    <Initials>A</Initials>
+                    <Suffix>Jr</Suffix>
+                    <Identifier Source="ORCID">0000-0001-8817-6227</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elias</LastName>
+                    <ForeName>Rosilene Motta</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital das Clinicas HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moyses</LastName>
+                    <ForeName>Rosa Maria Affonso</ForeName>
+                    <Initials>RMA</Initials>
+                    <Identifier Source="ORCID">0000-0002-7902-2127</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital das Clinicas HCFMUSP, Universidade de Sao Paulo, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dalboni</LastName>
+                    <ForeName>Maria Aparecida</ForeName>
+                    <Initials>MA</Initials>
+                    <Identifier Source="ORCID">0000-0002-9282-7181</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, UNINOVE, Sao Paulo, Brazil. dalboni@uni9.pro.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000893">Anti-Inflammatory Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D023181">Antimicrobial Cationic Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C111835">CCL2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018932">Chemokine CCL2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>130068-27-8</RegistryNumber>
+                <NameOfSubstance UI="D016753">Interleukin-10</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3DD771JO2H</RegistryNumber>
+                <NameOfSubstance UI="C070646">ropocamptide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000893" MajorTopicYN="N">Anti-Inflammatory Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023181" MajorTopicYN="N">Antimicrobial Cationic Peptides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018932" MajorTopicYN="N">Chemokine CCL2</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016753" MajorTopicYN="N">Interleukin-10</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017382" MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="N">Uremia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31924826</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-019-56874-1</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-019-56874-1</ArticleId>
+            <ArticleId IdType="pmc">PMC6954254</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Immunol. 2012 Mar 1;188(5):2127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22301548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Physiol. 2017 Sep 08;8:666</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28951723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2008 Sep;63(9):784-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18492738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2016 Dec;35(6):1251-1258</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27161894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jun 8;7(1):3057</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28596556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Sci (Lond). 2018 Mar 9;132(5):509-522</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29523750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbes Infect. 2002 Mar;4(3):361-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11909747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Toxicol Sci. 2017;42(6):763-771</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29142175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2014 Sep 15;592(18):3969-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24907309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1979 Dec 7;206(4423):1188-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">505004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Mar 24;311(5768):1770-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16497887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hemodial Int. 2003 Apr 1;7(2):156-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19379356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Environ Res Public Health. 2018 Aug 17;15(8):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30126163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2017 Jan 25;18(1):35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28122514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jul 08;9(7):e102137</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25003524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2001 Jan;107(1):13-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11134172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2016 Nov;26(6):396-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27751361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2018 Feb;50(2):347-354</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29151180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Med Res. 2014 May;45(4):309-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24751327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine. 2002 Nov 7;20(3):91-106</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12453467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Sep 23;351(13):1296-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15385656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2018 Apr 15;365(2):157-162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29481790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 2013 Feb 7;92(2):143-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23201429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Lett. 2016 Nov 30;263:1-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27760375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2013 Jul 19;437(1):7-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23770363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Oct 1;185(7):4363-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20739676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 1989 Feb 8;117(1):53-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2913161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1993 May 20;328(20):1471-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8479467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2013 Mar 04;14:56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23496811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxins (Basel). 2018 Sep 23;10(10):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30249039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Endocr Metab Disord. 2017 Jun;18(2):153-165</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28516265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Hypertens. 2011;2011:232683</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21876786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertens Res. 2019 Feb;42(2):123-140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30504819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2017 Jun 30;12(6):e0179540</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28665937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2001 Jun 15;97(12):3951-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11389039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1983 Dec;57(6):1308-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6313738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Lett. 2017 Feb;182:57-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28082134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2004 Jul;4(7):499-511</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15229469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Nov 9;7(1):15154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29123173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):552-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17368184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cardiol. 2011 Mar;34(3):189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21337348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2015 Aug;66(2):196-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25727384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

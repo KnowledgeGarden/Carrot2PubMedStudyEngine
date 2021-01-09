@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30302919</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1445-5994</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Internal medicine journal</Title>
+                <ISOAbbreviation>Intern Med J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bone health in chronic kidney disease-mineral and bone disorder: a clinical case seminar and update.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1435-1446</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/imj.14129</ELocationID>
+            <Abstract>
+                <AbstractText>The metabolic abnormalities affecting bone in the setting of chronic kidney disease (CKD) are complex with overlapping and interacting aetiologies and have challenging diagnostic and management strategies. Disturbances in calcium, phosphate, fibroblast growth factor 23, parathyroid hormone concentrations and vitamin D deficiency are commonly encountered and contribute to the clinical syndromes of bone disorders in CKD, including hyperparathyroidism, osteomalacia, osteoporosis and adynamic bone disease. Mineral and bone abnormalities may also persist or arise de novo post-renal transplantation. The Kidney Disease Improving Global Outcomes organisation describes these mineral metabolism derangements and skeletal abnormalities as 'CKD Mineral and Bone Disorder'. Patients with this disorder have an increased risk of fracture, cardiovascular events and overall increased mortality. In light of the recently updated 2017 guidelines from the Kidney Disease Improving Global Outcomes, we present a clinical case-based discussion to highlight the complexities of investigating and managing the bone health of patients with CKD with a focus on these updates.</AbstractText>
+                <CopyrightInformation>Â© 2018 Royal Australasian College of Physicians.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Aleksova</LastName>
+                    <ForeName>Jasna</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0443-7165</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Hudson Institute for Medical Research, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Monash University, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Kong W</ForeName>
+                    <Initials>KW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, St Vincent's Hospital Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jung</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, St Vincent's Hospital Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeimer</LastName>
+                    <ForeName>Howard</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, St Vincent's Hospital Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dwyer</LastName>
+                    <ForeName>Karen M</ForeName>
+                    <Initials>KM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4376-9720</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Faculty of Health, Deakin University, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milat</LastName>
+                    <ForeName>Frances</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hudson Institute for Medical Research, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Monash University, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology, Monash Health, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacIsaac</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Diabetes, St Vincent's Hospital Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The University of Melbourne, Melbourne, Victoria, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Intern Med J</MedlineTA>
+            <NlmUniqueID>101092952</NlmUniqueID>
+            <ISSNLinking>1444-0903</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="Y">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019468" MajorTopicYN="N">Disease Management</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050723" MajorTopicYN="Y">Fractures, Bone</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">fracture</Keyword>
+            <Keyword MajorTopicYN="N">metabolic bone disease</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30302919</ArticleId>
+            <ArticleId IdType="doi">10.1111/imj.14129</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

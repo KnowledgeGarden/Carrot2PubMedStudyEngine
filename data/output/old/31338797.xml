@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31338797</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International urology and nephrology</Title>
+                <ISOAbbreviation>Int Urol Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effects of vitamin D treatment on glycemic control, serum lipid profiles, and C-reactive protein in patients with chronic kidney disease: a systematic review and meta-analysis of randomized controlled trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1567-1580</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11255-019-02236-9</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Insulin resistance, dyslipidemia and increased systemic inflammation are important risk factors for chronic kidney disease (CKD). Hence, vitamin D administration might be an appropriate approach to decrease the complications of CKD. Randomized controlled trials assessing the effects of vitamin D supplementation or treatment on glycemic control, lipid profiles, and C-reactive protein (CRP) among patients with CKD were included.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Two independent authors systematically searched online databases including EMBASE, Scopus, PubMed, Cochrane Library, and Web of Science in November 2018 with no time restriction. Cochrane Collaboration risk of bias tool was applied to assess the methodological quality of included trials. Between-study heterogeneity was estimated using the Cochran's Q test and I-square (I<sup>2</sup>) statistic. Data were pooled using a random-effects model and weighted mean difference (WMD) was considered as the overall effect size.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of the 1358 citations identified from searches, 17 full-text articles were reviewed. Pooling findings from five studies revealed a significant reduction in fasting glucose (WMD:â-â18.87; 95% CI:â-â23.16,â-â14.58) and in homeostatic model assessment of insulin resistance (HOMA-IR) through three studies (WMD:â-â2.30; 95% CI:â-â2.88,â-â1.72) following the administration of vitamin D. In addition, pooled analysis revealed a significant reduction in triglycerides (WMD:â-â32.52; 95% CI:â-â57.57,â-â7.47) through six studies and in cholesterol concentrations (WMD:â-â7.93; 95% CI:â-â13.03,â-â2.83) through five studies, following vitamin D supplementation or treatment, while there was no effect on insulin, HbA1c, LDL and HDL cholesterol, and CRP levels.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This meta-analysis demonstrated the beneficial effects of vitamin D supplementation or treatment on improving fasting glucose, HOMA-IR, triglycerides and cholesterol levels among patients with CKD, though it did not influence insulin, HbA1c, LDL and HDL cholesterol, and CRP levels.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Milajerdi</LastName>
+                    <ForeName>Alireza</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Students' Scientific Research Center, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Community Nutrition, School of Nutritional Sciences and Dietetics, Tehran University of Medical Sciences, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ostadmohammadi</LastName>
+                    <ForeName>Vahidreza</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Biochemistry and Nutrition in Metabolic Diseases, Kashan University of Medical Sciences, Kashan, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amirjani</LastName>
+                    <ForeName>Sina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Biochemistry and Nutrition in Metabolic Diseases, Kashan University of Medical Sciences, Kashan, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolahdooz</LastName>
+                    <ForeName>Fariba</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Indigenous and Global Health Research, University of Alberta, Edmonton, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asemi</LastName>
+                    <ForeName>Zatollah</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Biochemistry and Nutrition in Metabolic Diseases, Kashan University of Medical Sciences, Kashan, Iran. asemi_r@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>9711010</GrantID>
+                    <Agency>Kashan University of Medical Sciences</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D000078182">Systematic Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Urol Nephrol</MedlineTA>
+            <NlmUniqueID>0262521</NlmUniqueID>
+            <ISSNLinking>0301-1623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008076">Cholesterol, HDL</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-41-4</RegistryNumber>
+                <NameOfSubstance UI="D002097">C-Reactive Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002097" MajorTopicYN="N">C-Reactive Protein</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008076" MajorTopicYN="N">Cholesterol, HDL</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014280" MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Insulin resistance</Keyword>
+            <Keyword MajorTopicYN="N">Lipid profiles</Keyword>
+            <Keyword MajorTopicYN="N">Meta-analysis</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31338797</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11255-019-02236-9</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11255-019-02236-9</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Scand J Urol Nephrol. 2000 Feb;34(1):62-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10757273</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2003 Apr;13(2):78-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12671829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1992;7(12):1207-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1337161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Sep 23;351(13):1296-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15385656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Res Clin Pract. 2007 Jul;77(1):47-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17112620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2008 Nov;17(6):566-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18941348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Saudi J Kidney Dis Transpl. 2008 Nov;19(6):942-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18974581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2009 Dec 10;10:41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20003316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Sep;58(3):374-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21636193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2011 Oct 18;343:d5928</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22008217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2012 Feb;95(2):522-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22237061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2012 Mar 1;188(5):2127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22301548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lipids Health Dis. 2012 Mar 20;11:42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22433171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cases Miner Bone Metab. 2008 Jan;5(1):57-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22460847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Endocrinol (Lausanne). 2012 Apr 23;3:58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22649423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Sep;27(9):3523-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22822092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Clin Lab Invest. 2013 Mar;73(2):107-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23281842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2013 Mar;97(3):524-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23364011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2013;37(3):239-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23467111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Med. 2014 Aug;14(3):275-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23824148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2014 Jan;29(1):97-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23975842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2013;123(3-4):209-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23988791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2014 Mar 24;15:50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24661355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2014 May;1317:47-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24754474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Res Int. 2014;2014:949730</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24895631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jul 09;9(7):e99461</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25006678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lipids Health Dis. 2015 Apr 18;14:31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25899686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Jul 06;10(7):e0131740</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26147588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Diabetes. 2015 Jul 25;6(8):1057-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26240702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Nov 03;10(11):e0141770</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26528817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2015 Nov 19;8:151-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26640388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jun;27(6):1801-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26677862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Iran J Nurs Midwifery Res. 2016 Jan-Feb;21(1):100-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26985230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2016 Dec;35(6):1259-1268</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27020528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Psychopharmacol. 2016 Jun;36(3):229-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27022679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2016 Dec;35(6):1251-1258</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27161894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Oct;28(10):3100-3108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28667080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Metab Syndr. 2017 Dec;11 Suppl 2:S975-S982</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28751149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Metab Res. 2017 Sep;49(9):647-653</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28759943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Metab Res. 2018 Jan;50(1):50-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28958110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Endocrinol. 2018 Feb;14(2):88-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29219149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Metab Res. 2018 Apr;50(4):271-279</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29475212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Mar 19;10(3):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29562681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Metab Res. 2018 Jun;50(6):429-440</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29883970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Nutr Metab. 2018;73(1):62-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29945132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Endocr Soc. 2018 May 25;2(7):687-709</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29951596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 Aug 16;379(7):633-644</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30110583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomolecules. 2018 Aug 23;8(3):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30142970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Metab Syndr. 2019 Jan - Feb;13(1):278-283</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30641712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 May;53(5):1343-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9573550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

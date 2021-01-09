@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33378761</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2235-3186</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Dec</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nephron</Title>
+                <ISOAbbreviation>Nephron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum Urate Lowering Therapy Using Allopurinol Improves Serum 25 Hydroxy Vitamin D in Stage 3-5 CKD Patients: A Pilot Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000512340</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Recent studies have demonstrated negative associations of serum uric acid (SUA) with serum 25 hydroxy vitamin D (25 [OH] vit D) among CKD patients.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of the study was to look for the impact of hypouricemic therapy using allopurinol on serum level of 25 (OH) vit D in CKD patients.</AbstractText>
+                <AbstractText Label="CASES AND METHODS" NlmCategory="METHODS">Seventy-two CKD stage 3-5 patients were selected to this study. Patients with SUA above 7 mg/dL were allocated to hypouricemic therapy using allopurinol (group I). A control group of cases not suffering marked increase in SUA were included as control group (group II). All cases were followed up for 3 months. Serum Cr, SUA, ionized calcium (SiCa), phosphorus, 25 (OH) vitD, parathyroid hormone (PTH), and 24-h urine protein were estimated at entry and by the end of the study.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At least 20 cases completed the study in each group. Serum 25 (OH) vit D significantly increased in group I (26.4 [14.1] vs. 39.6 [14.8] at entry vs. at end of the study, p &lt; 0.001). In addition, SUA, PTH, and urine protein significantly decreased (11 [1.6] vs. 3.95 [0.58] mg/dL, 267.5 [97.5] vs. 225.5 [153] ng/mL, and 2.7 [1.18] vs. 1.5 [1.08] gm/day, p &lt; 0.001, = 0.043, and &lt;0.001 respectively). SiCa and phosphorus significantly increased (4.4 [0.3] vs. 5.2 [0.5] mg/dL and 4.25 [0.72] vs. 4.9 [0.75] mg/dL, p &lt; 0.001 and = 0.007, respectively).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study supports a negative causal relationship between SUA and serum 25 (OH) vit D. Further studies are still needed to confirm this conclusion.</AbstractText>
+                <CopyrightInformation>Â© 2020 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mohammed</LastName>
+                    <ForeName>AbdelAal</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Unit, Internal Medicine Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marie</LastName>
+                    <ForeName>Mohamed A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Unit, Internal Medicine Department, School of Medicine, Cairo University, Cairo, Egypt, mohamed_a_m@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdulazim</LastName>
+                    <ForeName>Dina O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hassan</LastName>
+                    <ForeName>Mohammed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Kidney Center, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaker</LastName>
+                    <ForeName>Olfat</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Biochemistry and Molecular Biology Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayeldeen</LastName>
+                    <ForeName>Ghada</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Biochemistry and Molecular Biology Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salem</LastName>
+                    <ForeName>Mona M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrinology unit, Internal Medicine Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharaf El Din</LastName>
+                    <ForeName>Usama A</ForeName>
+                    <Initials>UA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Unit, Internal Medicine Department, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName> on behalf of the Egyptian Vascular Calcification Group (VCG)</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nephron</MedlineTA>
+            <NlmUniqueID>0331777</NlmUniqueID>
+            <ISSNLinking>1660-8151</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic kidney disease-MBD</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">Uric acid</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+                <Hour>20</Hour>
+                <Minute>6</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33378761</ArticleId>
+            <ArticleId IdType="pii">000512340</ArticleId>
+            <ArticleId IdType="doi">10.1159/000512340</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

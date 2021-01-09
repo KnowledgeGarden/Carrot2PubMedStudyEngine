@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30535953</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1435-5604</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>37</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bone and mineral metabolism</Title>
+                <ISOAbbreviation>J Bone Miner Metab</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum level vitamin D and parathyroid hormone, and mortality, with or without chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>825-834</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00774-018-0979-z</ELocationID>
+            <Abstract>
+                <AbstractText>Levels of vitamin D and parathyroid hormone (PTH) are closely associated with renal function. We evaluated the associations among 25-hydroxyvitamin D (25OHD) levels, PTH levels, and mortality, and whether these associations varied by renal function. We used data from the Dong-gu Study, a population-based cohort in Korean adults. We analyzed the associations among intact PTH, 25OHD levels and mortality in 8580 participants. Hazard ratios (HRs) for mortality were calculated using Cox proportional hazards regression after adjusting for age, sex, month of sampling, lifestyle, and comorbidities. We also evaluated the effects of chronic kidney disease (CKD). A total of 860 deaths occurred during the follow-up period of 7.6Â years. Compared to the first 25OHD quartile, the HRs of the second, third, and fourth quartiles were 0.96 [95% confidence interval (CI) 0.79-1.16], 0.84 (95% CI 0.68-1.02), and 0.71 (95% CI 0.57-0.89), respectively. The association between intact PTH levels and mortality varied by renal function, and was both nonlinear and significant only in subjects with CKD. Compared to the second intact PTH quartile in such subjects, the HRs for the first, third, and fourth quartiles were 1.61 (95% CI 0.92-2.81), 1.97 (95% CI 1.17-3.31), and 2.19 (95% CI 1.33-3.59), respectively. In conclusion, we demonstrated that low serum levels of 25OHD are associated with an increased risk of mortality. Serum levels of intact PTH are nonlinearly associated with mortality only in subjects with CKD, with the lowest risk for mortality being evident in the second quartile.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kyun Choi</LastName>
+                    <ForeName>Chang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chonnam National University Medical School, 264, Seoyang-ro Hwasun-eup, Hwasun, 58128, Jeollanam-do, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kweon</LastName>
+                    <ForeName>Sun-Seog</ForeName>
+                    <Initials>SS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chonnam National University Medical School, 264, Seoyang-ro Hwasun-eup, Hwasun, 58128, Jeollanam-do, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Young-Hoon</ForeName>
+                    <Initials>YH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine &amp; Institute of Wonkwang Medical Science, Wonkwang University College of Medicine, Iksan, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nam</LastName>
+                    <ForeName>Hae-Sung</ForeName>
+                    <Initials>HS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chungnam National University Medical School, Daejeon, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Kyeong-Soo</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiocerebrovascular Center, Mokpo Jung-Ang Hospital, Mokpo, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ryu</LastName>
+                    <ForeName>So-Yeon</ForeName>
+                    <Initials>SY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chosun University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Seong-Woo</ForeName>
+                    <Initials>SW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chosun University Medical School, Gwangju, Republic of Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sun A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chonnam National University Medical School, 264, Seoyang-ro Hwasun-eup, Hwasun, 58128, Jeollanam-do, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Min-Ho</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine, Chonnam National University Medical School, 264, Seoyang-ro Hwasun-eup, Hwasun, 58128, Jeollanam-do, Korea. mhshinx@paran.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CRI13904-21</GrantID>
+                    <Agency>Chonnam National University Hospital Biomedical Research Institute</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Bone Miner Metab</MedlineTA>
+            <NlmUniqueID>9436705</NlmUniqueID>
+            <ISSNLinking>0914-8779</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cohort studies</Keyword>
+            <Keyword MajorTopicYN="N">Mortality</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">Renal insufficiency</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30535953</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00774-018-0979-z</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00774-018-0979-z</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Invest. 2002 Jul;110(2):229-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12122115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2002 Aug;40(2):221-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12148093</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2003 Jul;12(4):387-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12815335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Aug 15;145(4):247-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16908915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2007 Apr;292(4):F1215-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17190908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2008 Oct;29(6):726-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18694980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2009 Jul 11;374(9684):145-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19595349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Endocrinol (Oxf). 2010 Dec;73(6):689-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20184602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Jun;26(6):1948-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20466670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2012 Aug;97(8):2644-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22573406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2012 Nov;97(11):4156-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22942386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2012 Dec 1;176(11):1043-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23139250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ Open. 2012 Dec 13;2(6):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23242238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2013 Apr;98(4):E638-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23408568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2013 Apr;97(4):782-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23446902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hum Nutr Diet. 2013 Jul;26 Suppl 1:105-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23489414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2014 Apr;43(2):558-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23505254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metabolism. 2014 Jan;63(1):20-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24095631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Age Ageing. 2014 Jul;43(4):528-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24375224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Perit Dial Int. 2014 Nov-Dec;34(7):732-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24385335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2014 Apr 1;63(12):1214-1222</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24480627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2014 Nov;100(5):1361-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25332334</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2014 Nov 18;349:g6330</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25406188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2014 Nov;34(6):626-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25498381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 May 26;10(5):e0127574</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26010883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2016 Jun;31(6):1146-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26814375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2016 Mar;36(3):1379-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26977039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chonnam Med J. 2016 Sep;52(3):212-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27689032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2016 Dec;255:96-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27855294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chonnam Med J. 2017 Jan;53(1):73-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28184342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Dec;7(1):33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28232731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2017 Apr 15;185(8):720-726</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28338905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ J. 2017 Aug 25;81(9):1315-1321</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28428487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1994 Sep;46(3):855-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7996807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

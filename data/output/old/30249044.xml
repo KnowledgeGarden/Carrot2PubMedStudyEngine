@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30249044</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6643</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrients</Title>
+                <ISOAbbreviation>Nutrients</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intestinal Phosphorus Absorption in Chronic Kidney Disease.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E1364</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu10101364</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) affects approximately 10% of adults worldwide. Dysregulation of phosphorus homeostasis which occurs in CKD leads to development of CKD-Mineral Bone Disorder (CKD-MBD) and contributes to increased morbidity and mortality in these patients. Phosphorus is regulated by multiple hormones (parathyroid hormone (PTH), 1,25-dihyxdroxyvitamin D (1,25D), and fibroblast growth factor 23 (FGF23)) and tissues (kidney, intestine, parathyroid glands, and bone) to maintain homeostasis. In health, the kidneys are the major site of regulation for phosphorus homeostasis. However, as kidney function declines, the ability of the kidneys to adequately excrete phosphorus is reduced. The hormonal changes that occur with CKD would suggest that the intestine should compensate for impaired renal phosphorus excretion by reducing fractional intestinal phosphorus absorption. However, limited studies in CKD animal models and patients with CKD suggest that there may be a break in this homeostatic response where the intestine fails to compensate. As many existing therapies for phosphate management in CKD are aimed at reducing absolute intestinal phosphorus absorption, better understanding of the factors that influence fractional and absolute absorption, the mechanism by which intestinal phosphate absorption occurs, and how CKD modifies these is a much-needed area of study.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stremke</LastName>
+                    <ForeName>Elizabeth R</ForeName>
+                    <Initials>ER</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition Science, Purdue University, West Lafayette, IN 47907, USA. estremke@purdue.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hill Gallant</LastName>
+                    <ForeName>Kathleen M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition Science, Purdue University, West Lafayette, IN 47907, USA. hillgallant@purdue.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K01 DK102864</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1TR001108</GrantID>
+                    <Agency>National Institutes of Health, National Center for Advancing Translational Sciences</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nutrients</MedlineTA>
+            <NlmUniqueID>101521595</NlmUniqueID>
+            <ISSNLinking>2072-6643</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016226">Phosphorus, Dietary</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>66772-14-3</RegistryNumber>
+                <NameOfSubstance UI="C097949">1,25-dihydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015519" MajorTopicYN="N">Bone Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001847" MajorTopicYN="N">Bone Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006706" MajorTopicYN="N">Homeostasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007408" MajorTopicYN="Y">Intestinal Absorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007422" MajorTopicYN="N">Intestines</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008286" MajorTopicYN="N">Malabsorption Syndromes</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016226" MajorTopicYN="N">Phosphorus, Dietary</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD</Keyword>
+            <Keyword MajorTopicYN="N">absorption</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">dietary phosphorus</Keyword>
+            <Keyword MajorTopicYN="N">phosphate</Keyword>
+            <Keyword MajorTopicYN="N">phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30249044</ArticleId>
+            <ArticleId IdType="pii">nu10101364</ArticleId>
+            <ArticleId IdType="doi">10.3390/nu10101364</ArticleId>
+            <ArticleId IdType="pmc">PMC6213936</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2018 Jul 6;13(7):1002-1012</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29921736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Nutr. 2014 Jan 01;5(1):104-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24425729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1977 Sep;60(3):639-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">893667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2010 Jan 1;391(1):261-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19912987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2006 Jul;1(4):697-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17699275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2001 Feb 2;280(4):1015-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11162628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2010 Apr;140(4):731-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20164365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Aspects Med. 2013 Apr-Jun;34(2-3):386-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23506879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Jun 6;11(6):1088-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26912542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2005 Aug 15;390(Pt 1):325-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15885032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1977 Dec;233(6):E488-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">596443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jul;72(2):166-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17457376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2007 Jun;292(6):E1917-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17299082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1993 Jun;3(12):1930-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8338925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 1983 Oct;85(4):908-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6688402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 1996 Apr;126(4 Suppl):1168S-80S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8642452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Sci (Lond). 1981 Jan;60(1):55-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7237925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 May;83(5):959-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23254903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 2011 Jun;461(6):645-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21384128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Dec;58(6):1022-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22018457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 May;75(9):898-905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19129794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2016 May;26(3):136-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26873260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Oct 7;10(10):1875-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26350436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jun;69(11):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiology (Bethesda). 2009 Feb;24:17-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19196648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Compr Physiol. 2018 Jun 18;8(3):1065-1090</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29978897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2018 Aug;29(8):2089-2098</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30021759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2016 Jul;26(4):209-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26920090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2011 Nov;121(11):4393-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21985788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2009 Nov;20(11):2348-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19729436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Med. 2010;61:91-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20059333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 2018 Aug 28;56(9):1483-1489</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29708879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1990 Sep;259(3 Pt 2):F432-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2396669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Jun;26(6):1290-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25326585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2005 Feb;288(2):C429-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15643054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Nutr. 2016 May 16;7(3):544-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27184281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2012 Aug;23(8):1407-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22822075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2006 Jul;1(4):704-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17699276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2009 Nov;297(5):F1466-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19675183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2017 Mar;27(2):97-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27751628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2007 Nov;293(5):F1577-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17699549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Philos Trans R Soc Lond B Biol Sci. 1982 Dec 1;299(1097):549-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6130546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2007 May 14;167(9):879-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17502528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2002 Mar;282(3):C487-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11832333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2014;40(6):582-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25613675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Feb;26(2):584-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20631407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Mar;27(3):990-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21810769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2007 Jul-Aug;20(4):295-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17635818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2012 Jul;22(4):416-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21741857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2012 Apr;153(4):1609-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22334724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Jul;26(7):1381-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21538511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1986 Mar;250(3 Pt 1):G369-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2420210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2012 Jun;81(11):1116-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22297674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2004 Jul;287(1):F39-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14996670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Nov;78(10):975-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20844473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 Dec;28(12):2961-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23901051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2009 Feb 11;301(6):629-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19211470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Jun;79(12):1370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21389978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2013 Sep;62(3):457-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23763855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2013 Jan-Feb;26(1):54-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23278245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1999 Nov 1;343 Pt 3:705-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10527952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Chronic Kidney Dis. 2011 Mar;18(2):91-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21406293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Oct;24(10):1681-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19419295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

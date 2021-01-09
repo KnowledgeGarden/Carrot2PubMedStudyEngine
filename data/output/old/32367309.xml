@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32367309</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cinacalcet studies in pediatric subjects with secondary hyperparathyroidism receiving dialysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1679-1697</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-020-04516-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Secondary hyperparathyroidism (sHPT), a complication of chronic kidney disease (CKD) characterized by persistently elevated parathyroid hormone (PTH), alterations in calcium-phosphorus homeostasis, and vitamin D metabolism, affects 50% of children receiving dialysis. A significant proportion of these children develop CKD-mineral and bone disorder (CKD-MBD), associated with an increased risk of fractures and vascular calcification. The standard of care for sHPT in children includes vitamin D sterols, calcium supplementation, and phosphate binders. Several agents are approved for sHPT treatment in adults undergoing dialysis, including vitamin D analogs and calcimimetics, with limited information on their safety and efficacy in children. The calcimimetic cinacalcet is approved for use in adults with sHPT on dialysis, but is not approved for pediatric use outside Europe.</AbstractText>
+                <AbstractText Label="METHODS">This review provides dosing, safety, and efficacy information from Amgen-sponsored cinacalcet pediatric trials and data from non-Amgen sponsored clinical studies.</AbstractText>
+                <AbstractText Label="RESULTS">The Amgen cinacalcet pediatric clinical development program consisted of two Phase 3 randomized studies, one Phase 3 single arm extension study, one open-label Phase 2 study, and two open-label Phase 1 studies. Effects of cinacalcet on PTH varied across studies. Overall, 7.4 to 57.1% of subjects who received cinacalcet in an Amgen clinical trial attained PTH levels within recommended target ranges and 22.2 to 70.6% observed a â¥ 30% reduction in PTH. In addition, significant reductions in PTH were demonstrated in all non-Amgen-supported studies.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">To help inform the pediatric nephrology community, this manuscript contains the most comprehensive review of cinacalcet usage in pediatric CKD patients to date.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Warady</LastName>
+                    <ForeName>Bradley A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pediatric Nephrology, Children's Mercy Kansas City, Kansas City, MO, USA. bwarady@cmh.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Amgen Inc., Thousand Oaks, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bloss</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Amgen Inc., Thousand Oaks, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mo</LastName>
+                    <ForeName>May</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Amgen Inc., Thousand Oaks, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaefer</LastName>
+                    <ForeName>Franz</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Heidelberg University Hospital, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bacchetta</LastName>
+                    <ForeName>Justine</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Nephrology, Rheumatology and Dermatology, Femme MÃ¨re Enfant Hospital, Bron, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="Y">Cinacalcet</Keyword>
+            <Keyword MajorTopicYN="Y">Dialysis</Keyword>
+            <Keyword MajorTopicYN="Y">Pediatric</Keyword>
+            <Keyword MajorTopicYN="Y">sHPT</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32367309</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-020-04516-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-020-04516-4</ArticleId>
+            <ArticleId IdType="pmc">PMC7385021</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2013;124(1-2):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24022619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Feb;21(2):151-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16247644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2019 May;95(5):1064-1078</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30878213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Med J (Clin Res Ed). 1985 Jan 26;290(6464):271-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3917782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2014;(12):CD006254</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25490118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2016 Apr 13;6:19612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27071541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Clin Pract Nephrol. 2009 Jan;5(1):24-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2013 Feb;24(2):179-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23138485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2004 Feb;308(2):627-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14593085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Clin Pharmacol. 2019 Jun;85(6):1312-1325</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30756425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1999 Oct;14(10):1680-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10491215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Mar;34(3):475-486</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30506144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2015 Sep;30(9):1379-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25168424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2019 Mar 26;139(13):e603-e634</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30798614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2003 Jun;18(6):1159-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12748350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2001 Jan;37(1 Suppl 2):S54-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11158862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Paediatr Drugs. 2003;5(11):763-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14580225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Feb;27(2):543-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26139439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Jun 5;10(6):1021-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25873267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Jan;34(1):129-135</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30203374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2014 Apr;29(4):899-905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24500308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2012 Mar;27(3):363-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21713524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Dec;70(6):737-751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28941764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2013 Aug;346(2):229-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23674604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Sep;26(9):2235-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21590737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Child Adolesc Health. 2017 Sep;1(1):68-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30169229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2008 Oct;23(10):1823-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18504621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Medicine (Baltimore). 2015 Jan;94(2):e401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25590845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Intern Med. 2017 Jul;42:89-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28499709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2015 Apr;87(4):846-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25337774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2020 Jan 1;35(1):47-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31641778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 Dec;54(6):2140-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9853280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2010 Jan;25(1):143-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19838738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2015 Jul 7;132(1):27-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26059012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Jan;7(1):146-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22052943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Jan;34(1):145-154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30141180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1996 May;11(5):813-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8671900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1987 Jul;32(1):89-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3626302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Aug;26(8):1729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21520276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Dec 27;367(26):2482-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23121374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2012 Oct;27(10):1953-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22639045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Dec;7(3):e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30681074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2008 Oct;23(10):1817-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18288502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Aug;27(8):3270-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22387567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Aug;74(3):276-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17568787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

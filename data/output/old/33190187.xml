@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33190187</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Nov</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Calcified tissue international</Title>
+                <ISOAbbreviation>Calcif Tissue Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chronic Kidney Disease-Mineral and Bone Disorders: Pathogenesis and Management.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00223-020-00777-1</ELocationID>
+            <Abstract>
+                <AbstractText>The key players of the chronic kidney disease-mineral and bone disorders (CKD-MBD) are calcium, phosphate, PTH, FGF23, and the vitamin D hormonal system. The progressive reduction of kidney function greatly modifies the tightly interrelated mechanisms that control these parameters. As a result, important changes occur in the bone and mineral hormonal axis, leading to changes in bone turnover with relevant consequences in clinical outcomes, such as decrease in bone mass with increased bone fragility and bone fractures and increased vascular and valvular calcification, also with great impact in the cardiovascular outcomes. So far, the knowledge of the mineral and bone disorders in CKD and the increased variety of efficacious therapies should lead to a better prevention and management of CKD-MBD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cannata-AndÃ­a</LastName>
+                    <ForeName>Jorge B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain. cannata@hca.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Universidad de Oviedo, Oviedo, Spain. cannata@hca.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MartÃ­n-Carro</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MartÃ­n-VÃ­rgala</LastName>
+                    <ForeName>Julia</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RodrÃ­guez-Carrio</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Area of Immunology, Department of Functional Biology, University of Oviedo, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bande-FernÃ¡ndez</LastName>
+                    <ForeName>JosÃ© JoaquÃ­n</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Hospital Universitario Central de Asturias, Retic REDinREN-ISCIII, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alonso-Montes</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrillo-LÃ³pez</LastName>
+                    <ForeName>Natalia</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4227-4144</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Avda. Roma, sn., 33011, Oviedo, Spain. ncarrillolopez.huca@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>PI16/00637</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>PI19/00532</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RD06/0016/1013</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RD12/0021/0023</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RD16/0009/0017</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>RD16/0009/0021</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>GRUPIN14-028</GrantID>
+                    <Agency>Gobierno del Principado de Asturias</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>IDI-2018-000152</GrantID>
+                    <Agency>Gobierno del Principado de Asturias</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Calcif Tissue Int</MedlineTA>
+            <NlmUniqueID>7905481</NlmUniqueID>
+            <ISSNLinking>0171-967X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bone disorders</Keyword>
+            <Keyword MajorTopicYN="N">Bone fractures</Keyword>
+            <Keyword MajorTopicYN="N">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="N">Osteoporosis</Keyword>
+            <Keyword MajorTopicYN="N">Renal osteodystrophy</Keyword>
+            <Keyword MajorTopicYN="N">Secondary hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">Vascular calcification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>20</Hour>
+                <Minute>36</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33190187</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00223-020-00777-1</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00223-020-00777-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

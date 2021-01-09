@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30380963</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1502-7686</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>78</Volume>
+                    <Issue>7-8</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Nov - Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scandinavian journal of clinical and laboratory investigation</Title>
+                <ISOAbbreviation>Scand J Clin Lab Invest</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Technical and diagnostic performance of a new fully automated immunoassay for the determination of intact fibroblast growth factor 23 (FGF23).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>584-590</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/00365513.2018.1526411</ELocationID>
+            <Abstract>
+                <AbstractText>There is growing interest in measuring plasma fibroblast growth factor 23 (FGF23) concentrations in a number of clinical settings. However, a reliable assay with acceptable performance is lacking. Plasma samples of healthy adults and patients with different stages of chronic kidney disease (CKD) were used to compare the precision, recovery, linearity and the pre-analytical stability characteristics of a new fully automated FGF23 (intact) assay with a commercially available FGF23 (intact) ELISA. Method agreement was evaluated, reference and stage-specific ranges for kidney disease were established. Other biomarkers relevant for CKD were measured and compared with the FGF23 assays. The fully automated FGF23 (intact) assay demonstrated superior performance compared with the ELISA. A marked positive proportional bias was detected relative to the ELISA assay readout, especially in samples of higher concentration of patients undergoing hemodialysis. Overall, the method comparison revealed a poor degree of correlation. A significant inverse correlation was found between the glomerular filtration rate and both FGF23 assays (both pâ&lt;â.001). Regression analysis revealed that both assays are suitable to predict progression of CKD. A positive correlation was found between FGF23 and phosphate, parathyroid hormone (PTH) and vitamin D, 25(OH)D and 1,25(OH)<sub>2</sub>D-total assays, respectively. Cutoff points between different stages of CKD were calculated by receiver operator characteristic analysis. The fully automated assay displayed an improved discrimination compared with the ELISA, especially in mild to moderate kidney disease. The new fully automated FGF23 (intact) assay demonstrates excellent analytical performance data and represents a robust, fast and precise alternative to manual FGF23 testing.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>van Helden</LastName>
+                    <ForeName>Josef</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6309-8194</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>a Laboratory Diagnostic Center , University Hospital RWTH Aachen , Aachen , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiskirchen</LastName>
+                    <ForeName>Ralf</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3888-0931</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>b Institute of Molecular Pathobiochemistry, Experimental Gene Therapy and Clinical Chemistry (IFMPEGKC), University Hospital RWTH Aachen , Aachen , Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Scand J Clin Lab Invest</MedlineTA>
+            <NlmUniqueID>0404375</NlmUniqueID>
+            <ISSNLinking>0036-5513</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004797" MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007118" MajorTopicYN="N">Immunoassay</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FGF23</Keyword>
+            <Keyword MajorTopicYN="N">comparison</Keyword>
+            <Keyword MajorTopicYN="N">immunoassay</Keyword>
+            <Keyword MajorTopicYN="N">linearity</Keyword>
+            <Keyword MajorTopicYN="N">reproducibility</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30380963</ArticleId>
+            <ArticleId IdType="doi">10.1080/00365513.2018.1526411</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

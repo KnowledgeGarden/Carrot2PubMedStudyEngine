@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">33197658</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6963</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Complementary therapies in medicine</Title>
+                <ISOAbbreviation>Complement Ther Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complementary and alternative medicine therapies for uremic pruritus - A systematic review of randomized controlled trials.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102609</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0965-2299(20)31876-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ctim.2020.102609</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Uremic pruritus (UP) is one of the most bothersome symptoms among chronic kidney disease (CKD) patients. The pathophysiology of UP remains elusive, resulting in limited treatment options. The inability of standard medical treatments to provide effective relief has piqued interest in complementary and alternative medicine (CAM).</AbstractText>
+                <AbstractText Label="METHODOLOGY" NlmCategory="METHODS">A systematic review of randomized controlled trials (RCTs) summarizing the efficacy and safety profile of CAM used for UP in CKD patients was performed. CAM interventions were classified using categories proposed by the National Center for Complementary and Integrative Health. The efficacy of each CAM was determined from changes in UP severity and all reported adverse effects were extracted.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Of 5242 articles screened, 34 RCTs were included, with 15 (44.1 %) studies having a sample size greater than 50. The studies considered 21 treatments including omega-3 fatty acid supplementation (n=5), acupuncture (n=5), topical capsaicin (n=4) and acupressure (n=3). Acupuncture, acupressure and topical capsaicin were shown to be effective in improving uremic pruritus. Interventions which include oral omega-3 fatty acid and zinc supplementation demonstrated mixed efficacy. Other therapies such as evening primrose oil, turmeric, vitamin B3, vitamin D and thermal therapy were not effective for treatment of UP. Common adverse effects reported with topical capsaicin included mild burning sensations (50.0-88.2 %) or erythema (6.7-22.7%) while that of acupuncture included soreness (7.5 %), bleeding (6.0-7.5%) and hematoma (1.9 %).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Acupuncture, acupressure and topical capsaicin have the largest body of evidence for efficacy in the treatment of UP. Larger and higher quality RCTs are required to examine the efficacy and safety of promising CAM.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 The Author(s). Published by Elsevier Ltd.. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yeam</LastName>
+                    <ForeName>Cheng Teng</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Duke-NUS Medical School, 8 College Road, Singapore 169857, Singapore. Electronic address: yeamct@u.duke.nus.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yo</LastName>
+                    <ForeName>Tiffany Eri</ForeName>
+                    <Initials>TE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Singapore National Eye Centre, 11 Third Hospital Avenue, Singapore 168751, Singapore. Electronic address: tiffany.yo.e@snec.com.sg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Ying Lin Cheryl</ForeName>
+                    <Initials>YLC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, Singapore General Hospital, 16 College Road, 169608, Singapore. Electronic address: Cheryl.tan.y.l@sgh.com.sg.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liew</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Kidney &amp; Transplant Practice, Mount Elizabeth Novena Hospital, 38 Irrawaddy Road, Singapore 329563, Singapore. Electronic address: draliew@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seng</LastName>
+                    <ForeName>Jun Jie Benjamin</ForeName>
+                    <Initials>JJB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Duke-NUS Medical School, 8 College Road, Singapore 169857, Singapore. Electronic address: benjamin.seng@u.duke.nus.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Scotland</Country>
+            <MedlineTA>Complement Ther Med</MedlineTA>
+            <NlmUniqueID>9308777</NlmUniqueID>
+            <ISSNLinking>0965-2299</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Acupuncture therapy</Keyword>
+            <Keyword MajorTopicYN="N">Chronic</Keyword>
+            <Keyword MajorTopicYN="N">Complementary therapies</Keyword>
+            <Keyword MajorTopicYN="N">Medicine</Keyword>
+            <Keyword MajorTopicYN="N">Mind-Body therapies</Keyword>
+            <Keyword MajorTopicYN="N">Renal insufficiency</Keyword>
+            <Keyword MajorTopicYN="N">Traditional</Keyword>
+            <Keyword MajorTopicYN="N">Uremia</Keyword>
+            <Keyword MajorTopicYN="N">Uremic pruritus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>20</Hour>
+                <Minute>10</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33197658</ArticleId>
+            <ArticleId IdType="pii">S0965-2299(20)31876-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ctim.2020.102609</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

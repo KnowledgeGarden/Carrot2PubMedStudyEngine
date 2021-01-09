@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29796575</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2175-8239</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Jornal brasileiro de nefrologia : 'orgao oficial de Sociedades Brasileira e Latino-Americana de Nefrologia</Title>
+                <ISOAbbreviation>J Bras Nefrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of prevalence, biochemical profile, and drugs associated with chronic kidney disease-mineral and bone disorder in 11 dialysis centers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0101-28002018000100026</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1590/2175-8239-JBN-3527</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The diagnosis and treatment of mineral and bone disorder of chronic kidney disease (CKD-MBD) is a challenge for nephrologists and health managers. The aim of this study was to evaluate the prevalence, biochemical profile, and drugs associated with CKD-MBD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Cross-sectional study between July and November 2013, with 1134 patients on dialysis. Sociodemographic, clinical, and laboratory data were compared between groups based on levels of intact parathyroid hormone (iPTH) (&lt; 150, 150-300, 301-600, 601-1000, and &gt; 1001 pg/mL).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean age was 57.3 Â± 14.4 years. The prevalence of iPTH &lt; 150 pg/mL was 23.4% and iPTH &gt; 601 pg/mL was 27.1%. The comparison between the groups showed that the level of iPTH decreased with increasing age. Diabetic patients had a higher prevalence of iPTH &lt; 150 pg/mL (27.6%). Hyperphosphatemia (&gt; 5.5 mg/dL) was observed in 35.8%. Calcium carbonate was used by 50.5%, sevelamer by 14.7%, 40% of patients had used some form of vitamin D and 3.5% used cinacalcet. Linear regression analysis showed a significant negative association between iPTH, age, and diabetes mellitus and a significant positive association between iPTH and dialysis time.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The prevalence of patients outside the target for iPTH was 50.5%. There was a high prevalence of hyperphosphatemia (35.8%), and the minority of patients were using active vitamin D, vitamin D analogs, selective vitamin D receptor activators, and cinacalcet. These data indicate the need for better compliance with clinical guidelines and public policies on the supply of drugs associated with CKD-MBD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abrita</LastName>
+                    <ForeName>Rodrigo Reis</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pereira</LastName>
+                    <ForeName>Beatriz Dos Santos</ForeName>
+                    <Initials>BDS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Ensino Superior de Juiz de Fora, Passos, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandes</LastName>
+                    <ForeName>Neimar da Silva</ForeName>
+                    <Initials>NDS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abrita</LastName>
+                    <ForeName>Renata</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huaira</LastName>
+                    <ForeName>Rosalia Maria Nunes Henriques</ForeName>
+                    <Initials>RMNH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bastos</LastName>
+                    <ForeName>Marcus Gomes</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandes</LastName>
+                    <ForeName>NatÃ¡lia Maria da Silva</ForeName>
+                    <Initials>NMDS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Federal de Juiz de Fora, Juiz de Fora, MG, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>por</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>J Bras Nefrol</MedlineTA>
+            <NlmUniqueID>9426946</NlmUniqueID>
+            <ISSNLinking>0101-2800</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="Y">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29796575</ArticleId>
+            <ArticleId IdType="pii">S0101-28002018000100026</ArticleId>
+            <ArticleId IdType="doi">10.1590/2175-8239-JBN-3527</ArticleId>
+            <ArticleId IdType="pmc">PMC6533962</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nefrologia. 2000 May-Jun;20(3):244-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10917001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Public Health. 2000 Nov;90(11):1738-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11076243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2003 Jun;(85):S54-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12753266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jun;69(11):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2007;25(6):400-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17968492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2008 Apr;(108):S145-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18379538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2008 Sep;52(3):519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18514987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Jun;26(6):1938-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20513773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Dec;25(12):2724-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20614473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2011 May 21;377(9779):1778-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21561655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bras Nefrol. 2011 Apr;33 Suppl 1:7-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21655856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bras Nefrol. 2011 Dec;33(4):457-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22189810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Apr;7(4):640-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22383748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 Jul;28(7):1922-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23166310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2013 Jul 18;14:155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23865464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2013;33(5):657-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24089157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Clin Nutr Metab Care. 2014 Nov;17(6):551-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25023185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Toxicol. 2014 Oct;44 Suppl 4:1-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25233067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2014 Nov;34(6):626-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25498381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bras Nefrol. 2014 Oct-Dec;36(4):476-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25517276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Clin Exp Med. 2015 Feb 15;8(2):2031-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25932133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NDT Plus. 2008 Jun;1(3):135-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25983860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2015 Nov;24(6):538-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26371524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Feb;89(2):289-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26806832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1987 Dec;2(6):525-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3455634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1993 Feb;43(2):436-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8441240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1997 Nov;30(5):653-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9370180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1998;13 Suppl 3:41-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9568819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

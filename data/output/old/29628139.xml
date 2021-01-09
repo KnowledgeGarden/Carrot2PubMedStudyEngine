@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29628139</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-1755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>94</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>07</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international</Title>
+                <ISOAbbreviation>Kidney Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Drug repurposing in kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>40-48</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0085-2538(18)30123-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.kint.2017.12.026</ELocationID>
+            <Abstract>
+                <AbstractText>Drug repurposing, is the re-tasking of known medications for new clinical indications. Advantages, compared to de novo drug development, include reduced cost and time to market plus the added benefit of a known pharmacokinetic and safety profiles. Suitable drug candidates are identified through serendipitous observations, data mining, or increased understanding of disease mechanisms. This review highlights drugs suited for repurposing in kidney disease. The main cause of mortality in patients with chronic kidney disease is cardiovascular disease. Hence, we have included CV endpoints for the drugs. This review begins with candidates in acute kidney injury: vasodilators levosimendan and vitamin D, followed by candidates in CKD, with particular focus on diabetic kidney disease, autosomal dominant polycystic kidney disease, and focal segmental glomerulosclerosis. Examples include glucose-lowering drugs (sodium glucose co-transporter 2 inhibitors, glucagon-like peptide 1 agonists, and metformin), which have mechanistic potential for cardiac and/or renal protection beyond glucose lowering, with broader applicability to the nondiabetic population; xanthine oxidase inhibitors (allopurinol, febuxostat), selective endothelin receptor A antagonist (atrasentan), Janus kinase inhibitor (baricitinib), selective costimulation modulator (abatacept), pentoxyfylline, and the DNA demethylating agent/vasodilator (hydralazine).</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 International Society of Nephrology. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panchapakesan</LastName>
+                    <ForeName>Usha</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Research Group, Kolling Institute of Medical Research, Royal North Shore Hospital, University of Sydney, New South Wales 2065, Australia. Electronic address: usha.panchapakesan@sydney.edu.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollock</LastName>
+                    <ForeName>Carol</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Research Group, Kolling Institute of Medical Research, Royal North Shore Hospital, University of Sydney, New South Wales 2065, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int</MedlineTA>
+            <NlmUniqueID>0323470</NlmUniqueID>
+            <ISSNLinking>0085-2538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D065130">Endothelin A Receptor Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006074">Gout Suppressants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014665">Vasodilator Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Kidney Int. 2018 Oct;94(4):830-831</RefSource>
+                <PMID Version="1">30243322</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Kidney Int. 2018 Oct;94(4):831</RefSource>
+                <PMID Version="1">30243324</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058492" MajorTopicYN="Y">Drug Repositioning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065130" MajorTopicYN="N">Endothelin A Receptor Antagonists</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006074" MajorTopicYN="N">Gout Suppressants</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007004" MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007166" MajorTopicYN="N">Immunosuppressive Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014665" MajorTopicYN="N">Vasodilator Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CV</Keyword>
+            <Keyword MajorTopicYN="Y">acute kidney injury</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">drug repurposing</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29628139</ArticleId>
+            <ArticleId IdType="pii">S0085-2538(18)30123-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.kint.2017.12.026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

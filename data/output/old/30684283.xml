@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30684283</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1440-1797</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nephrology (Carlton, Vic.)</Title>
+                <ISOAbbreviation>Nephrology (Carlton)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Insight into the impact of vitamin D on cardiovascular outcomes in chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>781-790</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/nep.13569</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with chronic kidney disease (CKD) experience excess cardiovascular morbidity and mortality that is unexplained by traditional cardiovascular risk factors. Vitamin D deficiency is highly prevalent in CKD and is associated with increased cardiovascular mortality in both the general population and in CKD patients. Vitamin D supplementation is a reasonably safe and simple intervention and meta-analyses of observational studies have suggested that vitamin D supplementation in CKD improves cardiovascular mortality. However, randomized controlled trials examining the impact of vitamin D supplementation in improving surrogate markers of cardiovascular structure and function remain inconclusive. This review investigates the impact of vitamin D supplementation on surrogate end-points and cardiovascular events from trials in CKD; and discusses why results have been heterogenous, particularly critiquing the effect of different dosing regimens and the failure to take into account the implications of vitamin D supplementation in study participants with differing vitamin D binding protein genotypes.</AbstractText>
+                <CopyrightInformation>Â© 2019 Asian Pacific Society of Nephrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Junarta</LastName>
+                    <ForeName>Joey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal and Transplantation Unit, St George's University Hospital NHS Foundation Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St George's University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jha</LastName>
+                    <ForeName>Vivekanand</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The George Institute of Global Health, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Debasish</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal and Transplantation Unit, St George's University Hospital NHS Foundation Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St George's University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Department of Biotechnology</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>PG/10/71/28462</GrantID>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>St. George's Charity</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <Agency>British Renal Society</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Nephrology (Carlton)</MedlineTA>
+            <NlmUniqueID>9615568</NlmUniqueID>
+            <ISSNLinking>1320-5358</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="Y">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">endothelial function</Keyword>
+            <Keyword MajorTopicYN="N">flow-mediated dilatation</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30684283</ArticleId>
+            <ArticleId IdType="doi">10.1111/nep.13569</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

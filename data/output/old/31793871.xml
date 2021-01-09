@@ -1,0 +1,315 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31793871</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0301-0430</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>93</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nephrology</Title>
+                <ISOAbbreviation>Clin Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The relationship between urinary kidney injury molecule-1 and blood bone metabolism markers in patients with chronic kidney diseaseâ©.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>65-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5414/CN109763</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this study was to evaluate the changes of urinary kidney injury molecule-1(uKIM-1) in chronic kidney disease (CKD) at different stages, and to determine the relationships between uKIM-1 and circulating bone metabolism markers.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This cross-sectional study included CKD patients (n = 121) and controls (n = 65). CKD stages were assigned to each individual according to their estimated glomerular filtration rate (eGFR), which was calculated with the modification of diet in renal disease (MDRD) equation. We evaluated the relationships of bone metabolism markers (including calcium, phosphorus, intact parathyroid hormone (iPTH), 25 hydroxy vitamin D (25(OH)D), alkaline phosphatase (ALP), fibroblast growth factor 23 (FGF23), and Î±-Klotho), uKIM-1, and eGFR. We also compared the levels of bone metabolism markers and uKIM-1 at different CKD stages. The uKIM-1 level was standardized with urine creatinine (uCr).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Compared with healthy controls, CKD patients had higher levels of uKIM-1/uCr, serum creatinine, urea, phosphorus, iPTH, and plasma FGF23, whereas they had lower levels of serum calcium, Î±-Klotho, and plasma 25(OH)D. In CKD patients, eGFR was positively correlated with levels of serum calcium, Î±-Klotho, and plasma 25(OH)D, whereas it was negatively correlated with serum phosphorus, iPTH, plasma FGF23, and uKIM-1/uCr. Serum calcium and Î±-Klotho were significantly decreased in patients with stage 5 CKD compared to those with stage 1 CKD. Serum phosphorus, iPTH, and plasma FGF23 were significantly elevated in patients with stage 4 CKD when compared to those with stage 1 CKD. UKIM-1/uCr was significantly elevated in patients with stage 5 CKD when compared to those with stage 1 CKD. In CKD patients, uKIM-1/uCr levels were positively correlated with levels of serum phosphorus and plasma FGF23, whereas they were negatively correlated with serum calcium and plasma 25(OH)D.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">UKIM-1/uCr levels are increased with the deterioration of CKD stage and are correlated with the development of CKD-mineral and bone disorder (CKD-MBD).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yin</LastName>
+                    <ForeName>Caixia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lina</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Purrunsing</LastName>
+                    <ForeName>Yogendranath</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Guang</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ren</LastName>
+                    <ForeName>Wenkai</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ye</LastName>
+                    <ForeName>Yangfan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Haoyang</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xing</LastName>
+                    <ForeName>Changying</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Ningning</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Nephrol</MedlineTA>
+            <NlmUniqueID>0364441</NlmUniqueID>
+            <ISSNLinking>0301-0430</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C491143">HAVCR1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000072596">Hepatitis A Virus Cellular Receptor 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008903">Minerals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8W8T17847W</RegistryNumber>
+                <NameOfSubstance UI="D014508">Urea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>AYI8EX34EU</RegistryNumber>
+                <NameOfSubstance UI="D003404">Creatinine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.1</RegistryNumber>
+                <NameOfSubstance UI="D000469">Alkaline Phosphatase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="D005966">Glucuronidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="C108871">klotho protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000469" MajorTopicYN="N">Alkaline Phosphatase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="Y">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003404" MajorTopicYN="N">Creatinine</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="Y">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005966" MajorTopicYN="N">Glucuronidase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072596" MajorTopicYN="N">Hepatitis A Virus Cellular Receptor 1</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008903" MajorTopicYN="N">Minerals</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="Y">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014508" MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31793871</ArticleId>
+            <ArticleId IdType="pii">186060</ArticleId>
+            <ArticleId IdType="doi">10.5414/CN109763</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

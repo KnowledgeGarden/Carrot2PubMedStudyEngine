@@ -1,0 +1,287 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31400089</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-9987</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Therapeutic apheresis and dialysis : official peer-reviewed journal of the International Society for Apheresis, the Japanese Society for Apheresis, the Japanese Society for Dialysis Therapy</Title>
+                <ISOAbbreviation>Ther Apher Dial</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of Vitamin D Supplementation on Vascular Function and Inflammation in Patients with Chronic Kidney Disease: A Controversial Issue.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/1744-9987.13428</ELocationID>
+            <Abstract>
+                <AbstractText>Vitamin D deficiency is common in patients with CKD and is associated with vascular dysfunction and inflammation. In recent years, some randomized controlled trials have revealed the effect of vitamin D supplementation on vascular function and inflammation in CKD patients, but the results are inconsistent. Thus, in light of the controversy, we performed a systematic review and meta-analysis of the effect of vitamin D in patients with CKD. We searched the literature in multiple databases for clinical trials from the date of inception to December 2018. The standardized mean difference (SMD) effect size was pooled using fixed and random effects models. A total of 10 randomized controlled trials involving 579 patients were included in the meta-analysis; among these, 313 patients were treated with vitamin D, and the control group included 266 who received a placebo. This meta-analysis revealed no statistical significance in the levels of flow-mediated dilatation (SMD, 0.94; 95% CI, -0.33 to 2.21; P = 0.15); pulse wave velocity (SMD, -0.13; 95% CI, -0.38 to 0.13; P = 0.33); systolic BP (SMD, -0.04; 95% CI, -0.29 to 0.22; P = 0.77); diastolic BP (SMD, 0.01; 95% CI, -0.26 to 0.27; P = 0.97); and CRP (SMD, -0.09; 95% CI, -0.44 to 0.26; P = 0.61) between the vitamin D group and controls for patients with CKD. Short-term intervention with vitamin D was not associated with improvements in vascular function and inflammation, as measured by flow-mediated dilatation, pulse wave velocity, systolic BP, diastolic BP and CRP. This suggested that there is insufficient evidence to conclude the benefit of vitamin D supplementation on vascular function and inflammation in CKD patients.</AbstractText>
+                <CopyrightInformation>Â© 2019 International Society for Apheresis, Japanese Society for Apheresis, and Japanese Society for Dialysis Therapy.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Chun</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Zhongnan Hospital of Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Xiaoyan</ForeName>
+                    <Initials>X</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5387-1155</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Zhongnan Hospital of Wuhan University, Wuhan, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>2042018kf0142</GrantID>
+                    <Agency>fundamental research funds for central universities</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Ther Apher Dial</MedlineTA>
+            <NlmUniqueID>101181252</NlmUniqueID>
+            <ISSNLinking>1744-9979</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Arterial stiffness</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Dialysis</Keyword>
+            <Keyword MajorTopicYN="N">Endothelial dysfunction</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31400089</ArticleId>
+            <ArticleId IdType="doi">10.1111/1744-9987.13428</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>REFERENCES</Title>
+            <Reference>
+                <Citation>Wolf M, Shah A, Gutierrez O et al. Vitamin D levels and early mortality among incident hemodialysis patients. Kidney Int 2007;72:1004e13.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Okazaki R. Update on recent progress in vitamin D research. Vitamin D insufficiency/deficiency. Clin Calcium 2017;27:1601-8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dusso AS, Tokumoto M. Defective renal maintenance of the vitamin D endocrine system impairs vitamin D renoprotection: a downward spiral in kidney disease. Kidney Int 2011;79:715-29.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Drechsler C, Verduijn M, Pilz S et al. Vitamin D status and clinical outcomes in incident dialysis patients: results from the NECOSAD study. Nephrol Dial Transplant 2011;26:1024-32.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Pilz S, Iodice S, Zittermann A, Grant WB, Gandini S. Vitamin D status and mortality risk in CKD: a meta-analysis of prospective studies. Am J Kidney Dis 2011;58:374-82.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Shoji T, Shinohara K, Kimoto E et al. Lower risk for cardiovascular mortality in oral 1alpha-hydroxy vitamin D3 users in a haemodialysis population. Nephrol Dial Transplant 2004;19:179-84.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>McEniery CM, Wallace S, Mackenzie IS et al. Endothelial function is associated with pulse pressure, pulse wave velocity, and augmentation index in healthy humans. Hypertension 2006;48:602-8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Al Mheid I, Patel R, Murrow J et al. Vitamin D status is associated with arterial stiffness and vascular dysfunction in healthy humans. J Am Coll Cardiol 2011;58:186-92.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhang Q, Zhang M, Wang H et al. Vitamin D supplementation improves endothelial dysfunction in patients with non-dialysis chronic kidney disease. Int Urol Nephrol 2018;50:923-7.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Agarwal R, Georgianos PI. Con: nutritional vitamin D replacement in chronic kidney disease and end-stage renal disease. Nephrol Dial Transplant 2016;31:706-13.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zoccali C, Mallamaci F. Moderator's view: vitamin D deficiency treatment in advanced chronic kidney disease: a close look at the emperor's clothes. Nephrol Dial Transplant 2016;31:714-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hametner B, Wassertheurer S, Kropf J, Mayer C, Eber B, Weber T. Oscillometric estimation of aortic pulse wave velocity: comparison with intra-aortic catheter measurements. Blood Press Monit 2013;18:173-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Koyoshi R, Miura S, Kumagai N, Shiga Y, Mitsutake R, Saku K. Clinical significance of flow-mediated dilation, brachial intima-media thickness and pulse wave velocity in patients with and without coronary artery disease. Circ J 2012;76:1469-75.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Anderson TJ. Arterial stiffness or endothelial dysfunction as a surrogate marker of vascular risk. Can J Cardiol 2006;22(Suppl B):72B-80B.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Inaba Y, Chen JA, Bergmann SR. Prediction of future cardiovascular outcomes by flow-mediated vasodilatation of brachial artery: a meta-analysis. Int J Cardiovasc Imaging 2010;26:631-40.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Thijssen DH1, Black MA, Pyke KE et al. Assessment of flow-mediated dilation in humans: a methodological and physiological guideline. Am J Physiol Heart Circ Physiol 2011;300:H712.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mori TA, Burke V, Puddey I et al. The effects of omega-3 fatty acid and coenzyme Q10 on blood pressure and heart rate in chronic kidney disease: a randomized controlled trial. J Hypertens 2009;27:1863-72.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Higgins JP, Altman DG, GÃ¸tzsche PC et al. The Cochrane Collaboration's tool for assessing risk of bias in randomized trials. BMJ 2011;343:d5928.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Higgins JP, Thompson SG, Deeks JJ, Altman DG. Measuring inconsistency in meta-analyses. BMJ 2003;327:557-60.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Alborzi P, Patel NA, Peterson C et al. Paricalcitol reduces albuminuria and inflammation in chronic kidney disease: a randomized double-blind pilot trial. Hypertension 2008;52:249-55.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kumar V, Yadav AK, Lal A et al. A randomized trial of vitamin D supplementation on vascular function in CKD. J Am Soc Nephrol 2017;28:3100-8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dreyer G, Tucker AT, Harwood SM, Pearse RM, Raftery MJ, Yaqoob MM. Ergocalciferol and microcirculatory function in chronic kidney disease and concomitant vitamin D deficiency: an exploratory, double blind, randomised controlled trial. PLoS One 2014;9:e99461.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Giakoumis M, Tsioufis C, Dimitriadis K et al. Effects of oral paricalcitol therapy on arterial stiffness and osteopontin in hypertensive patients with chronic kidney disease and secondary hyperparathyroidism. Hellenic J Cardiol 2018. https://doi.org/10.1016/j.hjc.2017.12.010. [Epub ahead of print].</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hewitt NA, O'Connor AA, O'Shaughnessy DV, Elder GJ. Effects of cholecalciferol on functional, biochemical, vascular, and quality of life outcomes in hemodialysis patients. Clin J Am Soc Nephrol 2013;8:1143-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Levin A, Tang M, Perry T et al. Randomized controlled trial for the effect of vitamin D supplementation on vascular stiffness in CKD. Clin J Am Soc Nephrol 2017;12:1447-60.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mose FH, Vase H, Larsen T et al. Cardiovascular effects of cholecalciferol treatment in dialysis patients-a randomized controlled trial. BMC Nephrol 2014;15:50.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lundwall K, JÃ¶rneskog G, Jacobson SH, Spaak J. Paricalcitol, microvascular and endothelial function in non-diabetic chronic kidney disease: a randomized trial. Am J Nephrol 2015;42:265-73.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tamadon MR, Soleimani A, Keneshlou F et al. Clinical trial on the effects of vitamin D supplementation on metabolic profiles in diabetic hemodialysis. Horm Metab Res 2018;50:50-5.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zoccali C, Curatola G, Panuccio V et al. Paricalcitol and endothelial function in chronic kidney disease trial. Hypertension 2014;64:1005-11.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stam F, van Guldener C, Becker A et al. Endothelial dysfunction contributes to renal function-associated cardiovascular mortality in a population with mild renal insufficiency: the Hoorn study. J Am Soc Nephrol 2006;17:537-45.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Leonard O, Spaak J, Goldsmith D. Regression of vascular calcification in chronic kidney disease-feasible or fantasy? A review of the clinical evidence. Br J Clin Pharmacol 2013;76:560-72.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schlieper G, Schurgers L, Brandenburg V, Reutelingsperger C, Floege J. Vascular calcification in chronic kidney disease: an update. Nephrol Dial Transplant 2016;31:31-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lundwall K, Jacobson SH, JÃ¶rneskog G, Spaak J. Treating endothelial dysfunction with vitamin D in chronic kidney disease: a meta-analysis. BMC Nephrol 2018;19:247.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chitalia N, Ismail T, Tooth L et al. Impact of vitamin D supplementation on arterial vasomotion, stiffness and endothelial biomarkers in chronic kidney disease patients. PLoS One 2014;9:e91363.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Corretti MC, Anderson TJ, Benjamin EJ et al. Guidelines for the ultrasound assessment of endothelial-dependent flow-mediated vasodilation of the brachial artery: a report of the international brachial artery reactivity task force. J Am Coll Cardiol 2002;39:257-65.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ogata Y, Taniguchi N. Vascular function tests and new technology in the early phase of atherosclerosis. Rinsho Byori 2012;60:887-94.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chitalia N, Recio-Mayoral A, Kaski JC, Banerjee D. Vitamin D deficiency and endothelial dysfunction in non-dialysis chronic kidney disease patients. Atherosclerosis 2012;220:265-8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>London GM, Guerin AP, Verbeke FH et al. Mineral metabolism and arterial functions in end-stage renal disease: potential role of 25-hydroxyvitamin D deficiency. J Am Soc Nephrol 2007;18:613-20.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Karakas Y, Sahin G, Urfali FE, Bal C, Degirmenci NA, Sirmagul B. Effect of vitamin D supplementation on endothelial dysfunction in hemodialysis patients. Hemodial Int 2017;21:97-106.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sigrist MK, Taal MW, Bungay P, McIntyre CW. Progressive vascular calcification over 2âyears is associated with arterial stiffening and increased mortality in patients with stages 4 and 5 chronic kidney disease. Clin J Am Soc Nephrol 2007;2:1241-8.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Yoon HE, Shin DI, Kim SJ et al. Brachial-ankle pulse wave velocity predicts decline in renal function and cardiovascular events in early stages of chronic kidney disease. Int J Med Sci 2013;10:1430-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Luo Q, Wang LL, Gao YH. Association between serum 25-hydroxyvitamin D and arterial stiffness in non-dialysis-dependent CKD. Eur J Clin Nutr 2016;70:274-6.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Marckmann P, Agerskov H, Thineshkumar S et al. Randomized controlled trial of cholecalciferol supplementation in chronic kidney disease patients with hypovitaminosis D. Nephrol Dial Transplant 2012;27:3523-31.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Di IB, Nazzaro P, Cucciniello E, Bellizzi V. Influence of haemodialysis on variability of pulse wave velocity in chronic haemodialysis patients. Nephrol Dial Transplant 2010;25:1579-83.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kristal-Boneh E, Froom P, Harari G, Ribak J. Association of calcitriol and blood pressure in normotensive men. Hypertension 1997;30:1289-94.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Scragg R, Sowers M, Bell C. Serum 25-hydroxyvitamin D, ethnicity, and blood pressure in the Third National Health and Nutrition Examination Survey. Am J Hypertens 2007;20:713-9.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tomaschitz A, Ritz E, Pieske B et al. Aldosterone and parathyroid hormone interactions as mediators of metabolic and cardiovascular disease. Metabolism 2014;63:20-31.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Panichi V, Scatena A, Migliori M, Marchetti V, Paoletti S, Beati S. Biomarkers of chronic inflammatory state in uremia and cardiovascular disease. Int J Inflam 2012;2012:360147.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Seibert E, Heine GH, Ulrich C, Seiler S, Koâ¬hler H, Girndt M. Influence of cholecalciferol supplementation in hemodialysis patients on monocyte subsets: a randomized, double-blind, placebo-controlled clinical trial. Nephron Clin Pract 2013;123 (3e4):209e19.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Matias PJ, Jorge C, Ferreira C et al. Cholecalciferol supplementation in hemodialysis patients: effects on mineral metabolism, inflammation, and cardiac dimension parameters. Clin J Am Soc Nephrol 2010;5:905e11.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jones J. Interpreting vitamin D assay results: proceed with caution. CJASN 2015;10:331-4.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Li L, Wan Q, Yang S, Zhao S. Impact of vitamin D receptor gene polymorphism on chronic renal failure susceptibility. Ther Apher Dial 2018;22:575-87.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

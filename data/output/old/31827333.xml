@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31827333</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1178-7058</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of nephrology and renovascular disease</Title>
+                <ISOAbbreviation>Int J Nephrol Renovasc Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effectiveness of Native Vitamin D Therapy in Patients with Chronic Kidney Disease Stage 3 and Hypovitaminosis D in Colombia, South America.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>241-250</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2147/IJNRD.S214194</ELocationID>
+            <Abstract>
+                <AbstractText><b>Introduction:</b> In a high percentage of patients with chronic kidney disease (CKD) low levels of vitamin D are detected. The purpose of this study was to evaluate if the native vitamin D therapy (cholecalciferol) in the patients with stage 3 and hypovitaminosis D allows to modify markers of bone and mineral metabolism once normal serum levels have been achieved.</AbstractText>
+                <AbstractText Label="Materials and methods" NlmCategory="UNASSIGNED">From an initial base of 297 patients with CKD and hypovitaminosis D, those with normal or high levels of PTH were chosen for therapy with native vitamin D. The initial administered dose was 1000 IU/day, with adjustments every 4 months of 1000 IU (maximum 4000 IU/day, according to RDA and IOM), until achieving serum levels of 25 hydroxyvitamin D greater than 30 ng/mL and lower than 80 ng/mL. The variables calcium, phosphorus, intact parathormone (iPTH), creatinine and glomerular filtration rate (GFR) were also evaluated every 4 months.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The total number of patients included in this study was 170. Seventy-three patients were excluded along the follow-up: 17 non-responders (never achieved the projected serum levels of vitamin D), and 56 for not completing one year of follow-up. A total of 97 patients were finally included. In 82 patients, follow-up was achieved for 12 months (G1) and in 38 patients for 24 months (G2). In 15 patients despite achieving satisfactory levels of vitamin D at 12 months, it was not possible to obtain adequate levels of iPTH for their GFR according to K/DOQI 2003 guidelines and they were called refractory to therapy (G3). In both groups 1 and 2, a non-significant tendency to increase calcium and serum phosphorus was observed. iPTH decreased significantly at 12 and 24 months follow-up. In group 3, we opted at 12 months for conversion to calcitriol, with a significant reduction in iPTH values. In this group, the initial value of GFR was close to 30 mL/min, and its fall in time more significant than the other two groups to CKD stage 4.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Cholecalciferol with adjustment in its dose, and obtaining normal serum levels is an excellent therapeutic alternative for the treatment of patients with CKD stage 3, and hypovitaminosis D. In the group of patients with GFR close to 30 mL/min, or lower values (stage 4), and with the presence of secondary hyperparathyroidism, the use of active form of vitamin D (calcitriol, paricalcitol) is recommended as the first therapeutic alternative.</AbstractText>
+                <CopyrightInformation>Â© 2019 Restrepo-Valencia et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Restrepo-Valencia</LastName>
+                    <ForeName>Cesar A</ForeName>
+                    <Initials>CA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Professor Titular, Universidad de Caldas, Manizales, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguirre-Arango</LastName>
+                    <ForeName>Jose V</ForeName>
+                    <Initials>JV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Professor Catedratico, Universidad de Manizales, Manizales, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Musso</LastName>
+                    <ForeName>Carlos G</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Facultad de Ciencias de la Salud, Universidad SimÃ³n BolÃ­var, Barranquilla, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Int J Nephrol Renovasc Dis</MedlineTA>
+            <NlmUniqueID>101550217</NlmUniqueID>
+            <ISSNLinking>1178-7058</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">hypovitaminosis D</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+        <CoiStatement>All the authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31827333</ArticleId>
+            <ArticleId IdType="doi">10.2147/IJNRD.S214194</ArticleId>
+            <ArticleId IdType="pii">214194</ArticleId>
+            <ArticleId IdType="pmc">PMC6902866</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Osteoporos Int. 1997;7(5):439-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9425501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2015;35(1):28-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25611831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Oct;96(10):2987-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21795456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2018 Dec;72(6):834-845</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30297082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Jan;96(1):53-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21118827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1999 May;69(5):842-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10232622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Jul;96(7):1911-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21646368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2017 Aug;106(2):481-490</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28679555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Oct;42(4 Suppl 3):S1-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2017 Jun;36(3):686-696</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27302208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Feb;25(2):305-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19594303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2019 Jan 15;20(1):20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30646860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1988 Nov;67(5):929-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3182964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 Oct 1;33(10):1742-1751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29481620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2012 Sep;96(3):672-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22854402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Feb;7(2):216-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22266572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Aug 15;145(4):247-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16908915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2010 Jul;21(7):1151-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20422154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2018 Mar;33(3):404-409</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29044707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 Jul;16(7):713-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15776217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 Mar 1;33(3):466-471</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29156056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Jul;50(1):59-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17591525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2009 Nov;20(11):1807-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19543765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Nutr. 2015 Jun;69(6):697-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25782422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2003 Jan;88(1):185-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12519850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2009 Mar;53(3 Suppl 2):S11-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19231749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):620-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17287117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2007;27(1):36-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17215573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2013 Oct 11;5(10):4067-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24152747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2012 Jun;95(6):1357-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22552031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2014 Jan;62(1):147-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24350602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Calcium. 2017;27(11):1517-1523</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29074823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jul 1;32(7):1098-1113</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2016 Dec;116(12):2074-2081</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28065190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2005 Jul;289(1):F8-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15951480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2017 May 11;10:109-122</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28546765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Assoc Thai. 2015 Jul;98(7):643-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26267985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1997 Jan;65(1):67-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8988915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Jun 01;10(6):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29865146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Nephrol. 2016 Sep 6;5(5):471-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27648411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2016 Mar;36(3):1397-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26977042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Colomb Med (Cali). 2016 Sep 30;47(3):160-166</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27821896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Nutr. 2013;33:23-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23642201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Dec;7(3):e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30681074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lab Med. 2018 Mar 21;49(2):123-129</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29346630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2017 Mar;22 Suppl 2:51-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28429545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

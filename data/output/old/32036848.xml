@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">32036848</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1805-9694</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>62</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta medica (Hradec Kralove)</Title>
+                <ISOAbbreviation>Acta Medica (Hradec Kralove)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Primary Hyperparathyroidism Manifesting with Severe Hypercalcemia in a Nonagenarian Man: Pitfall of Common Imaging Techniques, Localization by 18F-Choline Positron Emission Tomography/Computed Tomography and Successful Management with Calcimimetics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>156-160</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.14712/18059694.2020.5</ELocationID>
+            <Abstract>
+                <AbstractText>A nonagenarian hypertensive man with chronic kidney disease (CKD) was admitted to the emergency department for gastrointestinal symptoms and worsening symptoms of depression. Severe hypercalcemia (15.3 mg/dL) was found and he was hospitalized. Fluids, loop diuretics and glucocorticoids were administered intravenously, which partially reduced calcium levels over a few days and improved his clinical condition. PTH levels proved increased (306 pg/mL) and 25-OHD levels were reduced; primary hyperparathyroidism (PHPT) was diagnosed. Neck ultrasonography (USG) did not show parathyroid enlargement, nor did 99mTechnetium-sestamibi (SESTAMIBI) scintigraphy reveal hyperfunctioning parathyroid glands. By contrast, 18F-choline PET/CT evidenced a nodule located close to the oesophagus, behind the right thyroid lobe, which proved compatible with a hyperfunctioning parathyroid gland. Since the patient declined surgery, and zoledronate was unfit owing to areas of rarefaction of the jaw, the calcimimetic cinacalcet was started; the dosage was progressively titrated up to 120 mg/day with normalisation of calcium levels over time. PTH levels, however, proved erratic and showed an upward trend over the first year of therapy; however its levels partially decreased following increase of vitamin D levels by replacement therapy. Cinacalcet is a useful and safe drug, which can normalise calcium levels and improve the clinical condition, even in very old patients with severe PHPT who decline or are unfit for surgery.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Foppiani</LastName>
+                    <ForeName>Luca</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine, Galliera Hospital, Genoa, Italy. luca.foppiani@galliera.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bottoni</LastName>
+                    <ForeName>Gianluca</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuclear Medicine, Galliera Hospital, Genoa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Piccardo</LastName>
+                    <ForeName>Arnoldo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nuclear Medicine, Galliera Hospital, Genoa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Czech Republic</Country>
+            <MedlineTA>Acta Medica (Hradec Kralove)</MedlineTA>
+            <NlmUniqueID>9705947</NlmUniqueID>
+            <ISSNLinking>1211-4286</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D057966">Calcimimetic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005462">Fluorine Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GZ5I74KB8G</RegistryNumber>
+                <NameOfSubstance UI="C000615276">Fluorine-18</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N91BDP6H0X</RegistryNumber>
+                <NameOfSubstance UI="D002794">Choline</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>UAZ6V7728S</RegistryNumber>
+                <NameOfSubstance UI="D000069449">Cinacalcet</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057966" MajorTopicYN="N">Calcimimetic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002794" MajorTopicYN="N">Choline</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069449" MajorTopicYN="N">Cinacalcet</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005462" MajorTopicYN="N">Fluorine Radioisotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006934" MajorTopicYN="N">Hypercalcemia</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049950" MajorTopicYN="N">Hyperparathyroidism, Primary</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072078" MajorTopicYN="N">Positron Emission Tomography Computed Tomography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019275" MajorTopicYN="N">Radiopharmaceuticals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">18F-Choline PET/CT</Keyword>
+            <Keyword MajorTopicYN="N">cinacalcet</Keyword>
+            <Keyword MajorTopicYN="N">hypercalcemia</Keyword>
+            <Keyword MajorTopicYN="N">primary hyperparathyroidism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32036848</ArticleId>
+            <ArticleId IdType="doi">10.14712/18059694.2020.5</ArticleId>
+            <ArticleId IdType="pii">am_2019062040156</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

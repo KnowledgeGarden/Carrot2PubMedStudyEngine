@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32386937</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-8503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation</Title>
+                <ISOAbbreviation>J Ren Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Management of Hyperphosphatemia in End-Stage Renal Disease: A New Paradigm.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-34</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1051-2276(20)30052-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.jrn.2020.02.003</ELocationID>
+            <Abstract>
+                <AbstractText>Bone and mineral metabolism becomes dysregulated with progression of chronic kidney disease (CKD), and increasing levels of parathyroid hormone serve as an adaptive response to maintain normal phosphorus and calcium levels. In end-stage renal disease, this response becomes maladaptive and high levels of phosphorus may occur. We summarize strategies to control hyperphosphatemia based on a systematic literature review of clinical trial and real-world observational data on phosphorus control in hemodialysis patients with CKD-mineral bone disorder (CKD-MBD). These studies suggest that current management options (diet and lifestyle changes; regular dialysis treatment; and use of phosphate binders, vitamin D, calcimimetics) have their own benefits and limitations with variable clinical outcomes. A more integrated approach to phosphorus control in dialysis patients may be necessary, incorporating measurement of multiple biomarkers of CKD-MBD pathophysiology (calcium, phosphorus, and parathyroid hormone) and correlation between diet adjustments and CKD-MBD drugs, which may facilitate improved patient management.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rastogi</LastName>
+                    <ForeName>Anjay</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>David Geffen School of Medicine at UCLA, Los Angeles, California. Electronic address: rastogiadmin@mednet.ucla.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhatt</LastName>
+                    <ForeName>Nisha</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medical Affairs, Amgen Inc., Thousand Oaks, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rossetti</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medical Affairs, Amgen Inc., Thousand Oaks, California.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beto</LastName>
+                    <ForeName>Judith</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Loyola University Chicago, Maywood, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Ren Nutr</MedlineTA>
+            <NlmUniqueID>9112938</NlmUniqueID>
+            <ISSNLinking>1051-2276</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32386937</ArticleId>
+            <ArticleId IdType="pii">S1051-2276(20)30052-2</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.jrn.2020.02.003</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

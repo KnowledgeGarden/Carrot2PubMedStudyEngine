@@ -1,0 +1,419 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31823044</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>03</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Treatment of hyperphosphatemia: the dangers of aiming for normal PTH levels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>485-491</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-019-04399-0</ELocationID>
+            <Abstract>
+                <AbstractText>Secondary hyperparathyroidism is part of the complex of chronic kidney disease-associated mineral and bone disorders (CKD-MBD) and is linked with high bone turnover, ectopic calcification, and increased cardiovascular mortality. Therefore, measures for CKD-MBD aim at lowering PTH levels, but there is no general consensus on optimal PTH target values. This manuscript is part of a pros and cons debate for keeping PTH levels within the normal range in children with CKD, focusing on the cons. We conclude that a modest increase in PTH most likely represents an appropriate adaptive response to declining kidney function in patients with CKD stages 2-5D, due to phosphaturic effects and increasing bone resistance. There is no evidence for strictly keeping PTH levels within the normal range in CKD patients with respect to bone health and cardiovascular outcome. In addition, the potentially adverse effects of PTH-lowering measures, such as active vitamin D and calcimimetics, must be taken into account. We suggest that PTH values of 1-2 times the upper normal limit (ULN) may be acceptable in children with CKD stage 2-3, and that PTH levels of 1.7-5 times UNL may be optimal in patients with CKD stage 4-5D. However, standard care of CKD-MBD in children relies on a combination of different measures in which the observation of PTH levels is only a small part of, and trends in PTH levels rather than absolute target values should determine treatment decisions in patients with CKD as recommended by the 2017 KDIGO guidelines.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Haffner</LastName>
+                    <ForeName>Dieter</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0002-9601-7813</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Kidney, Liver and Metabolic Diseases, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany. Haffner.Dieter@mh-hannover.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leifheit-Nestler</LastName>
+                    <ForeName>Maren</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Kidney, Liver and Metabolic Diseases, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Research Center, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Bone turnover</Keyword>
+            <Keyword MajorTopicYN="Y">Calcification</Keyword>
+            <Keyword MajorTopicYN="Y">Children</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphate</Keyword>
+            <Keyword MajorTopicYN="Y">Target range</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31823044</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-019-04399-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-019-04399-0</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS One. 2012;7(7):e40242</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22792251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2017 Mar;22 Suppl 2:22-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28429554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Feb;27(2):543-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26139439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Jun 25;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31240395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2013 Apr;28(4):583-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23161206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2012 Feb 15;307(7):674-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 2013;75:503-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23398153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Aug;70(4):771-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16820797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Mar 7;11(3):481-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26712809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2014 Feb;9(2):344-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2010 Jun;95(6):2772-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20382692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Jul;92(1):26-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28646995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Feb;26(2):476-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25231881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Dec;78(12):1295-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20811335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2013 Apr;28(4):537-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22893310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2017 Oct;30(5):663-670</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28502032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Feb;21(2):151-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16247644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Nov;18(11):2996-3003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17942964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Dec;90(6):1184-1190</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27653840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Mar;34(3):475-486</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30506144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1998 Apr;31(4):607-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9531176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2002 Jul 2;106(1):100-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12093777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2020 Jan;35(1):41-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30382333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Sep;16(9):2796-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16049067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Aug;6(8):1926-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21737855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Dec;13(12):2953-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12444214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1981 Mar;67(3):885-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7204561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Oct;5(10):1860-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20634327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2000 May 18;342(20):1478-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10816185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2007 Oct;22(10):2909-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17517792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hypertens. 2005 May;23(5):1067-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15834294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2003 May;18(5):440-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12687466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2016 Apr;67(4):559-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26321176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2017 May;32(5):753-765</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27704252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2008 Feb;23(2):179-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18043947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2009 Mar;53(3 Suppl 2):S11-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19231749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2006 Jul;21(7):1906-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16554325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2015 Jul;24(4):303-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26050115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Oct;21(10):1426-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16821026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Dec;8(12):2132-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24052218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 1980 Aug;97(2):226-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7400889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2007 Sep;22(9):1349-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17111159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Jan;25(1):175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24052631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2019 Apr;95(4):958-972</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30827513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1994 Jan;45(1):253-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8127016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jun;69(11):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Dec 27;367(26):2482-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23121374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

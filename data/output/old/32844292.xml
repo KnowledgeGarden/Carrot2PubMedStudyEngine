@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32844292</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Aug</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Native vs. active vitamin D in children with chronic kidney disease: a cross-over study.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-020-04721-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The rationale for the prescription of vitamin D analogues in patients with chronic kidney disease (CKD) is still a matter of debate. We aimed to compare native vs. active forms of vitamin D on pre-dialysis children with CKD and evaluate effects on calcium (Ca), phosphorus (P), and parathyroid hormone (PTH).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Thirty children with pre-dialysis CKD were enrolled in a prospective cross-over study. Patients were randomly classified into two groups. Group A received native cholecalciferol while group B received alfacalcidol for 3Â months. After 1Â month (washout period), patients were switched to receive the opposite form for another 3Â months. Serum Ca, P, alkaline phosphatase (ALP), PTH, and 25(OH)D<sub>3</sub> were measured at study start (BL-1), end of first period (FU-1), before second period (BL-2), and after second period (FU-2).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There was significant increase in levels of 25(OH)D<sub>3</sub> after administration of either native or active vitamin D in the first period in both groups (pâ&lt;â0.001 and &lt;â0.001, respectively) and also in the second period for both groups (pâ=â0.02 and &lt;â0.001, respectively). There was no significant difference between both groups regarding changes in serum Ca (1st period; pâ=â0.770 and 2nd period; pâ=â0.412), serum P (1st period; pâ=â0.835, 2nd period; pâ=â0.052), and serum PTH (1st period; pâ=â0.250, 2nd period; pâ=â0.539).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Alfacalcidol and native vitamin D3 were equally effective in decreasing PTH levels and increasing serum 25(OH)D<sub>3</sub> in pre-dialysis CKD patients. There was no significant difference between the two forms regarding changes in serum Ca or P. Graphical abstract.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sawires</LastName>
+                    <ForeName>Happy</ForeName>
+                    <Initials>H</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5517-3529</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Nephrology Department, Cairo University, 5 El-Lithy Street El-Maadi El-Gedida, Cairo, 11435, Egypt. happy7_kd@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fadel</LastName>
+                    <ForeName>Fatina</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Nephrology Department, Cairo University, 5 El-Lithy Street El-Maadi El-Gedida, Cairo, 11435, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hussein</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Nephrology Department, Cairo University, 5 El-Lithy Street El-Maadi El-Gedida, Cairo, 11435, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Helmy</LastName>
+                    <ForeName>Rasha</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pediatric Nephrology Department, Cairo University, 5 El-Lithy Street El-Maadi El-Gedida, Cairo, 11435, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">25(OH)D3</Keyword>
+            <Keyword MajorTopicYN="N">Alfacalcidol</Keyword>
+            <Keyword MajorTopicYN="N">Children</Keyword>
+            <Keyword MajorTopicYN="N">Cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">Pre-dialysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32844292</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-020-04721-1</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-020-04721-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

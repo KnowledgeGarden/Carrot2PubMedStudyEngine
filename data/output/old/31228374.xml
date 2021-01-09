@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31228374</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1561-9125</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>32</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in gerontology = Uspekhi gerontologii</Title>
+                <ISOAbbreviation>Adv Gerontol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The factors associated with vitamin D levels in patients with chronic obstructive pulmonary disease in combination with renal dysfunction.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102-107</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The goal of study was to find factors associated with vitamin D levels in patients with chronic obstructive pulmonary disease (COPD) and early stages of kidney dysfunction. The study included 338 patients with 1-2 COPD stages (66,9% of men, mean age was 69,4Â±6,1 years, mean COPD duration was 18,5Â±4,1 years); 33,1% of women (mean age 64,8Â±7,3 years, mean COPD duration was 12,1Â±5,1 years). All patients were diagnosed with 1-2 stages of chronic kidney disease (CKD). In addition to general clinical examination, potential risk factors for vitamin D deficiency were assessed. During multiple regression with step-by-step inclusion method the following factors showed a significant contribution to the formation of vitamin D levels in patients with COPD and early stages of renal dysfunction: the frequency of exacerbations of COPD in the preceding 12 months (3 (2-4), Î²=ï­0,932, p=0,003), SI (44 (15-87), Î²=ï­0,038, p=0,006), fibrinogen level (5 (3-7), Î²=ï­0,413, p=0,016), GFR (74,9 (68,4-89), Î²=ï­0,119, p=0,041), insolation (94,5 (38,5-152), Î²=0,026, p=0,0008),the total score on a GDS scale (9 (8-11), Î²=ï­0,536, p=0,014). R2 for this model was 0,87. BMI made a significant contribution to the formation of vitamin D level at the step of inclusion to the multivariate analysis, but when included in the analysis of insolation markers, the relationship weakened and completely disappeared when the values of SI were included. FEV1 values do not affect on vitamin D level in COPD patients in combination with early stages of kidney dysfunction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bolotova</LastName>
+                    <ForeName>E V</ForeName>
+                    <Initials>EV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kuban State Medical University, 4 Sedina str., Krasnodar 350063, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yavlyanskaya</LastName>
+                    <ForeName>V V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kuban State Medical University, 4 Sedina str., Krasnodar 350063, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Clinical Hospital â 2, 6/2 Krasnyh partizan str., Krasnodar 350012, Russian Federation; e-mail: rahill_de_novo@mail.ru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudnikova</LastName>
+                    <ForeName>A V</ForeName>
+                    <Initials>AV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Clinical Hospital â 2, 6/2 Krasnyh partizan str., Krasnodar 350012, Russian Federation; e-mail: rahill_de_novo@mail.ru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Adv Gerontol</MedlineTA>
+            <NlmUniqueID>100971443</NlmUniqueID>
+            <ISSNLinking>1561-9125</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029424" MajorTopicYN="Y">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="Y">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="Y">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Ð¦ÐµÐ»Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ñ â Ð°Ð½Ð°Ð»Ð¸Ð· ÑÐ°ÐºÑÐ¾ÑÐ¾Ð², Ð°ÑÑÐ¾ÑÐ¸Ð¸ÑÐ¾Ð²Ð°Ð½Ð½ÑÑ Ñ ÑÑÐ¾Ð²Ð½ÐµÐ¼ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ñ Ð±Ð¾Ð»ÑÐ½ÑÑ Ð¥ÐÐÐ Ð² ÑÐ¾ÑÐµÑÐ°Ð½Ð¸Ð¸ Ñ ÑÐ°Ð½Ð½Ð¸Ð¼Ð¸ ÑÑÐ°Ð´Ð¸ÑÐ¼Ð¸ Ð´Ð¸ÑÑÑÐ½ÐºÑÐ¸Ð¸ Ð¿Ð¾ÑÐµÐº. Ð Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð±ÑÐ»Ð¸ Ð²ÐºÐ»ÑÑÐµÐ½Ñ 338 Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ñ Ð¥ÐÐÐ IâII ÑÑÐµÐ¿ÐµÐ½Ð¸ ÑÑÐ¶ÐµÑÑÐ¸ (66,9% â Ð¼ÑÐ¶ÑÐ¸Ð½Ñ, ÑÑÐµÐ´Ð½Ð¸Ð¹ Ð²Ð¾Ð·ÑÐ°ÑÑ â 69,4Â±6,1 Ð³Ð¾Ð´Ð°, ÑÑÐµÐ´Ð½Ð¸Ð¹ ÑÑÐ°Ð¶ Ð±Ð¾Ð»ÐµÐ·Ð½Ð¸ â 18,5Â±4,1 Ð³Ð¾Ð´Ð°; 33,1% â Ð¶ÐµÐ½ÑÐ¸Ð½Ñ, ÑÑÐµÐ´Ð½Ð¸Ð¹ Ð²Ð¾Ð·ÑÐ°ÑÑ â 64,8Â±7,3 Ð³Ð¾Ð´Ð°, ÑÑÐµÐ´Ð½Ð¸Ð¹ ÑÑÐ°Ð¶ Ð±Ð¾Ð»ÐµÐ·Ð½Ð¸ â 12,1Â±5,1 Ð³Ð¾Ð´Ð°). Ð£ Ð²ÑÐµÑ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð±ÑÐ»Ð° Ð´Ð¸Ð°Ð³Ð½Ð¾ÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð° ÑÑÐ¾Ð½Ð¸ÑÐµÑÐºÐ°Ñ Ð±Ð¾Ð»ÐµÐ·Ð½Ñ Ð¿Ð¾ÑÐµÐº IâII ÑÑÐ°Ð´Ð¸Ð¸. ÐÐ¾Ð¼Ð¸Ð¼Ð¾ Ð¾Ð±ÑÐµÐºÐ»Ð¸Ð½Ð¸ÑÐµÑÐºÐ¸Ñ Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ð¹, Ñ Ð²ÑÐµÑ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð¾ÑÐµÐ½Ð¸Ð²Ð°Ð»Ð¸ Ð¿Ð¾ÑÐµÐ½ÑÐ¸Ð°Ð»ÑÐ½ÑÐµ ÑÐ°ÐºÑÐ¾ÑÑ ÑÐ¸ÑÐºÐ° ÑÐ°Ð·Ð²Ð¸ÑÐ¸Ñ Ð´ÐµÑÐ¸ÑÐ¸ÑÐ° Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D. Ð ÑÐ¾Ð´Ðµ Ð¼Ð½Ð¾Ð¶ÐµÑÑÐ²ÐµÐ½Ð½Ð¾Ð¹ ÑÐµÐ³ÑÐµÑÑÐ¸Ð¸ Ñ Ð¿Ð¾ÑÐ°Ð³Ð¾Ð²ÑÐ¼ Ð²ÐºÐ»ÑÑÐµÐ½Ð¸ÐµÐ¼ Ð¿ÑÐ¸Ð·Ð½Ð°ÐºÐ¾Ð² Ð±ÑÐ»Ð¸ Ð²ÑÑÐ²Ð»ÐµÐ½Ñ ÑÐ°ÐºÑÐ¾ÑÑ, Ð²Ð½Ð¾ÑÑÑÐ¸Ðµ Ð´Ð¾ÑÑÐ¾Ð²ÐµÑÐ½ÑÐ¹ Ð²ÐºÐ»Ð°Ð´ Ð² ÑÐ¾ÑÐ¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ñ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ñ Ð¥ÐÐÐ Ð² ÑÐ¾ÑÐµÑÐ°Ð½Ð¸Ð¸ Ñ ÑÐ°Ð½Ð½Ð¸Ð¼Ð¸ ÑÑÐ°Ð´Ð¸ÑÐ¼Ð¸ Ð´Ð¸ÑÑÑÐ½ÐºÑÐ¸Ð¸ Ð¿Ð¾ÑÐµÐº: ÑÐ°ÑÑÐ¾ÑÐ° Ð¾Ð±Ð¾ÑÑÑÐµÐ½Ð¸Ð¹ Ð¥ÐÐÐ Ð·Ð° Ð¿ÑÐµÐ´ÑÐµÑÑÐ²ÑÑÑÐ¸Ðµ 12 Ð¼ÐµÑ (3 (2â4), Î²=ï­0,932, Ñ=0,003), Ð¸Ð½Ð´ÐµÐºÑ ÐºÑÑÑÑÐµÐ³Ð¾ ÑÐµÐ»Ð¾Ð²ÐµÐºÐ° (44 (15â87), Î²=ï­0,038, Ñ=0,006), ÑÑÐ¾Ð²ÐµÐ½Ñ ÑÐ¸Ð±ÑÐ¸Ð½Ð¾Ð³ÐµÐ½Ð° (5 (3â7), Î²=ï­0,413, Ñ=0,016), Ð¡ÐÐ¤ (74,9 (68,4â89), Î²=ï­0,119, Ñ=0,041), Ð¸Ð½ÑÐ¾Ð»ÑÑÐ¸Ñ (94,5 (38,5â152), Î²=0,026, Ñ=0,0008), ÑÑÐ¼Ð¼Ð° Ð±Ð°Ð»Ð»Ð¾Ð² Ð¿Ð¾ ÑÐºÐ°Ð»Ðµ GDS (9 (8â11), Î²=ï­0,536, Ñ=0,014). R2 Ð´Ð»Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð¼Ð¾Ð´ÐµÐ»Ð¸ ÑÐ¾ÑÑÐ°Ð²Ð¸Ð» 0,87. ÐÐÐ¢ Ð²Ð½Ð¾ÑÐ¸Ð» Ð´Ð¾ÑÑÐ¾Ð²ÐµÑÐ½ÑÐ¹ Ð²ÐºÐ»Ð°Ð´ Ð² ÑÐ¾ÑÐ¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ð½Ð° ÑÑÐ°Ð¿Ðµ Ð²ÐºÐ»ÑÑÐµÐ½Ð¸Ñ Ð² Ð¼Ð½Ð¾Ð³Ð¾ÑÐ°ÐºÑÐ¾ÑÐ½ÑÐ¹ Ð°Ð½Ð°Ð»Ð¸Ð·, Ð½Ð¾ Ð¿ÑÐ¸ Ð²ÐºÐ»ÑÑÐµÐ½Ð¸Ð¸ Ð² Ð°Ð½Ð°Ð»Ð¸Ð· Ð¿Ð¾ÐºÐ°Ð·Ð°ÑÐµÐ»ÐµÐ¹ Ð¸Ð½ÑÐ¾Ð»ÑÑÐ¸Ð¸ ÑÐ²ÑÐ·Ñ Ð¾ÑÐ»Ð°Ð±ÐµÐ²Ð°Ð»Ð° Ð¸ Ð¿Ð¾Ð»Ð½Ð¾ÑÑÑÑ Ð¸ÑÑÐµÐ·Ð°Ð»Ð° Ð¿ÑÐ¸ Ð²ÐºÐ»ÑÑÐµÐ½Ð¸Ð¸ Ð·Ð½Ð°ÑÐµÐ½Ð¸Ð¹ Ð¸Ð½Ð´ÐµÐºÑÐ° ÐºÑÑÑÑÐµÐ³Ð¾ ÑÐµÐ»Ð¾Ð²ÐµÐºÐ°. ÐÐ¾ÐºÐ°Ð·Ð°ÑÐµÐ»Ñ ÐÐ¤Ð1 Ð½Ðµ Ð¿ÑÐ¾Ð´ÐµÐ¼Ð¾Ð½ÑÑÑÐ¸ÑÐ¾Ð²Ð°Ð» Ð²Ð»Ð¸ÑÐ½Ð¸Ñ Ð½Ð° ÑÐ¾ÑÐ¼Ð¸ÑÐ¾Ð²Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ñ Ð±Ð¾Ð»ÑÐ½ÑÑ Ñ Ð´Ð°Ð½Ð½Ð¾Ð¹ Ð¿Ð°ÑÐ¾Ð»Ð¾Ð³Ð¸ÐµÐ¹.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic obstructive pulmonary disease</Keyword>
+            <Keyword MajorTopicYN="N">renal dysfunction</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D deficiency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31228374</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

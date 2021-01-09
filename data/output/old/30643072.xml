@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30643072</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1672-7347</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>43</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences</Title>
+                <ISOAbbreviation>Zhong Nan Da Xue Xue Bao Yi Xue Ban</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Early diagnosis, prevention and treatment for calcific uremic arteriolopathy].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1251-1256</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.11817/j.issn.1672-7347.2018.11.014</ELocationID>
+            <Abstract>
+                <AbstractText>Calcific uremic arteriopathy (CUA), termed calciphylaxis, is a rare but highly fatal clinical syndrome. There is no clearly laboratory diagnostic criteria for CUA. The medium and small arterial calcification and microthrombosis discovered by skin biopsy, radiologic imagingï¼bone scan and the evidence of activation of the bone morphogenetic protein signal (BMPs) transduction pathway are useful for early diagnosis of this disease. The common therapies (including intravenous sodium thiosulfate (STS) and bisphosphonates, hyperbaric oxygen therapy and other symptomatic supports) are used for the management of wounds, pain, nutrition, dialysis and so on. Controlling the chronic kidney disease-mineral and bone disorder (CKD-MBD) and some complications of dialysis and drugs (such as warfarin, active vitamin D) can prevent CUA. However, CUA patients still have poor prognosis and high mortality. Since some patients progress rapidly, it is of great importance to make early diagnosis and provide effective treatments with multidisciplinary management.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yueyi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Third Xiangya Hospital, Central South University, Changsha 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Hao</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Third Xiangya Hospital, Central South University, Changsha 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Third Xiangya Hospital, Central South University, Changsha 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Ying</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Third Xiangya Hospital, Central South University, Changsha 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jishi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Third Xiangya Hospital, Central South University, Changsha 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhong Nan Da Xue Xue Bao Yi Xue Ban</MedlineTA>
+            <NlmUniqueID>101230586</NlmUniqueID>
+            <ISSNLinking>1672-7347</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>5Q7ZVV76EI</RegistryNumber>
+                <NameOfSubstance UI="D014859">Warfarin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002115" MajorTopicYN="Y">Calciphylaxis</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042241" MajorTopicYN="N">Early Diagnosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="Y">Uremia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014859" MajorTopicYN="N">Warfarin</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Type="Publisher" Language="chi">
+            <AbstractText>éæ§å°¿æ¯çæ§å°å¨èç(calcific uremic arteriolopathyï¼CUA)åç§°éåé²å¾¡ï¼æ¯ä¸ç§å°è§ä½å·æé«çæ­»ççä¸´åºç»¼åå¾ãCUAç®åç¼ºä¹æç¡®çå®éªå®¤è¯æ­æ åï¼ç®è¤æ´»æ£æä¸­å°å¨èä¸­èéååå¾®è¡æ å½¢æï¼æ¾å°æ§æ£æ¥ãéª¨æ«æåéª¨å½¢æèç½ä¿¡å·éè·¯æ¿æ´»çè¯æ®åè½æ©ææç¤ºè¯¥çãCUAå¸¸éè¿éèæ³¨å°ç¡«ä»£ç¡«é¸é ãåç£·é¸çï¼é«åæ°§çåå¶ä»å¯¹çæ¯ææ²»çæ¥è¿è¡ä¼¤å£ãç¼çãè¥å»ãéæç­æ¹é¢çç»¼åç®¡çãCUAçæ©æé²æ§ä¸»è¦éè¿åçæ§å¶æ¢æ§è¾ç-ç¿ç©è´¨ä¸éª¨å¼å¸¸ï¼åå°éæå¹¶åç/åå¹¶çï¼æç¨æäºè¯ç©(å¦åæ³æãæ´»æ§ç»´çç´ Dç­)æ¥å®ç°ãCUAæ£èé¢åå·®ï¼çæ­»çé«ï¼é¨åæ£èçæè¿å±è¿éï¼æ©æè¯æ­å¹¶å¶è®¢ææçå¤å­¦ç§åä½æ²»çæ¹æ¡æä¸ºéè¦ã.</AbstractText>
+        </OtherAbstract>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30643072</ArticleId>
+            <ArticleId IdType="doi">10.11817/j.issn.1672-7347.2018.11.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

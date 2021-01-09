@@ -1,0 +1,567 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30778159</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>02</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Significance of urinary C-megalin excretion in vitamin D metabolism in pre-dialysis CKD patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2207</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-019-38613-8</ELocationID>
+            <Abstract>
+                <AbstractText>Serum 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D are decreased in CKD. Megalin in proximal tubular epithelial cells reabsorbs glomerular-filtered 25(OH)D-DBP complex to convert 25(OH)D to 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D. Urinary C-megalin excretion is increased via exocytosis from injured nephrons overloaded with megalin-mediated protein metabolism. This study investigated the significance of urinary C-megalin excretion in vitamin D metabolism in 153 pre-dialysis CKD patients. Urinary C-megalin was positively associated with urinary protein, Î²<sub>2</sub>MG and Î±<sub>1</sub>MG, and exhibited negative correlations with serum 25(OH)D, 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D. Multiple regression analysis showed that urinary C-megalin had a significantly negative association with 25(OH)D. Serum 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D, as well as 1,25(OH)<sub>2</sub>D/25(OH)D and 24,25(OH)<sub>2</sub>D/25(OH)D ratios, showed positive correlations with eGFR. Additionally, wholePTH was positively associated with 1,25(OH)<sub>2</sub>D/25(OH)D and 1,25(OH)<sub>2</sub>D/24,25(OH)<sub>2</sub>D, while FGF23 was positively associated with 24,25(OH)<sub>2</sub>D/25(OH)D and negatively with 1,25(OH)<sub>2</sub>D/24,25(OH)<sub>2</sub>D. Urinary C-megalin emerged as an independent factor positively associated with 1,25(OH)<sub>2</sub>D/25(OH)D and 1,25(OH)<sub>2</sub>D/24,25(OH)<sub>2</sub>D. Although 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D are decreased in CKD patient serum, our findings suggest that PTH and FGF23 retain their effects to regulate vitamin D metabolism even in the kidneys of these patients, while production of 1,25(OH)<sub>2</sub>D and 24,25(OH)<sub>2</sub>D from 25(OH)D is restricted due to either impairment of megalin-mediated reabsorption of the 25(OH)D-DBP complex or reduced renal mass.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Toi</LastName>
+                    <ForeName>Norikazu</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">0000-0001-5930-3274</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Metabolism, Endocrinology, and Molecular Medicine, Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inaba</LastName>
+                    <ForeName>Masaaki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Metabolism, Endocrinology, and Molecular Medicine, Osaka City University Graduate School of Medicine, Osaka, Japan. m1356849@med.osaka-cu.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka City University Graduate School of Medicine, Osaka, Japan. m1356849@med.osaka-cu.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishimura</LastName>
+                    <ForeName>Eiji</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Meijibashi Hospital, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsugawa</LastName>
+                    <ForeName>Naoko</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health and Nutrition, Osaka Shoin Women's University, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imanishi</LastName>
+                    <ForeName>Yasuo</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Metabolism, Endocrinology, and Molecular Medicine, Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emoto</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Metabolism, Endocrinology, and Molecular Medicine, Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hirayama</LastName>
+                    <ForeName>Yoshiaki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Reagent Research and Development Department, Denka Co, Ltd., Gosen, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakatani</LastName>
+                    <ForeName>Shinya</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">0000-0001-5302-3634</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>Akihiko</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Molecular Medicine, Kidney Research Center, Niigata University Graduate School of Medical and Dental Sciences, Niigata, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamada</LastName>
+                    <ForeName>Shinsuke</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Metabolism, Endocrinology, and Molecular Medicine, Osaka City University Graduate School of Medicine, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C000597357">LRP2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026561">Low Density Lipoprotein Receptor-Related Protein-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="Y">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007677" MajorTopicYN="N">Kidney Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026561" MajorTopicYN="N">Low Density Lipoprotein Receptor-Related Protein-2</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057234" MajorTopicYN="Y">Preoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30778159</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-019-38613-8</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-019-38613-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6379559</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Kidney Int. 1999 Mar;55(3):1019-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10027939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1999 Feb 19;96(4):507-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10052453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol B. 1975 Mar 15;50(3):431-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1116347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2001 Apr;16(4):605-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11315988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Pharm Bull. 2001 Jul;24(7):738-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11456110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2001 Aug;22(4):477-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11493580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2003 Aug;64(2):414-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12846736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 Feb;65(2):531-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14717923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2004 Feb;113(4):561-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14966565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 May;16(5):517-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15322741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2004 Dec;80(6 Suppl):1689S-96S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15585789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2005 May 1;77(9):3001-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15859623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2005 Nov;289(5):F1088-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15998839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jan;71(1):31-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17091124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Mar;18(3):896-903</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17267743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2007 Oct;11 Suppl 1:S23-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17976080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Feb;73(3):360; author reply 360-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18195697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Endocrinol (Oxf). 2008 Aug;69(2):189-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18221403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2008 May;19(5):709-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18239958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 2008 Mar 26;82(13-14):677-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18304585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Endocrinol. 2008 Aug;198(2):261-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18495944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2009 Jun;53(6):982-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19339088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 May 15;266(14):8690-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2026586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr J. 2010;57(7):609-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20508384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Nov;78(10):975-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20844473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2011 Jun;15 Suppl 1:14-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21595846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2012 Mar;30(2):217-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21898178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Res Clin Pract. 2012 Jul;97(1):91-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22336632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2012 May;35(5):1112-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22410816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2012 Jul;122(7):2543-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22728934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 May;63(5):713-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24647050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Res Clin Pract. 2014 Jul;105(1):40-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24846444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Membranes (Basel). 2014 Jul 11;4(3):333-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25019425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Dec 12;9(12):e114400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25502002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2015 Feb 10;5:8304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25665715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 2015;130(2):119-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26068724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1989 Apr 13;320(15):980-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2648151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jul;27(7):1996-2008</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26534923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes. 2017 May;66(5):1391-1404</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28289043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Res. 2018 Mar;83(3):662-668</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29211055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1988 Nov;34(5):712-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3199682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1972 Jul;69(7):1673-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4340153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1982 Jan;21(1):65-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6978962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1994 Sep 1;224(2):335-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7925346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1994 Oct 11;91(21):10014-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7937829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1994 Oct 11;91(21):9725-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7937880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 1997;61(10):977-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9296336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Invest. 1998 Feb;28(2):100-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9541123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

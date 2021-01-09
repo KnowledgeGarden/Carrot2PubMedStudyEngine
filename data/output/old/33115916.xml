@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">33115916</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1533-3450</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society of Nephrology : JASN</Title>
+                <ISOAbbreviation>J Am Soc Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differences in 25-Hydroxyvitamin D Clearance by eGFR and Race: A Pharmacokinetic Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>188-198</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1681/ASN.2020050625</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Conversion of 25-hydroxyvitamin D (25[OH]D) to the active form of vitamin D occurs primarily in the kidney. Observational studies suggest 25(OH)D clearance from the circulation differs by kidney function and race. However, these potential variations have not been tested using gold-standard methods.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We administered intravenous, deuterated 25(OH)D<sub>3</sub> (d-25[OH]D<sub>3</sub>) in a pharmacokinetic study of 87 adults, including 43 with normal eGFR (â¥60 ml/min per 1.73 m<sup>2</sup>), 24 with nondialysis CKD (eGFR &lt;60 ml/min per 1.73 m<sup>2</sup>), and 20 with ESKD treated with hemodialysis. We measured concentrations of d-25(OH)D<sub>3</sub> and deuterated 24,25-dihydroxyvitamin D<sub>3</sub> at 5 minutes and 4 hours after administration, and at 1, 4, 7, 14, 21, 28, 42, and 56 days postadministration. We calculated 25(OH)D clearance using noncompartmental analysis of d-25(OH)D<sub>3</sub> concentrations over time. We remeasured 25(OH)D clearance in a subset of 18 participants after extended oral vitamin-D<sub>3</sub> supplementation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean age of the study cohort was 64 years; 41% were female, and 30% were Black. Mean 25(OH)D clearances were 360 ml/d, 313 ml/d, and 263 ml/d in participants with normal eGFR, CKD, and kidney failure, respectively (<i>P</i>=0.02). After adjustment for age, sex, race, and estimated blood volume, lower eGFR was associated with reduced 25(OH)D clearance (<i>Î²</i>=-17 ml/d per 10 ml/min per 1.73 m<sup>2</sup> lower eGFR; 95% CI, -21 to -12). Black race was associated with higher 25(OH)D clearance in participants with normal eGFR, but not in those with CKD or kidney failure (<i>P</i> for interaction=0.05). Clearance of 25(OH)D before versus after vitamin-D<sub>3</sub> supplementation did not differ.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Using direct pharmacokinetic measurements, we show that 25(OH)D clearance is reduced in CKD and may differ by race.</AbstractText>
+                <AbstractText Label="CLINICAL TRIAL REGISTRY NAME AND REGISTRATION NUMBER" NlmCategory="UNASSIGNED">Clearance of 25-hydroxyvitamin D in Chronic Kidney Disease (CLEAR), NCT02937350; Clearance of 25-hydroxyvitamin D3 During Vitamin D3 Supplementation (CLEAR-PLUS), NCT03576716.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2021 by the American Society of Nephrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hsu</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3780-294X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington sihsu@uw.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zelnick</LastName>
+                    <ForeName>Leila R</ForeName>
+                    <Initials>LR</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8461-5111</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Yvonne S</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Best</LastName>
+                    <ForeName>Cora M</ForeName>
+                    <Initials>CM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8400-9288</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kestenbaum</LastName>
+                    <ForeName>Bryan</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thummel</LastName>
+                    <ForeName>Kenneth E</ForeName>
+                    <Initials>KE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rose</LastName>
+                    <ForeName>Lynn M</ForeName>
+                    <Initials>LM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacy, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoofnagle</LastName>
+                    <ForeName>Andrew N</ForeName>
+                    <Initials>AN</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-6449-0243</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Boer</LastName>
+                    <ForeName>Ian H</ForeName>
+                    <Initials>IH</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-1571-7592</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, University of Washington, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Veterans Affairs Puget Sound Health Care System, Seattle, Washington.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03576716</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Nephrol</MedlineTA>
+            <NlmUniqueID>9013836</NlmUniqueID>
+            <ISSNLinking>1046-6673</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">catabolism</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">clearance</Keyword>
+            <Keyword MajorTopicYN="Y">end stage kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">racial differences</Keyword>
+            <Keyword MajorTopicYN="Y">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>41</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33115916</ArticleId>
+            <ArticleId IdType="pii">ASN.2020050625</ArticleId>
+            <ArticleId IdType="doi">10.1681/ASN.2020050625</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

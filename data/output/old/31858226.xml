@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">31858226</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CKD-MBD post kidney transplantation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-019-04421-5</ELocationID>
+            <Abstract>
+                <AbstractText>Complications of chronic kidney disease-associated mineral and bone disorders (CKD-MBD) are frequently observed in pediatric kidney transplant recipients and are associated with high morbidity, including growth failure, leg deformities, bone pain, fractures, osteonecrosis, and vascular calcification. Post-transplant CKD-MBD is mainly due to preexisting renal osteodystrophy and cardiovascular changes at the time of transplantation, glucocorticoid treatment, and reduced graft function. In addition, persistent elevated levels of parathyroid hormone (PTH) and fibroblast growth factor 23 may cause hypophosphatemia, resulting in impaired bone mineralization. Patient monitoring should include assessment of growth, leg deformities, and serum levels of calcium, phosphate, magnesium, alkaline phosphatase, 25-hydroxyvitamin D, and PTH. Therapy should primarily focus on regular physical activity, preservation of transplant function, and steroid-sparing immunosuppressive protocols. In addition, adequate monitoring and treatment of vitamin D and mineral metabolism including vitamin D supplementation, oral phosphate, and/or magnesium supplementation, in case of persistent hypophosphatemia/hypomagnesemia, and treatment with active vitamin D in cases of persistent secondary hyperparathyroidism. The latter should be done using the minimum PTH-suppressive dosages aiming at the recommended CKD stage-dependent PTH target range. Finally, treatment with recombinant human growth hormone should be considered in patients lacking catch-up growth within the first year after transplantation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Haffner</LastName>
+                    <ForeName>Dieter</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9601-7813</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Kidney, Liver and Metabolic Diseases, Paediatric Research Center, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany. Haffner.Dieter@mh-hannover.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leifheit-Nestler</LastName>
+                    <ForeName>Maren</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Kidney, Liver and Metabolic Diseases, Paediatric Research Center, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Paediatric Research Center, Hannover Medical School, Carl-Neuberg-Str. 1, 30625, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="N">Calcification</Keyword>
+            <Keyword MajorTopicYN="N">Children</Keyword>
+            <Keyword MajorTopicYN="N">FGF23</Keyword>
+            <Keyword MajorTopicYN="N">Growth</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">Renal transplantation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31858226</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-019-04421-5</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-019-04421-5</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Update Work Group (2017) KDIGO 2017 clinical practice guideline update for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone disorder (CKD-MBD). Kidney Int Suppl 7:1â59</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wesseling-Perry K, Bacchetta J (2011) CKD-MBD after kidney transplantation. Pediatr Nephrol 26:2143â2151</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21394466</ArticleId>
+                    <ArticleId IdType="pmcid">3203246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sgambat K, Moudgil A (2014) Optimization of bone health in children before and after renal transplantation: current perspectives and future directions. Front Pediatr 2:13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24605319</ArticleId>
+                    <ArticleId IdType="pmcid">3932433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Haffner D, Schuler U (2014) Metabolic bone disease after renal transplantation. Curr Opin Pediatr 26:198â206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24535492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hohenfellner K, Rauch F, Ariceta G, Awan A, Bacchetta J, Bergmann C, Bechtold S, Cassidy N, Deschenes G, Elenberg E, Gahl WA, Greil O, Harms E, Herzig N, Hoppe B, Koeppl C, Lewis MA, Levtchenko E, Nesterova G, Santos F, Schlingmann KP, Servais A, Soliman NA, Steidle G, Sweeney C, Treikauskas U, Topaloglu R, Tsygin A, Veys K, Vigier VR, Zustin J, Haffner D (2019) Management of bone disease in cystinosis: statement from an international conference. J Inherit Metab Dis 42:1019â1029</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31177550</ArticleId>
+                    <ArticleId IdType="pmcid">7379238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hu MC, Shiizaki K, Kuro-o M, Moe OW (2013) Fibroblast growth factor 23 and klotho: physiology and pathophysiology of an endocrine network of mineral metabolism. Annu Rev Physiol 75:503â533</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23398153</ArticleId>
+                    <ArticleId IdType="pmcid">3770142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Portale AA, Wolf M, Juppner H, Messinger S, Kumar J, Wesseling-Perry K, Schwartz GJ, Furth SL, Warady BA, Salusky IB (2014) Disordered FGF23 and mineral metabolism in children with CKD. Clin J Am Soc Nephrol 9:344â353</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hruska KA, Seifert M, Sugatani T (2015) Pathophysiology of the chronic kidney disease-mineral bone disorder. Curr Opin Nephrol Hypertens 24:303â309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26050115</ArticleId>
+                    <ArticleId IdType="pmcid">4699443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bakkaloglu SA, Borzych D, Soo Ha I, Serdaroglu E, Buscher R, Salas P, Patel H, Drozdz D, Vondrak K, Watanabe A, Villagra J, Yavascan O, Valenzuela M, Gipson D, Ng KH, Warady BA, Schaefer F, International Pediatric Peritoneal Dialysis Network (2011) Cardiac geometry in children receiving chronic peritoneal dialysis: findings from the international pediatric peritoneal dialysis network (IPPN) registry. Clin J Am Soc Nephrol 6:1926â1933</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21737855</ArticleId>
+                    <ArticleId IdType="pmcid">3359542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Borzych D, Rees L, Ha IS, Chua A, Valles PG, Lipka M, Zambrano P, Ahlenstiel T, Bakkaloglu SA, Spizzirri AP, Lopez L, Ozaltin F, Printza N, Hari P, Klaus G, Bak M, Vogel A, Ariceta G, Yap HK, Warady BA, Schaefer F, International Pediatric PD Network (IPPN) (2010) The bone and mineral disorder of children undergoing chronic peritoneal dialysis. Kidney Int 78:1295â1304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20811335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Salusky IB, Ramirez JA, Oppenheim W, Gales B, Segre GV, Goodman WG (1994) Biochemical markers of renal osteodystrophy in pediatric patients undergoing CAPD/CCPD. Kidney Int 45:253â258</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8127016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Goodman WG, Goldin J, Kuizon BD, Yoon C, Gales B, Sider D, Wang Y, Chung J, Emerick A, Greaser L, Elashoff RM, Salusky IB (2000) Coronary-artery calcification in young adults with end-stage renal disease who are undergoing dialysis. N Engl J Med 342:1478â1483</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10816185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oh J, Wunsch R, Turzer M, Bahner M, Raggi P, Querfeld U, Mehls O, Schaefer F (2002) Advanced coronary and carotid arteriopathy in young adults with childhood-onset chronic renal failure. Circulation 106:100â105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12093777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kalantar-Zadeh K, Kuwae N, Regidor DL, Kovesdy CP, Kilpatrick RD, Shinaberger CS, McAllister CJ, Budoff MJ, Salusky IB, Kopple JD (2006) Survival predictability of time-varying indicators of bone disease in maintenance hemodialysis patients. Kidney Int 70:771â780</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16820797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Denburg MR, Kumar J, Jemielita T, Brooks ER, Skversky A, Portale AA, Salusky IB, Warady BA, Furth SL, Leonard MB (2016) Fracture burden and risk factors in childhood CKD: results from the CKiD cohort study. J Am Soc Nephrol 27:543â550</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26139439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Querfeld U, Schaefer F (2018) Cardiovascular risk factors in children on dialysis: an update. Pediatr Nephrol. https://doi.org/10.1007/s00467-018-4125-x</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bakkaloglu SA, Wesseling-Perry K, Pereira RC, Gales B, Wang HJ, Elashoff RM, Salusky IB (2010) Value of the new bone classification system in pediatric renal osteodystrophy. Clin J Am Soc Nephrol 5:1860â1866</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20634327</ArticleId>
+                    <ArticleId IdType="pmcid">2974387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Baia LC, Heilberg IP, Navis G, de Borst MH, NIGRAM investigators (2015) Phosphate and FGF-23 homeostasis after kidney transplantation. Nat Rev Nephrol 11:656â666</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26416497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wesseling-Perry K, Pereira RC, Tsai E, Ettenger R, Juppner H, Salusky IB (2013) FGF23 and mineral metabolism in the early post-renal transplantation period. Pediatr Nephrol 28:2207â2215</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23852336</ArticleId>
+                    <ArticleId IdType="pmcid">3796035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Monier-Faugere MC, Mawad H, Qi Q, Friedler RM, Malluche HH (2000) High prevalence of low bone turnover and occurrence of osteomalacia after kidney transplantation. J Am Soc Nephrol 11:1093â1099</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10820173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Weisinger JR, Carlini RG, Rojas E, Bellorin-Font E (2006) Bone disease after renal transplantation. Clin J Am Soc Nephrol 1:1300â1313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17699362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shroff R, Knott C, Gullett A, Wells D, Marks SD, Rees L (2011) Vitamin D deficiency is associated with short stature and may influence blood pressure control in paediatric renal transplant recipients. Pediatr Nephrol 26:2227â2233</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21643944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Uslu Gokceoglu A, Comak E, Dogan CS, Koyun M, Akbas H, Akman S (2014) Magnesium excretion and hypomagnesemia in pediatric renal transplant recipients. Ren Fail 36:1056â1059</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24828469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mazzola BL, Vannini SD, Truttmann AC, von Vigier RO, Wermuth B, Ferrari P, Bianchetti MG (2003) Long-term calcineurin inhibition and magnesium balance after renal transplantation. Transpl Int 16:76â81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12595968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Castiglioni S, Cazzaniga A, Albisetti W, Maier JA (2013) Magnesium and osteoporosis: current state of knowledge and future research directions. Nutrients 5:3022â3033</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23912329</ArticleId>
+                    <ArticleId IdType="pmcid">3775240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Van de Cauter J, Sennesael J, Haentjens P (2011) Long-term evolution of the mineral metabolism after renal transplantation: a prospective, single-center cohort study. Transplant Proc 43:3470â3475</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22099822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ozturk CF, Karakelleoglu C, Orbak Z, Yildiz L (2012) The effect of serum magnesium levels and serum endothelin-1 levels on bone mineral density in protein energy malnutrition. West Indian Med J 61:213â218</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23155975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hayes W, Boyle S, Carroll A, Bockenhauer D, Marks SD (2017) Hypomagnesemia and increased risk of new-onset diabetes mellitus after transplantation in pediatric renal transplant recipients. Pediatr Nephrol 32:879â884</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28039534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carpenter TO, DeLucia MC, Zhang JH, Bejnerowicz G, Tartamella L, Dziura J, Petersen KF, Befroy D, Cohen D (2006) A randomized controlled study of effects of dietary magnesium oxide supplementation on bone mineral content in healthy girls. J Clin Endocrinol Metab 91:4866â4872</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17018656</ArticleId>
+                    <ArticleId IdType="pmcid">2995550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Franke D, Thomas L, Steffens R, Pavicic L, Gellermann J, Froede K, Querfeld U, Haffner D, Zivicnjak M (2015) Patterns of growth after kidney transplantation among children with ESRD. Clin J Am Soc Nephrol 10:127â134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25352379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bailey JL, Wang X, England BK, Price SR, Ding X, Mitch WE (1996) The acidosis of chronic renal failure activates muscle proteolysis in rats by augmenting transcription of genes encoding proteins of the ATP-dependent ubiquitin-proteasome pathway. J Clin Invest 97:1447â1453</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8617877</ArticleId>
+                    <ArticleId IdType="pmcid">507204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Boirie Y, Broyer M, Gagnadoux MF, Niaudet P, Bresson JL (2000) Alterations of protein metabolism by metabolic acidosis in children with chronic renal failure. Kidney Int 58:236â241</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10886568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brungger M, Hulter HN, Krapf R (1997) Effect of chronic metabolic acidosis on the growth hormone/IGF-1 endocrine axis: new cause of growth hormone insensitivity in humans. Kidney Int 51:216â221</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8995736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Challa A, Chan W, Krieg RJ, Thabet MA, Liu F, Hintz RL, Chan JC (1993) Effect of metabolic acidosis on the expression of insulin-like growth factor and growth hormone receptor. Kidney Int 44:1224â1227</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8301923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Challa A, Krieg RJ, Thabet MA, Veldhuis JD, Chan JC (1993) Metabolic acidosis inhibits growth hormone secretion in rats: mechanism of growth retardation. Am J Physiol 265:E547âE553</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8238328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Suzuki Y, Ichikawa Y, Saito E, Homma M (1983) Importance of increased urinary calcium excretion in the development of secondary hyperparathyroidism of patients under glucocorticoid therapy. Metabolism 32:151â156</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6298567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>O'Brien CA, Jia D, Plotkin LI, Bellido T, Powers CC, Stewart SA, Manolagas SC, Weinstein RS (2004) Glucocorticoids act directly on osteoblasts and osteocytes to induce their apoptosis and reduce bone formation and strength. Endocrinology 145:1835â1841</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14691012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brandenburg VM, Ketteler M, Heussen N, Politt D, Frank RD, Westenfeld R, Ittel TH, Floege J (2005) Lumbar bone mineral density in very long-term renal transplant recipients: impact of circulating sex hormones. Osteoporos Int 16:1611â1620</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15999293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klaus G, Jux C, Leiber K, Hugel U, Mehls O (1996) Interaction between insulin-like growth factor I, growth hormone, parathyroid hormone, 1 alpha,25-dihydroxyvitamin D3 and steroids on epiphyseal chondrocytes. Acta Paediatr Suppl 417:69â71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9055916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Delucchi A, Toro L, Alzamora R, Barrientos V, Gonzalez M, Andaur R, Leon P, Villanueva F, Galindo M, Heras FL, Montecino M, Moena D, Lazcano A, Pinto V, Salas P, Reyes ML, Mericq V, Michea L (2019) Glucocorticoids decrease longitudinal bone growth in paediatric kidney transplant recipients by stimulating the FGF23/FGFR3 signalling pathway. J Bone Miner Res. https://doi.org/10.1002/jbmr.3761</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Terpstra AM, Kalkwarf HJ, Shults J, Zemel BS, Wetzsteon RJ, Foster BJ, Strife CF, Foerster DL, Leonard MB (2012) Bone density and cortical structure after pediatric renal transplantation. J Am Soc Nephrol 23:715â726</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22282589</ArticleId>
+                    <ArticleId IdType="pmcid">3312505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epstein S (1996) Post-transplantation bone disease: the role of immunosuppressive agents and the skeleton. J Bone Miner Res 11:1â7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8770690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alvarez-Garcia O, Carbajo-Perez E, Garcia E, Gil H, Molinos I, Rodriguez J, Ordonez FA, Santos F (2007) Rapamycin retards growth and causes marked alterations in the growth plate of young rats. Pediatr Nephrol 22:954â961</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17370095</ArticleId>
+                    <ArticleId IdType="pmcid">7064183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Singha UK, Jiang Y, Yu S, Luo M, Lu Y, Zhang J, Xiao G (2008) Rapamycin inhibits osteoblast proliferation and differentiation in MC3T3-E1 cells and primary mouse bone marrow stromal cells. J Cell Biochem 103:434â446</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17516572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Billing H, Burmeister G, Plotnicki L, Ahlenstiel T, Fichtner A, Sander A, Hocker B, Tonshoff B, Pape L (2013) Longitudinal growth on an everolimus- versus an MMF-based steroid-free immunosuppressive regimen in paediatric renal transplant recipients. Transpl Int 26:903â909</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23865768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forster J, Ahlenstiel-Grunow T, Zapf A, Mynarek M, Pape L (2016) Pubertal development in pediatric kidney transplant patients receiving mammalian target of rapamycin inhibitors or conventional immunosuppression. Transplantation 100:2461â2470</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26720300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bartosh SM, Leverson G, Robillard D, Sollinger HW (2003) Long-term outcomes in pediatric renal transplant recipients who survive into adulthood. Transplantation 76:1195â1200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14578753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Groothoff JW, Cransberg K, Offringa M, van de Kar NJ, Lilien MR, Davin JC, Heymans HS, Dutch cohort study (2004) Long-term follow-up of renal transplantation in children: a dutch cohort study. Transplantation 78:453â460</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15316376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Helenius I, Remes V, Salminen S, Valta H, Makitie O, Holmberg C, Palmu P, Tervahartiala P, Sarna S, Helenius M, Peltonen J, Jalanko H (2006) Incidence and predictors of fractures in children after solid organ transplantation: a 5-year prospective, population-based study. J Bone Miner Res 21:380â387</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16491285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Helenius I, Remes V, Tervahartiala P, Salminen S, Sairanen H, Holmberg C, Palmu P, Helenius M, Peltonen J, Jalanko H (2006) Spine after solid organ transplantation in childhood: a clinical, radiographic, and magnetic resonance imaging analysis of 40 patients. Spine (Phila Pa 1976) 31:2130â2136</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lehmann G, Ott U, Stein G, Steiner T, Wolf G (2007) Renal osteodystrophy after successful renal transplantation: a histomorphometric analysis in 57 patients. Transplant Proc 39:3153â3158</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18089342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rojas E, Carlini RG, Clesca P, Arminio A, Suniaga O, De Elguezabal K, Weisinger JR, Hruska KA, Bellorin-Font E (2003) The pathogenesis of osteodystrophy after renal transplantation as detected by early alterations in bone remodeling. Kidney Int 63:1915â1923</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12675872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cruz EA, Lugon JR, Jorgetti V, Draibe SA, Carvalho AB (2004) Histologic evolution of bone disease 6 months after successful kidney transplantation. Am J Kidney Dis 44:747â756</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15384027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Borchhardt K, Sulzbacher I, Benesch T, Fodinger M, Sunder-Plassmann G, Haas M (2007) Low-turnover bone disease in hypercalcemic hyperparathyroidism after kidney transplantation. Am J Transplant 7:2515â2521</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17725680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cueto-Manzano AM, Konel S, Crowley V, France MW, Freemont AJ, Adams JE, Mawer B, Gokal R, Hutchison AJ (2003) Bone histopathology and densitometry comparison between cyclosporine a monotherapy and prednisolone plus azathioprine dual immunosuppression in renal transplant patients. Transplantation 75:2053â2058</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12829911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Keronen S, Martola L, Finne P, Burton IS, Kroger H, Honkanen E (2019) Changes in bone histomorphometry after kidney transplantation. Clin J Am Soc Nephrol 14:894â903</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31088851</ArticleId>
+                    <ArticleId IdType="pmcid">6556726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sanchez CP, Salusky IB, Kuizon BD, Ramirez JA, Gales B, Ettenger RB, Goodman WG (1998) Bone disease in children and adolescents undergoing successful renal transplantation. Kidney Int 53:1358â1364</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9573553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leonard MB (2005) Assessment of bone mass following renal transplantation in children. Pediatr Nephrol 20:360â367</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15692834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leonard MB (2007) A structural approach to the assessment of fracture risk in children and adolescents with chronic kidney disease. Pediatr Nephrol 22:1815â1824</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17622566</ArticleId>
+                    <ArticleId IdType="pmcid">6949198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reusz GS, Szabo AJ, Peter F, Kenesei E, Sallay P, Latta K, Szabo A, Szabo A, Tulassay T (2000) Bone metabolism and mineral density following renal transplantation. Arch Dis Child 83:146â151</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10906024</ArticleId>
+                    <ArticleId IdType="pmcid">1718413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behnke B, Altrogge H, Delling G, Kruse HP, Muller-Wiefel DE (1996) Bone mineral density in pediatric patients after renal transplantation. Clin Nephrol 46:24â29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8832146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ruth EM, Weber LT, Schoenau E, Wunsch R, Seibel MJ, Feneberg R, Mehls O, Tonshoff B (2004) Analysis of the functional muscle-bone unit of the forearm in pediatric renal transplant recipients. Kidney Int 66:1694â1706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15458468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klare B, Montoya CR, Fischer DC, Stangl MJ, Haffner D (2012) Normal adult height after steroid-withdrawal within 6 months of pediatric kidney transplantation: a 20 years single center experience. Transpl Int 25:276â282</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22187956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ruben S, Kreuzer M, Buscher A, Buscher R, Thumfart J, Querfeld U, Staude H, Ahlenstiel-Grunow T, Melk A, Fischer DC, Leifheit-Nestler M, Pape L, Haffner D (2018) Impaired microcirculation in children after kidney transplantation: everolimus versus mycophenolate based immunosuppression regimen. Kidney Blood Press Res 43:793â806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29807363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Borchert-Morlins B, Thurn D, Schmidt BMW, Buscher AK, Oh J, Kier T, Bauer E, Baig S, Kanzelmeyer N, Kemper MJ, Buscher R, Melk A (2017) Factors associated with cardiovascular target organ damage in children after renal transplantation. Pediatr Nephrol 32:2143â2154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28804814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schmidt BMW, Sugianto RI, Thurn D, Azukaitis K, Bayazit AK, Canpolat N, Eroglu AG, Caliskan S, Doyon A, Duzova A, Karagoz T, Anarat A, Deveci M, Mir S, Ranchin B, Shroff R, Baskin E, Litwin M, Ozcakar ZB, Buscher R, Soylemezoglu O, Dusek J, Kemper MJ, Matteucci MC, Habbig S, Laube G, Wuhl E, Querfeld U, Sander A, Schaefer F, Melk A, 4C Study Consortium (2018) Early effects of renal replacement therapy on cardiovascular comorbidity in children with end-stage kidney disease: findings from the 4C-T study. Transplantation 102:484â492</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28926375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hristova M, van Beek C, Schurgers LJ, Lanske B, Danziger J (2010) Rapidly progressive severe vascular calcification sparing the kidney allograft following warfarin initiation. Am J Kidney Dis 56:1158â1162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20817370</ArticleId>
+                    <ArticleId IdType="pmcid">2991526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM, O'Neill KD, Reslerova M, Fineberg N, Persohn S, Meyer CA (2004) Natural history of vascular calcification in dialysis and transplant patients. Nephrol Dial Transplant 19:2387â2393</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15252163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>KDOQI Work Group (2009) KDOQI clinical practice guideline for nutrition in children with CKD: 2008 update. executive summary. Am J Kidney Dis 53:S11âS104</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) Transplant Work Group (2009) KDIGO clinical practice guideline for the care of kidney transplant recipients. Am J Transplant 9(Suppl 3):S1âS155</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ketteler M, Block GA, Evenepoel P, Fukagawa M, Herzog CA, McCann L, Moe SM, Shroff R, Tonelli MA, Toussaint ND, Vervloet MG, Leonard MB (2017) Executive summary of the 2017 KDIGO chronic kidney disease-mineral and bone disorder (CKD-MBD) guideline update: whatâs changed and why it matters. Kidney Int 92:26â36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28646995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ahmed MA, Abd El Samad AA (2013) Benefits of omega-3 fatty acid against bone changes in salt-loaded rats: possible role of kidney. Physiol Rep 1:e00106</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24303178</ArticleId>
+                    <ArticleId IdType="pmcid">3841042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Teofilo JM, Leonel DV, Lamano T (2010) Cola beverage consumption delays alveolar bone healing: a histometric study in rats. Braz Oral Res 24:177â181</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20658036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shroff R, Wan M, Nagler EV, Bakkaloglu S, Fischer DC, Bishop N, Cozzolino M, Bacchetta J, Edefonti A, Stefanidis CJ, Vande Walle J, Haffner D, Klaus G, Schmitt CP, European Society for Paediatric Nephrology Chronic Kidney Disease Mineral and Bone Disorders and Dialysis Working Groups (2017) Clinical practice recommendations for native vitamin D therapy in children with chronic kidney disease stages 2-5 and on dialysis. Nephrol Dial Transplant 32:1098â1113</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873969</ArticleId>
+                    <ArticleId IdType="pmcid">5837199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shroff R, Wan M, Nagler EV, Bakkaloglu S, Cozzolino M, Bacchetta J, Edefonti A, Stefanidis CJ, Vande Walle J, Ariceta G, Klaus G, Haffner D, Schmitt CP; European Society for Paediatric Nephrology Chronic Kidney Disease Mineral and Bone Disorders and Dialysis Working Groups (2017) Clinical practice recommendations for treatment with active vitamin D analogues in children with chronic kidney disease stages 2-5 and on dialysis. Nephrol Dial Transplant 32:1114-1127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873971</ArticleId>
+                    <ArticleId IdType="pmcid">5837664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rees L (2008) What parathyroid hormone levels should we aim for in children with stage 5 chronic kidney disease; what is the evidence? Pediatr Nephrol 23:179â184</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18043947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klaus G, Watson A, Edefonti A, Fischbach M, Ronnholm K, Schaefer F, Simkova E, Stefanidis CJ, Strazdins V, Vande Walle J, Schroder C, Zurowska A, Ekim M, European Pediatric Dialysis Working Group (EPDWG) (2006) Prevention and treatment of renal osteodystrophy in children on chronic renal failure: European guidelines. Pediatr Nephrol 21:151â159</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16247644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Work Group (2009) KDIGO clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of chronic kidney disease-mineral and bone disorder (CKD-MBD). Kidney Int Suppl 113:S1âS130</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Haffner D, Schaefer F (2013) Searching the optimal PTH target range in children undergoing peritoneal dialysis: new insights from international cohort studies. Pediatr Nephrol 28:537â545</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22893310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zhang H, Zheng Y, Liu L, Fu Q, Li J, Huang Q, Liu H, Deng R, Wang C (2016) Steroid avoidance or withdrawal regimens in paediatric kidney transplantation: a meta-analysis of randomised controlled trials. PLoS One 11:e0146523</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26991793</ArticleId>
+                    <ArticleId IdType="pmcid">4798578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wu Y, Cheng W, Yang XD, Xiang B (2013) Growth hormone improves growth in pediatric renal transplant recipients--a systemic review and meta-analysis of randomized controlled trials. Pediatr Nephrol 28:129â133</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22660958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sanchez CP, Kuizon BD, Goodman WG, Gales B, Ettenger RB, Boechat MI, Wang Y, Elashoff R, Salusky IB (2002) Growth hormone and the skeleton in pediatric renal allograft recipients. Pediatr Nephrol 17:322â328</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12042887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drube J, Wan M, Bonthuis M, Wuhl E, Bacchetta J, Santos F, Grenda R, Edefonti A, Harambat J, Shroff R, Tonshoff B, Haffner D, European Society for Paediatric Nephrology Chronic Kidney Disease Mineral and Bone Disorders, Dialysis (2019) Clinical practice recommendations for growth hormone treatment in children with chronic kidney disease. Nat Rev Nephrol 15:577â589</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31197263</ArticleId>
+                    <ArticleId IdType="pmcid">31197263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30578920</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>131</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>02</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Free radical biology &amp; medicine</Title>
+                <ISOAbbreviation>Free Radic Biol Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glutathione deficiency alters the vitamin D-metabolizing enzymes CYP27B1 and CYP24A1 in human renal proximal tubule epithelial cells and kidney of HFD-fed mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>376-381</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0891-5849(18)32346-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.freeradbiomed.2018.12.017</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) is a worldwide public health problem with an estimated prevalence of 8.2%. This study reports glutathione deficiency, excess oxidative stress, and altered vitamin D metabolism in the kidney of mice fed a high-fat diet (HFD). The levels of GCLC and GCLM gene expression were significantly downregulated and the protein carbonylation level, a hallmark of oxidative damage, was significantly increased in the kidney of HFD-fed mice. While the levels of VD-regulatory genes 1-alpha-hydroxylase (CYP27B1), VDR, and RXRÎ± were significantly downregulated in the kidney of mice fed a HFD, those of 24-hydroxylase (CYP24A1) were significantly elevated. In vitro, GSH deficiency per se causes excess oxidative damage (protein carbonylation), and significantly decreases the levels of VD-regulatory genes (CYP27B1, VDR, and RXRÎ±), but increases levels of CYP24A1 in human renal proximal tubule epithelial cells (RPTEC), similar to findings in the kidney of HFD-fed diabetic mice. L-cysteine supplementation restores GSH and prevents oxidative damage in RPTEC. These studies suggest a potential role of GSH precursor in reducing excess oxidative stress and renal injury that commonly accompanies obesity/diabetes.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Parsanathan</LastName>
+                    <ForeName>Rajesh</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Center for Cardiovascular Diseases and Sciences, Louisiana State University Health Sciences Center-Shreveport, 1501 Kings Highway, Shreveport, Louisiana 71130, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Sushil K</ForeName>
+                    <Initials>SK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Center for Cardiovascular Diseases and Sciences, Louisiana State University Health Sciences Center-Shreveport, 1501 Kings Highway, Shreveport, Louisiana 71130, USA. Electronic address: sjain@lsuhsc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AT007442</GrantID>
+                    <Acronym>AT</Acronym>
+                    <Agency>NCCIH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Free Radic Biol Med</MedlineTA>
+            <NlmUniqueID>8709159</NlmUniqueID>
+            <ISSNLinking>0891-5849</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018167">Receptors, Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047490">Retinoid X Receptor alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.15.16</RegistryNumber>
+                <NameOfSubstance UI="D065668">Vitamin D3 24-Hydroxylase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.15.18</RegistryNumber>
+                <NameOfSubstance UI="D015090">25-Hydroxyvitamin D3 1-alpha-Hydroxylase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.2</RegistryNumber>
+                <NameOfSubstance UI="C560749">GCLM protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.3.2.2</RegistryNumber>
+                <NameOfSubstance UI="D005721">Glutamate-Cysteine Ligase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GAN16C9B8O</RegistryNumber>
+                <NameOfSubstance UI="D005978">Glutathione</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K848JZ4886</RegistryNumber>
+                <NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015090" MajorTopicYN="N">25-Hydroxyvitamin D3 1-alpha-Hydroxylase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003545" MajorTopicYN="N">Cysteine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003921" MajorTopicYN="N">Diabetes Mellitus, Experimental</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059305" MajorTopicYN="N">Diet, High-Fat</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005721" MajorTopicYN="N">Glutamate-Cysteine Ligase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005978" MajorTopicYN="N">Glutathione</DescriptorName>
+                <QualifierName UI="Q000172" MajorTopicYN="Y">deficiency</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007687" MajorTopicYN="N">Kidney Tubules, Proximal</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018384" MajorTopicYN="N">Oxidative Stress</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061251" MajorTopicYN="N">Primary Cell Culture</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050050" MajorTopicYN="N">Protein Carbonylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018167" MajorTopicYN="N">Receptors, Calcitriol</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047490" MajorTopicYN="N">Retinoid X Receptor alpha</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065668" MajorTopicYN="N">Vitamin D3 24-Hydroxylase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CYP24A1</Keyword>
+            <Keyword MajorTopicYN="Y">CYP27B1</Keyword>
+            <Keyword MajorTopicYN="Y">Glutathione</Keyword>
+            <Keyword MajorTopicYN="Y">Human renal proximal tubule epithelial cells</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D deficiency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30578920</ArticleId>
+            <ArticleId IdType="pii">S0891-5849(18)32346-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.freeradbiomed.2018.12.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

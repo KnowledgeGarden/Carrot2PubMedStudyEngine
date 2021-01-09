@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31929286</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1319-2442</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia</Title>
+                <ISOAbbreviation>Saudi J Kidney Dis Transpl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin-D deficiency is encountered in almost all egyptian stage 3-5 chronic kidney disease patients in spite of the sunny weather.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1389-1397</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/1319-2442.275483</ELocationID>
+            <Abstract>
+                <AbstractText>Currently, there is no available data about Vitamin D status among Egyptian chronic kidney disease (CKD) patients. This cross-sectional study is looking for the prevalence of Vitamin D deficiency among Stage 3a-5 CKD Egyptian patients and its possible associations. We studied 1624 Stage 3a-5 CKD adults (689 males and 935 females) together with 200 normal control persons. All the recruited candidates were tested for body mass index (BMI); serum levels of blood urea nitrogen, creatinine, calcium (Ca), phosphorus (P), parathyroid hormone (PTH), 25 hydroxy vitamin D (25(OH)D), albumin, and uric acid (UA); urine albumin/creatinine ratio (ACR), and estimated glomerular filtration rate. The optimal level of Vitamin D was encountered in only 1.4% of CKD patients versus 52% of the normal controls. A total of 1107 (68.2%) CKD patients versus 23 (11.5%) controls had serum 25(OH)D &lt;20 ng/mL (mean Â± standard deviation = 16.8 Â± 5.8 versus 37.3Â±7.6 ng/mL for CKD versus control group, respectively, P &lt;0.001). There was a highly statistically significant positive correlation between serum 25(OH)D and serum Ca (r = 0.299, P &lt;0.001) and a highly statistically significant negative correlation between serum 25(OH)D on the one hand and serum P, serum PTH, serum UA, and urine ACR on the other hand (r = -0.46, -0.69, -0.73, and -0.8, respectively, P &lt;0.001). Vitamin D deficiency is very common among Egyptian CKD patients. Serum P, UA, and urine ACR ratio are the most important variables which are found to be negatively associated with serum 25(OH)D.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>El Din</LastName>
+                    <ForeName>Usama Sharaf</ForeName>
+                    <Initials>US</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Nephrology Unit, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fayed</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Nephrology Unit, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Nokeety</LastName>
+                    <ForeName>Mahmoud M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Nephrology Unit, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdulazim</LastName>
+                    <ForeName>Dina O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rheumatology and Rehabilitation, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salem</LastName>
+                    <ForeName>Mona M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Endocrinology Unit, School of Medicine, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Vascular Calcification Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Saudi Arabia</Country>
+            <MedlineTA>Saudi J Kidney Dis Transpl</MedlineTA>
+            <NlmUniqueID>9436968</NlmUniqueID>
+            <ISSNLinking>1319-2442</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004534" MajorTopicYN="N" Type="Geographic">Egypt</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013472" MajorTopicYN="Y">Sunlight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014887" MajorTopicYN="N">Weather</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <CoiStatement>None</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31929286</ArticleId>
+            <ArticleId IdType="pii">SaudiJKidneyDisTranspl_2019_30_6_1389_275483</ArticleId>
+            <ArticleId IdType="doi">10.4103/1319-2442.275483</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

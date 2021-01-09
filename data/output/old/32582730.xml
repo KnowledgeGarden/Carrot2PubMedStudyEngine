@@ -1,0 +1,437 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">32582730</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2296-858X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in medicine</Title>
+                <ISOAbbreviation>Front Med (Lausanne)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exacerbation of Hyperparathyroidism, Secondary to a Reduction in Kidney Function, in Individuals With Vitamin D Deficiency.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>221</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fmed.2020.00221</ELocationID>
+            <Abstract>
+                <AbstractText><b>Aims/Introduction:</b> Chronic kidney disease (CKD)-mineral and bone disorders (CKD-MBD) are an adverse outcome derived from decreases in kidney function, where abnormality of serum concentrations of calcium (Ca), phosphorus, parathyroid hormone (PTH), and vitamin D can be seen simultaneously. To identify individuals at risk for CKD-MBD or secondary hyperparathyroidism, the relationships between estimated glomerular filtration rate (eGFR) and serum PTH concentration were evaluated, allowing for confounding factors, in particular vitamin D status, in a general Japanese population. <b>Materials and Methods:</b> Nine-hundred-and-thirty participants in the population-based Iwaki study conducted in 2016 who were not on drugs affecting mineral metabolism nor hemodialysis, were included in the study (326 men and 604 women; age: 55.4 Â± 15.9 years). <b>Results:</b> Regression analysis showed a significant correlation between eGFR and serum intact PTH concentration, after adjustment for possible confounding factors (Î² = -0.122, <i>p</i> &lt; 0.001). The smoothed spline curve applied for the correlation analysis revealed a biphasic correlation, with a division at an eGFR of ~60 mL/min/1.73 m<sup>2</sup>, below which the correlation coefficient was higher (Î² = -0.405, <i>p</i> &lt; 0.001). Stratification on the basis of vitamin D status showed that the correlation was present only in participants with vitamin D deficiency (25-dihydroxyvitamin D3: &lt;15 pg/mL) (Î² = -0.154, <i>p</i> &lt; 0.001). <b>Conclusions:</b> These results indicate that a reduction in eGFR is a significant risk factor for an increase in serum PTH concentration when it is &lt;60 mL/min/1.73 m<sup>2</sup> and vitamin D is deficient, in the general Japanese population.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 Daimon, Fujita, Murabayashi, Mizushiri, Murakami, Nishiya, Tanabe, Matsuhashi, Yanagimachi, Tokuda, Sawada and Ihara.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Daimon</LastName>
+                    <ForeName>Makoto</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujita</LastName>
+                    <ForeName>Tomoyuki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murabayashi</LastName>
+                    <ForeName>Masaya</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mizushiri</LastName>
+                    <ForeName>Satoru</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murakami</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishiya</LastName>
+                    <ForeName>Yuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanabe</LastName>
+                    <ForeName>Jutaro</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsuhashi</LastName>
+                    <ForeName>Yuki</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yanagimachi</LastName>
+                    <ForeName>Miyuki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology and Metabolism, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokuda</LastName>
+                    <ForeName>Itoyo</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Healthcare Science, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sawada</LastName>
+                    <ForeName>Kaori</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Social Medicine, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ihara</LastName>
+                    <ForeName>Kazushige</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Social Medicine, Hirosaki University Graduate School of Medicine, Hirosaki, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Med (Lausanne)</MedlineTA>
+            <NlmUniqueID>101648047</NlmUniqueID>
+            <ISSNLinking>2296-858X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD</Keyword>
+            <Keyword MajorTopicYN="N">PTH</Keyword>
+            <Keyword MajorTopicYN="N">environmental interaction</Keyword>
+            <Keyword MajorTopicYN="N">population based study</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32582730</ArticleId>
+            <ArticleId IdType="doi">10.3389/fmed.2020.00221</ArticleId>
+            <ArticleId IdType="pmc">PMC7289923</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS One. 2016 Nov 18;11(11):e0166077</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27861636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Oct;64(4):499-509</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25082101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2014 Apr 01;348:g1903</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24690623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2009 Dec;45(6):1161-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19679205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2017 Jul;100:80-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28119179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2018 Sep 21;8(1):14213</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30242201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2009 Jun;53(6):982-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19339088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jan;71(1):31-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17091124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Jul;92(1):26-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28646995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 1997;7(5):439-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9425501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Sep;6(9):2141-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21836148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Diabetes Endocrinol. 2017 Dec;5(12):986-1004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29102433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Hypertens Rep. 2006 May;8(2):132-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16672146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Heart J. 2010 Jun;159(6):1044-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20569718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2002 Jul;110(2):229-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12122115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Jan;5 Suppl 1:S23-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20089499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Med J. 1973 Dec 15;4(5893):643-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4758544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2008 Aug;122(2):398-417</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18676559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Sep 23;351(13):1296-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15385656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Diabetes Investig. 2010 Oct 19;1(5):212-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24843435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Dec;70(6):737-751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28941764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2017 Mar 25;389(10075):1238-1252</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27887750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2005 Jun;20(6):1048-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15814534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2004 Mar 22;164(6):659-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15037495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2004 Mar;286(3):F526-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14600034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 Nov;54(5):1463-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9844122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxins (Basel). 2019 Nov 06;11(11):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31698866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Jul;78(2):134-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19471320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2019 Aug 12;366:l4673</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31405892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 Jun;53(6):1696-705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9607202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Jan;85(1):142-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23884339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 Jan;22(1):124-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21115613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Mar 16;305(11):1119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21406649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2009 Jul;32(7):1278-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19366976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2009 Apr;94(4):1244-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19158198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2017 Jan;35(1):1-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27882481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2016 Mar;101(3):889-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26731257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2001 Aug;22(4):477-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11493580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2013 Mar;33(2):106-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23465498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

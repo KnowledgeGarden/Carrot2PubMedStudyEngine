@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31675257</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-7666</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert opinion on pharmacotherapy</Title>
+                <ISOAbbreviation>Expert Opin Pharmacother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluating extended-release calcifediol as a treatment option for chronic kidney disease-mineral and bone disorder (CKD-MBD).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2081-2093</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/14656566.2019.1663826</ELocationID>
+            <Abstract>
+                <AbstractText><b>Introduction</b>: Extended-release calcifediol (ERC) is an orally administered prohormone of active vitamin D (1,25-dihydroxyvitamin D [1,25D]) designed to safely and sufficiently increase serum total 25-hydroxyvitamin D (25D) to reduce elevated parathyroid hormone (PTH) in patients with non-dialysis-chronic kidney disease (ND-CKD). ERC is currently approved in the United States and Canada.<b>Areas covered</b>: Herein, key clinical data relating to the pharmacokinetics, pharmacodynamics, efficacy and safety of ERC are reviewed.<b>Expert opinion</b>: Currently available treatment options for secondary hyperparathyroidism (SHPT) in ND-CKD have limitations: the effectiveness of nutritional vitamin D supplements for reduction of PTH levels is unproven and active (1Î±-hydroxylated) vitamin D analogues elevate serum calcium, which increases the risk of hypercalcemia and vascular calcification. Clinical studies show that ERC is an effective, well tolerated treatment for SHPT in ND-CKD. ERC gradually raises serum 25D levels, resulting in physiologically regulated increases in serum 1,25D and sustained reductions in PTH, while avoiding clinically meaningful increases in serum phosphorus, calcium and fibroblast growth factor 23. ERC offers a new, effective and well tolerated treatment option for the early management of SHPT in patients with ND-CKD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cozzolino</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division and Laboratory of Experimental Nephrology, Department of Health Sciences, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ketteler</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Internal Medicine and Nephrology, Robert-Bosch-Krankenhaus, Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, University of Split, Split, Croatia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Opin Pharmacother</MedlineTA>
+            <NlmUniqueID>100897346</NlmUniqueID>
+            <ISSNLinking>1465-6566</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P6YZ13C99Q</RegistryNumber>
+                <NameOfSubstance UI="D002112">Calcifediol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002112" MajorTopicYN="N">Calcifediol</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003967" MajorTopicYN="N">Diarrhea</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006207" MajorTopicYN="N">Half-Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">25-hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">calcifediol</Keyword>
+            <Keyword MajorTopicYN="N">parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">secondary hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D deficiency</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D insufficiency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31675257</ArticleId>
+            <ArticleId IdType="doi">10.1080/14656566.2019.1663826</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32701599</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-6543</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current opinion in nephrology and hypertension</Title>
+                <ISOAbbreviation>Curr Opin Nephrol Hypertens</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Burosumab in X-linked hypophosphatemia and perspective for chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>531-536</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/MNH.0000000000000631</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE OF REVIEW">Perturbations in phosphate and vitamin D homeostasis impacts skeletal health in children and adults. Study of inherited and acquired hypophosphatemic syndromes led to the discovery of fibroblast growth factor 23 (FGF23) as a potent regulator of phosphate and vitamin D metabolism, and advanced our understanding of the pathophysiology of mineral and bone disorder in chronic kidney disease (CKD-MBD). Here, we review a recently approved therapy for patients with X-linked hypophosphatemia (XLH) using a novel anti-FGF23 antibody, burosumab, and discuss the implications of such targeted therapy in CKD.</AbstractText>
+                <AbstractText Label="RECENT FINDINGS">In children and adults with XLH, burosumab treatment significantly increased renal tubular phosphate reabsorption and normalized serum phosphorus concentrations. Prolonged treatment with burosumab showed a favorable safety profile, improved healing of rickets in children, and fractures and pseudofractures in adults. FGF23 excess in CKD is independently associated with left ventricular hypertrophy and cardiovascular mortality. Research strategies to lower FGF23 in animal models of CKD are rapidly advancing and a question that remains to be answered is whether FGF23 blockade will offer a new targeted intervention for disordered mineral metabolism in CKD.</AbstractText>
+                <AbstractText Label="SUMMARY">Findings from recently concluded clinical trials in adults and children with XLH provide evidence for improved skeletal health with burosumab therapy with normalization of phosphate and vitamin D metabolism. Targeted anti-FGF23 antibody treatment of XLH has emerged as a novel therapeutic strategy to treat an inherited disorder of FGF23 excess.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Balani</LastName>
+                    <ForeName>Shanthi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Pediatrics, University of California, San Francisco, San Francisco, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perwad</LastName>
+                    <ForeName>Farzana</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Curr Opin Nephrol Hypertens</MedlineTA>
+            <NlmUniqueID>9303753</NlmUniqueID>
+            <ISSNLinking>1062-4821</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32701599</ArticleId>
+            <ArticleId IdType="doi">10.1097/MNH.0000000000000631</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

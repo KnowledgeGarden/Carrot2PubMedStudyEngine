@@ -1,0 +1,264 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30686750</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-8503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation</Title>
+                <ISOAbbreviation>J Ren Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Effect of Long-Term Cholecalciferol Supplementation on Vascular Calcification in Chronic Kidney Disease Patients With Hypovitaminosis D.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>407-415</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1051-2276(18)30281-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.jrn.2018.12.002</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE">The role of vitamin D supplementation on vascular calcification (VC) in patients with chronic kidney disease (CKD) is controversial. The objective of this study was to evaluate the effects of long-term cholecalciferol supplementation on VC in nondialysis patients with CKD stages 3-4 with hypovitaminosis D.</AbstractText>
+                <AbstractText Label="DESIGN AND METHODS">Eighty patients aged 18-85 years with creatinine clearance between 15 and 60 mL/min/1.73 m<sup>2</sup> and serum 25(OH)D level &lt; 30 ng/mL were enrolled in a 18-month prospective study. Individuals with vitamin D insufficiency (25-hydroxyvitamin D [25(OH)D] level between 16 and 29 ng/mL) were included in a randomized, double-blind, two-arm study to receive cholecalciferol or placebo. Patients with vitamin D deficiency [25(OH)D &lt; 15 ng/mL] were included in an observational study and mandatorily received cholecalciferol. The coronary artery calcium score was obtained by multislice computed tomography at baseline and the 18th month.</AbstractText>
+                <AbstractText Label="RESULTS">During the study, VC did not change in the treated insufficient group (418 [81-611] to 364 [232-817] AU, P = 0.25) but increased in the placebo group (118 [37-421] to 199 [49-490] AU, P = 0.01). The calcium score change was inversely correlated with 25(OH)D change (r = -0.45; P = 0.037) in the treated insufficient group but not in the placebo group. Renal function did not change in the insufficient, treated, and placebo groups. In multivariate analysis, there was no difference in VC progression between the treated and placebo insufficient groups (interaction P = 0.92). In the deficient group, VC progressed (265 [84-733] to 333 [157-745] AU; P = 0.006) and renal function declined (33 [26-43] to 23 [17-49] mL/min/1.73 m<sup>2</sup>; P = 0.04). The calcium score change was inversely correlated with cholecalciferol cumulative doses (r = -0.41; P = 0.048) and kidney function change (r = -0.43; P = 0.033) but not with 25(OH)D change (r = -0.08; P = 0.69).</AbstractText>
+                <AbstractText Label="CONCLUSION">Vitamin D supplementation did not attenuate VC progression in CKD patients with hypovitaminosis D.</AbstractText>
+                <AbstractText Label="CONCLUSION">Vitamin D supplementation did not attenuate VC progression in CKD patients with hypovitaminosis D.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 National Kidney Foundation, Inc. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Samaan</LastName>
+                    <ForeName>Farid</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carvalho</LastName>
+                    <ForeName>AluÃ­zio B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pillar</LastName>
+                    <ForeName>Roberta</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rocha</LastName>
+                    <ForeName>Lillian A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cassiolato</LastName>
+                    <ForeName>JosÃ© L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardios Research Institute, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuppari</LastName>
+                    <ForeName>Lilian</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canziani</LastName>
+                    <ForeName>Maria EugÃªnia F</ForeName>
+                    <Initials>MEF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Division, Federal University of SÃ£o Paulo, SÃ£o Paulo, Brazil. Electronic address: dialisefor@uol.com.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Ren Nutr</MedlineTA>
+            <NlmUniqueID>9112938</NlmUniqueID>
+            <ISSNLinking>1051-2276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="Y">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30686750</ArticleId>
+            <ArticleId IdType="pii">S1051-2276(18)30281-4</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.jrn.2018.12.002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31448720</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0301-0430</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>92</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nephrology</Title>
+                <ISOAbbreviation>Clin Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors associated with carotid intima media thickness in South African children with chronic kidney diseaseâ©.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>250-257</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5414/CN109791</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Increased carotid intima media thickness (cIMT) is one of the early changes seen in chronic kidney disease (CKD) associated cardiovascular disease. This study aimed to determine cIMT measurements and its association with cardiovascular risk factors, including fibroblast growth factor-23 (FGF-23) and fetuin-A, in South African children with CKD.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">72 children (5 - 18 years) with CKD; 20 with CKD I, 23 with CKD II - IV, 29 with CKD V (on dialysis) were recruited. Each patient had a clinical examination and blood samples assessed for creatinine, urea, albumin, calcium, phosphorus, parathyroid hormone, alkaline phosphatase, total cholesterol, hemoglobin, C-reactive protein, vitamin D, fetuin-A, and FGF-23. cIMT was measured with high-resolution ultrasound.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The mean age was 10.8 (3.5) years, and there were 49 males and 23 females (2Â :Â 1). The overall median (range) cIMT was 0.505 mm (0.380 - 0.675) and was highest in patients with dialysis-dependent CKD (p = 0.003). Mean arterial pressure (MAP), hemoglobin, and PTH showed a significant correlation with cIMT (p &lt; 0.001, p = 0.034, and p = 0.002, respectively). After adjusting for confounders in a multivariable analysis, disease duration, MAP, hemoglobin, and estimated glomerular filtration rate (eGFR) were independently associated with cIMT, p = 0.039, 0.001, 0.006, and 0.001, respectively. No significant relationship between cIMT and plasma levels of fetuin-A and FGF-23 was found.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study reports high cIMT measurements and their independent association with disease duration, MAP, hemoglobin, and eGFR. However, no similar association was found with fetuin-A and FGF-23.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mudi</LastName>
+                    <ForeName>Abdullahi</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holland</LastName>
+                    <ForeName>Zaiboonisa</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dickens</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ballot</LastName>
+                    <ForeName>Daynia</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levy</LastName>
+                    <ForeName>Cecil</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Clin Nephrol</MedlineTA>
+            <NlmUniqueID>0364441</NlmUniqueID>
+            <ISSNLinking>0301-0430</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059168" MajorTopicYN="N">Carotid Intima-Media Thickness</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013019" MajorTopicYN="N" Type="Geographic">South Africa</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31448720</ArticleId>
+            <ArticleId IdType="pii">185703</ArticleId>
+            <ArticleId IdType="doi">10.5414/CN109791</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

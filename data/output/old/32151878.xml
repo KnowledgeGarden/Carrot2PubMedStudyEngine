@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32151878</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0739</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>04</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrition research (New York, N.Y.)</Title>
+                <ISOAbbreviation>Nutr Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Herbal formula improves upper and lower gastrointestinal symptoms and gut health in Australian adults with digestive disorders.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0271-5317(19)31187-X</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nutres.2020.02.008</ELocationID>
+            <Abstract>
+                <AbstractText>Gastrointestinal (GI) problems affect half of Western populations. Symptoms can vary from frequent reflux to irritable bowel syndrome. The Nutrition Care (NC) Gut Relief Formula contains a combination of herbs and nutrients including curcumin, Aloe vera, slippery elm, guar gum, pectin, peppermint oil, and glutamine shown to benefit the GI system. The 16-week pre-post study tested the hypothesis that the NC Gut Relief Formula would be tolerable and effective in improving GI symptoms and gut health in adults with digestive disorders. A total of 43 participants completed the study. After a control phase, participants took 5 g/d and then 10 g/d of the formula for 4 weeks. GI symptoms and GI health were assessed by a series of validated questionnaires, for example, Leeds Dyspepsia Questionnaire, Bristol Stool Chart, Birmingham IBS Symptom Questionnaire, and by intestinal permeability and gut microbiota profile. The NC Gut Relief Formula significantly improved the frequency and severity of upper and lower GI symptoms by 60%-80%, including indigestion, heartburn, nausea, constipation or diarrhea, abdominal pain, and troublesome flatulence, and significantly improved physical functioning, energy levels, mood, and sleep by 60%-80%. All participants with normal stool, 90% with hard stool, and 66% with soft stool recovered from intestinal permeability, evident by normal lactulose to mannitol ratios. The NC Gut Relief Formula generally improved microbial profile, with a marked increase in Lactobacillus, Clostridium, and Faecalibacterium prausnitzii. Almost half of the participants with upper GI symptoms taking proton pump inhibitors for heartburn no longer required proton pump inhibitors at the end of the study. A third of participants were able to reintroduce food triggers, such as fermentable oligosaccharides, disaccharides, monosaccharides, and polyols garlic, onion, and beans, or reflux-causing acidic/spicy foods, for example, citrus, tomato, and caffeine, in their diet after 3 months without symptom aggravation. The NC Gut Relief Formula significantly improved GI symptoms and associated quality of life over 3 months while reducing intestinal permeability, improving the microbial profile, reducing the need for reflux medication, and enabling the consumption of previous food triggers.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 The Authors. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ried</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Integrative Medicine (NIIM), 21 Burwood Rd, Melbourne, Victoria 3122, Australia; Torrens University, Melbourne, Victoria 3000, Australia; Discipline of General Practice, The University of Adelaide, South Australia 5000, Australia. Electronic address: karinried@niim.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Travica</LastName>
+                    <ForeName>Nikolaj</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Integrative Medicine (NIIM), 21 Burwood Rd, Melbourne, Victoria 3122, Australia. Electronic address: ntravica@niim.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dorairaj</LastName>
+                    <ForeName>Ranjini</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Integrative Medicine (NIIM), 21 Burwood Rd, Melbourne, Victoria 3122, Australia. Electronic address: ranjinid@niim.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sali</LastName>
+                    <ForeName>Avni</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute of Integrative Medicine (NIIM), 21 Burwood Rd, Melbourne, Victoria 3122, Australia. Electronic address: asali@niim.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nutr Res</MedlineTA>
+            <NlmUniqueID>8303331</NlmUniqueID>
+            <ISSNLinking>0271-5317</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Gastrointestinal symptoms</Keyword>
+            <Keyword MajorTopicYN="Y">Gut microbiome</Keyword>
+            <Keyword MajorTopicYN="Y">Herbal formula</Keyword>
+            <Keyword MajorTopicYN="Y">Inflammatory bowel disease</Keyword>
+            <Keyword MajorTopicYN="Y">Irritable bowel syndrome</Keyword>
+            <Keyword MajorTopicYN="Y">Leaky gut</Keyword>
+            <Keyword MajorTopicYN="Y">Reflux</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32151878</ArticleId>
+            <ArticleId IdType="pii">S0271-5317(19)31187-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nutres.2020.02.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

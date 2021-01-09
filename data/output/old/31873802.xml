@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31873802</PMID>
+        <DateCompleted>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1076</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>179</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of pediatrics</Title>
+                <ISOAbbreviation>Eur J Pediatr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intermittent cholecalciferol supplementation in children and teenagers followed in pediatric nephrology: data from a prospective single-center single-arm open trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>661-669</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00431-019-03553-y</ELocationID>
+            <Abstract>
+                <AbstractText>Vitamin D deficiency is frequent in pediatric nephrology. The 2017 European guidelines recommend keeping 25OH vitamin D (25-D) levels within the 75-120Â nmol/L range, ideally with daily supplementation. Intermittent supplementation with D3 has also been proposed. We aimed to assess the influence of our local protocol of intermittent vitamin D supplementation on the evolution of 25-D levels between baseline and 2Â months. VITATOL is a prospective single-center study performed in our tertiary unit in children and teenagers followed for chronic kidney disease (CKD), kidney transplantation, or stable chronic nephrotic syndrome with 25-D levels below 75Â nmol/L. Intermittent oral cholecalciferol (100,000Â IU) was administered depending on baseline vitamin D levels and body weight. The primary outcome was the change in 25-D levels between baseline and 2Â months. Secondary outcomes were the evolution of the main mineral biomarkers. Thirty-seven patients were included. Two months after beginning supplementation, corresponding to a median(min-max) of 46 (14-79) days after the last dose of vitamin D, 25-D levels increased from 50 to 76Â nmol/L (pâ&lt;â0.001), 18 patients having 25-D levels within the target range and 2 above. All patients displayed 25-D levels above 50Â nmol/L. There were no significant changes in phosphate, PTH, alkaline phosphatase, and FGF23 levels before and after supplementation. Calcium levels increased from 2.39 to 2.44Â mmol/L (pâ=â0.017), but no differences in calciuria and urinary calcium/creatinine ratio were observed.Conclusion: This vitamin D supplementation protocol using intermittent moderate doses of cholecalciferol seems efficient in 54% of cases, with neither significant overdose nor hypercalciuria. What is Known: â¢ Vitamin D deficiency is frequent in pediatric nephrology. â¢ The 2017 European guidelines recommend keeping 25OH vitamin D levels within the 75-120Â nmol/L range ideally with daily supplementation, but intermittent supplementation with D3 has also been proposed. What is New: â¢ We assessed the influence of a local protocol of intermittent vitamin D supplementation on the evolution of 25-D levels between baseline and 2Â months in children and teenagers followed in pediatric nephrology. â¢ The intermittent cholecalciferol supplementation protocol seems efficient in 54% of cases, with neither significant overdose nor hypercalciuria.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Aurelle</LastName>
+                    <ForeName>Manon</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7523-5854</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Basmaison</LastName>
+                    <ForeName>Odile</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ranchin</LastName>
+                    <ForeName>Bruno</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kassai-Koupai</LastName>
+                    <ForeName>Behrouz</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of clinical epidemiology, EPICIME-CIC 1407 de Lyon, Inserm, CHU-Lyon, Bron, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>FacultÃ© de MÃ©decine Lyon Est, UniversitÃ© Lyon 1, 69008, Lyon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sellier-Leclerc</LastName>
+                    <ForeName>Anne-Laure</ForeName>
+                    <Initials>AL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertholet-Thomas</LastName>
+                    <ForeName>AurÃ©lia</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rares du calcium et du phosphate, FiliÃ¨res OSCAR, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon, Bron, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bacchetta</LastName>
+                    <ForeName>Justine</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rÃ©nales rares Service de NÃ©phrologie Rhumatologie Dermatologie PÃ©diatriques, NÃ©phrogones, FiliÃ¨res ORKiD, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon,, 59 Boulevard Pinel, 69677, Bron Cedex, France. Justine.bacchetta@chu-lyon.fr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>FacultÃ© de MÃ©decine Lyon Est, UniversitÃ© Lyon 1, 69008, Lyon, France. Justine.bacchetta@chu-lyon.fr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre de rÃ©fÃ©rence des maladies rares du calcium et du phosphate, FiliÃ¨res OSCAR, HÃ´pital Femme MÃ¨re Enfant, Hospices Civils de Lyon, Bron, France. Justine.bacchetta@chu-lyon.fr.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INSERM Research Unit 1033, Lyon, France. Justine.bacchetta@chu-lyon.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>3000 euros</GrantID>
+                    <Agency>Crinex laboratories</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Pediatr</MedlineTA>
+            <NlmUniqueID>7603873</NlmUniqueID>
+            <ISSNLinking>0340-6199</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000077264">Calcium-Regulating Hormones and Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077264" MajorTopicYN="N">Calcium-Regulating Hormones and Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Calciuria</Keyword>
+            <Keyword MajorTopicYN="N">Cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">Nephrotic syndrome</Keyword>
+            <Keyword MajorTopicYN="N">Pediatrics</Keyword>
+            <Keyword MajorTopicYN="N">Transplantation</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31873802</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00431-019-03553-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00431-019-03553-y</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

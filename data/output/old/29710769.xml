@@ -1,0 +1,806 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29710769</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6643</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Apr</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrients</Title>
+                <ISOAbbreviation>Nutrients</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Food-Specific Serum IgG Reactivity in Major Depressive Disorder Patients, Irritable Bowel Syndrome Patients and Healthy Controls.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E548</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu10050548</ELocationID>
+            <Abstract>
+                <AbstractText>There is an increasing amount of evidence which links the pathogenesis of irritable bowel syndrome (IBS) with food IgG hyperreactivity. Some authors have suggested that food IgG hyperreactivity could be also involved in the pathophysiology of major depressive disorder (MDD). The aim of this study was to compare levels of serum IgG against 39 selected food antigens between three groups of participants: patients with MDD (MDD group), patients with IBS (IBS group) and healthy controls (HC group). The study included 65 participants (22 in the MDD group, 22 in the IBS group and 21 in the HC group). Serum IgG levels were examined using enzyme-linked immunosorbent assay (ELISA). Medical records, clinical data and laboratory results were collected for the analysis. IgG food hyperreactivity (interpreted as an average of levels of IgG antibodies above 7.5 &amp;micro;g/mL) was detected in 28 (43%) participants, including 14 (64%) from the MDD group, ten (46%) from the IBS group and four (19%) from the HC group. We found differences between extreme IgG levels in MDD versus HC groups and in IBS versus HC groups. Patients with MDD had significantly higher serum levels of total IgG antibodies and IgG against celery, garlic and gluten compared with healthy controls. The MDD group also had higher serum IgG levels against gluten compared with the IBS group. Our results suggest dissimilarity in immune responses against food proteins between the examined groups, with the highest immunoreactivity in the MDD group. Further studies are needed to repeat and confirm these results in bigger cohorts and also examine clinical utility of IgG-based elimination diet in patients with MDD and IBS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Karakula-Juchnowicz</LastName>
+                    <ForeName>Hanna</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1st Department of Psychiatry, Psychotherapy and Early Intervention Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. karakula.hanna@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychiatry Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. karakula.hanna@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GaÅÄcka</LastName>
+                    <ForeName>MirosÅawa</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Microecology, Sielska Street 10, 60-129 Poznan, Poland. drgalecka@instytut-mikroekologii.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rog</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1st Department of Psychiatry, Psychotherapy and Early Intervention Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. rog.joann@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartnicka</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Microecology, Sielska Street 10, 60-129 Poznan, Poland. anna.bartnicka@instytut-mikroekologii.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Åukaszewicz</LastName>
+                    <ForeName>Zuzanna</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Microecology, Sielska Street 10, 60-129 Poznan, Poland. dietetyk@instytut-mikroekologii.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krukow</LastName>
+                    <ForeName>Pawel</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychiatry Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. pawelkrukow@umlub.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morylowska-Topolska</LastName>
+                    <ForeName>Justyna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Neuropsychiatry Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. justynamorylowska@op.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skonieczna-Zydecka</LastName>
+                    <ForeName>Karolina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Human Nutrition, Pomeranian Medical University in Szczecin, Broniewskiego Street 24, 71-460 Szczecin, Poland, karzyd@pum.edu.pl. karzyd@pum.edu.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krajka</LastName>
+                    <ForeName>Tomasz</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Mechanical Engineering, Department of Mathematics, Lublin University of Technology, Nadbystrzycka Street 36, 20-618 Lublin, Poland. t.krajka@pollub.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jonak</LastName>
+                    <ForeName>Kamil</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1st Department of Psychiatry, Psychotherapy and Early Intervention Medical University of Lublin, Gluska Street 1, 20-439 Lublin, Poland. jonak.kamil@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Lublin University of Technology, Nadbystrzycka Street 38D, 20-618 Lublin, Poland. jonak.kamil@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Juchnowicz</LastName>
+                    <ForeName>Dariusz</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatric Nursing Medical University of Lublin, Szkolna Street 18, 20-124 Lublin, Poland. juchnowiczdariusz@wp.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nutrients</MedlineTA>
+            <NlmUniqueID>101521595</NlmUniqueID>
+            <ISSNLinking>2072-6643</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000941">Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000941" MajorTopicYN="N">Antigens</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003865" MajorTopicYN="N">Depressive Disorder, Major</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005502" MajorTopicYN="N">Food</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005512" MajorTopicYN="N">Food Hypersensitivity</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007074" MajorTopicYN="N">Immunoglobulin G</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043183" MajorTopicYN="N">Irritable Bowel Syndrome</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">food allergy</Keyword>
+            <Keyword MajorTopicYN="N">food antigen</Keyword>
+            <Keyword MajorTopicYN="N">food hypersensitivity</Keyword>
+            <Keyword MajorTopicYN="N">gut-brain axis</Keyword>
+            <Keyword MajorTopicYN="N">immunoglobulin G antibody</Keyword>
+            <Keyword MajorTopicYN="N">intestinal permeability</Keyword>
+            <Keyword MajorTopicYN="N">irritable bowel syndrome</Keyword>
+            <Keyword MajorTopicYN="N">low-grade inflammation</Keyword>
+            <Keyword MajorTopicYN="N">major depressive disorder</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29710769</ArticleId>
+            <ArticleId IdType="pii">nu10050548</ArticleId>
+            <ArticleId IdType="doi">10.3390/nu10050548</ArticleId>
+            <ArticleId IdType="pmc">PMC5986428</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Headache. 2013 Mar;53(3):514-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23216231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2014 Nov;42:50-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24858659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2017 Nov;66:56-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28676351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2013 May;144(5):903-911.e3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23357715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Microbiol. 2016 Feb 17;7:185</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26925050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurogastroenterol Motil. 2014 Mar;26(3):296-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24548256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2017 Sep;188:240-244</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28502607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Arthritis Rheum. 2017 Oct;47(2):276-280</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28457528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2017 Jul 24;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28739655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Colorectal Dis. 2017 Jan;32(1):29-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27695975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fly (Austin). 2015 ;9(2):68-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26291482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Hypotheses. 1991 Aug;35(4):298-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1943879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bipolar Disord. 2014 May;16(3):230-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24313887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Gastroenterol. 2003 Apr;17(4):259-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12704470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Psychiatr Scand. 2017 May;135(5):373-387</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28122130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Therap Adv Gastroenterol. 2016 May;9(3):354-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27134665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eksp Klin Gastroenterol. 2014;(7):13-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25842400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Allergy Asthma Clin Immunol. 2012 Jul 26;8(1):12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22835332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2014 Nov;147(5):1012-20.e4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25083606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Nutr. 2006 Dec;25(6):514-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17229899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2011 Jan;91(1):151-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21248165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Digestion. 2010;81(4):252-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20130407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Rev. 2017 Aug;18(8):832-851</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28524627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Nutr. 2006 May;60(5):667-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Treat Options Gastroenterol. 2004 Aug;7(4):307-316</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15238206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Med. 2018 Jan 03;7(1):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29301380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2015 Jun 21;21(23):7089-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26109796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Nutr. 2016 Apr;55(3):897-906</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25982757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterol Hepatol (N Y). 2017 Jan;13(1):36-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28420945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychiatr Pol. 2017 Oct 29;51(5):859-870</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29289966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cephalalgia. 2010 Jul;30(7):829-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20647174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Harv Rev Psychiatry. 2015 Jan-Feb;23(1):1-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25563565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurogastroenterol Motil. 2017 Oct 30;23 (4):578-584</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28992678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neuropsychopharmacol Biol Psychiatry. 2011 Apr 29;35(3):722-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20406665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2015 Jun;34(3):341-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25459400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2012 Jul;61(7):997-1006</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22180058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Gastroenterol. 2012 Nov 21;12:166</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23170971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2017 Aug 16;:</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28814485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Psychiatry. 2015 Mar;72(3):268-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25629589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Gastroenterol Hepatol. 2017 Mar;14 (3):143-159</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28096541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hum Nutr Diet. 2014 Apr;27 Suppl 2:36-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23659729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prim Care. 2017 Dec;44(4):655-671</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29132527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurogastroenterol Motil. 2018 May;30(5):e13260</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29193450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Gastroenterol. 2005 Jul;40(7):800-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16109655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2016 Feb 21;22(7):2242-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26900287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterol Rep. 2007 Winter;1(2):56-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21544252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuro Endocrinol Lett. 2008 Feb;29(1):117-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18283240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Allergy. 2008 Jul;63(7):793-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18489614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Gastroenterol Hepatol. 2012 Jul;10(7):712-721.e4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22426087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2009 Oct 21;15(39):4915-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19842221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2013 May;108(5):634-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23644955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2017 Apr 12;21(4):455-466.e4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28407483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2004 Oct;53(10):1459-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15361495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hum Nutr Diet. 2016 Oct;29(5):549-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27272325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Psychiatry. 2014 Dec 1;71(12):1381-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25322082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(1):e53612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23301096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Gastroenterol Hepatol. 2004 Jun;2(6):445-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15181610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Neurosci. 2017 Feb;20(2):110-118</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25268936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Nov 21;9(11):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29160841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Psychiatr Scand. 2016 Jul;134(1):40-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27028967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr Biochem. 2013 Jul;24(7):1183-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23657158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Allergy. 2007 Jun;37(6):823-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17517095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Gastroenterol Hepatol. 2001 Aug;13(8):941-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11507359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Environ Health Rep. 2018 Mar;5(1):158-169</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29423662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Clin Endocrinol Diabetes. 2008 Apr;116(4):241-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18072008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obesity (Silver Spring). 2011 Nov;19(11):2280-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21852815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychosom Med. 2016 Oct;78(8):931-939</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27359171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Int Med Res. 2012;40(1):204-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22429360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol Commun. 2015 Mar 10;3:12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25775153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Psychiatry. 2013 Jun;18(6):692-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23089630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Behav Neurosci. 2017;31:117-138</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27225497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Clin Exp Pathol. 2015 May 01;8(5):5153-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26191211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropsychiatr. 2017 Mar 8;:1-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28270247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Neuropsychopharmacol. 2017 Jun;27(6):554-559</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28479211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Healthcare (Basel). 2017 Apr 26;5(2):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28445436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2004 Oct;53(10):1391-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15361481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gastroenterol Hepatol. 2017 Mar;32 Suppl 1:69-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28244666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2006 Apr;130(5):1480-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16678561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Psychiatry. 2017 Jul 24;17 (1):268</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28738849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2011 Mar 15;335(1):2-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20398732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Psychiatry Psychiatr Epidemiol. 2014 Jan;49(1):3-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24323294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2004 Apr;79(4):682-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15051615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Affect Disord. 2014 Dec;169:15-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25128861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Nov 13;9(11):e112154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25393003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neuropsychopharmacol Biol Psychiatry. 2014 Jan 3;48:102-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24104186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr Gastroenterol Nutr. 2010 Nov;51(5):638-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20871416</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

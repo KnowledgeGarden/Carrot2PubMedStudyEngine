@@ -1,0 +1,709 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29865146</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6643</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrients</Title>
+                <ISOAbbreviation>Nutrients</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of Vitamin D on the Cardiovascular System in Advanced Chronic Kidney Disease (CKD) and Dialysis Patients.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E709</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu10060709</ELocationID>
+            <Abstract>
+                <AbstractText>In patients suffering from chronic kidney disease (CKD), the prevalence of cardiovascular disease is much more common than in the general population. The role of vitamin D deficiency had been underestimated until a significant association was found between vitamin D therapy and survival benefit in haemodialysis patients. Vitamin D deficiency is present even in the early stages of chronic kidney disease. The results of experimental studies have revealed the relationship between vitamin D deficiency and impairment of cardiac contractile function, higher cardiac mass and increased myocardial collagen content. Experimental models propose that intermediate end points for the relationship between vitamin D deficiency and higher risk of cardiovascular disease comprise diminished left ventricular hypertrophy (LVH), enhanced left ventricular diastolic function, and decreased frequency of heart failure. Multiple observational studies have demonstrated an association between the use of active vitamin D therapy in patients on dialysis and with CKD and improved survival. However, there are also many studies indicating important adverse effects of such treatment. Therefore, large randomized trials are required to analyze whether supplementation of vitamin D may affect outcomes and whether it is safe to be used in CKD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gluba-BrzÃ³zka</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0003-3322-5655</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hypertension and Family Medicine, WAM Teaching Hospital, 90-549 Lodz, Poland. aniagluba@yahoo.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franczyk</LastName>
+                    <ForeName>Beata</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hypertension and Family Medicine, Medical University of Lodz, 90-549 Lodz, Poland. bfranczyk-skora@wp.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>CiaÅkowska-Rysz</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Palliative Care Ward, Department of Oncology, Medical University of Lodz, 90-549 Lodz, Poland. olarysz@rmed.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olszewski</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Ultrasound, Institute of Fundamental Technological Research, Polish Academy of Sciences (IPPT PAN), 02-106 Warsaw, Poland. robert.olszewski@me.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rysz</LastName>
+                    <ForeName>Jacek</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hypertension and Family Medicine, Medical University of Lodz, 90-549 Lodz, Poland. jacek.rysz@umed.lodz.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nutrients</MedlineTA>
+            <NlmUniqueID>101521595</NlmUniqueID>
+            <ISSNLinking>2072-6643</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002319" MajorTopicYN="N">Cardiovascular System</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="Y">Dietary Supplements</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">mortality</Keyword>
+            <Keyword MajorTopicYN="N">treatment</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D analogues</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29865146</ArticleId>
+            <ArticleId IdType="pii">nu10060709</ArticleId>
+            <ArticleId IdType="doi">10.3390/nu10060709</ArticleId>
+            <ArticleId IdType="pmc">PMC6024710</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2007 Jun;92(6):2017-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17389701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2008;40(2):419-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18193490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2015 Oct;20(10):706-714</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25963841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Oct;74(8):1070-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18633342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Jul;13(7):1918-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12089389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2011 Oct 25;124(17):1838-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21947295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 1989 Aug;10(3):351-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2550215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1990 Nov;82(5):1730-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2225374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1997 Sep 16;96(6):1755-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9323058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2008 Feb;149(2):558-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17974622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2013 Sep 13;5(9):3605-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24067388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2008 Dec;118(12):3820-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19033649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2000 Dec 5;102(23):2867-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11104746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1995 Jul 1;55(13):2822-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7796409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2010 Sep;31(18):2253-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20688781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Oct 23;104(43):16810-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17942703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1997 Apr;272(4 Pt 2):H1751-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9139959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2001 Aug 3;89(3):279-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11485979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Nutr Food Res. 2010 Aug;54(8):1103-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20352623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2006 Mar;29(3):650-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16505521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1998 Nov;32(5 Suppl 3):S112-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9820470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2005 Apr;146(4):1956-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15637289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Res. 2011 Sep 1;91(4):632-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21565836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>QJM. 2002 Dec;95(12):787-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12454321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2008 Jun;28(6):1179-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18417640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Jul;19(7):1379-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2003 Feb 1;88(2):327-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12520534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2004 May;79(5):820-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15113720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1987 Jun;79(6):1706-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3034981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2002 Jul;110(2):229-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12122115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2004 Mar 15;159(6):589-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15003963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Cell Cardiol. 2006 Aug;41(2):350-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16815434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Emerg Care. 2014 Nov;30(11):777-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25343741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cardiol. 2009 Oct;6(10):621-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19687790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1996 Apr 1;97(7):1577-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8601621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2017 Mar;22 Suppl 2:51-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28429545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2009 Oct 07;(4):CD005633</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19821349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):533-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17276054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Jun 22;305(24):2565-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21693745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Invest. 2005 May;35(5):290-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15860041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2012 Feb 15;307(7):674-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2001 Jul;38(1):187-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11451272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2006;102(1):c21-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16166802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1990 Nov;38(5):931-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2266678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2008 Jun;87(6):1631-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18541550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):521-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17275289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Saudi Heart Assoc. 2015 Oct;27(4):264-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26557744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1999 Jan;33(1):73-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9915270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2009 Oct 07;(4):CD008175</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19821446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2013 Sep 25;14:199</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24066946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Epidemiol. 2001;17(6):567-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11949730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Aug;70(4):771-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16820797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 1984 Jul;114(7):1313-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6330321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Feb 25;168(4):397-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18299495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Jul 31;349(5):496-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12890849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Jul;16(7):2205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15917335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 1989 Jun;13(6 Pt 2):954-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2786849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart. 2008 May;94(5):540-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18413299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2009 Aug;20(8):1805-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19443637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2009 Jun;55(6):1163-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19359534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2003 Jan 1;41(1):105-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12570952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Feb;7(2):358-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22193236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Nov;68(5):1973-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16221197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Pract. 2009 Jul-Aug;15(5):438-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19491064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1990 Jan;258(1 Pt 1):E134-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2154115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Metab Cardiovasc Dis. 2010 Nov;20(9):641-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19836216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2004 Jan;19(1):179-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14671054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2005 Jan;288(1):E125-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1997;77(1):37-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9380236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Aug 11;168(15):1629-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Jul 31;349(5):446-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12890843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(7):895; author reply 895-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17882244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Apr;16(4):1115-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 Aug;15(8):2208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15284307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1992 Jan;41(1):161-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1593853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2006 Apr;83(4):754-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16600924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Jan 29;117(4):503-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Jan;25(1):175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24052631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2007 May;49(5):1063-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17372031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

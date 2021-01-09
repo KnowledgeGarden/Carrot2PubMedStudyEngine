@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32998144</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1423-0143</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>45</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney &amp; blood pressure research</Title>
+                <ISOAbbreviation>Kidney Blood Press Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predictive Power of Bone Turnover Biomarkers to Estimate Bone Mineral Density after Kidney Transplantation with or without Denosumab: A post hoc Analysis of the POSTOP Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>758-767</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000510565</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Low bone mineral density (BMD) represents a major risk factor for bone fractures in patients with chronic kidney disease (CKD) as well as after kidney transplantation. However, modalities to solidly predict patients at fracture risk are yet to be defined. Better understanding of bone turnover biomarkers (BTMs) may close this diagnostic gap. This study strives to correlate BTMs to BMD in kidney transplant recipients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Changes in BTMs - procollagen type I N-terminal propeptide (P1NP), bone-specific alkaline phosphatase (BSAP), Î²-isomer of the C-terminal telopeptide of type I collagen, and urine deoxypyridinoline/Cr - at the time of transplant and 3 months were correlated to changes in BMD measured by dual-energy X-ray absorptiometry at the time of transplant, 6, and 12 months, respectively. Half of the collective was treated with denosumab twice yearly in addition to the standard treatment with calcium and vitamin D.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Changes in bone formation markers BSAP and P1NP within 3 months showed a significant negative correlation to changes in BMD at the hip within 6 months in denosumab-naÃ¯ve patients. This correlation was abrogated by denosumab treatment.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Changes in BSAP and P1NP showed promise in short-term prediction of BMD. We suggest further trials expanding on the knowledge of these BTMs with assessment of fracture risk, sequential measurements of BTMs within the first 6 months, and the additional use of computed tomography to assess BMD.</AbstractText>
+                <CopyrightInformation>Â© 2020 The Author(s). Published by S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heimgartner</LastName>
+                    <ForeName>Nadine</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University Hospital ZÃ¼rich, ZÃ¼rich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graf</LastName>
+                    <ForeName>Nicole</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>graf Biostatistics, Winterthur, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frey</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Rheumatology, University Hospital ZÃ¼rich, ZÃ¼rich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saleh</LastName>
+                    <ForeName>Lanja</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Chemistry, University Hospital ZÃ¼rich and University of ZÃ¼rich, ZÃ¼rich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>WÃ¼thrich</LastName>
+                    <ForeName>Rudolf P</ForeName>
+                    <Initials>RP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University Hospital ZÃ¼rich, ZÃ¼rich, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonani</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University Hospital ZÃ¼rich, ZÃ¼rich, Switzerland, marco.bonani@usz.ch.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>09</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Kidney Blood Press Res</MedlineTA>
+            <NlmUniqueID>9610505</NlmUniqueID>
+            <ISSNLinking>1420-4096</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomarkers of bone turnover</Keyword>
+            <Keyword MajorTopicYN="N">Bone mineral metabolism</Keyword>
+            <Keyword MajorTopicYN="N">Denosumab</Keyword>
+            <Keyword MajorTopicYN="N">Kidney transplantation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>20</Hour>
+                <Minute>7</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32998144</ArticleId>
+            <ArticleId IdType="pii">000510565</ArticleId>
+            <ArticleId IdType="doi">10.1159/000510565</ArticleId>
+            <ArticleId IdType="pmc">PMC7592605</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Transplant. 2016 Jun;16(6):1882-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26713403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Craniofac Surg. 2012 Sep;23(5):e510-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22976726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Med Sci. 2018 Feb 1;15(4):323-338</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29511368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2010 Jun 27;89(12):1476-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20393402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2017 Sep 6;18(1):284</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28874132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Clin Pract. 2009 Jan;63(1):19-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19125989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2004 Oct 27;78(8):1233-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15502727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2014 Jul;9(7):1254-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24948144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2008 Feb;23(2):586-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17933842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Jan;24(1):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18767928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2002 Jan;30(1):307-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11792602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2008 Jul 27;86(2):231-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18645484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Nov;96(11):3457-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21849532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2019 Jun 7;14(6):894-903</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31088851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2011 Feb;22(2):391-420</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21184054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Aug 20;361(8):756-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19671655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Feb;91(2):469-476</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27998642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2010;32(5):425-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20861616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1998 Feb;13(2):297-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9495524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2008 Mar;42(3):467-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2017 Feb;63(2):464-474</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27940448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2011 Jan;57(1):138-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20974796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Densitom. 2008 Oct-Dec;11(4):532-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18809346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2001 Jul;12(7):1530-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11423583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2010 Jan;6(1):32-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19918255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2005 Mar 27;79(6):629-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15785362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Jan;25(1):72-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19594293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2009 Nov;9 Suppl 3:S1-155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19845597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2013 Aug;28(8):1811-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23456850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Jun;13(6):1608-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12039990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2003 Nov 27;76(10):1498-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14657693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2012 Dec;12(12):3316-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22946930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Blood Press Res. 2014;39(4):230-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25118597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jun;69(11):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2009 May;94(5):1483-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19420272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2019 Feb;30(2):355-365</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30606784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem Rev. 2005 Nov;26(4):97-122</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16648882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

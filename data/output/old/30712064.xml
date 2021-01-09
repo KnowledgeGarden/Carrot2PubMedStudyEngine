@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30712064</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1435-5604</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>37</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of bone and mineral metabolism</Title>
+                <ISOAbbreviation>J Bone Miner Metab</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Novel bisphosphonate compound FYB-931 preferentially inhibits aortic calcification in vitamin D3-treated rats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>796-804</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00774-019-00987-0</ELocationID>
+            <Abstract>
+                <AbstractText>In patients with chronic kidney disease (CKD) or those undergoing hemodialysis, pathological calcific deposition known as ectopic calcification occurs in soft tissue, resulting in a life-threatening disorder. A potent and effective inhibitor of ectopic calcification is eagerly expected. In the current study, the effects of FYB-931, a novel bisphosphonate compound synthesized for the prevention of ectopic calcification, were compared with those of etidronate using both in vitro and in vivo models. In vitro, FYB-931 inhibited calcification of human aortic smooth muscle cells induced by high phosphate medium in a concentration-dependent manner, and the effect was slightly more potent than that of etidronate. In vivo, rats were administered with three subcutaneous injections of vitamin D3 to induce vascular calcification, and were given FYB-931 (1.5, 5, or 10Â mg/kg) or etidronate (9, 30, or 60Â mg/kg) orally once daily for 14Â days. The increased aortic phosphorus content as an index of vascular calcification was inhibited by both FYB-931 and etidronate in a dose-dependent manner; however, FYB-931 was 10 times more potent than etidronate. FYB-931 inhibited serum tartrate-resistant acid phosphatase (TRACP) activity as a bone resorption marker 5.2 times more potently than etidronate. FYB-931, but not etidronate, significantly decreased serum phosphorus levels. The preferential inhibition of aortic calcification by FYB-931 suggested that possible additional effect including a decline in serum phosphorus may lead to an advantage in terms of its efficacy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ishida</LastName>
+                    <ForeName>Koichi</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan. k-ishida@fujiyakuhin.co.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashizawa</LastName>
+                    <ForeName>Naoki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsumoto</LastName>
+                    <ForeName>Koji</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobashi</LastName>
+                    <ForeName>Seiichi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurita</LastName>
+                    <ForeName>Naoki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shigematsu</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Wakayama Medical University, 811-1 Kimiidera, Wakayama, Wakayama, 641-8509, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwanaga</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Laboratories 2, Fuji Yakuhin Co., Ltd., 636-1 Iidashinden, Nishi-ku, Saitama, Saitama, 331-0068, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Bone Miner Metab</MedlineTA>
+            <NlmUniqueID>9436705</NlmUniqueID>
+            <ISSNLinking>0914-8779</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004164">Diphosphonates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.2</RegistryNumber>
+                <NameOfSubstance UI="D000071681">Tartrate-Resistant Acid Phosphatase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>M2F465ROXU</RegistryNumber>
+                <NameOfSubstance UI="D012968">Etidronic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001011" MajorTopicYN="N">Aorta</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001862" MajorTopicYN="N">Bone Resorption</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004164" MajorTopicYN="N">Diphosphonates</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012968" MajorTopicYN="N">Etidronic Acid</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D032389" MajorTopicYN="N">Myocytes, Smooth Muscle</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071681" MajorTopicYN="N">Tartrate-Resistant Acid Phosphatase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bisphosphonate</Keyword>
+            <Keyword MajorTopicYN="N">Bone resorption marker</Keyword>
+            <Keyword MajorTopicYN="N">Calcification</Keyword>
+            <Keyword MajorTopicYN="N">Rat</Keyword>
+            <Keyword MajorTopicYN="N">Serum phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30712064</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00774-019-00987-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00774-019-00987-0</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Pathol. 1999 Mar;154(3):671-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10079244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2000 Aug;85(8):2793-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10946883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 May;21(5):817-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11348880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2001 Nov;131(11):2910-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11694617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2003 Sep;14 Suppl 5:S16-20; discussion S20-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14504701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2004 Mar;8(1):54-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15067517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2004 Jun;8(3):241-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15154878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 Feb;16(2):184-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15197541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2004 Oct;44(4):680-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15384019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 Dec;15(12):2959-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15579497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2006 Feb;10(1):59-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16556138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ J. 2007 Jul;71(7):1152-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17587727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2007 Nov 29;50(24):5967-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17975902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 Mar;75(6):580-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19247382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2009 Oct 2;387(4):694-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19622343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomaterials. 2010 Apr;31(12):3327-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20129662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2010 Jul;56(1):57-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20347511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2010 Nov;299(5):F1212-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20739393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Oct;80(7):731-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21716261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Sci Monit. 2012 Jan;18(1):RA1-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22207127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Ther Med. 2012 May;3(5):841-844</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22969979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2013 Oct;93(4):365-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23456027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Med Rep. 2013 Jul;8(1):89-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23708378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Jan;85(1):142-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23884339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bonekey Rep. 2014 Feb 05;3:495</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24605212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Dev Dis. 2015;2(3):141-164</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26185749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Transl Med. 2017 Jun 7;9(393):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28592560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jul 31;7(1):6858</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28761091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Invest. 1970 Mar;1(1):12-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4319371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1998 May 1;12(9):1260-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9573043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

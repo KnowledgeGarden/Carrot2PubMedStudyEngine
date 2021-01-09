@@ -1,0 +1,813 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30642029</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6643</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrients</Title>
+                <ISOAbbreviation>Nutrients</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Emerging Role of Vitamins D and K in Modulating Uremic Vascular Calcification: The Aspect of Passive Calcification.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E152</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu11010152</ELocationID>
+            <Abstract>
+                <AbstractText>Vascular calcification is a critical complication in patients with chronic kidney disease (CKD) because it is predictive of cardiovascular events and mortality. In addition to the traditional mechanisms associated with endothelial dysfunction and the osteoblastic transformation of vascular smooth muscle cells (VSMCs), the regulation of calcification inhibitors, such as calciprotein particles (CPPs) and matrix vesicles plays a vital role in uremic vascular calcification in CKD patients because of the high prevalence of vitamin K deficiency. Vitamin K governs the gamma-carboxylation of matrix Gla protein (MGP) for inhibiting vascular calcification, and the vitamin D binding protein receptor is related to vitamin K gene expression. For patients with chronic kidney disease, adequate use of vitamin D supplements may play a role in vascular calcification through modulation of the calciprotein particles and matrix vesicles (MVs).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hou</LastName>
+                    <ForeName>Yi-Chou</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Cardinal Tien Hospital, School of Medicine, Fu-Jen Catholic University, New Taipei City 23148, Taiwan. athletics910@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine, Fu-Jen Catholic University, New Taipei City 24205, Taiwan. athletics910@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. athletics910@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Chien-Lin</ForeName>
+                    <Initials>CL</Initials>
+                    <Identifier Source="ORCID">0000-0002-9452-5179</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine, Fu-Jen Catholic University, New Taipei City 24205, Taiwan. janlin0123@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. janlin0123@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Fu Jen Catholic University Hospital, School of Medicine, Fu Jen Catholic University, New Taipei City 24205, Taiwan. janlin0123@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Cai-Mei</ForeName>
+                    <Initials>CM</Initials>
+                    <Identifier Source="ORCID">0000-0003-0370-3951</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. 11044@s.tmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Internal Medicine, Shuang Ho Hospital, Taipei Medical University, New Taipei City 23561, Taiwan. 11044@s.tmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Ruei-Ming</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Medical Sciences, College of Medicine, Research Center of Cancer Translational Medicine, Taipei Medical University, Taipei 11031, Taiwan. rmchen@tmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Anesthesiology and Health Policy Research Center, Taipei Medical University Hospital, Taipei 11031, Taiwan. rmchen@tmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Brain Disease Research Center, Wan-Fang Hospital, Taipei Medical University, Taipei 11031, Taiwan. rmchen@tmu.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Yuh-Feng</ForeName>
+                    <Initials>YF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. linyf@shh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Internal Medicine, Shuang Ho Hospital, Taipei Medical University, New Taipei City 23561, Taiwan. linyf@shh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Internal Medicine, Tri-Service General Hospital, Taipei 11490, Taiwan. linyf@shh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Wen-Chih</ForeName>
+                    <Initials>WC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. wayneliu55@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Internal Medicine, Tungs' Taichung MetroHarbor Hospital, Taichung City 435, Taiwan. wayneliu55@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yen</LastName>
+                    <ForeName>Tzung-Hai</ForeName>
+                    <Initials>TH</Initials>
+                    <Identifier Source="ORCID">0000-0002-0907-1505</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Chang Gung Memorial Hospital and College of Medicine, Chang Gung University, Taoyuan City 33305, Taiwan. m19570@adm.cgmh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Center, Chang Gung Memorial Hospital, Taoyuan City 33305, Taiwan. m19570@adm.cgmh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Tissue Engineering, Chang Gung Memorial Hospital, Taoyuan City 33305, Taiwan. m19570@adm.cgmh.org.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Remy</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Dialysis Center, Kamifukuoka General Hospital, Saitama 356, Japan. remyneko@yahoo.co.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Kuo-Cheng</ForeName>
+                    <Initials>KC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Institute of Clinical Medicine, College of Medicine, Taipei Medical University, Taipei 11031, Taiwan. Kuochenglu@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Fu Jen Catholic University Hospital, School of Medicine, Fu Jen Catholic University, New Taipei City 24205, Taiwan. Kuochenglu@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nutrients</MedlineTA>
+            <NlmUniqueID>101521595</NlmUniqueID>
+            <ISSNLinking>2072-6643</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002135">Calcium-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016326">Extracellular Matrix Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C047255">matrix Gla protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>12001-79-5</RegistryNumber>
+                <NameOfSubstance UI="D014812">Vitamin K</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Nutrients. 2019 Mar 06;11(3):</RefSource>
+                <PMID Version="1">30845755</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002135" MajorTopicYN="N">Calcium-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016326" MajorTopicYN="N">Extracellular Matrix Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054559" MajorTopicYN="N">Hyperphosphatemia</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D032389" MajorTopicYN="N">Myocytes, Smooth Muscle</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014812" MajorTopicYN="N">Vitamin K</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014813" MajorTopicYN="N">Vitamin K Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">calciprotein particle</Keyword>
+            <Keyword MajorTopicYN="N">matrix vesicle</Keyword>
+            <Keyword MajorTopicYN="N">vascular calcification</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">vitamin K</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30642029</ArticleId>
+            <ArticleId IdType="pii">nu11010152</ArticleId>
+            <ArticleId IdType="doi">10.3390/nu11010152</ArticleId>
+            <ArticleId IdType="pmc">PMC6356797</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Kidney Int. 1999 Mar;55(3):1019-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10027939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Apr;57(4):1688-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10760105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2001;12(8):680-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11580082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2004 Nov;134(11):3100-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15514282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2006 Jul;21(7):1906-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16554325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2006 Dec;17(12):3382-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17082242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2007 Apr;97(4):661-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17349078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Med (Berl). 2008 Apr;86(4):379-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18080808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Sep;4(9):1523-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19478099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Contrib Nephrol. 2011;171:135-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21625102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2011 Jun 10;108(12):1494-509</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21659653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Feb;59(2):186-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22169620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2012 Aug 17;111(5):575-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22753077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Tissue Eng Regen Med. 2015 Jun;9(6):691-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23109511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(10):e47991</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23118917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2013 Aug;33(8):1753-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23766262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2013;33(5):716-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24089164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2014 Jan;24(1):20-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24216258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Aug;86(2):286-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24429407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bonekey Rep. 2014 Feb 05;3:497</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24605214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 May;63(5):713-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24647050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2014 Jun 14;35(23):1515-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24740885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2014 Mar;34(2):106-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24780467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Renin Angiotensin Aldosterone Syst. 2015 Dec;16(4):1260-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25271253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cardiovasc Med. 2015 May;25(4):267-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25435520</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2014 Nov;34(6):598-611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25498379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Apr 7;10(4):654-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25770175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Jan;31(1):31-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25916871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrine. 2016 Feb;51(2):333-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26130027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2015 Oct 15;309(8):F744-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26180236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 2015 Nov 15;767:30-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26452518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Mar;89(3):601-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26466318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxins (Basel). 2015 Oct 28;7(11):4390-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26516916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Mar;89(3):574-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26880454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JACC Cardiovasc Imaging. 2016 May;9(5):568-576</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26970999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EBioMedicine. 2016 Jan 13;4:162-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26981580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Nov;27(11):3421-3429</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27080977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2016 Apr 22;6:24943</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27101807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2016 Jul;116(2):286-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27198036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2017 Apr;36(2):601-607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27234935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Clin Belg. 2016 Dec;71(6):462-467</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27254816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2016 Aug 23;6:32084</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27549031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Regul Homeost Agents. 2016 Jul-Sep;30(3):713-726</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27655488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2017;45(1):4-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27846632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Apr;91(4):808-817</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27914706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hypertens. 2017 Feb;30(2):196-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27927630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Feb 7;12(2):315-322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27940458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Asia Pac J Clin Nutr. 2016 Dec;25(Suppl 1):S8-S19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28027627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Apr;91(4):797-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28040264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Jun;28(6):1717-1722</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28049648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Heart Assoc. 2017 Feb 7;6(2):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28174171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Res. 2017 Mar;51(3):237-252</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28277985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Res Int. 2017;2017:2803579</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28286758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2017 Oct;30(5):629-634</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28405928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2017 Mar;22 Suppl 2:11-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28429547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Apr 29;9(5):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28468236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr Biochem. 2017 Aug;46:83-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28486172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vascular. 2018 Feb;26(1):18-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28587577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2018 Sep;23(9):837-845</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28703899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Surg Treat Res. 2017 Jul;93(1):11-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28706886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Feb;93(2):343-354</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29032812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2018 Mar;38(3):575-587</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29301790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2018 Feb 2;19(1):24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29394885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2018 Feb 03;19(2):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29401665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Mar 19;10(3):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29562658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Mar 19;10(3):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29562681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Redox Biol. 2018 Jun;16:352-358</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29597144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 May 03;378(18):1704-1714</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29719190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2018 Sep;31(5):487-499</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29733462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2018 May 15;19(1):113</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29764395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hypertens. 2018 Aug 3;31(9):988-994</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29788226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 May 16;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29788425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Ther. 2018 Aug;36(4):e12438</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29847020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Nutr. 2018 Aug 21;38:127-151</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29856932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2018 Jul 17;320(3):281-297</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29998301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JACC Basic Transl Sci. 2017 Dec 25;2(6):790-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30062186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2018 Aug 22;19(1):212</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30134956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2018 Oct 30;72(18):2152-2163</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30166084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxins (Basel). 2018 Sep 11;10(9):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30208594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Immunol. 2018 Sep 04;9:1991</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30233585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2018 Oct;23 Suppl 4:88-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30298663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1981 Apr 15;99(3):928-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6972763</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 1995 Jul;116(1):117-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7488326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

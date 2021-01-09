@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32406474</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2175-8239</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>May</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Jornal brasileiro de nefrologia : 'orgao oficial de Sociedades Brasileira e Latino-Americana de Nefrologia</Title>
+                <ISOAbbreviation>J Bras Nefrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D deficiency is not associated with increased oxidative stress in chronic kidney disease pre-dialysis patients.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">S0101-28002020005014202</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1590/2175-8239-JBN-2019-0156</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The progressive decline in 25-hydroxyvitamin D [25(OH)D] in chronic kidney disease (CKD) limits the kidney ability of synthesizing the vitamin. Vitamin D deficiency as defined by KDIGO (25(OH)D &lt;20 ng/mL) is prevalent in CKD patients and associated to oxidative stress (OS). We studied a possible association between vitamin D deficiency and OS in pre-dialysis patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A cross-sectional study with 206 CKD patients was carried out. Laboratory tests for 25(OH)D, 1,25(OH)2D, inflammatory markers, and OS were added to routine tests including creatinine, albumin, calcium, phosphorus, alkaline phosphatase, iPTH, glucose, hemoglobin, uric acid, total cholesterol, LDL, HDL, and triglycerides.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Vitamin D deficiency was present in 55 CKD patients and normal vitamin D levels were seen in 149 patients. There was a significant association between vitamin D and estimated glomerular filtration rate (eGRF). Homocysteine levels were best predicted by eGRF, sex, and age; high sensitivity C-reactive protein (hsCRP) by staging and BMI; nitric oxide metabolites (NOx) were increased in late disease; leptin was influenced by BMI and higher in women than man; and adiponectin levels were higher in women.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">OS biomarkers were not correlated with vitamin D deficiency but increased NOx were seen in stages 4-5 CKD patients. Even though a relatively large number of CKD patients was included and a broad number of OS and inflammatory biomarkers were used in this studied we failed to find an association between vitamin D levels and eGRF. More studies are needed to evaluate the influence of vitamin D status in OS in pre-dialysis CKD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Matsumoto</LastName>
+                    <ForeName>Andressa Keiko</ForeName>
+                    <Initials>AK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9385-0722</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maes</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2012-871X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Deakin University, IMPACT Research Center, Geelong, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Chulalongkorn University, Faculty of Medicine, Department of Psychiatry, Bangkok, Thailand.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Centro de CiÃªncias da SaÃºde, Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncias da SaÃºde, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michelin</LastName>
+                    <ForeName>Ana Paula</ForeName>
+                    <Initials>AP</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5197-0638</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soares</LastName>
+                    <ForeName>Abel Esteves</ForeName>
+                    <Initials>AE</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6028-2909</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Medicina Interna, SeÃ§Ã£o de Nefrologia, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>SemeÃ£o</LastName>
+                    <ForeName>Laura de Oliveira</ForeName>
+                    <Initials>LO</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-8096-7307</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godeny</LastName>
+                    <ForeName>Paula</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8158-2000</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venturini</LastName>
+                    <ForeName>Danielle</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3986-9873</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barbosa</LastName>
+                    <ForeName>DÃ©cio Sabbatini</ForeName>
+                    <Initials>DS</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-8677-4730</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Patologia, AnÃ¡lises ClÃ­nicas e ToxicolÃ³gicas, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delfino</LastName>
+                    <ForeName>Vinicius Daher Alvares</ForeName>
+                    <Initials>VDA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-5443-9348</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Estadual de Londrina, Departamento de Medicina Interna, SeÃ§Ã£o de Nefrologia, Londrina, PR, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>por</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>J Bras Nefrol</MedlineTA>
+            <NlmUniqueID>9426946</NlmUniqueID>
+            <ISSNLinking>0101-2800</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32406474</ArticleId>
+            <ArticleId IdType="pii">S0101-28002020005014202</ArticleId>
+            <ArticleId IdType="doi">10.1590/2175-8239-JBN-2019-0156</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

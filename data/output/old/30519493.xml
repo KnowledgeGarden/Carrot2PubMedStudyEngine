@@ -1,0 +1,226 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30519493</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2090-6641</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2018</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Case reports in nephrology</Title>
+                <ISOAbbreviation>Case Rep Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Denosumab-Induced Severe Hypocalcaemia in Chronic Kidney Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7384763</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2018/7384763</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">Hypocalcaemia is increasingly recognized as a complication of denosumab use in Chronic Kidney Disease (CKD) patients with osteoporosis. Despite Therapeutic Goods Administration (TGA) notifications in 2013, we have subsequently encountered several cases of denosumab-induced hypocalcaemia, raising concern about lack of widespread awareness among prescribing practitioners.</AbstractText>
+                <AbstractText Label="Aims" NlmCategory="UNASSIGNED">We reviewed the morbidity and healthcare intervention needs of CKD patients with hypocalcaemia attributed to denosumab.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A retrospective case series of CKD patients with clinically significant hypocalcaemia after exposure to denosumab, encountered at the tertiary care referral hospital from December 2013 to February 2017, was undertaken.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Eight patients (52-85 years of age) with stage 4-5 CKD developed clinically significant hypocalcaemia (corrected calcium 1.45Â±0.21mmol/L) following denosumab therapy for osteoporosis. Seven of the eight patients required inpatient management with three patients requiring intravenous calcium replacement and cardiac monitoring in a high dependency unit. Our study also identified additional factors that could potentially contribute to hypocalcaemia such as lack of calcium supplementation, use of noncalcium based phosphate binders, absence of or use of lower doses of calcitriol supplementation, low vitamin D levels, concomitant treatment with loop diuretics, history of parathyroidectomy, or presence of acute medical illness.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Multiple cases of severe hypocalcaemia in CKD patients following denosumab exposure were encountered after TGA warnings, resulting in considerable morbidity and intensive healthcare interventions in CKD patients. We advocate greater awareness amongst the medical profession, careful consideration before using denosumab in CKD patients, and close follow-up after administration to prevent morbidity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jalleh</LastName>
+                    <ForeName>Ryan</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0003-4969-4771</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Central and Northern Adelaide Renal and Transplantation Service, Royal Adelaide Hospital, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Basu</LastName>
+                    <ForeName>Gopal</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central and Northern Adelaide Renal and Transplantation Service, Royal Adelaide Hospital, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Leu</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0003-4704-4943</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Central and Northern Adelaide Renal and Transplantation Service, Royal Adelaide Hospital, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jesudason</LastName>
+                    <ForeName>Shilpanjali</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central and Northern Adelaide Renal and Transplantation Service, Royal Adelaide Hospital, Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Adelaide, South Australia, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Case Rep Nephrol</MedlineTA>
+            <NlmUniqueID>101598418</NlmUniqueID>
+            <ISSNLinking>2090-665X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30519493</ArticleId>
+            <ArticleId IdType="doi">10.1155/2018/7384763</ArticleId>
+            <ArticleId IdType="pmc">PMC6241374</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Bone Miner Res. 2012 Jul;27(7):1471-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22461041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacoepidemiol Drug Saf. 2016 Nov;25(11):1274-1278</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27255807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2007 Dec;117(12):4003-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17992255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2009;29(5):392-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19820750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2010 Apr;55(4):622-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20338463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bonekey Rep. 2014 Jun 25;3:542</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24991405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2015;41(2):129-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25790847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biol Sci. 2012;8(5):663-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22606047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Jul;16(7):2205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15917335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2014 Jul;99(7):2426-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24670088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Aug 20;361(8):756-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19671655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Med J. 1973 Dec 15;4(5893):643-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4758544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Aug;26(8):1829-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21491487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2017 Apr;30(2):271-279</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27394428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

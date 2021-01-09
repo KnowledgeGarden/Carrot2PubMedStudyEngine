@@ -1,0 +1,1190 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30909513</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6651</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>03</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxins</Title>
+                <ISOAbbreviation>Toxins (Basel)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>FGF23, Biomarker or Target?</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E175</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/toxins11030175</ELocationID>
+            <Abstract>
+                <AbstractText>Fibroblast growth factor 23 (FGF23) plays a key role in the complex network between the bones and other organs. Initially, it was thought that FGF23 exclusively regulated phosphate and vitamin D metabolism; however, recent research has demonstrated that an excess of FGF23 has other effects that may be detrimental in some cases. The understanding of the signaling pathways through which FGF23 acts in different organs is crucial to develop strategies aiming to prevent the negative effects associated with high FGF23 levels. FGF23 has been described to have effects on the heart, promoting left ventricular hypertrophy (LVH); the liver, leading to production of inflammatory cytokines; the bones, inhibiting mineralization; and the bone marrow, by reducing the production of erythropoietin (EPO). The identification of FGF23 receptors will play a remarkable role in future research since its selective blockade might reduce the adverse effects of FGF23. Patients with chronic kidney disease (CKD) have very high levels of FGF23 and may be the population suffering from the most adverse FGF23-related effects. The general population, as well as kidney transplant recipients, may also be affected by high FGF23. Whether the association between FGF23 and clinical events is causal or casual remains controversial. The hypothesis that FGF23 could be considered a therapeutic target is gaining relevance and may become a promising field of investigation in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rodelo-Haad</LastName>
+                    <ForeName>Cristian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. crisroha@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. crisroha@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. crisroha@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santamaria</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. rsantamariao@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. rsantamariao@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. rsantamariao@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MuÃ±oz-CastaÃ±eda</LastName>
+                    <ForeName>Juan R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. juanr.munoz.exts@juntadeandalucia.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. juanr.munoz.exts@juntadeandalucia.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. juanr.munoz.exts@juntadeandalucia.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PendÃ³n-Ruiz de Mier</LastName>
+                    <ForeName>M Victoria</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. z22perum@uco.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. z22perum@uco.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. z22perum@uco.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin-Malo</LastName>
+                    <ForeName>Alejandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. amartinma@senefro.org.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. amartinma@senefro.org.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. amartinma@senefro.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez</LastName>
+                    <ForeName>Mariano</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Service, University Hospital Reina Sofia, 14005 Cordoba, Spain. marianorodriguezportillo@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Maimonides Institute for Biomedical Research of Cordoba (IMIBIC)/University of Cordoba, 14005 Cordoba, Spain. marianorodriguezportillo@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Spanish Renal Research Network (REDinREN), Institute of Health Carlos III, 28040 Madrid, Spain. marianorodriguezportillo@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Toxins (Basel)</MedlineTA>
+            <NlmUniqueID>101530765</NlmUniqueID>
+            <ISSNLinking>2072-6651</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">calcium</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">dialysis</Keyword>
+            <Keyword MajorTopicYN="Y">fibroblast growth factor 23 (FGF23), fibroblast growth factor receptor (FGFR), Klotho</Keyword>
+            <Keyword MajorTopicYN="Y">parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="Y">phosphate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30909513</ArticleId>
+            <ArticleId IdType="pii">toxins11030175</ArticleId>
+            <ArticleId IdType="doi">10.3390/toxins11030175</ArticleId>
+            <ArticleId IdType="pmc">PMC6468608</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Kidney Int. 2008 Jan;73(1):102-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17943081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2011;31(3):346-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21629339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Jun;26(6):1290-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25326585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2019 Feb 1;34(2):339-346</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29617976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2010 Oct;299(4):F882-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20685823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2018 Jan 1;314(1):F132-F139</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28877877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2016 Jul;36(4):319-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27475662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2015 Jan 5;399:208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25458698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2018 May 29;115(22):5804-5809</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29760049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Pharmacol Physiol. 2018 Jul;45(7):668-674</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29574933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2010 Nov;299(5):F1212-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20739393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2016 Jan;31(1):129-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26235988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2014 Mar;34(2):151-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24780470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2008 Apr;294(4):F881-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18256313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2014;37(5):e89-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24757249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2004 Nov;20(11):563-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15475116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2012 Oct;82(7):737-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22622492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 Jul 21;353(3):238-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16034009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Endocrinol (Lausanne). 2015 Sep 29;6:154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26483756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Endocr Metab Disord. 2017 Mar;18(1):79-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28378123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2015 Dec;88(6):1304-1313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26221757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 Aug;15(8):2208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15284307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncotarget. 2016 Oct 4;7(40):64649-64664</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27579618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Apr;6(4):913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21454719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Nov;8(11):1968-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23929933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Endocrinol (Lausanne). 2018 May 28;9:278</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29892269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Jun 15;305(23):2432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21673295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2013 Jul;22(4):371-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23736839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Endocrinol. 2010 Oct;24(10):2050-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20667984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2001 Feb 2;280(4):1015-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11162628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Jul;7(7):1155-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22554719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Sep;80(6):572-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21750584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 May;26(5):1150-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25475745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nephrol. 2013 Jul;80(1):17-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23391319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Jan 6;281(1):429-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16267055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 Nov 1;33(11):1977-1983</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29420827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Metab. 2013 Jun 4;17(6):901-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23684624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wiley Interdiscip Rev Dev Biol. 2015 May-Jun;4(3):215-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25772309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2017 Oct;32(10):2062-2073</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28600887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Sep;80(5):475-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21525854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2013 Oct;34(5):658-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23612223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Endocrinol (Lausanne). 2018 May 02;9:189</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29770125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2015 Nov;11(11):656-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26416497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2008 Nov;23(11):3391-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18676347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2007 Dec;117(12):4003-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17992255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Jul;31(7):1088-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26681731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2011;117(1):c74-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20689328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2012 Aug 17;287(34):29134-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22733815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Mar 26;10(3):e0122885</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25811862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2018 Aug 7;13(8):e0201537</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30086150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Sep;3(5):1487-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18650409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Mol Med. 2014 May 05;6(6):744-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24797667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2012 Jul;23(7):1190-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22581996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2018 Jul;32(7):3752-3764</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29481308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Sep 12;7(1):11298</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28900153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2016 Jan;590(1):53-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26762170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2019 Jan;15(1):27-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30455427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Sep;31(9):1494-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26602863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2009 Dec;207(2):546-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19524924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Jun 5;10(6):1021-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25873267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 Oct 1;33(10):1722-1734</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29425341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2018 Feb;29(2):579-590</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29167351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Osteoporos Rep. 2018 Dec;16(6):693-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30291515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Mar;19(3):615-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18216315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Pharmacother. 2015;16(11):1703-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26159447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Mar;67(3):1171-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15698459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Jul;94(1):7-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29933856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2012;3:1238</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23212367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Sep;92(3):599-611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28396120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Nov;90(5):985-996</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27457912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2018 Jan 25;553(7689):461-466</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29342138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 May;93(5):1131-1141</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29395333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2016 Feb 5;470(2):384-390</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26773502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 2016 Sep;468(9):1621-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27448998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 2007 Jul;454(4):615-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17333246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2016 Jun;137(5):756-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26896818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2011 Aug;89(2):140-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21633782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2005 Dec;146(12):5358-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2013 Aug;28(8):1793-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23505057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2017 Sep;31(9):3858-3867</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28515153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 May;65(5):1943-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15086938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Cell Mol Biol. 2000 Jan;22(1):26-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10615062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Jul;94(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29735309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2015 Oct;70(10):1198-209</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25246106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 Feb;55(2):648-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9987089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1994 Nov;24(5):768-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7977318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 2019 Jan;471(1):83-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30393837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2003 Apr;13(2):144-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12671839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2005 Nov;289(5):F1088-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15998839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Jul 06;11(7):e0158765</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27383068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 2013;75:503-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23398153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Dec;4(12):1892-900</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19833908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2005 Oct 25;112(17):2627-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16246962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2012 Jan;92(1):131-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22298654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2014 Sep;10(9):504-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24981816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jun 8;7(1):3100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28596573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2012 May 14;32(3):275-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22592418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 Jun;83(6):1159-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23389416</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2013 Feb 1;304(3):E310-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23233539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Jan;89(1):135-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26535997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2013 Jan;28(1):46-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22886720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2011 Nov;301(5):C1036-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21795520</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2014 Jul;23(4):411-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24867675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2001 Oct;281(4):E837-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11551862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2013 Feb;24(2):268-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23334396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Endocrinol. 2018 Nov;14(11):637-655</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30218014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Oct;26(10):2328-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25967123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Dec;7(12):2017-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22997345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Jun;18(6):1637-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17494882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Nov 7;12(11):1795-1803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28784656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2013 Apr 15;304(8):E863-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23443925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2003 Dec;64(6):2311-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14633156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Metab. 2015 Dec 1;22(6):1020-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26437603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Feb;28(2):586-597</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27535551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2019 Dec 1;34(12):2057-2065</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30007314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jan;27(1):227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25971439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2016 Mar 1;126(3):962-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26878171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2016 Nov - Dec;36(6):597-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27595517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 Jan;22(1):124-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21115613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2011 Sep 15;1412:9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21824606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2019 Jul 1;34(7):1163-1170</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29846719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2011 Nov;121(11):4393-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21985788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Feb;6(2):383-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21030580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2010 Sep;25(9):3033-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20368304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Oct 30;7(1):14388</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29085059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2018 Jul;29(7):2015-2027</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29764921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Feb;91(2):324-337</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27914707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Apr;26(4):803-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20939065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Struct Funct. 2004 Dec;29(4):91-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15665504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2015 Jul 7;132(1):27-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26059012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2014 Apr 4;289(14):9795-810</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24509850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 Dec;54(6):2140-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9853280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 May;27(5):1715-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22447519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2012 Jul;122(7):2543-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22728934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2010 Jul;21(7):1125-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20431039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1991 Dec;40(6):1063-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1762307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 May 16;7(1):1993</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28512310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2009 Aug;205(2):385-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19181315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2018 Oct;29(10):2602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30093457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2014 May 21;34(3):302-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24798565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2013 Dec;3(5):420-426</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25019024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2015 Nov-Dec;28(6):564-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26303319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Sep;80(5):493-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21562471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Feb;16(2):520-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15615819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Nov 6;390(6655):45-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9363890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2018 Jul 1;33(7):1129-1137</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29309658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2014 May 13;82(19):1700-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24706015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Mar;19(3):429-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15040831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2018 Sep 12;8(1):13701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30209259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Jul;92(1):26-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28646995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 May 24;378(21):1987-1998</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29791829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Dec;86(6):1106-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24940803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Endocrinol. 2003 Dec;17(12):2393-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14528024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxins (Basel). 2016 Dec 08;8(12):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27941640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Mar;91(3):711-719</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28017325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2019 Feb;15(2):109-120</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30514976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Aug;26(8):2433-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21543658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

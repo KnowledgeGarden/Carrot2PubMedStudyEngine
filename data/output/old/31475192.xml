@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31475192</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2305-5839</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>14</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of translational medicine</Title>
+                <ISOAbbreviation>Ann Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Efficacy and safety of cinacalcet and active vitamin D in the treatment of secondary hyperparathyroidism in patients with chronic kidney disease: a network meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>322</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.21037/atm.2019.05.84</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">We conducted a network meta-analysis (NMA) to evaluate the efficacy and safety of cinacalcet, active vitamin D and cinacalcet plus active vitamin D in the treatment of secondary hyperparathyroidism (SHPT) in patients with chronic kidney disease (CKD).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">A systematic literature search was performed using the Cochrane Library, PubMed, EMBASE, Web of Science, Google Scholar, China National Knowledge Internet (CNKI) and Wanfang databases. In total, eight randomized controlled trials (RCTs) with 1,443 patients were eligible for this meta-analysis. Pairwise meta-analysis was performed to evaluate the compliance of intact parathyroid hormone (iPTH), Ca, P, etc., and the mortality and safety of cinacalcet plus active vitamin D and active vitamin D alone. Then, NMA was used to estimate the safety and efficacy of the administration of active vitamin D and different drugs in the control group.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The results of the pairwise meta-analysis revealed that compared with active vitamin D monotherapy, cinacalcet plus active vitamin D did not improve the survival of patients but significantly improved the blood calcium compliance rate [relative risk (RR) =1.82, 95% confidence interval (CI): 1.51-2.21, P&lt;0.00001]. Furthermore, it is worth noting that compared with the corresponding incidence with other treatments, the incidence of vomiting was significantly increased with cinacalcet plus active vitamin D treatment (RR =2.07, 95% CI: 1.18-3.65, P=0.01). Through direct and indirect comparisons, the NMA revealed the following results: (I) compared with oral or intravenous (IV) administration of vitamin D, the solely oral administration of active vitamin D increased mortality, and (II) cinacalcet monotherapy increased the risk of hypocalcemia, and that risk was even higher for cinacalcet plus active vitamin D. However, the results should be treated with caution because the prediction interval (PrI) crossed the invalid line.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">This pairwise meta-analysis and NMA provided a comprehensive analysis of the currently utilized CKD-SHPT treatment interventions. This network identified some highly ranked interventions through analyses that were included in a small number of trials; these interventions merit further examination on a larger scale in the context of well-designed RCTs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ni</LastName>
+                    <ForeName>Li-Hua</ForeName>
+                    <Initials>LH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yuan</LastName>
+                    <ForeName>Cheng</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation and Medical Oncology, Zhongnan Hospital, Wuhan University, Wuhan 430071, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Kai-Yun</ForeName>
+                    <Initials>KY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiao-Chen</ForeName>
+                    <Initials>XC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Si-Jie</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Li-Ting</ForeName>
+                    <Initials>LT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yu-Xia</ForeName>
+                    <Initials>YX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hong</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Bi-Cheng</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Ri-Ning</ForeName>
+                    <Initials>RN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Nephrology, Zhongda Hospital, Southeast University School of Medicine, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nanjing Lishui People's Hospital, Zhongda Hospital Lishui Branch, Nanjing 210009, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Ann Transl Med</MedlineTA>
+            <NlmUniqueID>101617978</NlmUniqueID>
+            <ISSNLinking>2305-5839</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Secondary hyperparathyroidism (SHPT)</Keyword>
+            <Keyword MajorTopicYN="N">active vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease (CKD)</Keyword>
+            <Keyword MajorTopicYN="N">cinacalcet</Keyword>
+            <Keyword MajorTopicYN="N">network meta-analysis (NMA)</Keyword>
+        </KeywordList>
+        <CoiStatement>Conflicts of Interest: The authors have no conflicts of interest to declare.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31475192</ArticleId>
+            <ArticleId IdType="doi">10.21037/atm.2019.05.84</ArticleId>
+            <ArticleId IdType="pii">atm-07-14-322</ArticleId>
+            <ArticleId IdType="pmc">PMC6694249</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>N Engl J Med. 2000 May 18;342(20):1478-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10816185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2002 Feb 20;39(4):695-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11849871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Nov;13(11):2762-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12397047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Oct;42(4 Suppl 3):S1-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Ther. 2006 Mar;109(3):339-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16102839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Oct;68(4):1793-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Oct;21(10):1434-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16900383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jan;71(1):31-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17091124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):578-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17368185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Nov;3(6):1718-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18945995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 May;24(5):1506-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19001560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Evid Based Med. 2008 Dec;13(6):162-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19043023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Apr;26(4):1327-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wien Klin Wochenschr. 2011 Jan;123(1-2):45-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21253777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacoepidemiol Drug Saf. 2011 Sep;20(9):914-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21735509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacoeconomics. 2011 Sep;29(9):807-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21838333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 May;27(5):1942-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21931122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1990 Aug;38(2):193-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2205749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Mar;7(3):391-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22223607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 May;28(5):1241-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23328710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Res Int. 2013;2013:320560</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23509710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2013 Apr 19;5(4):1336-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23603995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2013;10(4):e1001436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23637579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2013 May 25;14:112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23705925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Drug Investig. 2014 Feb;34(2):107-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24214232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Rev. 2016 Jan 04;5:2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26729302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ren Fail. 2016 Jul;38(6):857-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27137817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Perit Dial Int. 2016 11-12;36(6):688-690</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27903853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Nov 1;32(11):1902-1908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28402557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2017 May 11;10:109-122</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28546765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Nov;92(5):1217-1222</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28750928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2018 Feb 15;8(1):3111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29449603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2018 Mar 20;168(6):422-430</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29459980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 2018;139(3):197-210</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29514156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Endocrinol (Lausanne). 2018 Sep 20;9:550</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30294301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Mar 31;95(7):4040-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9520489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1998 Aug;13(8):2037-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9719161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

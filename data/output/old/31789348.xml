@@ -1,0 +1,500 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31789348</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-4935</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>12</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioscience reports</Title>
+                <ISOAbbreviation>Biosci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Ergocalciferol improves endothelial vasodilatory and vasoconstrictor function in an in vivo model of mild uraemia.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">BSR20190711</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BSR20190711</ELocationID>
+            <Abstract>
+                <AbstractText>Endothelial dysfunction and vitamin D deficiency are prevalent in patients with cardiovascular disease (CVD) and chronic kidney disease (CKD). Both are risk factors for cardiovascular events in patients with CKD. No studies have investigated the effect of nutritional forms of vitamin D on endothelial function in earlier stages of CKD, when vascular endothelium may be more amenable to this therapy. We studied the effect of ergocalciferol in a pre-clinical model of mild uraemia. Male Wistar rats underwent either a 5/6th nephrectomy or sham surgery. Four weeks after the final stage of the surgery, these two groups were randomly allocated to placebo or an oral dose of 1000 iu of ergocalcfierol at day 7 and 2 pre sacrifice. Vascular responses to acetylcholine, Spermine NONOate and phenylephrine were determined in aortic rings. Blood pressure, calcium, phosphate and parathyroid hormone were measured in all groups. Ergocalciferol significantly improved the endothelium-dependent responses to acetylcholine and overcame the blunting of the contractile response to phenylephrine seen in uraemic animals. Ergocalciferol improved the contractile response to potassium chloride in uraemic, but not sham animals. All effects occurred independently of changes to calcium, phosphate, parathyroid hormone and systolic blood pressure. There were no differences in endothelium-independent relaxation to Spermine NONOate. In summary, in a model of mild uraemia, ergocalciferol improved vasodilator and vasoconstrictor tone independently of blood pressure and bone mineral parameters suggesting a direct effect of ergocalciferol on the endothelium.</AbstractText>
+                <CopyrightInformation>Â© 2019 The Author(s).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dreyer</LastName>
+                    <ForeName>Gavin</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>William Harvey Research Institute of Queen Mary University, John Vane Science Building, Charterhouse Square Campus, London EC1B 6BQ, U.K.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Diabetic Kidney Centre and Renal Unit, Barts Health NHS Trust, Royal London Hospital, Whitechapel Road, London E1 1BB, U.K.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kieswich</LastName>
+                    <ForeName>Julius</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>William Harvey Research Institute of Queen Mary University, John Vane Science Building, Charterhouse Square Campus, London EC1B 6BQ, U.K.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harwood</LastName>
+                    <ForeName>Steven</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>William Harvey Research Institute of Queen Mary University, John Vane Science Building, Charterhouse Square Campus, London EC1B 6BQ, U.K.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahluwalia</LastName>
+                    <ForeName>Amrita</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Vascular Pharmacology, William Harvey Research Institute of Queen Mary University, John Vane Science Building, Charterhouse Square Campus, London EC1B 6BQ, U.K.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yaqoob</LastName>
+                    <ForeName>Muhammad M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>William Harvey Research Institute of Queen Mary University, John Vane Science Building, Charterhouse Square Campus, London EC1B 6BQ, U.K.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Diabetic Kidney Centre and Renal Unit, Barts Health NHS Trust, Royal London Hospital, Whitechapel Road, London E1 1BB, U.K.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biosci Rep</MedlineTA>
+            <NlmUniqueID>8102797</NlmUniqueID>
+            <ISSNLinking>0144-8463</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004872">Ergocalciferols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014662">Vasoconstrictor Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001011" MajorTopicYN="N">Aorta</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042783" MajorTopicYN="N">Endothelial Cells</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004730" MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004872" MajorTopicYN="N">Ergocalciferols</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051437" MajorTopicYN="N">Renal Insufficiency</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="N">Uremia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014662" MajorTopicYN="N">Vasoconstrictor Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014664" MajorTopicYN="N">Vasodilation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">endothelial function</Keyword>
+            <Keyword MajorTopicYN="Y">ergocalciferol</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31789348</ArticleId>
+            <ArticleId IdType="pii">221375</ArticleId>
+            <ArticleId IdType="doi">10.1042/BSR20190711</ArticleId>
+            <ArticleId IdType="pmc">PMC6923332</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Int J Endocrinol. 2010;2010:625852</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20169119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jul 09;9(7):e99461</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25006678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2011 Jun;216(2):446-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21414625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Sep;58(3):374-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21636193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Nov;70(10):1858-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17021609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2009 Feb 17;10:4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19220921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Cir Bras. 2016 Nov;31(11):744-752</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27982262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2012 Jan;220(1):265-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22071357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2003 Apr;17(6):773-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12586741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Mar;57(3):1091-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10720961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Oct;42(4 Suppl 3):S1-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2009 Sep;158(2):395-412</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19371337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2015 Apr;148:202-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25500070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2006 Oct;21(10):2754-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16837509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 Mar;24(3):778-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18829613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Feb;18(2):613-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17202417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 1999 Jun;127(3):772-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10401569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2003 Apr;284(4):H1212-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12595297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Dec;13(12):2909-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12444209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2005 Jun;20(6):1048-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15814534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Oct;28(10):3100-3108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28667080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2011 Sep;164(2b):551-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21557735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Mar 19;9(3):e91363</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24646518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2015 Aug;28(4):471-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25515034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2014 Nov;64(5):1005-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25259743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2008 Mar;93(3):677-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18089691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Jul 31;349(5):446-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12890843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 1999 Oct;34(4 Pt 2):897-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10523381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):487-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17197169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2012 Dec;33(23):2980-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22267242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2003 Nov;285(5):H1882-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14561677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2008 Oct 01;337:a1618</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18829639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Jul;16(7):2081-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15829712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2008 Jul;295(1):H289-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18487433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Jan;59(1):58-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21885174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jul;72(1):92-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17440495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Apr;16(4):1115-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2003 Dec;18(12):2560-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14605278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1986;44(3):230-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3785486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Exp Nephrol. 2008;109(3):e84-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18663335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

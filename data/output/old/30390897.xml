@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30390897</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2405-4577</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>12</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical nutrition ESPEN</Title>
+                <ISOAbbreviation>Clin Nutr ESPEN</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>25 hydroxyvitamin D and nutritional parameters correlation in adults with stage 4 chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>80-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S2405-4577(18)30083-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.clnesp.2018.09.074</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND AIMS">Serum concentrations of 25-hydroxyvitamin D (abbreviated &quot;25(OH)D&quot;) and parameters of nutritional status both decline as chronic kidney disease (CKD) progresses. The objective of this study was to measure and correlate 25(OH)D concentrations with alterations in the nutritional status of adult patients with stage 4 CKD.</AbstractText>
+                <AbstractText Label="METHODS">The study was cross-sectional, included patients with stage 4 CKD (CKD-Epi between 15 and 30Â ml/min/1.73Â m<sup>2</sup>), between the ages of 18 and 65, who sought services at the Department of Nephrology between April 2016 and April 2017.</AbstractText>
+                <AbstractText Label="RESULTS">seventy participants were evaluated; the median age was 47 years old (interquartile range [IQR] of 33-53 years), and 54% of the participants were women. All of the participants presented 25(OH)D serum concentrations below 30Â ng/ml. According to a Subjective Global Assessment, 32.6% of the study population was malnourished and 14% presented protein energy wasting. An inverse and proportional correlation was found between levels of 25(OH)D and urea (rÂ =Â -0.342), cholesterol (rÂ =Â -0.383), triglycerides (rÂ =Â -0.316), and extracellular water (rÂ =Â -0.399). In contrast, levels of 25(OH)D were directly proportional with serum albumin (rÂ =Â 0.388), serum hemoglobin (rÂ =Â 0.331), phase angle (rÂ =Â 0.355), resistance (rÂ =Â 0.518), and reactance (rÂ =Â 0.580) in a statistically significant manner (pÂ &lt;Â 0.05).</AbstractText>
+                <AbstractText Label="CONCLUSIONS">All the participants in this study presented levels of 25(OH)D considered to be deficient. Levels of 25(OH)D were shown to be significantly correlated with alterations in nutritional status. It is necessary to implement effective interventions to help correct these deficiencies in patients with CKD.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 European Society for Clinical Nutrition and Metabolism. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Olvera-Soto</LastName>
+                    <ForeName>Ma Guadalupe</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Master's and Doctorate Program in Health Sciences, Universidad Nacional AutÃ³noma de MÃ©xico, Mexico; Department of Nephrology, Hospital General de MÃ©xico, Dr. Eduardo Liceaga Mexico, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melquiades-Castillo</LastName>
+                    <ForeName>Daniela</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General de MÃ©xico, Dr. Eduardo Liceaga Mexico, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castillo-MartÃ­nez</LastName>
+                    <ForeName>Lilia</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Patricia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de EpidemiologÃ­a ClÃ­nica, Hospital Infantil de MÃ©xico Federico GÃ³mez, MÃ©xico, D.F, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Medeiros</LastName>
+                    <ForeName>Mara</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Nephrology, Nephrology Research Laboratory, Hospital Infantil de MÃ©xico Federico GÃ³mez, Mexico City, DF, Mexico; Nephrology Research Laboratory, Hospital Infantil de MÃ©xico Federico GÃ³mez, Mexico City, DF, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monroy</LastName>
+                    <ForeName>Adriana</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology, Hospital General de MÃ©xico, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valdez-Ortiz</LastName>
+                    <ForeName>Rafael</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital General de MÃ©xico, Dr. Eduardo Liceaga Mexico, Mexico. Electronic address: rafavaldez@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Nutr ESPEN</MedlineTA>
+            <NlmUniqueID>101654592</NlmUniqueID>
+            <ISSNLinking>2405-4577</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009752" MajorTopicYN="N">Nutritional Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018529" MajorTopicYN="Y">Nutritional Support</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">25-Hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">CKD</Keyword>
+            <Keyword MajorTopicYN="Y">Nutritional status</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30390897</ArticleId>
+            <ArticleId IdType="pii">S2405-4577(18)30083-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clnesp.2018.09.074</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

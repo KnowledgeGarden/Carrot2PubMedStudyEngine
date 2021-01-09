@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33232874</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-3391</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Nov</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry</Title>
+                <ISOAbbreviation>Bioorg Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Design and development of FGF-23 antagonists: Definition of the pharmacophore and initial structure-activity relationships probed by synthetic analogues.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>115877</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0968-0896(20)30707-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bmc.2020.115877</ELocationID>
+            <Abstract>
+                <AbstractText>Hereditary hypophosphatemic disorders, TIO, and CKD conditions are believed to be influenced by an excess of Fibroblast Growth Factor-23 (FGF-23) which activates a binary renal FGFRs / Î±-Klotho complex to regulate homeostatic metabolism of phosphate and vitamin D. Adaptive FGF-23 responses from CKD patients with excess FGF-23 frequently lead to increased mortality from cardiovascular disease. A reversibly binding small molecule therapeutic has yet to emerge from research and development in this area. Current outcomes described in this work highlight efforts related to lead identification and modification using organic synthesis of strategic analogues to probe structure-activity relationships and preliminarily define the pharmacophore of a computationally derived hit obtained from virtual high-throughput screening. Synthetic strategies for the initial hit and analogue preparation, as well as preliminary cellular in vitro assay results highlighting sub micromolar inhibition of the FGF-23 signaling sequence at a concentration well below cytotoxicity are reported herein.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Downs</LastName>
+                    <ForeName>Ryan P</ForeName>
+                    <Initials>RP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Zhousheng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, College of Medicine, University of Tennessee Health Science Center, Memphis, TN 38165, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ikedionwu</LastName>
+                    <ForeName>Munachi O</ForeName>
+                    <Initials>MO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cleveland</LastName>
+                    <ForeName>Jacob W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin Chin</LastName>
+                    <ForeName>Ai</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cafferty</LastName>
+                    <ForeName>Abigail E</ForeName>
+                    <Initials>AE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darryl Quarles</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, College of Medicine, University of Tennessee Health Science Center, Memphis, TN 38165, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrick</LastName>
+                    <ForeName>Jesse D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Tennessee Technological University, Cookeville, TN 38505-0001, USA. Electronic address: jcarrick@tntech.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioorg Med Chem</MedlineTA>
+            <NlmUniqueID>9413298</NlmUniqueID>
+            <ISSNLinking>0968-0896</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antagonist</Keyword>
+            <Keyword MajorTopicYN="N">Arene</Keyword>
+            <Keyword MajorTopicYN="N">Cross-coupling</Keyword>
+            <Keyword MajorTopicYN="N">FGF-23</Keyword>
+            <Keyword MajorTopicYN="N">Oxime</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>20</Hour>
+                <Minute>9</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33232874</ArticleId>
+            <ArticleId IdType="pii">S0968-0896(20)30707-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmc.2020.115877</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

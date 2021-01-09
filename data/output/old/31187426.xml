@@ -1,0 +1,515 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31187426</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International urology and nephrology</Title>
+                <ISOAbbreviation>Int Urol Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The predictive value of Klotho polymorphism, in addition to classical markers of CKD-MBD, for left ventricular hypertrophy in haemodialysis patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1425-1433</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11255-019-02193-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Cardiovascular events are the major reasons for mortality in haemodialysis patients. Fibroblast growth factor 23 (FGF23), Klotho protein and G-395A Klotho gene polymorphism have been associated with effects on the cardiovascular system. Our study investigates the interrelationship between Klotho protein gene variations, mineral-bone metabolism and left ventricular hypertrophy in patients undergoing chronic haemodialysis programme.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Patients (nâ=â142) were genotyped for G-395A Klotho gene. Components of mineral-bone metabolism, classical and non-classical (FGF23, Klotho and vitamin D) as well as echocardiographic examination were determined. Predictive models were designed to determine the significance of Klotho gene variations and mineral-bone metabolism components for left ventricle hypertrophy (LVH).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A-allele carriers were longer on haemodialysis (pâ=â0.033), and had higher phosphorus levels (pâ=â0.016) while the level of Klotho protein was significantly lower (pâ=â0.001) compared to non-A-allele carriers. The best gains were achieved upon addition of allele A, and all three new markers; the AUC made significant improvement from 0.596 to 0.806 (pâ&lt;â0.001), and improved net reclassification for 82.1% (95% CI 42.9-121.3%).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The genetic background of A-allele carriers of the G-395A Klotho gene polymorphism increases the susceptibility patients to haemodialysis. A-allele carriers are at a higher risk for the development of cardiovascular complications. The addition of non-classical to classical mineral metabolism components improves prediction power to LVH.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>ApostoloviÄ</LastName>
+                    <ForeName>Branislav</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1464-833X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia. bane.apostolovic@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia. bane.apostolovic@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>CvetkoviÄ</LastName>
+                    <ForeName>Tatjana</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>StefanoviÄ</LastName>
+                    <ForeName>Nikola</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ApostoloviÄ</LastName>
+                    <ForeName>Svetlana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic for Cardiovascular Diseases, Clinical Centre NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ApostoloviÄ</LastName>
+                    <ForeName>Marija AnÄelkoviÄ</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, Public Health Institute NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MitiÄ</LastName>
+                    <ForeName>Branka</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RadovanoviÄ</LastName>
+                    <ForeName>Radmila VeliÄkoviÄ</ForeName>
+                    <Initials>RV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PaunoviÄ</LastName>
+                    <ForeName>Karolina</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>IgnjatoviÄ</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, Public Health Institute NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>CvetkoviÄ</LastName>
+                    <ForeName>Mina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Nephrology, Clinical Center NiÅ¡, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>SteviÄ</LastName>
+                    <ForeName>NataÅ¡a</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PavloviÄ</LastName>
+                    <ForeName>Dusica</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Medicine, University of NiÅ¡, Bul. dr Zorana DjindjiÄa 81, 1800, NiÅ¡, Serbia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Urol Nephrol</MedlineTA>
+            <NlmUniqueID>0262521</NlmUniqueID>
+            <ISSNLinking>0301-1623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="D005966">Glucuronidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="C108871">klotho protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005966" MajorTopicYN="N">Glucuronidase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017379" MajorTopicYN="N">Hypertrophy, Left Ventricular</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011110" MajorTopicYN="Y">Polymorphism, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FGF23</Keyword>
+            <Keyword MajorTopicYN="N">Haemodialysis</Keyword>
+            <Keyword MajorTopicYN="N">Klotho</Keyword>
+            <Keyword MajorTopicYN="N">Klotho gene polymorphism</Keyword>
+            <Keyword MajorTopicYN="N">LVH</Keyword>
+            <Keyword MajorTopicYN="N">Predictive models</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31187426</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11255-019-02193-3</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11255-019-02193-3</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1999 Jul;34(1):125-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10401026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2003 Sep;49(9):1521-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12928235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2005 Jan;288(1):E125-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chim Acta. 2009 Aug;406(1-2):134-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19539617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chim Acta. 2010 Mar;411(5-6):386-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20005218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiology. 2010 Jan;21(1):128-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20010215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2010 Sep;31(18):2253-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20688781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2011 Mar 17;12:77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21414208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2011 Oct 25;124(17):1838-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21947295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2011 Nov;121(11):4393-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21985788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2012;728:126-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22396167</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Blood Press Res. 2012;36(1):191-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23147162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2012;3:1238</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23212367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Endocrinol Metab. 2013 Apr 15;304(8):E863-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23443925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Contrib Nephrol. 2013;180:47-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23652549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2014 Feb;18(1):68-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24499086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Hypertens. 2014;2014:381082</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24678415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2014 Aug 1;35(29):1925-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24898551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Apr;26(4):935-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25150156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2015 Jun;26(6):1290-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25326585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Echocardiogr. 2015 Jan;28(1):1-39.e14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25559473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jan;27(1):227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25971439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J Cardiovasc Imaging. 2015 Dec;16(12):1331-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26202086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Endocr Metab Disord. 2015 Jun;16(2):165-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26296372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Metab. 2015 Dec 1;22(6):1020-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26437603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Age (Dordr). 2016 Feb;38(1):7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26732817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Apr;79121:S20-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26746857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Geriatr. 2016 Feb 15;16:46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26880028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Mar;31(3):331-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26908831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2017 Mar;21(Suppl 1):64-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27838783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2017 Jul;100:80-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28119179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 May;91(5):1104-1114</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28131398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Mar;69(3 Suppl 1):A7-A8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28236831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ir J Med Sci. 2018 Aug;187(3):639-645</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29197965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2018 Dec 8;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30537427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 1988 Sep;44(3):837-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3203132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1995 Jan;47(1):186-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7731145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1997;77(1):37-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9380236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

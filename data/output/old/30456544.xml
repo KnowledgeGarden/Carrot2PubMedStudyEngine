@@ -1,0 +1,436 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30456544</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2584</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International urology and nephrology</Title>
+                <ISOAbbreviation>Int Urol Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D deficiency, endothelial function and bone biomarkers in post-kidney transplantation patients from North India.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>181-186</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11255-018-2014-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">CKD patients after kidney transplantation continue to suffer from elevated CV events which may be related to low vitamin D and its adverse impact on vascular function. The prevalence of vitamin D deficiency in North Indian kidney transplantation patients and its impact on vascular and bone biomarkers is unknown which this study investigated.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Non-diabetic, stable, &gt;â6Â months post-kidney transplantation patients, not on vitamin D supplementation, were recruited after informed consent. Data on demographics, anthropometrics and treatment were collected. Blood samples were stored at -â80Â Â°C until analysis for bone and endothelial cell biomarkers using standard ELISA techniques.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The clinical characteristics were: age 37.4âÂ±â9.9Â years, 80% men, 27% ex-smokers, BP 125.5âÂ±â15.7/78.6âÂ±â9.7Â mmHg, cholesterol 172.0âÂ±â47.8Â mg/dL, hemoglobin 12.6âÂ±â2.3Â g/dL, calcium 9.5âÂ±â0.6Â mg/d and iPTH 58.4âÂ±â32.9Â ng/mL and vitamin D 36.5âÂ±â39.8Â nmol/L. Patients with vitamin Dâ&lt;â37.5Â nmol/L (66%) had similar age, serum creatinine, serum phosphate, iPTH, blood pressure but lower calcium (9.3âÂ±â0.7 vs. 9.6âÂ±â0.5Â mg/dL; pâ=â0.024), lower FGF23 (median 18.8 vs. 80.0Â pg/mL; pâ=â0.013) and higher E-selectin (15.8âÂ±â7.9 vs. 13.0âÂ±â5.5Â ng/mL; pâ=â0.047). On Univariate analysis, E-selectin (râ=â-â0.292; pâ=â0.005), FGF23 (râ=â0.217; pâ=â0.036) and calcium (râ=â0.238; pâ=â0.022) were significantly correlated with vitamin D levels. On stepwise multiple regression analysis, only E-selectin was associated with vitamin D levels (Î²â=â-â0.324; pâ=â0.002).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Vitamin D deficiency was common in kidney transplant recipients in North India, associated with low FGF23 and high E-selectin. These findings suggest further investigations to assess the role of vitamin D deficiency-associated endothelial dysfunction, its implications and reversibility in kidney transplantation recipients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yadav</LastName>
+                    <ForeName>Ashok Kumar</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Post Graduate Medical Education and Research, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tiwana</LastName>
+                    <ForeName>Sanveer</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St Georges University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Steel</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St Georges University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramachandran</LastName>
+                    <ForeName>Raja</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Post Graduate Medical Education and Research, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaski</LastName>
+                    <ForeName>Juan C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St Georges University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jha</LastName>
+                    <ForeName>Vivekanand</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Post Graduate Medical Education and Research, Chandigarh, India.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>George Institute for Global Health, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Debasish</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St Georges University of London, London, UK. debasish.banerjee@stgeorges.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal and Transplantation Unit, St Georges University Hospital NHS Foundation Trust, London, UK. debasish.banerjee@stgeorges.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal and Transplantation Unit, St Georges University Hospital NHS Foundation Trust, Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Institute, St Georges University of London, Second Floor, Grosvenor Wing, Blackshaw Road, Tooting, London, SW19 8TN, UK. debasish.banerjee@stgeorges.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>PG/10/71/28462</GrantID>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Int Urol Nephrol</MedlineTA>
+            <NlmUniqueID>0262521</NlmUniqueID>
+            <ISSNLinking>0301-1623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019040">E-Selectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C546936">SELE protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019040" MajorTopicYN="N">E-Selectin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004730" MajorTopicYN="Y">Endothelium, Vascular</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007194" MajorTopicYN="N" Type="Geographic">India</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="Y">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016030" MajorTopicYN="Y">Kidney Transplantation</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011184" MajorTopicYN="N">Postoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014652" MajorTopicYN="Y">Vascular Diseases</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="Y">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiovascular</Keyword>
+            <Keyword MajorTopicYN="N">Endothelial dysfunction</Keyword>
+            <Keyword MajorTopicYN="N">Fibroblast growth factor 23</Keyword>
+            <Keyword MajorTopicYN="N">Kidney transplantation</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30456544</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11255-018-2014-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11255-018-2014-7</ArticleId>
+            <ArticleId IdType="pmc">PMC6327006</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2001 Feb;16(2):302-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11158404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2003 Nov;42(5):1050-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14604997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Feb;18(2):613-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17202417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Jan 29;117(4):503-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Jun 9;168(11):1174-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18541825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Jun 23;168(12):1340-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18574092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2008 Oct;93(10):3927-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18682515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Aug 11;168(15):1629-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Nov;3(6):1829-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18922992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2009 Aug;205(2):385-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19181315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2009 Oct;94(10):4023-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19584181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Oct;78(7):679-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20613714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2011 Apr;(121):S24-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21346724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2011 Jun;216(2):446-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21414625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 Oct;22(10):1913-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21903574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2012 Jan;220(1):265-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22071357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2012 Aug;17(6):575-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22489804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 Jan;83(1):160-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22951890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Nov;8(11):1968-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23929933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Aug;86(2):407-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24429404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Mar 19;9(3):e91363</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24646518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 2014 Oct;46(8):2647-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25380886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 2015 Mar;47(2):343-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25769570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Oct;28(10):3100-3108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28667080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2018 May;50(5):923-927</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29484540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

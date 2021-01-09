@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29733462</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-139X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Seminars in dialysis</Title>
+                <ISOAbbreviation>Semin Dial</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Current and potential therapeutic strategies for the management of vascular calcification in patients with chronic kidney disease including those on dialysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>487-499</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/sdi.12710</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with CKD have accelerated vascular stiffening contributing significantly to excess cardiovascular morbidity and mortality. Much of the arterial stiffening is thought to involve vascular calcification (VC), but the pathogenesis of this phenomenon is complex, resulting from a disruption of the balance between promoters and inhibitors of calcification in a uremic milieu, along with derangements in calcium and phosphate metabolic pathways. Management of traditional cardiovascular risk factors to reduce VC may be influential but has not been shown to significantly improve mortality. Control of mineral metabolism may potentially reduce the burden of VC, although using conventional approaches of restricting dietary phosphate, administering phosphate binders, and use of active vitamin D and calcimimetics, remains controversial because recommended biochemical targets are hard to achieve and clinical relevance hard to define. Increasing time on dialysis is perhaps another therapy with potential effectiveness in this area. Despite current treatments, cardiovascular morbidity and mortality remain high in this group. Novel therapies for addressing VC include magnesium and vitamin K supplementation, which are currently being investigated in large randomized control trials. Other therapeutic targets include crystallization inhibitors, ligand trap for activin receptors and BMP-7. This review summarizes current treatment strategies and therapeutic targets for the future management of VC in patients with CKD.</AbstractText>
+                <CopyrightInformation>Â© 2018 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ruderman</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Parkville, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (RMH), The University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holt</LastName>
+                    <ForeName>Stephen G</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Parkville, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (RMH), The University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hewitson</LastName>
+                    <ForeName>Tim D</ForeName>
+                    <Initials>TD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Parkville, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (RMH), The University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Edward R</ForeName>
+                    <Initials>ER</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Parkville, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (RMH), The University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toussaint</LastName>
+                    <ForeName>Nigel D</ForeName>
+                    <Initials>ND</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Parkville, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine (RMH), The University of Melbourne, Melbourne, Vic., Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Semin Dial</MedlineTA>
+            <NlmUniqueID>8911629</NlmUniqueID>
+            <ISSNLinking>0894-0959</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008903">Minerals</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008903" MajorTopicYN="N">Minerals</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040242" MajorTopicYN="N">Risk Reduction Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29733462</ArticleId>
+            <ArticleId IdType="doi">10.1111/sdi.12710</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

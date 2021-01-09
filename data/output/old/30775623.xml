@@ -1,0 +1,439 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30775623</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2468-0249</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international reports</Title>
+                <ISOAbbreviation>Kidney Int Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Left Ventricular Structure in Patients With Mild-to-Moderate CKD-a Magnetic Resonance Imaging Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>267-274</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ekir.2018.10.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">The high burden of left ventricular (LV) abnormalities in patients with advanced chronic kidney disease (CKD) is well established. However, less is known about the prevalence, patterns, and determinants of LV abnormalities in patients with early CKD.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We examined LV structure in 290 patients with a median estimated glomerular filtration rate (eGFR) of 51 ml/min per 1.73 m<sup>2</sup> by magnetic resonance imaging (MRI). We explored associations with clinical and hemodynamic parameters, hydration (bioimpedance), endothelial function, inflammation (including C-reactive protein and tumor necrosis factor-Î± and its soluble receptors) and mineral bone disease (MBD) markers (including vitamin D, parathyroid hormone, Î±-klotho and fibroblast growth factor-23).</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Normal geometry was found in 56% of patients, dilation in 4%, concentric remodeling in 10%, and LV hypertrophy in 29%. Linear regression analysis revealed that greater LV mass was independently associated with male sex, greater body mass index (BMI), and higher 24-hour systolic blood pressure (24-hour SBP). Concentric remodeling was independently associated with age, male sex, higher 24-hour SBP, and greater hemoglobin levels. Surprisingly, neither hydration status, nor endothelial function, nor any of the inflammatory or MBD parameters added significantly to these models.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Abnormal LV structure was found in almost one-half of the patients. Reducing BMI and 24-hour SBP and avoiding high hemoglobin concentrations appear to be the key factors to prevent abnormal LV remodeling in patients with mild-to-moderate CKD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Markus P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Klinikum NÃ¼rnberg, Paracelsus Medical University, NÃ¼rnberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheppach</LastName>
+                    <ForeName>Johannes B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raff</LastName>
+                    <ForeName>Ulrike</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toncar</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of WÃ¼rzburg, WÃ¼rzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ritter</LastName>
+                    <ForeName>Christian</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, University Medicine GÃ¶ttingen, GÃ¶ttingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klink</LastName>
+                    <ForeName>Thorsten</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, University of WÃ¼rzburg, WÃ¼rzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>StÃ¶rk</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Comprehensive Heart Failure Center, University and Department of Medicine I, Cardiology, University Hospital WÃ¼rzburg, WÃ¼rzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wanner</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of WÃ¼rzburg, WÃ¼rzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schlieper</LastName>
+                    <ForeName>Georg</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Clinical Immunology, University Hospital RWTH Aachen, Aachen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saritas</LastName>
+                    <ForeName>Turgay</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Clinical Immunology, University Hospital RWTH Aachen, Aachen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reinartz</LastName>
+                    <ForeName>Sebastian D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diagnostic and Interventional Radiology, University Hospital RWTH Aachen, Aachen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Floege</LastName>
+                    <ForeName>JÃ¼rgen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Clinical Immunology, University Hospital RWTH Aachen, Aachen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Friedrich</LastName>
+                    <ForeName>Nele</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Chemistry and Laboratory Medicine, University Medicine Greifswald, Greifswald, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janka</LastName>
+                    <ForeName>Rolf</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uder</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmieder</LastName>
+                    <ForeName>Roland E</ForeName>
+                    <Initials>RE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eckardt</LastName>
+                    <ForeName>Kai-Uwe</ForeName>
+                    <Initials>KU</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Friedrich-Alexander UniversitÃ¤t Erlangen-NÃ¼rnberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Medical Intensive Care, CharitÃ©-UniversitÃ¤tsmedizin Berlin, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int Rep</MedlineTA>
+            <NlmUniqueID>101684752</NlmUniqueID>
+            <ISSNLinking>2468-0249</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">hypertension</Keyword>
+            <Keyword MajorTopicYN="N">kidney diseases</Keyword>
+            <Keyword MajorTopicYN="N">left ventricular hypertrophy</Keyword>
+            <Keyword MajorTopicYN="N">mineral metabolism</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30775623</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ekir.2018.10.004</ArticleId>
+            <ArticleId IdType="pii">S2468-0249(18)30226-2</ArticleId>
+            <ArticleId IdType="pmc">PMC6365352</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1999 May;14(5):1317-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10344393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Magn Reson. 2000;2(4):271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11545126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2002 Jan 16;39(2):257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11788217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2004 Jul;19(7):1829-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15128888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2007 Jan;85(1):80-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17209181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hypertens. 2009 Jul;22(7):763-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19390513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2009 May 5;150(9):604-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19414839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2009 Aug 4;54(6):505-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19643310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2009 Dec;20(12):2651-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19850955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Sep;80(6):572-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21750584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Apr;27(4):1454-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21862458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2011 Nov;121(11):4393-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21985788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2012;32(1):94-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22240880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2012 Feb 15;307(7):674-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Heart Fail. 2013 Jul;6(4):817-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23748358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J Cardiovasc Imaging. 2014 Jan;15(1):56-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23811493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Magn Reson Imaging. 2015 Apr;41(4):1038-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24817313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2015 Mar;30(3):441-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25271006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Apr 24;10(4):e0124772</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25909952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2015 Oct;30(10):1843-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25975437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Heart Assoc. 2015 Sep 15;4(9):e002188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26374295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2015 Dec;66(6):1123-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26459421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2015 Nov 26;373(22):2103-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26551272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Feb 5;11(2):271-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26668021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Jul;31(7):1088-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26681731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Res. 2017 May;42(2):132-137</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27754732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Heart J. 2017 Apr 6;58(2):158-162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28367852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2018 Jan 6;13(1):45-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29025789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1987 Apr;31(4):973-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2953925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Jul;94(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29735309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2018 Jul;29(7):2015-2027</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29764921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

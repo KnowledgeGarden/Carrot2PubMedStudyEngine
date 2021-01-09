@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">32743028</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2352-1872</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bone reports</Title>
+                <ISOAbbreviation>Bone Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of bone densitometry by dual-energy x-ray absorptiometry as a fracture prediction tool in women with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>100298</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bonr.2020.100298</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The 2017 KDIGO guidelines establish a 2B grade recommendation in favor of testing Bone Mineral Density (BMD) by DXA to assess osteoporotic fracture (OPF) risk in patients with CKD G3a-G5D. Still, controversy remains because large studies evaluating it for this particular population are lacking.</AbstractText>
+                <AbstractText Label="Aim" NlmCategory="UNASSIGNED">To establish the clinical performance of BMD measured by DXA in the evaluation of fracture risk in women with CKD.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We conducted a 43 year retrospective cohort study with 218 women â¥18â¯years-old with CKD and BMD measurement by DXA of total hip and lumbar spine. Clinical (age, year of CKD onset, comorbidities, BMI, transplant status, treatment), and biochemical (PTH, corrected calcium, phosphate, vitamin D [25 (OH) D3], creatinine, and albumin), parameters were collected from hospital records. All osteoporotic fractures (as defined by the WHO) found in the clinical and radiologic files were registered.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">218 women with a median age of 60â¯years (40-73 IQ range) and a CKD evolution time of 12â¯years (7-18 IQ range) were evaluated. Forty-eight (28.23%) presented an OPF. These women were older (57 vs 69â¯years, <i>p</i>â¯=0.0072) and had a lower BMD. CKD stage did not influence fracture incidence. In the multivariate analysis we found that for each standard deviation decrease in hip and lumbar spine T-Score, the overall fracture risk was 2.7 and 2.04 times higher, respectively. More than 50% of fractures took place within the first ten years of follow-up, especially with GFR &lt;30â¯mL/min/m<sup>2</sup> and osteoporosis. Diabetes and hypothyroidism accelerated fracture onset, while renal transplant delayed it. In the ROC analysis, the AUC was largest with the total hip (0.7098, <i>p</i>â¯<i>=</i><i>0.000</i>) and lumbar spine (0.6916, <i>p</i>â¯= 0<i>.000</i>).</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">BMD measured by DXA is a useful fracture prediction tool for women with CKD, having a sensibility and specificity similar to that in the general population. It seems to be appropriate for the diagnosis, treatment decisions, and follow-up of patients with renal failure.</AbstractText>
+                <CopyrightInformation>Â© 2020 The Authors.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>GÃ³mez-Islas</LastName>
+                    <ForeName>Valeria E</ForeName>
+                    <Initials>VE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GarcÃ­a-Fong</LastName>
+                    <ForeName>Kevin R</ForeName>
+                    <Initials>KR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguilar-Fuentes</LastName>
+                    <ForeName>Rosa E</ForeName>
+                    <Initials>RE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>HernÃ¡ndez-Castellanos</LastName>
+                    <ForeName>Salvador</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pherez-Farah</LastName>
+                    <ForeName>Alfredo</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MÃ©ndez-Bribiesca</LastName>
+                    <ForeName>SofÃ­a A</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LÃ³pez-Navarro</LastName>
+                    <ForeName>Juan M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Osorio-Landa</LastName>
+                    <ForeName>Hillary K</ForeName>
+                    <Initials>HK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carbajal-Morelos</LastName>
+                    <ForeName>Sergio L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ZÃºÃ±iga-GuzmÃ¡n</LastName>
+                    <ForeName>Areli M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PÃ©rez-DÃ­az</LastName>
+                    <ForeName>IvÃ¡n</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Instituto Nacional de Ciencias MÃ©dicas y NutriciÃ³n Salvador ZubirÃ¡n, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>TecnolÃ³gico de Monterrey, Escuela de Medicina y Ciencias de la Salud, Mexico City Campus, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Bone Rep</MedlineTA>
+            <NlmUniqueID>101646176</NlmUniqueID>
+            <ISSNLinking>2352-1872</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bone mineral density</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Fragility fracture</Keyword>
+            <Keyword MajorTopicYN="N">Osteoporosis</Keyword>
+            <Keyword MajorTopicYN="N">Osteoporotic fracture</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroid hormone</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors state that we have read and agree to abide by the Bone Reports conflict of interest policy. Hereby, we acknowledge that we do not have any conflict of interest that could be perceived as prejudicing the impartiality of the research reported. Furthermore, we understand that we are obliged to promptly reveal any changes in our interests, affiliations or activities which may give rise to a conflict of interest and in such case the conflict of interest statement will be updated.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32743028</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bonr.2020.100298</ArticleId>
+            <ArticleId IdType="pii">S2352-1872(20)30058-9</ArticleId>
+            <ArticleId IdType="pii">100298</ArticleId>
+            <ArticleId IdType="pmc">PMC7387779</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Endocr Soc. 2019 Jul 10;3(10):1799-1818</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31528827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Jul;7(7):1130-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22516286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2017 Mar;32(3):549-559</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27714897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2010 Jul;19(4):343-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20414109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2013 Jul;93(1):39-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23494409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2015 Feb;26(2):449-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25477230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Jan;27(1):345-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21652550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2018 Feb;283(2):140-153</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29265670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2015 Jul;278(1):19-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25758353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2003 Sep 22;163(17):2052-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14504118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Dec;7(3):e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30681074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2007 Sep 1;166(5):495-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17575306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Nov;3 Suppl 3:S131-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18988698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2015 Jul;24(4):317-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26050117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2018 Sep;29(9):2129-2138</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29947873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2006 Sep;91(9):3404-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16804043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World Health Organ Tech Rep Ser. 1994;843:1-129</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7941614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2006;17(11):1645-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2012 Dec;23(12):2805-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22297732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2019 Dec 24;12:263-276</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31920363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 Dec;16(12):1713-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15940395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2017 Mar;21(Suppl 1):46-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28012057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Jun;63(6):1049-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24631043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2006 Nov;17(11):3223-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17005938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World Health Organ Tech Rep Ser. 1995;854:1-452</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8594834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1999 Feb;84(2):718-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10022443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2019 Apr;42(4):507-513</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30692240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2015 Nov-Dec;28(6):645-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26332760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2013 May;98(5):1930-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23547048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Jun;25(6):1331-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24511131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2002 Dec 18;288(23):3014-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12479766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2009 May 5;150(9):604-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19414839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Osteoporos. 2016;11:19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27129487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Connect. 2015 Sep;4(3):155-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26047829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2016 Jan;100(1):167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26154389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JBMR Plus. 2018 Jul 05;3(1):45-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30680363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2017 Jan;35(1):1-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27882481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2011 May;22(5):1367-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20658126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2010 Mar;95(3):1174-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20080842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

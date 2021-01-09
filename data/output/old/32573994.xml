@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">32573994</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1899-5276</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>29</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in clinical and experimental medicine : official organ Wroclaw Medical University</Title>
+                <ISOAbbreviation>Adv Clin Exp Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pruritus in renal transplant recipients: Current state of knowledge.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>769-772</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.17219/acem/122174</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic itch (CI) is the most common symptom in dermatology. It is considered a great burden with a large impact on patients' quality of life, interfering with everyday activities. During the course of chronic kidney disease (CKD) many patients develop end-stage renal disease (ESRD)-associated CI (ESRDCI). Its pathogenesis is yet to be fully explained, but multiple mechanisms have been described, including, among others, dysregulation of calcium, phosphorus, parathyroid hormone and vitamin D axis, microinflammation, and accumulation of uremic toxins. The treatment consists of both topical and systemic therapy, but unfortunately it is usually difficult and unsatisfactory. Renal transplantation (KTx) as the best renal replacement therapy improves considerably the patient's life quality and decreases the mortality rate. However, its influence on CI has not been well described. In this review, we presented the available literature on the influence of KTx on ESRDCI and demonstrated the possible ways in which transplanted kidney could help patients suffering from CI.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Krajewski</LastName>
+                    <ForeName>Piotr K</ForeName>
+                    <Initials>PK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Dermatology, Venereology and Allergology, Wroclaw Medical University, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krajewska</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Transplantation Medicine, Wroclaw Medical University, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Szepietowski</LastName>
+                    <ForeName>Jacek C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Dermatology, Venereology and Allergology, Wroclaw Medical University, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Poland</Country>
+            <MedlineTA>Adv Clin Exp Med</MedlineTA>
+            <NlmUniqueID>101138582</NlmUniqueID>
+            <ISSNLinking>1899-5276</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="Y">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016030" MajorTopicYN="Y">Kidney Transplantation</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011537" MajorTopicYN="Y">Pruritus</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011788" MajorTopicYN="N">Quality of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="Y">Uremia</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">kidney transplantation</Keyword>
+            <Keyword MajorTopicYN="N">pruritus</Keyword>
+            <Keyword MajorTopicYN="N">uremia</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32573994</ArticleId>
+            <ArticleId IdType="doi">10.17219/acem/122174</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

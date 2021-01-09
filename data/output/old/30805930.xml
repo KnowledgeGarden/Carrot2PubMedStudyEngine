@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30805930</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4652</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Feb</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cellular physiology</Title>
+                <ISOAbbreviation>J Cell Physiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D levels reverberate in monocytes modulation in hemodialysis patients.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jcp.28290</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Patients with chronic kidney disease (CKD) have a severe vitamin D deficiency and increasing epidemiological data suggesting that this deficiency may play a role in overall morbidity and mortality associated with CKD. It is known that vitamin D regulates the immune system, however, in dialysis patients this deficiency and the modulation of proinflammatory cells is unclear. Among these, monocytes arouse interest considering they constitutively express vitamin D receptors.</AbstractText>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">This study aimed the evaluation of monocytic profile in CKD patients according to vitamin D levels.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients in hemodialysis (HD) were divided into two groups, regarding vitamin D levels: Group 1, vitamin D &lt;26âng/ml (nâ=â15) and Group 2, vitamin D â¥26âng/ml (nâ=â18). Whole blood was collected aiming evaluation of (a) monocytic populations through CD14 and CD16 expression, (b) reactive oxygen species (ROS) generation, and (c) apoptosis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We observed that in Group 1, when compared to Group 2, there was a significant increase in intermediate monocytes (CD14<sup>++</sup> CD16 <sup>+</sup> ; 34.7âÂ±â31.6 vs. 12.1âÂ±â6.3; pâ=â0.006, respectively) and decrease in classical ones (CD14 <sup>++</sup> CD16 <sup>-</sup> ; 45.3âÂ±â31.8 vs. 70.4âÂ±â25.1; pâ=â0.017, respectively). There was no difference between groups regarding nonclassical monocytes (CD14 <sup>+</sup> CD16 <sup>++</sup> ), as well as to apoptosis and to ROS generation.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study suggests that HD patients with lower vitamin D levels might have an intensified inflammatory outline as intermediate monocytes with an inflammatory pattern are increased in this population, when compared with patients with higher levels of vitamin D.</AbstractText>
+                <CopyrightInformation>Â© 2019 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Almeida</LastName>
+                    <ForeName>A C S F</ForeName>
+                    <Initials>ACSF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siqueira</LastName>
+                    <ForeName>M C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonan</LastName>
+                    <ForeName>N B</ForeName>
+                    <Initials>NB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dambiski</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Santa Casa de MisericÃ³rdia de Curitiba, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertuzzo</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto do Rim do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moreno-Amaral</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barreto</LastName>
+                    <ForeName>F C</ForeName>
+                    <Initials>FC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PontifÃ­cia Universidade CatÃ³lica do ParanÃ¡, Curitiba, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>456617/2014-0</GrantID>
+                    <Agency>Conselho Nacional de Desenvolvimento CientÃ­fico e TecnolÃ³gico</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>45661720040</GrantID>
+                    <Agency>Brazilian National Council for Scientific and Technological Development-CNPq</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cell Physiol</MedlineTA>
+            <NlmUniqueID>0050222</NlmUniqueID>
+            <ISSNLinking>0021-9541</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">hemodialysis</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">monocytes</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30805930</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcp.28290</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

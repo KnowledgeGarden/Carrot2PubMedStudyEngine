@@ -1,0 +1,384 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31860056</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8736</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>134</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>01</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical science (London, England : 1979)</Title>
+                <ISOAbbreviation>Clin Sci (Lond)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inflammation both increases and causes resistance to FGF23 in normal and uremic rats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/CS20190779</ELocationID>
+            <Abstract>
+                <AbstractText>Fibroblast growth factor 23 (FGF23) increases phosphorus excretion and decreases calcitriol (1,25(OH)2D) levels. FGF23 increases from early stages of renal failure. We evaluated whether strict control of phosphorus intake in renal failure prevents the increase in FGF23 and to what extent inflammation impairs regulation of FGF23. The study was performed in 5/6 nephrectomized (Nx) Wistar rats fed diets containing 0.2-1.2% phosphorus for 3 or 15 days. FGF23 levels significantly increased in all Nx groups in the short-term (3-day) experiment. However, at 15 days, FGF23 increased in all Nx rats except in those fed 0.2% phosphorus. In a second experiment, Nx rats fed low phosphorus diets (0.2 and 0.4%) for 15 days received daily intraperitoneal lipopolysaccharide (LPS) injections to induce inflammation. In these rats, FGF23 increased despite the low phosphorus diets. Thus, higher FGF23 levels were needed to maintain phosphaturia and normal serum phosphorus values. Renal Klotho expression was preserved in Nx rats on a 0.2% phosphorus diet, reduced on a 0.4% phosphorus diet, and markedly reduced in Nx rats receiving LPS. In ex vivo experiments, high phosphorus and LPS increased nuclear Î²-catenin and p65-NFÎºB and decreased Klotho. Inhibition of inflammation and Wnt signaling activation resulted in decreased FGF23 levels and increased renal Klotho. In conclusion, strict control of phosphorus intake prevented the increase in FGF23 in renal failure, whereas inflammation independently increased FGF23 values. Decreased Klotho may explain the renal resistance to FGF23 in inflammation. These effects are likely mediated by the activation of NFkB and Wnt/Î²-catenin signaling.</AbstractText>
+                <CopyrightInformation>Â© 2020 The Author(s). Published by Portland Press Limited on behalf of the Biochemical Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>RodrÃ­guez-Ortiz</LastName>
+                    <ForeName>Maria E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DÃ­az-Tocados</LastName>
+                    <ForeName>Juan M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MuÃ±oz-CastaÃ±eda</LastName>
+                    <ForeName>Juan R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de GestiÃ³n ClÃ­nica (UGC) NefrologÃ­a, Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herencia</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal, Vascular and Diabetes Research Laboratory, FundaciÃ³n Instituto de Investigaciones Sanitarias-FundaciÃ³n JimÃ©nez DÃ­az, Universidad AutÃ³noma de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pineda</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina y CirugÃ­a Animal, Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MartÃ­nez-Moreno</LastName>
+                    <ForeName>Julio M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>NefrologÃ­a, Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montes de Oca</LastName>
+                    <ForeName>Addy</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LÃ³pez-BaltanÃ¡s</LastName>
+                    <ForeName>Rodrigo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>AlcalÃ¡-DÃ­az</LastName>
+                    <ForeName>Juan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de GestiÃ³n clÃ­nica (UGC) Medicina Interna, Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de InvestigaciÃ³n BiomÃ©dica en Red FisiopatologÃ­a Obesidad y NutriciÃ³n (CIBEROBN), Instituto de Salud Carlos III, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>NefrologÃ­a, Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az-UAM, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>FundaciÃ³n Renal IÃ±igo Ãlvarez de Toledo, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aguilera-Tejero</LastName>
+                    <ForeName>EscolÃ¡stico</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Medicina y CirugÃ­a Animal, Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Felsenfeld</LastName>
+                    <ForeName>Arnold</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Veterans Affairs Greater Los Angeles Healthcare System and the David Geffen School of Medicine, University of California, Los Angeles, CA, U.S.A.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RodrÃ­guez</LastName>
+                    <ForeName>Mariano</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Red Nacional de InvestigaciÃ³n en NefrologÃ­a (REDinREN), Instituto de Salud Carlos III, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de GestiÃ³n ClÃ­nica (UGC) NefrologÃ­a, Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>European Uremic Toxin (EUTox) Work Group. CKD-MBD Working Group.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>AlmadÃ©n</LastName>
+                    <ForeName>Yolanda</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto MaimÃ³nides de InvestigaciÃ³n BiomÃ©dica de CÃ³rdoba (IMIBIC), CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Universidad de CÃ³rdoba, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Unidad de GestiÃ³n clÃ­nica (UGC) Medicina Interna, Hospital Universitario Reina SofÃ­a, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de InvestigaciÃ³n BiomÃ©dica en Red FisiopatologÃ­a Obesidad y NutriciÃ³n (CIBEROBN), Instituto de Salud Carlos III, CÃ³rdoba, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Sci (Lond)</MedlineTA>
+            <NlmUniqueID>7905731</NlmUniqueID>
+            <ISSNLinking>0143-5221</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051437" MajorTopicYN="N">Renal Insufficiency</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="N">Uremia</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060449" MajorTopicYN="N">Wnt Signaling Pathway</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="Y">FGF23</Keyword>
+            <Keyword MajorTopicYN="Y">Klotho</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">inflammation</Keyword>
+            <Keyword MajorTopicYN="Y">phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31860056</ArticleId>
+            <ArticleId IdType="pii">221650</ArticleId>
+            <ArticleId IdType="doi">10.1042/CS20190779</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30577218</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2623</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transplantation proceedings</Title>
+                <ISOAbbreviation>Transplant Proc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum Î±Klotho as a Predictor of Graft Dysfunction After Kidney Transplantation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3440-3444</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0041-1345(18)31163-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.transproceed.2018.09.008</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To improve the long-term survival rate after kidney transplantation (KTx), allograft injury should be identified as soon as possible. Regardless of aggressive immunosuppressive therapies, recipients of kidney transplants still have a significant risk of graft failure. No specific predictor for the progression of chronic kidney disease (CKD) after KTx has yet been found. Aberrant molecular mechanisms involving the Î±Klotho-fibroblast growth factor (FGF) 23 axis may be a useful determinant of renal impairment and graft failure over time.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Plasma and spot urine samples were collected from 47 patients 1 year after KTx. Evaluation of renal function after KTx was performed using levels of biomarkers including serum intact FGF23, soluble Î±Klotho, 25(OH) vitamin D (25(OH)D), and the difference in the estimated glomerular filtration rate (eGFR) between the first and third year after KTx (ÎeGFR).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median serum Î±Klotho, intact FGF23, and 25(OH)D were 516.3 pg/mL, 58.7 pg/mL, and 5.7 ng/mL, respectively. No marked changes in the standard biomarkers that regulate phosphate homeostasis were found. Serum Î±Klotho levels were associated with ÎeGFR. Multivariate regression analysis revealed that serum Î±Klotho levels significantly predicted a decrease in eGFR in the graft kidney 2 years after KTx, but serum 25(OH)D and FGF23 levels were not significant. Serum Î±Klotho levels showed an inverse correlation with fractional excretion of magnesium, which reflects tubular injury in the early stage of CKD.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Measurement of serum Î±Klotho may serve as a useful predictor of KTx patients who require initiation of pre-emptive medication.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tsujita</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya University Graduate School of Medicine, Nagoya, Japan; Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan. Electronic address: tsujita4850@yahoo.co.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kosugi</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya University Graduate School of Medicine, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masuda</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya University Graduate School of Medicine, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okada</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Futamura</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya University Graduate School of Medicine, Nagoya, Japan; Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hiramitsu</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goto</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shunji</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watarai</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Kidney Disease Center, Nagoya Daini Red Hospital, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maruyama</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya University Graduate School of Medicine, Nagoya, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Transplant Proc</MedlineTA>
+            <NlmUniqueID>0243532</NlmUniqueID>
+            <ISSNLinking>0041-1345</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="D005966">Glucuronidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="C108871">klotho protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005966" MajorTopicYN="N">Glucuronidase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006085" MajorTopicYN="N">Graft Survival</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016030" MajorTopicYN="Y">Kidney Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051437" MajorTopicYN="N">Renal Insufficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30577218</ArticleId>
+            <ArticleId IdType="pii">S0041-1345(18)31163-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.transproceed.2018.09.008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

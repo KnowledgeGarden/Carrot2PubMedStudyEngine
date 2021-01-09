@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29661746</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1950-6112</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annales de biologie clinique</Title>
+                <ISOAbbreviation>Ann Biol Clin (Paris)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of oral vitamin D<sub>3</sub> supplementation in stage 3 chronic kidney disease subjects: insulin resistance syndrome and hormonal disturb interactions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>313-325</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1684/abc.2018.1342</ELocationID>
+            <Abstract>
+                <AbstractText>The 1-25-hydroxyvitamine D (1-25OHD) or calcitriol deficiency in chronic kidney disease (CKD) patients was associated with increases vascular calcification risk, nephrons reduction, bone deficit and cardiovascular mortality by atherosclerosis. The objective of this study was to investigate the pleiotropic effects of 200.000 IU (D<sub>200</sub> group) every 3 months versus 30.000 IU (D<sub>30</sub> group) every month dose vitamin D supplementation in stage 3 CKD patients. A cohort of 132 adult subjects was randomized into 2 groups according to dose vitamin D supplementation in deficient subjects (25OHD &lt;50 nmol/L or &lt;20 ng/mL). Serum 25OHD levels were assessed before and after 6 and 12 months of vitamin D supplementation. Patients were phenotyped for IRS according to NCEP/ATPIII. Glomerular filtration rate (GFR) by the MDRD formula. Insulin resistance was evaluated by the Homa-IR model. IRS clusters by Cobas Integra 400Â®. PTH, Cortisol and IGF-1 were determined by radioimmunologic methods. The 25OHD profile was analyzed by LC-MS/MS. Results showed that vitamin D supplementation increased serum 25OHD concentrations (&gt;75 nmol/L or &gt;30 ng/mL) in both groups; however, the supplementation benefits are more significant in D<sub>30</sub> group than in D<sub>200</sub> group. We noted a highlighted improvement of kidney function, an inhibition of GFR collaps, a safe reduction of proteinuria, a significant PTH and C-reactive protein (inflammation) levels attenuation, concomitantly with cortisolemia normalization and decreased IGF-1 depletion. Nevertheless, homocysteine and Lp(a) concentrations remain increased, not modulated by vitamin D treatment. This study shows that continuous low doses (30.000 IU every month) are recommended for intermittent high doses (200.000 IU every 3 months) vitamin D supplementation. Our study suggests that the serum 25OHD profile can be considered a reliable biomarker in the bioclinic CKD status to stage stabilization and inhibit its evolution.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tahar</LastName>
+                    <ForeName>Amina</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UniversitÃ© des sciences et de la technologie Houari Boumediene, FacultÃ© des sciences biologiques, Laboratoire de biologie et physiologie des organismes, Ãquipe de bioÃ©nergÃ©tique et mÃ©tabolisme intermÃ©diaire, Alger, AlgÃ©rie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zerdoumi</LastName>
+                    <ForeName>Faiza</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service de nÃ©phrologie, CHU de Bab El Oued, Alger, AlgÃ©rie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saidani</LastName>
+                    <ForeName>Messaoud</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Service de nÃ©phrologie, UnitÃ© de dialyse et de transplantation rÃ©nale, CHU de Beni Messous, Alger, AlgÃ©rie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Griene</LastName>
+                    <ForeName>Lakhdar</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire d'hormonologie, Centre Pierre et Marie Curie, CHU Mustapha Bacha, Alger, AlgÃ©rie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koceir</LastName>
+                    <ForeName>Elhadj-Ahmed</ForeName>
+                    <Initials>EA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UniversitÃ© des sciences et de la technologie Houari Boumediene, FacultÃ© des sciences biologiques, Laboratoire de biologie et physiologie des organismes, Ãquipe de bioÃ©nergÃ©tique et mÃ©tabolisme intermÃ©diaire, Alger, AlgÃ©rie.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Effets dâune supplÃ©mentation orale en vitamine D<sub>3</sub> chez des sujets atteints de maladie rÃ©nale chronique au stade 3Â : interactions avec le syndrome dâinsulinorÃ©sistance et les perturbations hormonales.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Ann Biol Clin (Paris)</MedlineTA>
+            <NlmUniqueID>2984690R</NlmUniqueID>
+            <ISSNLinking>0003-3898</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006728">Hormones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004700" MajorTopicYN="N">Endocrine System Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006728" MajorTopicYN="N">Hormones</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007333" MajorTopicYN="N">Insulin Resistance</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024821" MajorTopicYN="N">Metabolic Syndrome</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic renal failure</Keyword>
+            <Keyword MajorTopicYN="N">hormonal disorders</Keyword>
+            <Keyword MajorTopicYN="N">insulinresistance syndrome</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D supplementation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29661746</ArticleId>
+            <ArticleId IdType="pii">abc.2018.1342</ArticleId>
+            <ArticleId IdType="doi">10.1684/abc.2018.1342</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

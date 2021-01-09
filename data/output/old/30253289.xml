@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30253289</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1484</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>278</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>11</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Atherosclerosis</Title>
+                <ISOAbbreviation>Atherosclerosis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CKD, arterial calcification, atherosclerosis and bone health: Inter-relationships and controversies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>49-59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0021-9150(18)31349-2</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.atherosclerosis.2018.08.046</ELocationID>
+            <Abstract>
+                <AbstractText>Mineral bone disease (MBD) is a common complication of chronic kidney disease (CKD) characterized by disruption of normal mineral homeostasis within the body. One or more of the following may occur: hypocalcemia, hyperphosphatemia, secondary hyperparathyroidism (SHPT), decreased vitamin D and vascular calcification (VC). The greater the decrease in renal function, the worse the progression of CKD-MBD. These abnormalities may lead to bone loss, osteoporosis and fractures. CKD-MBD is a major contributor to the high morbidity and mortality among patients with CKD. Another well-known complication of CKD is cardiovascular disease (CVD) caused by increased atherosclerosis and VC. CVD is the leading cause of morbidity and mortality in CKD patients. VC is linked to reduced arterial compliance that may lead to widened pulse pressure and impaired cardiovascular function. VC is a strong predicator of cardiovascular mortality among patients with CKD. Elevated phosphorus levels and increased calcium-phosphorus product promote VC. Controlling mineral disturbances such as hyperphosphatemia and SHPT is still considered among the current strategies for treatment of VC in CKD through restriction of calcium based phosphate binders in hyperphosphatemic patients across all severities of CKD along with dietary phosphate restriction and use of calciminetics. Additionally, Vitamin D insufficiency is common in CKD and dialysis patients. The causes are multifactorial and a serious consequence is SHPT. Vitamin D compounds remain the first-line therapy for prevention and treatment of SHPT in CKD. Vitamin D may also have atheroprotective effects on the arterial wall, but clinical studies do not show clear evidence of reduced cardiovascular mortality with vitamin D administration. This review discusses the issues surrounding CKD-MBD, cardiovascular disease and approaches to treatment.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reiss</LastName>
+                    <ForeName>Allison B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyawaki</LastName>
+                    <ForeName>Nobuyuki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Jane</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kasselman</LastName>
+                    <ForeName>Lora J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voloshyna</LastName>
+                    <ForeName>Iryna</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Avino</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                    <Suffix>Jr</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Leon</LastName>
+                    <ForeName>Joshua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Institute and Department of Medicine, NYU Winthrop Hospital, NY, USA. Electronic address: joshua.deleon@nyulangone.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Atherosclerosis</MedlineTA>
+            <NlmUniqueID>0242543</NlmUniqueID>
+            <ISSNLinking>0021-9150</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002316">Cardiotonic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9YCX42I8IU</RegistryNumber>
+                <NameOfSubstance UI="D000069603">Sevelamer</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050197" MajorTopicYN="N">Atherosclerosis</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015519" MajorTopicYN="Y">Bone Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001847" MajorTopicYN="N">Bone Diseases</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001842" MajorTopicYN="N">Bone and Bones</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002316" MajorTopicYN="N">Cardiotonic Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006706" MajorTopicYN="N">Homeostasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054559" MajorTopicYN="N">Hyperphosphatemia</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069603" MajorTopicYN="N">Sevelamer</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="Y">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphate</Keyword>
+            <Keyword MajorTopicYN="Y">Vascular calcification</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30253289</ArticleId>
+            <ArticleId IdType="pii">S0021-9150(18)31349-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.atherosclerosis.2018.08.046</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

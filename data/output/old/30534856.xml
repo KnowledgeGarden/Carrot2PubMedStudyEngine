@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30534856</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2175-8239</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Apr-Jun</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Jornal brasileiro de nefrologia : 'orgao oficial de Sociedades Brasileira e Latino-Americana de Nefrologia</Title>
+                <ISOAbbreviation>J Bras Nefrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chronic kidney disease patients who smoke have higher serum phosphorus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>288-292</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0101-28002019000200288</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1590/2175-8239-JBN-2018-0156</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Mineral and bone metabolism disorders in chronic kidney disease (CKD-MBD) constitute a syndrome defined by changes in calcium, phosphorus (P), vitamin D and parathormone, fibroblast growth factor 23 (FGF-23) and its specific cofactor, Klotho. CKD-MBD, as well as smoking, are associated with an increased risk of cardiovascular disease. However, it is not known whether or not smoking impacts the cardiovascular risk in CKD- MBD.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To analyze the relationship between smoking and CKD-MBD markers.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We evaluated 92 patients divided into: 1) Control Group: non-smokers without CKD; 2) CKD group in stages III and IV under conservative treatment (20 non-smokers and 17 smokers); 3) CKD group on dialysis (21 non-smokers and 19 smokers). Clinical, demographic, and biochemical markers were compared between the groups.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">FGF-23 and Klotho levels were not different between smokers and non-smokers. Patients in the CKD group on conservative treatment had higher serum P than non-smokers (p = 0.026) even after adjusted for renal function (p = 0.079), gender (p = 0.145) and age (p = 0.986).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Smoking confers a higher cardiovascular risk to CKD patients under conservative treatment as it is associated with higher levels of P. Further studies are needed to confirm and better elucidate this finding.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Geuza Dutra Dos</ForeName>
+                    <Initials>GDD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elias</LastName>
+                    <ForeName>Rosilene Motta</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital das ClÃ­nicas, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dalboni</LastName>
+                    <ForeName>Maria Aparecida</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>GiovÃ¢nio Vieira da</ForeName>
+                    <Initials>GVD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital das ClÃ­nicas, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MoysÃ©s</LastName>
+                    <ForeName>Rosa Maria Affonso</ForeName>
+                    <Initials>RMA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7902-2127</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Universidade Nove de Julho, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hospital das ClÃ­nicas, SÃ£o Paulo, SP, Brasil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>por</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Brazil</Country>
+            <MedlineTA>J Bras Nefrol</MedlineTA>
+            <NlmUniqueID>9426946</NlmUniqueID>
+            <ISSNLinking>0101-2800</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C470125">PTH protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-73-2</RegistryNumber>
+                <NameOfSubstance UI="D005293">Ferritins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="D005966">Glucuronidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.31</RegistryNumber>
+                <NameOfSubstance UI="C108871">klotho protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001851" MajorTopicYN="N">Bone Diseases, Metabolic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072700" MajorTopicYN="N">Conservative Treatment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005293" MajorTopicYN="N">Ferritins</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005966" MajorTopicYN="N">Glucuronidase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012907" MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30534856</ArticleId>
+            <ArticleId IdType="pii">S0101-28002018005043101</ArticleId>
+            <ArticleId IdType="doi">10.1590/2175-8239-JBN-2018-0156</ArticleId>
+            <ArticleId IdType="pmc">PMC6699427</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS One. 2017 May 5;12(5):e0176984</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28475601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertens Res. 2012 Mar;35(3):261-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22158113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bras Nefrol. 2010 Jul-Sep;32(3):323-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21103697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2014 Feb;232(2):339-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24468147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2015 Nov;88(5):1144-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26200944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Physiol. 2005 Nov;90(6):791-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16157658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2010 Nov;87(5):406-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20862465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jun;69(11):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2012;728:126-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22396167</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2010 Oct;299(4):F882-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20685823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1999 Feb;14(2):215-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9933475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Hypotheses. 2015 Sep;85(3):287-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26206759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2012 Apr 24;13:20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22530966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetol Metab Syndr. 2014 Mar 17;6(1):39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24636522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2016 Jul;25(4):325-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27191351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

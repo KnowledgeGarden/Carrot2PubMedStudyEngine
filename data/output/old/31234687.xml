@@ -1,0 +1,497 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31234687</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-6049</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Renal failure</Title>
+                <ISOAbbreviation>Ren Fail</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Urine albumin and serum uric acid are important determinants of serum 25 hydroxyvitamin D level in pre-dialysis chronic kidney disease patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>540-546</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/0886022X.2018.1563552</ELocationID>
+            <Abstract>
+                <AbstractText>Low serum 25 hydroxyvitamin D (25 OH D) is common among chronic kidney disease (CKD) patients. This cross-sectional study is looking for the different factors associated with serum 25 OH D among pre-dialysis CKD. 1624 adult stage 3-5 CKD patients were studied beside 200 normal control subjects. All candidates were tested for body mass index (BMI), estimated glomerular filtration rate (eGFR), calcium (Ca), phosphorus (P), parathormone (PTH), 25 OH D, albumin, and uric acid (UA), and urine albumin/creatinine ratio (ACR). Multivariate linear regression analysis was done to determine predictors of 25 OH D. 98.6% of CKD patients have inadequate level of 25 OH D vs 48% of normal subjects. Serum 25 OH D was significantly lower in CKD patients (meanâÂ±âS.Dâ=â16.54âÂ±â5.8 vs 37.79âÂ±â3.58âng/mL for CKD vs control group respectively, <i>p</i>â&lt;â.001). Serum level of 25 OH D has significant positive correlation with Ca (<i>r</i>â=â0.337, <i>p</i>â&lt;â.001), and significant negative correlation with P, PTH, UA, and ACR (<i>r</i>â=â-0.440, -0. 679, -0.724, and -0.781respectively, <i>p</i>â&lt;â.001 in all). The independent predictors of 25 OH D were Ca, P, UA, PTH, and ACR (R squareâ=â0.7, Î²â=â-0.087, -0.226, -0.313, -0.253, and -0.33 respectively, <i>p</i>â&lt;â.001 in all). In conclusion, pre-dialysis CKD patients frequently suffer low 25 OH D. Among the different abnormalities related to CKD, urine albumin excretion rate and UA are the most important predictors of 25 OH D in these patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fayed</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Nephrology Unit, Internal Medicine Department , School of Medicine, Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Nokeety</LastName>
+                    <ForeName>Mahmoud M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Nephrology Unit, Internal Medicine Department , School of Medicine, Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heikal</LastName>
+                    <ForeName>Ahmed A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>b Internal Medicine Department, School of Medicine , Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadek</LastName>
+                    <ForeName>Khaled M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Nephrology Unit, Internal Medicine Department , School of Medicine, Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammad</LastName>
+                    <ForeName>Hany</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Nephrology Unit, Internal Medicine Department , School of Medicine, Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdulazim</LastName>
+                    <ForeName>Dina O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>c Rheumatology and Rehabilitation Department, School of Medicine , Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salem</LastName>
+                    <ForeName>Mona M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>d Endocrinology Unit, Internal Medicine Department, School of Medicine , Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharaf El Din</LastName>
+                    <ForeName>Usama A</ForeName>
+                    <Initials>UA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>a Nephrology Unit, Internal Medicine Department , School of Medicine, Cairo University , Manial , Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Vascular Calcification Group (VCG)</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Ren Fail</MedlineTA>
+            <NlmUniqueID>8701128</NlmUniqueID>
+            <ISSNLinking>0886-022X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000418">Albumins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>268B43MJ25</RegistryNumber>
+                <NameOfSubstance UI="D014527">Uric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000418" MajorTopicYN="N">Albumins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000419" MajorTopicYN="N">Albuminuria</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="Y">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014527" MajorTopicYN="N">Uric Acid</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">25 hydroxy vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">CKD</Keyword>
+            <Keyword MajorTopicYN="N">parathormone</Keyword>
+            <Keyword MajorTopicYN="N">serum phosphorus</Keyword>
+            <Keyword MajorTopicYN="N">uric acid</Keyword>
+            <Keyword MajorTopicYN="N">urine albumin excretion</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D deficiency</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31234687</ArticleId>
+            <ArticleId IdType="doi">10.1080/0886022X.2018.1563552</ArticleId>
+            <ArticleId IdType="pmc">PMC6598477</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Ann Intern Med. 1999 Mar 16;130(6):461-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10075613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2004 Dec;80(6 Suppl):1689S-96S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15585789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Vitam Nutr Res. 2007 Sep;77(5):341-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18453319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1991 Apr;260(4 Pt 2):F596-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1849367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2008 Sep;18(5):408-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18721735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mayo Clin Proc. 2010 Aug;85(8):752-7; quiz 757-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20675513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2011 Jul;21(4):295-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20817560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Jul;26(7):2250-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20956810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2010 Dec;9(12):941-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21119732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2011;31(2):185-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21461012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Oct;58(4):544-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21803465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Dec;6(12):2871-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22034506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2012 Jul;27(7):1131-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22311343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ISRN Endocrinol. 2011;2011:109458</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22363866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intern Med. 2012;51(8):845-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22504237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Clin Lab Invest Suppl. 2012;243:120-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22536772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2012 Nov;82(10):1061-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22739976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2012 Jul 03;13:55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22759247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Clin (Barc). 2013 Oct 19;141(8):338-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23182534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2013 Apr;182(4):1196-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23385000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Apr 09;8(4):e61159</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23585876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2014 Jan;24(1):20-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24216258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metabolism. 2014 Jan;63(1):150-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24269076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 2014 Jan-Feb;46(1):180-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24507048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2014 Mar 20;21(3):319-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24529992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Rev Med Pharmacol Sci. 2015;19(2):305-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25683947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2015 Feb 14;21(6):1718-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25684936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Nov 13;10(11):e0142808</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26566287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2015 Nov 19;8:151-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26640388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2016 Apr;186(4):794-804</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26851346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EXCLI J. 2013 Jun 11;12:511-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26933400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2016 Sep - Oct;36(5):510-516</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27378232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metabolism. 2016 Oct;65(10):1498-507</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27621185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrition. 2017 Jan;33:240-247</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27692990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Princ Pract. 2017;26(2):146-151</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27931015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Mar;91(3):658-670</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27988213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Diabetes. 2017 Jul 15;8(7):346-350</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28751957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2018 Sep - Oct;38(5):514-519</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29843900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 1973 Feb;154(2):566-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4691503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1977 Sep 24;2(8039):629-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">71448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1995 Jul;48(1):259-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7564087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1993 Oct;4(4):1035-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8286711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1976 Aug;58(2):514-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">956382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

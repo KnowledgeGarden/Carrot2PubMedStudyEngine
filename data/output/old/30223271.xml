@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30223271</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1421-9735</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47</Volume>
+                    <Issue>1-3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood purification</Title>
+                <ISOAbbreviation>Blood Purif</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Importance of Adherence in the Treatment of Secondary Hyperparathyroidism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37-44</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000492918</ELocationID>
+            <Abstract>
+                <AbstractText>Secondary hyperparathyroidism (SHPT) is a frequent condition in the presence of chronic kidney disease (CKD). In CKD patients, SHPT is reported to increase both morbidity and mortality, especially cardiovascular. The difficulty in the treatment of SHPT in clinical practice is frequently encountered from a not always adequate conduct of the clinicians and a common non-compliance to the therapy of CKD patients. In this review, the greatest difficulties from clinicians and CKD-patients' point of view in the treatment of SHPT will be addressed, with particular attention to those related to dialysis features, nutritional habits, and medical therapy.</AbstractText>
+                <CopyrightInformation>Â© 2018 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alfieri</LastName>
+                    <ForeName>Carlo</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Unit of Nephrology, Dialysis and Renal Transplant, Fondazione Ca' Granda IRCCS Ospedale Maggiore Policlinico di Milano, Milan, Italycarlo.alfieri1@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Regalia</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Unit of Nephrology, Dialysis and Renal Transplant, Fondazione Ca' Granda IRCCS Ospedale Maggiore Policlinico di Milano, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zanoni</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Unit of Nephrology, Dialysis and Renal Transplant, Fondazione Ca' Granda IRCCS Ospedale Maggiore Policlinico di Milano, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vettoretti</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Unit of Nephrology, Dialysis and Renal Transplant, Fondazione Ca' Granda IRCCS Ospedale Maggiore Policlinico di Milano, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cozzolino</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences, Renal Division, San Paolo Hospital, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Messa</LastName>
+                    <ForeName>Piergiorgio</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Unit of Nephrology, Dialysis and Renal Transplant, Fondazione Ca' Granda IRCCS Ospedale Maggiore Policlinico di Milano, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>UniversitÃ  Degli Studi Di Milano, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Blood Purif</MedlineTA>
+            <NlmUniqueID>8402040</NlmUniqueID>
+            <ISSNLinking>0253-5068</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000074822" MajorTopicYN="Y">Treatment Adherence and Compliance</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y"> Phosphate binders</Keyword>
+            <Keyword MajorTopicYN="Y">Calcimimetics</Keyword>
+            <Keyword MajorTopicYN="Y">Calcium</Keyword>
+            <Keyword MajorTopicYN="Y">Dialysis</Keyword>
+            <Keyword MajorTopicYN="Y">Nutrition</Keyword>
+            <Keyword MajorTopicYN="Y">PhosphateÂ </Keyword>
+            <Keyword MajorTopicYN="Y">Phosphorus</Keyword>
+            <Keyword MajorTopicYN="Y">Secondary hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D analogs</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30223271</ArticleId>
+            <ArticleId IdType="pii">000492918</ArticleId>
+            <ArticleId IdType="doi">10.1159/000492918</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

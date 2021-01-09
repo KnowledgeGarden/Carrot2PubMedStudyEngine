@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30976390</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2048-8505</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>12</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical kidney journal</Title>
+                <ISOAbbreviation>Clin Kidney J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Burden, access and disparities in kidney disease: chronic kidney disease hotspots and progress one step at a time.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>157-159</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ckj/sfz026</ELocationID>
+            <Abstract>
+                <AbstractText>The 2019 International Society of Nephrology World Kidney Day theme is Kidney Health for Everyone Everywhere. It focuses on the uneven burden of acute kidney injury and chronic kidney disease (CKD) in different communities, identifies disparities and challenges in access to care and calls for universal health coverage for prevention and early treatment of kidney disease. This topic is fully in line with the <i>Clinical Kidney Journal</i> (<i>ckj</i>) editorial strategy for improving worldwide kidney care without leaving any community behind. Indeed, the first PubMed-recorded use of the term CKD hotspot was in <i>ckj</i>, where it was defined as 'countries, region[s], communities or ethnicities with higher than average incidence of CKD'. This issue of <i>ckj</i> contains the World Kidney Day editorial as well as contributions that illustrate two concepts: the need to validate biochemical thresholds generated in developed countries in other populations, as exemplified by Kidney Disease: Improving Global Outcomes CKD-mineral and bone disorder parameters in an African population, and the fact that some disease associations characteristic of developing countries may be described initially in developed countries, as exemplified by the association of <i>APOL1</i> variants with CKD or by minimal change disease secondary to malaria, but have to be validated locally.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz, School of Medicine, Universidad Autonoma de Madrid; Fundacion Renal IÃ±igo Alvarez de Toledo-IRSIN and REDINREN, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Kidney J</MedlineTA>
+            <NlmUniqueID>101579321</NlmUniqueID>
+            <ISSNLinking>2048-8505</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">APOL1</Keyword>
+            <Keyword MajorTopicYN="N">PTH</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease hotspot</Keyword>
+            <Keyword MajorTopicYN="N">hypertensive nephropathy</Keyword>
+            <Keyword MajorTopicYN="N">malaria</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30976390</ArticleId>
+            <ArticleId IdType="doi">10.1093/ckj/sfz026</ArticleId>
+            <ArticleId IdType="pii">sfz026</ArticleId>
+            <ArticleId IdType="pmc">PMC6452190</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Ann Intern Med. 2009 May 5;150(9):604-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19414839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Aug 13;329(5993):841-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20647424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Mar;79(5):555-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21107446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2014 Dec;7(6):519-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25859368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2016 Feb;9(1):135-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26798474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2016 Oct;9(5):700-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27679716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2017 Jun;10(3):363-369</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28621342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2017 Feb;10(1):49-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28639628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2017 Feb;10(1):45-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28643820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2018 Sep;59:43-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29940141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Rep. 2018 Apr 22;3(4):905-915</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29989050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2019 Feb;12(1):19-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30746128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Clin Transplant. 2019 Apr;17(2):131-137</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30945627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

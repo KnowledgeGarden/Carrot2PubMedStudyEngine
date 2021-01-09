@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30560829</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1119-3077</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nigerian journal of clinical practice</Title>
+                <ISOAbbreviation>Niger J Clin Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D deficiency in patients with stages 1 and 2 chronic kidney disease in Southern China.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1639-1644</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/njcp.njcp_158_18</ELocationID>
+            <Abstract>
+                <AbstractText Label="Aim" NlmCategory="UNASSIGNED">We aim to investigate the incidence and associated factors of vitamin D deficiency, a seldom reported factor, in patients with stages 1 and 2 chronic kidney disease (CKD) in southern China.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">We conducted a single-center observational study. Hospitalized patients over 14 years old, who were diagnosed with stages 1 and 2 CKD and had their serum 25-hydroxyvitamin D [25 (OH) D] measured, were included. Patients were divided into vitamin D deficient and non-deficient groups depending on the cutoff serum 25 (OH) D value of 37 nmol/L. Clinical and biochemical parameters were evaluated for associated factors of vitamin D deficiency by logistic regression.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">A total of 118 patients were included, of which 62 (52.5%) were vitamin D insufficient and 47 (39.8%) were vitamin D deficient. Using multivariate binary logistic regression analysis, high serum level of gamma-glutamyl transpeptidase (GGT) (OR = 5.163; 95%CI, 1.105-24.130; P = 0.037), dyslipidemia (OR = 3.083; 95%CI, 1.029-9.243; P = 0.044), 24-hour urinary protein excretion (UPE) â¥3.5 g/24 hrs (OR = 5.010; 95%CI, 1.316-19.074; P = 0.018), and treatment with glucocorticoids (OR = 2.973; 95%CI, 1.093-8.084; P = 0.033) were independently associated with vitamin D deficiency. In addition, among different types of nephropathy, minimal change disease (MCD) had the highest incidence (85.7%) of vitamin D deficiency.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">Poor vitamin D status is common in patients with stages 1 and 2 CKD in southern China. The incidence of vitamin D deficiency is 39.8%. High serum GGT level, dyslipidemia, 24-hour UPE â¥3.5 g/24 hrs, and treatment with glucocorticoids are independent associated factors of vitamin D deficiency.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>F T</ForeName>
+                    <Initials>FT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiu</LastName>
+                    <ForeName>Q</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>A P</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Sun Yat-Sen Memorial Hospital, Sun Yat-Sen University, Guangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Niger J Clin Pract</MedlineTA>
+            <NlmUniqueID>101150032</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.2.2</RegistryNumber>
+                <NameOfSubstance UI="D005723">gamma-Glutamyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002681" MajorTopicYN="N" Type="Geographic">China</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050171" MajorTopicYN="N">Dyslipidemias</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007297" MajorTopicYN="N">Inpatients</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005723" MajorTopicYN="N">gamma-Glutamyltransferase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">25-hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D deficiency</Keyword>
+        </KeywordList>
+        <CoiStatement>There are no conflicts of interest</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30560829</ArticleId>
+            <ArticleId IdType="pii">NigerJClinPract_2018_21_12_1639_247669</ArticleId>
+            <ArticleId IdType="doi">10.4103/njcp.njcp_158_18</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

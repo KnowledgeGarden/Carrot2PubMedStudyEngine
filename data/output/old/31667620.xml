@@ -1,0 +1,781 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">31667620</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>03</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The dietary management of calcium and phosphate in children with CKD stages 2-5 and on dialysis-clinical practice recommendation from the Pediatric Renal Nutrition Taskforce.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>501-518</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-019-04370-z</ELocationID>
+            <Abstract>
+                <AbstractText>In children with chronic kidney disease (CKD), optimal control of bone and mineral homeostasis is essential, not only for the prevention of debilitating skeletal complications and achieving adequate growth but also for preventing vascular calcification and cardiovascular disease. Complications of mineral bone disease (MBD) are common and contribute to the high morbidity and mortality seen in children with CKD. Although several studies describe the prevalence of abnormal calcium, phosphate, parathyroid hormone, and vitamin D levels as well as associated clinical and radiological complications and their medical management, little is known about the dietary requirements and management of calcium (Ca) and phosphate (P) in children with CKD. The Pediatric Renal Nutrition Taskforce (PRNT) is an international team of pediatric renal dietitians and pediatric nephrologists, who develop clinical practice recommendations (CPRs) for the nutritional management of various aspects of renal disease management in children. We present CPRs for the dietary intake of Ca and P in children with CKD stages 2-5 and on dialysis (CKD2-5D), describing the common Ca- and P-containing foods, the assessment of dietary Ca and P intake, requirements for Ca and P in healthy children and necessary modifications for children with CKD2-5D, and dietary management of hypo- and hypercalcemia and hyperphosphatemia. The statements have been graded, and statements with a low grade or those that are opinion-based must be carefully considered and adapted to individual patient needs based on the clinical judgment of the treating physician and dietitian. These CPRs will be regularly audited and updated by the PRNT.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McAlister</LastName>
+                    <ForeName>Louise</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great Ormond Street Hospital for Children NHS Foundation Trust, and University College London, Institute of Child Health, WC1N 3JH, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pugh</LastName>
+                    <ForeName>Pearl</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nottingham Children's Hospital, Nottingham University Hospitals NHS Trust, Nottingham, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greenbaum</LastName>
+                    <ForeName>Laurence</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emory University and Children's Healthcare of Atlanta, Atlanta, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haffner</LastName>
+                    <ForeName>Dieter</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Hospital, Hannover Medical School, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rees</LastName>
+                    <ForeName>Lesley</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great Ormond Street Hospital for Children NHS Foundation Trust, and University College London, Institute of Child Health, WC1N 3JH, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderson</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Southampton Children's Hospital, University Hospital Southampton NHS Foundation Trust, Southampton, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Desloovere</LastName>
+                    <ForeName>An</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Hospital Ghent, Ghent, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nelms</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>PedsFeeds LLC, University of Nebraska, Nebraska, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oosterveld</LastName>
+                    <ForeName>Michiel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emma Children's Hospital, Amsterdam University Medical Center, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paglialonga</LastName>
+                    <ForeName>Fabio</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fondazione IRCCS Ca'Granda Ospedale Maggiore Policlinico, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polderman</LastName>
+                    <ForeName>Nonnie</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>British Columbia Children's Hospital, Vancover, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qizalbash</LastName>
+                    <ForeName>Leila</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great Northern Children's Hospital, Newcastle upon Tyne, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Renken-Terhaerdt</LastName>
+                    <ForeName>JosÃ©</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wilhelmina Children's Hospital, University Medical Center Utrecht, Utrecht, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tuokkola</LastName>
+                    <ForeName>Jetta</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Hospital and Clinical Nutrition Unit, University of Helsinki and Helsinki University Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warady</LastName>
+                    <ForeName>Bradley</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Mercy Kansas City, Kansas City, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Walle</LastName>
+                    <ForeName>Johan Vande</ForeName>
+                    <Initials>JV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Hospital Ghent, Ghent, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaw</LastName>
+                    <ForeName>Vanessa</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Great Ormond Street Hospital for Children NHS Foundation Trust, and University College London, Institute of Child Health, WC1N 3JH, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Plymouth and University College London Institute of Child Health, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shroff</LastName>
+                    <ForeName>Rukshana</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">0000-0001-8501-1072</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Great Ormond Street Hospital for Children NHS Foundation Trust, and University College London, Institute of Child Health, WC1N 3JH, London, UK. Rukshana.Shroff@gosh.nhs.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Calcium</Keyword>
+            <Keyword MajorTopicYN="Y">Children</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease (CKD)</Keyword>
+            <Keyword MajorTopicYN="Y">Nutrition</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31667620</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-019-04370-z</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-019-04370-z</ArticleId>
+            <ArticleId IdType="pmc">PMC6969014</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Adv Nutr. 2014 Jan 01;5(1):104-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24425729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Nephrol. 2013 Mar;33(2):180-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23465504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2013 Apr;28(4):617-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23381010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jul 1;32(7):1098-1113</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2002 Aug;76(2):442-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12145020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2005 Sep;46(3):464-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16129208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Oct 21;118(17):1748-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18838561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Dec;78(12):1295-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20811335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2013;124(1-2):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24022619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Rev. 2002 Nov;60(11):360-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12462518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jul 1;32(7):1114-1127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2015 Feb;30(2):317-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25119682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2011 Apr;64(4):395-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21194891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2010 Apr;2(4):474-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22254034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2005 Jan;81(1):175-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15640478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Endocrinol Rev. 2007 Oct;5 Suppl 1:584-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18167468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2015 Dec;30(12):2061-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25543193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 Jan;28(1):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23180879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Nov;18(11):2996-3003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17942964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Mar;34(3):475-486</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30506144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Dis Child. 2016 Jul;101(7):634-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26662924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatrics. 2004 Sep;114(3):874-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15342869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2002 Jul 2;106(1):100-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12093777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1989 Apr 27;320(17):1110-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2710173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2013 Jan-Feb;26(1):54-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23278245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Feb;27(2):543-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26139439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2018 Mar 20;168(6):422-430</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29459980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Jun;21(6):835-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16583243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>HSS J. 2006 Sep;2(2):130-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18751825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1997 Mar 15;99(6):1287-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9077538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Jan 30;9(2):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28146091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2010 Mar;25(3):385-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19898877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Innov Regul Sci. 2015 Nov;49(6):886-889</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30222371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Care. 2018 Dec;44(4):238-250</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30259677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Oct;5(10):1860-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20634327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Oct;68(4):1815-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2013 May;98(5):1930-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23547048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2013 Apr;28(4):583-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23161206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 1998;445:283-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9781396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Jun;93(6):1275-1277</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29792272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2019 Jan 7;14(1):139-140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30504249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Child Adolesc Health. 2017 Sep;1(1):68-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30169229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Dis Child. 2012 Jun;97(6):533-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22447996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 1997 Nov 15;315(7118):1255-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9390050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1992 May;55(5):992-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1570810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dtsch Arztebl Int. 2012 Jan;109(4):49-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22334826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2017 Mar;27(2):91-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27814946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Diet. 2019 Apr;76(2):126-134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29968271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cases Miner Bone Metab. 2013 Sep;10(3):172-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24554926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2010 May;20(3):193-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20303791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2019 Jan 29;14(1):e0211479</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30695068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2011 Jul;21(4):303-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21055967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Diet Assoc. 1988 Sep;88(9):1076-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3418003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2010 Oct;25(10):3241-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20308040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2015 Apr;30(4):630-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25358495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2013 Feb;24(2):179-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23138485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2015 Jan 20;16:9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25603926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Res. 1991 Jun;29(6):615-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1866219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2009 Dec;102 Suppl 1:S87-117</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20100370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 1996 Mar;75(3):495-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8785221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2018 Feb 7;13(2):274-281</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29180531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 1992 May 15;135(10):1114-26; discussion 1127-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1632423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Jan 6;12(1):19-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27827310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2007 Sep;17(5):350-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17720105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2013 Jul;98(1):6-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23719553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Mar;5(3):519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20093346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Hosp. 2014 Jul 01;30(1):188-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25137280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2014 Feb;9(2):344-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2012 Nov;22(6):533-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22406120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1994 Oct;46(4):1160-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7861712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Aug;27(8):3063-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22851629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Jan;7(1):146-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22052943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2000 Sep;14(10-11):898-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10975295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2019 Jan;34(1):145-154</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30141180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Obes Suppl. 2015 Dec;5(Suppl 2):S22-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27152180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Aug;26(8):1729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21520276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1999 Sep;70(3 Suppl):543S-548S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10479229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2013 Apr;28(4):569-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23064662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2003 Jan;63(1):266-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12472792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Public Health Nutr. 2014 Aug;17(8):1745-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24983428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Osteoporos Rep. 2015 Apr;13(2):98-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25638580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1995 Dec;62(6):1239-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7491887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2009 Mar;24(3):555-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18982357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2010 Sep;25(9):1607-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20393752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2013 Jul;93(1):23-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23543130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

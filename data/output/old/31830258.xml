@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">31830258</PMID>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2055-6845</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Dec</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European heart journal. Cardiovascular pharmacotherapy</Title>
+                <ISOAbbreviation>Eur Heart J Cardiovasc Pharmacother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Impact of Vitamin D on Cardiac structure and function in CKD patients with hypovitaminosis D, a randomised controlled trial and meta-analysis.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">pvz080</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/ehjcvp/pvz080</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Vitamin D deficiency is associated with cardiovascular events in CKD yet the impact of supplementation is controversial. Previous active vitamin D supplementation studies did not show improvement in cardiac structure or function but the effect of native vitamin D supplementation in CKD patients with low vitamin D levels is unknown. We have addressed this question via both a randomised double-blind prospective study and a meta-analysis of three randomised placebo-controlled studies.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">We conducted a randomised double-blind, placebo-controlled trial of vitamin D supplementation in stable, non-diabetic, CKD 3-4 patients with circulating vitamin Dâ&lt;â75nmol/L, who were receiving treatment with ACEi or ARB and had high-normal left ventricular (LV) mass. Patients were randomised to receive 6 directly-observed doses of 100,000âIU cholecalciferol (nâ=â25) or matched placebo (nâ=â23). The primary endpoint was change in LV Mass index (LVMI) over 52 weeks, as assessed by cardiac magnetic resonance imaging. Secondary endpoints included changes in LV ejection fraction; left and right ventricular volumes and left and right atrial area.Vitamin D concentration increased with the administration of cholecalciferol. The change in LVMI with cholecalciferol (median[interquartile-range], -0.25g[-7.20 to 5.30]) was no different from placebo (-4.30g[9.70 to 2.60]). There was no difference in changes of LV ejection fraction; left and right ventricular volumes and left and right atrial area. The meta-analysis of three 52-week, randomised placebo-controlled studies using active/native vitamin D supplementation showed no differences in LVMI measurements.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Vitamin D supplementation does not have beneficial effects on left ventricular mass in CKD patients.</AbstractText>
+                <CopyrightInformation>Â© The Author(s) 2019. Published by Oxford University Press on behalf of the European Society of Cardiology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Debasish</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal and Transplantation Unit, St George's University Hospital NHS Foundation Trust, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Centre, St George's University of London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chitalia</LastName>
+                    <ForeName>Nihil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Centre, St George's University of London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Medicine, Darent Valley Hospital, Dartford, Kent, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ster</LastName>
+                    <ForeName>Irina Chis</ForeName>
+                    <Initials>IC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Infection and Immunity, St George's University of London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Appelbaum</LastName>
+                    <ForeName>Evan</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beth Israel Deaconess Medical Centre, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thadhani</LastName>
+                    <ForeName>Ravi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical Sciences and Medicine, Cedars-Sinai Medical Center, Los Angeles CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaski</LastName>
+                    <ForeName>Juan Carlos</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Centre, St George's University of London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldsmith</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiology Clinical Academic Group, Molecular and Clinical Sciences Research Centre, St George's University of London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur Heart J Cardiovasc Pharmacother</MedlineTA>
+            <NlmUniqueID>101669491</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">Cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">Chronic Kidney Disease</Keyword>
+            <Keyword MajorTopicYN="N">Left Ventricular Mass</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31830258</ArticleId>
+            <ArticleId IdType="pii">5674043</ArticleId>
+            <ArticleId IdType="doi">10.1093/ehjcvp/pvz080</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,92 @@
+<searchresult>
+   <query>resistant starch AND irritable bowel syndrome</query>
+   <document id="33028442">
+      <title> approach: implications for irritable bowel syndrome.</title>
+      <snippet>The therapeutic value of specific fibres is partly dependent on their fermentation characteristics. Some fibres are rapidly degraded with the generation of gases that induce symptoms in patients with irritable bowel syndrome (IBS), while more slowly or non-fermentable fibres may be more suitable. More work is needed to profile a comprehensive range of fibres to determine suitability for IBS. Using a rapid in vitro fermentation model, gas production and metabolite profiles of a range of established and novel fibres were compared. Fibre substrates (n 15) were added to faecal slurries from three healthy donors for 4 h with gas production measured using real-time headspace sampling. Concentrations of SCFA and ammonia were analysed using GC and enzymatic assay, respectively. Gas production followed three patterns: rapid (≥60 ml/g over 4 h) for fructans, carrot fibre and maize-derived xylo-oligosaccharide (XOS); mild (30-60 ml/g) for partially hydrolysed guar gum, almond shell-derived XOS and one type of high-amylose resistant starch 2 (RS2) and minimal (no differences with blank controls) for methylcellulose, another high-amylose RS2, acetylated or butyrylated RS2, RS4, acacia gum and sugarcane bagasse. Gas production correlated positively with total SCFA (r 0·80, P &lt; 0·001) and negatively with ammonia concentrations (r -0·68, P &lt; 0·001). Proportions of specific SCFA varied: fermentation of carrot fibre, XOS and acetylated RS2 favoured acetate, while fructans favoured butyrate. Gas production and metabolite profiles differed between fibre types and within fibre classes over a physiologically relevant 4-h time course. Several fibres resisted rapid fermentation and may be candidates for clinical trials in IBS patients.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33028442</url>
+   </document>
+   <document id="26527169">
+      <title>Review article: insights into colonic protein fermentation, its modulation and potential health implications.</title>
+      <snippet>Beneficial effects of carbohydrate fermentation on gastrointestinal health are well established. Conversely, protein fermentation generates harmful metabolites but their relevance to gastrointestinal health is poorly understood. ... To review the effects of increased protein fermentation on biomarkers of colonic health, factors influencing fermentative activity and potential for dietary modulation to minimise detrimental effects.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/26527169</url>
+   </document>
+   <document id="26443321">
+      <title>Scientific evidence for health effects attributed to the consumption of probiotics and prebiotics: an update for current perspectives and future challenges.</title>
+      <snippet>Probiotics and prebiotics, mainly commercialised as food ingredients and also as supplements, are considered highly profitable niche markets. However, in recent years, the food industry has suffered from a series of health claim restrictions on probiotics and prebiotics in many parts of the world, including those made by the European Food Safety Authority. Therefore, we reviewed the core benefits of probiotic and prebiotic consumption on health. A number of studies have examined the prevention and/or management of intestinal infections, respiratory tract infections, CVD, osteoporosis, urogenital infections, cavities, periodontal disease and halitosis, allergic reactions, inflammatory bowel disease and irritable bowel syndrome and Helicobacter pylori gastric infections. In fact, a deeper understanding of the mechanisms involved in human microbiota and immune system modulation by probiotics and prebiotics relies on continuous efforts to establish suitable biomarkers of health and diseases risk factors for the design of clinical trials required for health claim approval. In spite of the promising results, the performance of large, long-term, well-planned, well-aligned clinical studies is crucial to provide more reliability and a more solid basis for the outcomes achieved and to support the potential use of probiotics and prebiotics in clinical practice. </snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/26443321</url>
+   </document>
+   <document id="24398283">
+      <title>Colorectal disorders: A dietary management perspective.</title>
+      <snippet>Dietary lifestyle is relevant for prevention and treatment of various colorectal conditions. Colorectal disorders have significant morbidity and mortality in a western-style community, particularly irritable bowel syndrome (IBS), colorectal cancer, haemorrhoids, constipation and diverticular disease. This review addresses how bowel health can be maintained, what foods and dietary lifestyles are associated with risk for disease and what foods are of real value in management. Bowel health is that state where the individual is satisfied with defaecation, the diet does not create undue risk for disease and lumenal contents maintain an intact and functional mucosa. Bowel health depends on a healthy dietary lifestyle, but in particular on an adequate intake of non-digestable dietary polysaccharide. Diet influences biology in part by altering the lumenal environment. Effects such as high butyrate levels, lowered pH, a predominance of &apos;healthy&apos;over &apos;unhealthy&apos; bacteria, rapid intestinal transit, high faecal bulk, a non-leaky epithelial barrier, adsorption of dietary carcinogens by fibre, low bile salt concentrations, reduced generation of toxic bile salts or protein derivatives and provision of certain bioactive substances are seen as beneficial. Diet influences future risk for colorectal cancer (vegetables, animal fats, polysaccharides amongst others) and for diverticular disease (fibre). Adequate fibre and resistant starch can improve constipation and anorectal conditions such as fissure and haemorrhoids. The role of diet in managing patients with IBS is complex. Fibre may worsen symptoms in severe cases of IBS, diverticular disease and inflammatory bowel disease. Certain carbohydrates of limited digestibility/absorbability, such as lactose, fructose and sorbitol, can precipitate IBS symptoms. Low fat, high fibre diets may reduce recurrence of colorectal adenomas. Diet has a significant role to play in colorectal disorders. </snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/24398283</url>
+   </document>
+   <group id="0" score="3.3133823639083784" size="2">
+      <title>
+         <phrase>Bowel Health</phrase>
+      </title>
+      <document refid="26443321"/>
+      <document refid="24398283"/>
+   </group>
+   <group id="1" score="3.15477653887087" size="2">
+      <title>
+         <phrase>Dietary</phrase>
+      </title>
+      <document refid="26527169"/>
+      <document refid="24398283"/>
+   </group>
+   <group id="2" score="2.774183606513499" size="2">
+      <title>
+         <phrase>Fermentation</phrase>
+      </title>
+      <document refid="33028442"/>
+      <document refid="26527169"/>
+   </group>
+   <group id="3" score="2.724297773362935" size="2">
+      <title>
+         <phrase>Fibre</phrase>
+      </title>
+      <document refid="33028442"/>
+      <document refid="24398283"/>
+   </group>
+   <attribute key="MultilingualClustering.languageCounts">
+      <value>
+         <wrapper class="org.carrot2.util.simplexml.MapSimpleXmlWrapper">
+            <map>
+               <entry string="">
+                  <value type="java.lang.Integer" value="4"/>
+               </entry>
+            </map>
+         </wrapper>
+      </value>
+   </attribute>
+   <attribute key="processing-time-algorithm">
+      <value type="java.lang.Long" value="17"/>
+   </attribute>
+   <attribute key="start">
+      <value type="java.lang.Integer" value="0"/>
+   </attribute>
+   <attribute key="SearchEngineBase.compressed">
+      <value type="java.lang.Boolean" value="false"/>
+   </attribute>
+   <attribute key="SearchEngineStats.queries">
+      <value type="java.lang.Integer" value="0"/>
+   </attribute>
+   <attribute key="processing-time-source">
+      <value type="java.lang.Long" value="1228"/>
+   </attribute>
+   <attribute key="SearchEngineStats.pageRequests">
+      <value type="java.lang.Integer" value="0"/>
+   </attribute>
+   <attribute key="MultilingualClustering.majorityLanguage">
+      <value value=""/>
+   </attribute>
+   <attribute key="processing-time-total">
+      <value type="java.lang.Long" value="1245"/>
+   </attribute>
+   <attribute key="results">
+      <value type="java.lang.Integer" value="20"/>
+   </attribute>
+   <attribute key="results-total">
+      <value type="java.lang.Long" value="4"/>
+   </attribute>
+</searchresult>

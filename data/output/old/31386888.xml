@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31386888</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-7573</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>246</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jan</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of ethnopharmacology</Title>
+                <ISOAbbreviation>J Ethnopharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prediction of the mechanisms of action of Shenkang in chronic kidney disease: A network pharmacology study and experimental validation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112128</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0378-8741(18)34456-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jep.2019.112128</ELocationID>
+            <Abstract>
+                <AbstractText Label="ETHNOPHARMACOLOGICAL RELEVANCE" NlmCategory="BACKGROUND">Traditional Chinese medicine provides a unique curative treatment of complex chronic diseases, including chronic kidney disease (CKD), which is not effectively treated with the current therapies. The pharmacological mechanisms of Shenkang (SK), a herbal medicine containing rhubarb (Rheum palmatum L. or R. tanguticum Maxim. ex Balf.), red sage (Salvia miltiorrhiza Bunge), safflower (Carthamus tinctorius L.), and astragalus (Astragalus mongholicus Bunge), widely used to treat CKD in China, are still unclear.</AbstractText>
+                <AbstractText Label="AIM OF THE STUDY" NlmCategory="OBJECTIVE">In this study, the comprehensive approach used for elucidating the pharmacological mechanisms of SK included the identification of the effective constituents, target prediction and network analysis, by investigating the interacting pathways between these molecules in the context of CKD. These results were validated by performing an in vivo study and by comparison with literature reviews.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This approach involved the following main steps: first, we constructed a molecular database for SK and screened for active molecules by conducting drug-likeness and drug half-life evaluations; second, we used a weighted ensemble similarity drug-targeting model to accurately identify the direct drug targets of the bioactive constituents; third, we constructed compound-target, target-pathway, and target-disease networks using the Cytoscape 3.2 software and determined the distribution of the targets in tissues and organs according to the BioGPS database. Finally, the resulting drug-target mechanisms were compared with those proposed by previous research on SK and validated in a mouse model of CKD.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">By using Network analysis, 88 potential bioactive compounds in the four component herbs of SK and 85 CKD-related targets were identified, including pathways that involve the nuclear factor-ÎºB, mitogen-activated protein kinase, transient receptor potential, and vascular endothelial growth factor, which were categorized as inflammation, proliferation, migration, and permeability modules. The results also included different tissues (kidneys, liver, lungs, and heart) and different disease types (urogenital, metabolic, endocrine, cardiovascular, and immune diseases as well as pathological processes) closely related to CKD. These findings agreed with those reported in the literature. However, our findings with the network pharmacology prediction did not account for all the effects reported for SK found in the literature, such as regulation of the hemodynamics, inhibition of oxidative stress and apoptosis, and the involvement of the transforming growth factor-Î²/SMAD3, sirtuin/forkhead box protein O (SIRT/FOXO) and B-cell lymphoma-2-associated X protein pathways. The in vivo validation experiment revealed that SK ameliorated CKD through antifibrosis and anti-inflammatory effects, by downregulating the levels of vascular cell adhesion protein 1, vitamin D receptor, cyclooxygenase-2, and matrix metalloproteinase 9 proteins in the unilateral ureteral obstruction mouse model. This was consistent with the predicted target and pathway networks.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">SK exerted a curative effect on CKD and CKD-related diseases by targeting different organs, regulating inflammation and proliferation processes, and inhibiting abnormal extracellular matrix accumulation. Thus, pharmacological network analysis with in vivo validation explained the potential effects and mechanisms of SK in the treatment of CKD. However, these findings need to be further confirmed with clinical studies.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2019 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Qin</LastName>
+                    <ForeName>Tianyu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: 1014824344@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Lili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Health Cultivation of the Ministry of Education, Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: qingniao_566@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hua</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Academy of Basic Medicine Sciences, Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: hqianz@aliyun.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Zilin</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: songzilinyeah@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Yajing</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: 625093188@qq.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Tonghua</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Health Cultivation of the Ministry of Education, Beijing University of Chinese Medicine, Beijing, 100029, China. Electronic address: thliu@vip.163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>J Ethnopharmacol</MedlineTA>
+            <NlmUniqueID>7903310</NlmUniqueID>
+            <ISSNLinking>0378-8741</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C550195">shenkang</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004365" MajorTopicYN="N">Drugs, Chinese Herbal</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D063990" MajorTopicYN="N">Gene Ontology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010600" MajorTopicYN="N">Pharmacology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025941" MajorTopicYN="N">Protein Interaction Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Network analysis</Keyword>
+            <Keyword MajorTopicYN="N">Shenkang</Keyword>
+            <Keyword MajorTopicYN="N">Target prediction</Keyword>
+            <Keyword MajorTopicYN="N">Traditional Chinese medicine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31386888</ArticleId>
+            <ArticleId IdType="pii">S0378-8741(18)34456-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jep.2019.112128</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

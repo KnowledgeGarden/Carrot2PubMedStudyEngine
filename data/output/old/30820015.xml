@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30820015</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1421-9670</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>49</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of nephrology</Title>
+                <ISOAbbreviation>Am J Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Adherence to Kidney Disease: Improving Global Outcomes Mineral and Bone Guidelines for Monitoring Biochemical Parameters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>225-232</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000497477</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Mineral and bone disorder (MBD) is common in patients with chronic kidney disease (CKD), and is associated with risk of fractures, cardiovascular disease, and death. Kidney Disease: Improving Global Outcomes (KDIGO) guidelines recommend monitoring CKD-MBD biochemical markers, including parathyroid hormone (PTH), phosphorus, 25-hydroxyvitamin D (25D), calcium, and alkaline phosphatase (ALP), in patients with moderate-to-severe CKD.</AbstractText>
+                <AbstractText Label="METHODS">To determine guideline adherence, we used administrative claims records from the 20% sample of Medicare beneficiaries with Parts A, B, and D coverage, 2007 to 2015, and identified cohorts of patients with nondialysis stage 3, 4, or 5 CKD. Testing for biochemical markers during follow-up was defined based on laboratory procedure codes. Baseline factors associated with laboratory testing were determined using logistic regression. All analyses were performed separately by CKD stage.</AbstractText>
+                <AbstractText Label="RESULTS">A total of 640,946 stage 3, 136,278 stage 4, and 22,076 stage 5 CKD patients, 50.2-52.9% women, mean age 74.4-78.0 years, were followed for a mean of 2.5, 1.3, and 0.7 years respectively. The frequency of testing was low for PTH (35.2-48.2%), phosphorus (46.6-62.0%), and 25D (29.3-46.7%). Testing was somewhat higher for calcium (88.1-95.4%) and ALP (63.5-88.1%); most tests were features of larger panels (e.g., basic metabolic panel). Older age, most comorbid conditions, and lack of prior nephrology care were associated with lower likelihood of testing.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">In fee-for-service Medicare beneficiaries, laboratory testing for CKD-MBD biochemical markers appears to be suboptimal in relation to KDIGO guidelines. Competing priories, such as management of comorbid disease and preparation for renal replacement therapy, may distract from CKD-MBD monitoring.</AbstractText>
+                <CopyrightInformation>Â© 2019 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roetker</LastName>
+                    <ForeName>Nicholas S</ForeName>
+                    <Initials>NS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Research Group, Hennepin Healthcare Research Institute, Minneapolis, Minnesota, USA, nroetker@cdrg.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Yi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Research Group, Hennepin Healthcare Research Institute, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashfaq</LastName>
+                    <ForeName>Akhtar</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>OPKO Health, Miami, Florida, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbertson</LastName>
+                    <ForeName>David T</ForeName>
+                    <Initials>DT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Research Group, Hennepin Healthcare Research Institute, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wetmore</LastName>
+                    <ForeName>James B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chronic Disease Research Group, Hennepin Healthcare Research Institute, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Hennepin Healthcare, University of Minnesota, Minneapolis, Minnesota, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Am J Nephrol</MedlineTA>
+            <NlmUniqueID>8109361</NlmUniqueID>
+            <ISSNLinking>0250-8095</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.1</RegistryNumber>
+                <NameOfSubstance UI="D000469">Alkaline Phosphatase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000359" MajorTopicYN="N">Aftercare</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000469" MajorTopicYN="N">Alkaline Phosphatase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001774" MajorTopicYN="N">Blood Chemical Analysis</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019983" MajorTopicYN="N">Guideline Adherence</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006278" MajorTopicYN="N">Medicare</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017410" MajorTopicYN="Y">Practice Guidelines as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">25-hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">Calcium</Keyword>
+            <Keyword MajorTopicYN="Y">Laboratory testing</Keyword>
+            <Keyword MajorTopicYN="Y">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30820015</ArticleId>
+            <ArticleId IdType="pii">000497477</ArticleId>
+            <ArticleId IdType="doi">10.1159/000497477</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,373 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30940121</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2369</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>04</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC nephrology</Title>
+                <ISOAbbreviation>BMC Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phenprocoumon based anticoagulation is an underestimated factor in the pathogenesis of calciphylaxis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>114</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12882-019-1301-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Calciphylaxis is a life threatening complication in renal patients. Of great importance is the identification of concomitant factors for calciphylaxis. Due to the variability of clinical presentation the evaluation of such factors may be obscured when calciphylaxis diagnosis is based just on clinical features. We aimed to characterize associated factors only in patients with calciphylaxis proven by histomorphological parameters in addition to clinical presentation.</AbstractText>
+                <AbstractText Label="METHODS">In a single center retrospective study we analyzed 15 patients in an 8 year period from 2008 to 2016. Only patients with clinical features and histomorphological proof of calciphylaxis were included. Criteria for histological diagnosis of calciphylaxis were intimal hyperplasia, micro thrombi or von Kossa stain positive media calcification.</AbstractText>
+                <AbstractText Label="RESULTS">The mean age of patients was 64.8âyears. Nine patients (60%) were female; 12 (80%) were obese with a Body-Mass-Index (BMI)â&gt;â30âkg/m<sup>2</sup>; 3 (20%) had no renal disease; 12 (80%) had CKD 4 or 5 and 10 (66.7%) had end-stage renal disease (ESRD). One-year mortality in the entire cohort was 73.3%. With respect to medication history, the majority of patients (nâ=â13 (86.7%)) received vitamin K antagonists (VKA); 10 (66.7%) were treated with vitamin D; 6 (40%) had oral calcium supplementation; 5 (33.3%) had been treated with corticosteroids; 12 (80%) were on proton pump inhibitors (PPI); 13 (86.7%) patients had a clinical proven hyperparathyroidism. Ten (66.7%) patients presented with hypoalbuminemia at diagnosis.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">The evaluation of biopsy proven calciphylaxis demonstrates that especially treatment with vitamin K antagonists and liver dysfunction are most important concomitant factors in development of calciphylaxis. As progression and development of calciphylaxis are chronic rather than acute processes, early use of DOACs instead of VKA might be beneficial and reduce the incidence of calciphylaxis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Russ</LastName>
+                    <ForeName>Philipp</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, University Hospital of Marburg, UKGM GmbH, BaldingerstraÃe 1, 35033, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Russwurm</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, University Hospital of Marburg, UKGM GmbH, BaldingerstraÃe 1, 35033, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kortus-Goetze</LastName>
+                    <ForeName>Birgit</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, University Hospital of Marburg, UKGM GmbH, BaldingerstraÃe 1, 35033, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoyer</LastName>
+                    <ForeName>Joachim</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, University Hospital of Marburg, UKGM GmbH, BaldingerstraÃe 1, 35033, Marburg, Germany. hoyer@med.uni-marburg.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamalanabhaiah</LastName>
+                    <ForeName>Sahana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, University Hospital of Marburg, UKGM GmbH, BaldingerstraÃe 1, 35033, Marburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Nephrol</MedlineTA>
+            <NlmUniqueID>100967793</NlmUniqueID>
+            <ISSNLinking>1471-2369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q08SIO485D</RegistryNumber>
+                <NameOfSubstance UI="D010644">Phenprocoumon</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000925" MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002115" MajorTopicYN="Y">Calciphylaxis</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005858" MajorTopicYN="N" Type="Geographic">Germany</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="Y">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008107" MajorTopicYN="N">Liver Diseases</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055806" MajorTopicYN="N">Microvessels</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009026" MajorTopicYN="N">Mortality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018579" MajorTopicYN="N">Patient Selection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010644" MajorTopicYN="N">Phenprocoumon</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013927" MajorTopicYN="Y">Thrombosis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="Y">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Calciphylaxis</Keyword>
+            <Keyword MajorTopicYN="Y">Inflammation</Keyword>
+            <Keyword MajorTopicYN="Y">Ischemia</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphatemia</Keyword>
+            <Keyword MajorTopicYN="Y">Vascular calcification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30940121</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12882-019-1301-6</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12882-019-1301-6</ArticleId>
+            <ArticleId IdType="pmc">PMC6444830</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Jan;26(1):191-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20627865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2001 Jul;60(1):324-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11422768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Turk J Gastroenterol. 2017 Mar;28(2):104-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28082254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2016 Aug;31(8):1211-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27005994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol Renovasc Dis. 2016 Sep 19;9:235-241</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27698566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2002 Jun;61(6):2210-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12028462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Dermatopathol. 2013 Jul;35(5):582-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23328789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mayo Clin Proc. 2016 Oct;91(10):1384-1394</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27712637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dtsch Med Wochenschr. 2015 Mar;140(5):347-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25734678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Acad Dermatol. 2016 Oct;75(4):840-842.e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27646745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Eur Acad Dermatol Venereol. 2017 Nov;31(11):1884-1889</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28252815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jan 1;32(1):126-132</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26908770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Sci. 2016 Feb;351(2):217-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26897281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Clin (Barc). 2016 Aug 19;147(4):157-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27422736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Jun;28(6):1717-1722</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28049648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hautarzt. 2016 Dec;67(12):960-969</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27822733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 1998 Sep;18(9):1400-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9743228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2013;37(4):325-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23548843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Acad Dermatol. 2007 Apr;56(4):569-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17141359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Dermatol. 2017 Aug;56(8):856-861</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28436018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cutan Med Surg. 2017 Mar/Apr;21(2):162-163</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27566435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Sep;26(9):3063; author reply 3063-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21750156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

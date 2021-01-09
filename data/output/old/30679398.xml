@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30679398</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0917-5857</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>29</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2019</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical calcium</Title>
+                <ISOAbbreviation>Clin Calcium</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[CKD-MBD and cardiovascular disease.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>179-184</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.20837/4201902179</ELocationID>
+            <Abstract>
+                <AbstractText>Cardiovascular disease(CVD)is a crucial cause of death in patients with chronic kidney disease and various factors play a role in the progression of CVD. Among the various factors, mineral bone disorder has been focused on in recent year. Phosphate is an important factor because it affects cardiovascular system not only directly but also indirectly. Phosphate can influence the serum and cellar levels of parathyroid hormone, fibroblast growth factor 23, and active vitamin D and thereby leading to the progression of CVD. Thus, it is essential to understand the mechanisms of CVD progression and think about a control of mineral bone disorder.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fujii</LastName>
+                    <ForeName>Hideki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Kidney Center, Kobe University Graduate School of Medicine, Kobe, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Clin Calcium</MedlineTA>
+            <NlmUniqueID>9433326</NlmUniqueID>
+            <ISSNLinking>0917-5857</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="Y">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="Y">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30679398</ArticleId>
+            <ArticleId IdType="pii">1902179184</ArticleId>
+            <ArticleId IdType="doi">10.20837/4201902179</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

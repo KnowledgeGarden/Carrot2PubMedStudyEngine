@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29658832</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>06</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1530-891X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists</Title>
+                <ISOAbbreviation>Endocr Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>THE ASSOCIATIONS BETWEEN HYPOVITAMINOSIS D, HIGHER PTH LEVELS WITH BONE MINERAL DENSITIES, AND RISK OF THE 10-YEAR PROBABILITY OF MAJOR OSTEOPOROTIC FRACTURES IN CHINESE PATIENTS WITH T2DM.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>334-341</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4158/EP-2017-0164</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In the current study, we investigated the vitamin D status, and its relationships with parathyroid hormone (PTH) levels, bone mineral density (BMD), and the 10-year probability of fractures in Chinese patients with type 2 diabetes mellitus (T2DM).</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This was a cross-sectional study of 785 patients. BMDs at the lumbar spine (L2-4), femoral neck (FN), and total hip (TH) were measured by dual-energy X-ray absorptiometry (DXA). Serum levels of 25-hydroxyvitamin D (25(OH)D) and intact PTH were also quantified. The 10-year probability of fracture risk (major osteoporotic fracture [MOF] and hip fracture [HF]) was assessed using the fracture risk assessment tool (FRAX).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The prevalence of vitamin D deficiency was 82.3%, and the mean 25(OH)D level was 36.9 Â± 15.2 nmol/L. The adequate group had higher BMDs at the FN and TH and lower MOF risk than the inadequate groups. Lower 25(OH)D was associated with higher PTH ( r = -0.126, P&lt;.001). PTH was negatively correlated with BMDs at 3 sites and positively correlated with MOF and HF, but this relationship disappeared in the adequate subgroup. Multivariate stepwise regression analysis revealed that PTH was the determinant of MOF (standard Î² = 0.073, P = .010) and HF (standard Î² = 0.094, P = .004).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our results identified a significantly high rate of vitamin D deficiency among Chinese patients with T2DM. PTH is an important risk factor responsible for the higher 10-year probability of osteoporotic fractures in diabetic patients, especially in those with lower vitamin D levels.</AbstractText>
+                <AbstractText Label="ABBREVIATIONS" NlmCategory="BACKGROUND">AKP = alkaline phosphatase; ALB = serum albumin; BMD = bone mineral density; BMI = body mass index; Ca = calcium; CKD = chronic kidney disease; Cr = creatinine; FN = femoral neck; FRAX = fracture risk assessment tool; HbA1c = glycated hemoglobin A1c; HF = hip fracture; L2-4 = lumbar spine; MOF = major osteoporotic fracture; 25(OH)D = 25-hydroxyvitamin D; P = phosphorus; PTH = parathyroid hormone; T2DM = type 2 diabetes mellitus; TH = total hip; UA = uric acid.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiao-Feng</ForeName>
+                    <Initials>XF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jing-Jia</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xiao-Jing</ForeName>
+                    <Initials>XJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jing</LastName>
+                    <ForeName>Yi-Xuan</ForeName>
+                    <Initials>YX</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Li-Hao</ForeName>
+                    <Initials>LH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tao</LastName>
+                    <ForeName>Bei</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Wei-Qing</ForeName>
+                    <Initials>WQ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ning</LastName>
+                    <ForeName>Guang</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jian-Min</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Hong-Yan</ForeName>
+                    <Initials>HY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Endocr Pract</MedlineTA>
+            <NlmUniqueID>9607439</NlmUniqueID>
+            <ISSNLinking>1530-891X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015519" MajorTopicYN="Y">Bone Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003924" MajorTopicYN="N">Diabetes Mellitus, Type 2</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058866" MajorTopicYN="N">Osteoporotic Fractures</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011336" MajorTopicYN="N">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29658832</ArticleId>
+            <ArticleId IdType="doi">10.4158/EP-2017-0164</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,829 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33394226</PMID>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-4978</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology reports</Title>
+                <ISOAbbreviation>Mol Biol Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An update on vascular calcification and potential therapeutics.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11033-020-06086-y</ELocationID>
+            <Abstract>
+                <AbstractText>Pathological calcification is a major cause of cardiovascular morbidities primarily in population with chronic kidney disease (CKD), end stage renal diseases (ERSD) and metabolic disorders. Investigators have accepted the fact that vascular calcification is not a passive process but a highly complex, cell mediated, active process in patients with cardiovascular disease (CVD) resulting from, metabolic insults of bone fragility, diabetes, hypertension, dyslipidemia and atherosclerosis. Over the years, studies have revealed various mechanisms of vascular calcification like induction of bone formation, apoptosis, alteration in Ca-P balance and loss of inhibition. Novel clinical studies targeting cellular mechanisms of calcification provide promising and potential avenues for drug development. The interventions include phosphate binders, sodium thiosulphate, vitamin K, calcimimetics, vitamin D, bisphosphonates, Myoinositol hexaphosphate (IP6), Denosumab and TNAP inhibitors. Concurrently investigators are also working towards reversing or curing pathological calcification. This review focuses on the relationship of vascular calcification to clinical diseases, regulators and factors causing calcification including genetics which have been identified. At present, there is lack of any significant preventive measures for calcifications and hence this review explores further possibilities for drug development and treatment modalities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Anubha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Amity Institute of Biotechnology (AIB), Amity University Uttar Pradesh, Noida, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tandon</LastName>
+                    <ForeName>Simran</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Amity Institute of Molecular Medicine and Stem Cell Research (AIMMSCR), Amity University Uttar Pradesh, Noida, Uttar Pradesh, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tandon</LastName>
+                    <ForeName>Chanderdeep</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3720-0455</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Amity Institute of Biotechnology (AIB), Amity University Uttar Pradesh, Noida, Uttar Pradesh, India. ctandon@amity.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2021</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mol Biol Rep</MedlineTA>
+            <NlmUniqueID>0403234</NlmUniqueID>
+            <ISSNLinking>0301-4851</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Vascular calcification</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>12</Hour>
+                <Minute>16</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33394226</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11033-020-06086-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11033-020-06086-y</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Wu M, Rementer C, Giachelli CM (2013) Vascular calcification: an update on mechanisms and challenges in treatment. Calcif Tissue Int 93:365â373</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23456027</ArticleId>
+                    <ArticleId IdType="pmcid">3714357</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00223-013-9712-z</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sebastian R, Contiguglia AC, Alfrey NL et al (2011) Role of calcium-phosphate deposition in vascular smooth muscle cell calcification. Am J Physiol 300:C210âC220</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1152/ajpcell.00229.2010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mackey HR, Sutton-Tyrrell K (2007) Calcifications, arterial stiffness and atherosclerosis. Adv Cardiol 44:234â244</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17075212</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000096744</ArticleId>
+                    <ArticleId IdType="pmcid">17075212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Giachelli CM (2004) Vascular calcification mechanisms. J Am Soc Nephrol 15:2959â2964</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15579497</ArticleId>
+                    <ArticleId IdType="doi">10.1097/01.ASN.0000145894.57533.C4</ArticleId>
+                    <ArticleId IdType="pmcid">15579497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prabhakaran D, Jeemon P, Roy A (2016) Cardiovascular diseases in India current epidemiology and future directions. Circulation 133(16):1605â1620</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27142605</ArticleId>
+                    <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.114.008729</ArticleId>
+                    <ArticleId IdType="pmcid">27142605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lee SN, Lee IK, Jeon JH (2020) Vascular calcificationânew insights into its mechanism. Int J Mol Sci 2020(21):2685</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.3390/ijms21082685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zhu D, Mackenzie CWN, Farquharson C et al (2012) Mechanisms and clinical consequences of vascular calcification. Front Endocrinol 95(3):1â12</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Back M, Gasser CT, Michel JB et al (2013) Biomechanical factors in the biology of aortic wall and aortic valve diseases. Cardiovasc Res 99:232â241</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23459103</ArticleId>
+                    <ArticleId IdType="pmcid">3695745</ArticleId>
+                    <ArticleId IdType="doi">10.1093/cvr/cvt040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Demer LL, Tintut Y (2001) Vascular calcification: pathobiology of a multifaceted disease. Circulation 104(16):1881â1883</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11602487</ArticleId>
+                    <ArticleId IdType="doi">10.1161/circ.104.16.1881</ArticleId>
+                    <ArticleId IdType="pmcid">11602487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Doherty TM, Asotra K, Fitzpatrick LA et al (2003) Calcification in atherosclerosis: bone biology and chronic inflammation at the arterial crossroads. Proc Natl Acad Sci U S A 100:11201â11206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14500910</ArticleId>
+                    <ArticleId IdType="pmcid">208734</ArticleId>
+                    <ArticleId IdType="doi">10.1073/pnas.1932554100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Roijers RB, Debernardi N, Cleutjens JP et al (2011) Microcalcifications in early intimal lesions of atherosclerotic human coronary arteries. Am J Pathol 178:2879â2887</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21531376</ArticleId>
+                    <ArticleId IdType="pmcid">3124018</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.ajpath.2011.02.004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Abedin M, Tintut Y, Demer LL (2004) Vascular calcification mechanisms and clinical ramifications. Arterioscler Thromb Vasc Biol 24:1161â1170</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15155384</ArticleId>
+                    <ArticleId IdType="doi">10.1161/01.ATV.0000133194.94939.42</ArticleId>
+                    <ArticleId IdType="pmcid">15155384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Levingstone TJ, Herbaj S, Dunne NJ (2019) Calcium phosphate nanoparticles for therapeutic applications in bone regeneration. Nanomaterials (Basel) 9(11):1570</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.3390/nano9111570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Allison MA, Criqui MH, Wright CM (2004) Patterns and risk factors for systemic calcified atherosclerosis. Arterioscler Thromb Vasc Biol 24:331â336</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14656730</ArticleId>
+                    <ArticleId IdType="doi">10.1161/01.ATV.0000110786.02097.0c</ArticleId>
+                    <ArticleId IdType="pmcid">14656730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lanzer P, Boehm M, Sorribas V et al (2014) Medial vascular calcification revisited: review and perspectives. Eur Heart J 2014(35):1515â1525</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1093/eurheartj/ehu163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Giachelli CM (2004) Mechanisms of vascular calcification in uremia. Semin Nephrol 24:401â402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15490398</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.semnephrol.2004.06.005</ArticleId>
+                    <ArticleId IdType="pmcid">15490398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Iyemere VP, Proudfoot D, Weissberg PL et al (2006) Vascular smooth muscle cell phenotypic plasticity and the regulation of vascular calcification. J Intern Med 260:192â210</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16918817</ArticleId>
+                    <ArticleId IdType="doi">10.1111/j.1365-2796.2006.01692.x</ArticleId>
+                    <ArticleId IdType="pmcid">16918817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vattikuti R, Towler DA (2004) Osteogenic regulation of vascular calcification: an early perspective. Am J Physiol Endocrinol Metab 286:E686âE696</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15102615</ArticleId>
+                    <ArticleId IdType="doi">10.1152/ajpendo.00552.2003</ArticleId>
+                    <ArticleId IdType="pmcid">15102615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Van den Bergh G, Opdebeeck B, DâHaese PC et al (2019) The vicious cycle of arterial stiffness and arterial media calcification. Trends Mol Med 25:1133â1146</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31522956</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.molmed.2019.08.006</ArticleId>
+                    <ArticleId IdType="pmcid">31522956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ren X, Li F, Wang C et al (2019) Age- and sex-related aortic valve dysfunction and aortopathy difference in patients with bicuspid aortic valve. Int Heart J 60:637â642</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31105146</ArticleId>
+                    <ArticleId IdType="doi">10.1536/ihj.18-363</ArticleId>
+                    <ArticleId IdType="pmcid">31105146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>LaHaye S, Lincoln J, Garg V (2014) Genetics of valvular heart disease. Curr Cardiol Rep 16:487</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24743897</ArticleId>
+                    <ArticleId IdType="pmcid">4531840</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s11886-014-0487-2</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zeng YI, Sun R, Li X et al (2016) Pathophysiology of valvular heart disease. Exp Ther Med 11:1184â1188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27073420</ArticleId>
+                    <ArticleId IdType="pmcid">4812598</ArticleId>
+                    <ArticleId IdType="doi">10.3892/etm.2016.3048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mohler ER, Sheridan MJ, Nichols R et al (1991) Development and progression of aortic valve stenosis: atherosclerosis risk factorsâa causal relationship? Aclinical morphologic study. Clin Cardiol 1991(14):995â999</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1002/clc.4960141210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Qunibi WY, Nolan CA, Ayus JC (2002) Cardiovascular calcification in patients with end-stage renal disease: a century-old phenomenon. Kidney Int 82:S73âS80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.62.s82.15.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>McMullen ER, Harms PW, Lowe L et al (2019) Clinicopathologic features and calcium deposition patterns in calciphylaxis: comparison with gangrene, peripheral artery disease, chronic stasis, and thrombotic vasculopathy. Am J Surg Pathol 43:1273â1281</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31192861</ArticleId>
+                    <ArticleId IdType="doi">10.1097/PAS.0000000000001302</ArticleId>
+                    <ArticleId IdType="pmcid">31192861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cucchiari D, Torregrosa JV (2018) Calciphylaxis in patients with chronic kidney disease: a disease which is still bewildering and potentially fatal. Nefrologia 38:579â586</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30415999</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.nefro.2018.05.007</ArticleId>
+                    <ArticleId IdType="pmcid">30415999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mazhar AR, Johnson RJ, Gillen D et al (2001) Risk factors and mortality associated with calciphylaxis in end-stage renal disease. Kidney Int 60:324â332</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11422768</ArticleId>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.2001.00803.x</ArticleId>
+                    <ArticleId IdType="pmcid">11422768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Velasco N, MacGregor MS, Innes A et al (2006) Successful treatment of calciphylaxis with cinacalcet-an alternative to parathyroidectomy? Nephrol Dial Transplant 21:1999â2004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16603572</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfl114</ArticleId>
+                    <ArticleId IdType="pmcid">16603572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bleyer AJ, Choi M, Igwemezie B et al (1998) A case control study of proximal calciphylaxis. Am J Kidney Dis 32:376â383</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9740152</ArticleId>
+                    <ArticleId IdType="doi">10.1053/ajkd.1998.v32.pm9740152</ArticleId>
+                    <ArticleId IdType="pmcid">9740152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Krishna J, Singh R, Zeller T et al (2014) Peripheral arterial calcification: prevalence, mechanism, detection, and clinical implications. Cardiovasc Interv 83(6):E212âE220</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chavkin N, Chia J, Crouthamel M et al (2015) Phosphate uptake-independent signaling functions of the type III sodium-dependent phosphate transporter, PiT-1, in vascular smooth muscle cells. Exp Cell Res 333:39â48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25684711</ArticleId>
+                    <ArticleId IdType="pmcid">4387109</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.yexcr.2015.02.002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Melaku L, Mossie A (2017) Molecular mediators and controlling mechanism of vascular calcification. Clin Exp Physiol 4(1):3â14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.4103/ijcep.ijcep_3_17</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sage A, Tintut Y, Demer LL (2010) Regulatory mechanisms in vascular calcification. Nat Rev Cardiol 7:528â536</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20664518</ArticleId>
+                    <ArticleId IdType="pmcid">3014092</ArticleId>
+                    <ArticleId IdType="doi">10.1038/nrcardio.2010.115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yoshida T, Yamashita M, Hayashi M (2012) KrÃ¼ppel-like factor 4 contributes to high phosphate-induced phenotypic switching of vascular smooth muscle cells into osteogenic cells. J Biol Chem 287:25706â25714</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22679022</ArticleId>
+                    <ArticleId IdType="pmcid">3406659</ArticleId>
+                    <ArticleId IdType="doi">10.1074/jbc.M112.361360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>London MG (2013) Mechanisms of arterial calcifications and consequences for cardiovascular function. Kidney Int Suppl 3(5):442â445</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1038/kisup.2013.92</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lin M, Chen T, Leaf EM (2015) Runx2 expression in smooth muscle cells is required for arterial medial calcification in mice. Am J Pathol 185(7):1958â1969</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25987250</ArticleId>
+                    <ArticleId IdType="pmcid">4484217</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.ajpath.2015.03.020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vogt I, Haffner D, Nestler ML (2019) FGF23 and phosphateâcardiovascular toxins in CKD. Toxins (Basel) 11(11):647</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.3390/toxins11110647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Roy M, Nishimoto S (2002) Matrix Gla protein binding to hydroxyapatite is dependent on the ionic environment: calcium enhances binding affinity but phosphate and magnesium decrease affinity. Bone 31:296â302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12151082</ArticleId>
+                    <ArticleId IdType="doi">10.1016/S8756-3282(02)00821-9</ArticleId>
+                    <ArticleId IdType="pmcid">12151082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Jaminon AMG, Dai L, Qureshi AR et al (2020) Matrix Gla protein is an independent predictor of both intimal and medial vascular calcification in chronic kidney disease. Sci Rep 10:6586</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32313061</ArticleId>
+                    <ArticleId IdType="pmcid">7171129</ArticleId>
+                    <ArticleId IdType="doi">10.1038/s41598-020-63013-8</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scatena M, Liaw L, Giachelli CM (2007) Osteopontin: a multifunctional molecule regulating chronic inflammation and vascular disease. Arterioscler Thromb Vasc Biol 27:23029</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/ATVBAHA.107.144824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lok Y, Lyle N (2019) Osteopontin in vascular disease friend or foe? Arterioscler Thromb Vasc Biol 39:613â622</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30727754</ArticleId>
+                    <ArticleId IdType="doi">10.1161/ATVBAHA.118.311577</ArticleId>
+                    <ArticleId IdType="pmcid">30727754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kiefer W, Zeyda M, Gollinger K et al (2010) Neutralization of osteopontin inhibits obesity induced inflammation and insulin resistance. Diabetes 59:93546</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.2337/db09-0404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osdoby PC (2004) Regulation of vascular calcification by osteoclast regulatory factors RANKL and osteoprotegerin. Circ Res 95:104657</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lacey D, Timms E, Tan H et al (1998) Osteoprotegerin ligand is a cytokine that regulates osteoclast differentiation and activation. Cell 93:16576</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1016/S0092-8674(00)81569-X</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zoch M, Clemens T, Riddle R (2016) New insights into the biology of osteocalcin. Bone 82:42â49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26055108</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.bone.2015.05.046</ArticleId>
+                    <ArticleId IdType="pmcid">26055108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shioi A, Katagi M, Okuno Y et al (2002) Induction of bone type alkaline phosphatase in human vascular smooth muscle cells: roles of tumor necrosis factor alpha and oncostatin M derived from macrophages. Circ Res 91:916</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/01.RES.0000026421.61398.F2</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yao Y, Bennett BJ, Wang X et al (2010) Inhibition of bone morphogenetic proteins protects against atherosclerosis and vascular calcification. Circ Res 107:48594</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/CIRCRESAHA.110.219071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wang S, Chen Q, Simon TC et al (2003) Bone morphogenetic protein-7 (BMP-7), a novel therapy for diabetic nephropathy. Kidney Int 63:2037â2049</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12753291</ArticleId>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.2003.00035.x</ArticleId>
+                    <ArticleId IdType="pmcid">12753291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dorai H, Vukicevic S, Sampath TK (2000) Bone morphogenetic protein-7 (osteogenic protein-1) inhibits smooth muscle cell proliferation and stimulates the expression of markers that are characteristic of SMC phenotype in vitro. J Cell Physiol 184:37â45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10825232</ArticleId>
+                    <ArticleId IdType="doi">10.1002/(SICI)1097-4652(200007)184:1&lt;37::AID-JCP4&gt;3.0.CO;2-M</ArticleId>
+                    <ArticleId IdType="pmcid">10825232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Balemans W, Ebeling M, Patel N et al (2001) Increased bone density in sclerosteosis is due to the deficiency of a novel secreted protein (SOST). Hum Mol Genet 10:53743</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1093/hmg/10.5.537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Demetriou M, Binkert C, Sukhu B et al (1996) Fetuin/alpha2-HS glycoprotein is transforming growth factor-beta type II receptor mimic and cytokine antagonist. J Biol Chem 271:12755â12761</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8662721</ArticleId>
+                    <ArticleId IdType="doi">10.1074/jbc.271.22.12755</ArticleId>
+                    <ArticleId IdType="pmcid">8662721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>HernÃ¡ndez N, Duque G, Braun R et al (2017) Vascular calcification: current genetics underlying this complex phenomenon. Chin Med J 130(9):1113â1121</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.4103/0366-6999.204931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rutsch F, Nitschke Y, Terkeltaub R (2012) Genetics in arterial calcification pieces of a puzzle and cogs in a wheel. Circ Res 109:57892</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bowman M, McNally E (2012) Genetic pathways of vascular calcification. Trends Cardiovasc Med 22:938</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nitschke Y, Baujat G, Botschen U et al (2012) Generalized arterial calcification of infancy and pseudoxanthoma elasticum can be caused by mutations in either ENPP1 or ABCC6. Am J Hum Genet 90:25â39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22209248</ArticleId>
+                    <ArticleId IdType="pmcid">3257960</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.ajhg.2011.11.020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>St Hilaire C, Ziegler SG, Markello T et al (2011) NT5E mutations and arterial calcifications. N Engl J Med 364:432â442</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21288095</ArticleId>
+                    <ArticleId IdType="pmcid">3049958</ArticleId>
+                    <ArticleId IdType="doi">10.1056/NEJMoa0912923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>OâDonnell C, Kavousi M, Smith AV et al (2011) Genome-wide association study for coronary artery calcification with follow-up in myocardial infarction. Circulation 124:2855â2864</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22144573</ArticleId>
+                    <ArticleId IdType="pmcid">3397173</ArticleId>
+                    <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.110.974899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lange L, Lange E, Bielak L et al (2002) Autosomal genome-wide scan for coronary artery calcification loci in sibships at high risk for hypertension. Arterioscler Thromb Vasc Biol 22:418â423</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11884284</ArticleId>
+                    <ArticleId IdType="doi">10.1161/hq0302.105721</ArticleId>
+                    <ArticleId IdType="pmcid">11884284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thanassoulis G, Campbell CY, Owens D et al (2013) Genetic associations with valvular calcification and aortic stenosis. N Engl J Med 368:503â512</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23388002</ArticleId>
+                    <ArticleId IdType="pmcid">3766627</ArticleId>
+                    <ArticleId IdType="doi">10.1056/NEJMoa1109034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ThÃ©riault S, Dina C, Zeitoun DM et al (2019) Genetic association analyses highlight IL6, ALPL, and NAV1 as 3 new susceptibility genes underlying calcific aortic valve stenosis. Circ Genom Precis Med 12:431â441</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/CIRCGEN.119.002617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chan S (2017) Phosphate binders in patients with chronic kidney disease. Aust Prescr 40(1):10â14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28246429</ArticleId>
+                    <ArticleId IdType="pmcid">5313253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schantl A, Ivarsson M, Leroux J (2018) Investigational pharmacological treatments for vascular calcification. Adv Therap:1â16</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Torres PA, De Broe M (2012) Calcium-sensing receptor, calcimimetics, and cardiovascular calcifications in chronic kidney disease. Kidney Int 82(1):19â25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22437409</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2012.69</ArticleId>
+                    <ArticleId IdType="pmcid">22437409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>de Francisco ALM, PiÃ±era C, Palomar R et al (2006) Impact of treatment with calcimimetics on hyperparathyroidism and vascular mineralization. JASN 17(12:3):S281âS285</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17130275</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2006080927</ArticleId>
+                    <ArticleId IdType="pmcid">17130275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lim K, Hamano T, Thadhani R (2018) Vitamin D and calcimimetics in cardiovascular disease. Semin Nephrol 38(3):251â266</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29753401</ArticleId>
+                    <ArticleId IdType="pmcid">5955705</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.semnephrol.2018.02.005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mozos I, Marginean O (2015) Links between vitamin D deficiency and cardiovascular diseases. Biomed Res Int:1â12</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Li Q, Sundberg JP, Levine MA et al (2015) The effects of bisphosphonates on ectopic soft tissue mineralization caused by mutations in the ABCC6 gene. Cell Cycle 14(7):1082â1089</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25607347</ArticleId>
+                    <ArticleId IdType="pmcid">4615006</ArticleId>
+                    <ArticleId IdType="doi">10.1080/15384101.2015.1007809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shea MK, Booth SL (2019) Vitamin K, vascular calcification, and chronic kidney disease: current evidence and unanswered questions. Curr Dev Nutr 3(9):nzz077</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31598579</ArticleId>
+                    <ArticleId IdType="pmcid">6775440</ArticleId>
+                    <ArticleId IdType="doi">10.1093/cdn/nzz077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shea MK, Holden MR (2012) Vitamin K status and vascular calcification: evidence from observational and clinical studies. Adv Nutr 3(2):158â165</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22516723</ArticleId>
+                    <ArticleId IdType="pmcid">3648716</ArticleId>
+                    <ArticleId IdType="doi">10.3945/an.111.001644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adema AY, de Jong MA, de Brost MH et al (2016) Phosphate binding therapy to lower serum fibroblast-growth-Factor-23 concentrations in chronic kidney disease: rationale and study design of the Sevelamer on FGF23 Trial (SoFT). Nephron 134(4):215â220</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27442253</ArticleId>
+                    <ArticleId IdType="pmcid">5296888</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000448184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ghorbanihaghjo A, Argani H, Golmohamadi Z (2018) Linkage of fibroblast growth factor 23 and phosphate in serum: phosphate and fibroblast growth factor 23 reduction by increasing dose of sevelamer. J Bone Metab 25(3):153â159</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30237994</ArticleId>
+                    <ArticleId IdType="pmcid">6135647</ArticleId>
+                    <ArticleId IdType="doi">10.11005/jbm.2018.25.3.153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chertow GM, Burke SK, Raggi P (2002) Treat to Goal Working Group. Sevelamer attenuates the progression of coronary and aortic calcification in hemodialysis patients. Kidney Int 62(1):245â252</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12081584</ArticleId>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.2002.00434.x</ArticleId>
+                    <ArticleId IdType="pmcid">12081584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mathew S, Lund RJ, Chaudhary LR et al (2008) Vitamin D receptor activators can protect against vascular calcification. J Am Soc Nephrol 19(8):1509â1519</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18448587</ArticleId>
+                    <ArticleId IdType="pmcid">2488263</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2007080902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cheng S, Coyne D (2006) Oral paricalcitol for the treatment of secondary hyperparathyroidism in chronic kidney disease. Ther Clin Risk Manag 2(3):297â301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18360604</ArticleId>
+                    <ArticleId IdType="pmcid">1936265</ArticleId>
+                    <ArticleId IdType="doi">10.2147/tcrm.2006.2.3.297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bellasi A, Reiner M, PÃ©tavy F et al (2013) Presence of valvular calcification predicts the response to cinacalcet: data from the ADVANCE study. J Heart Valve Dis 22(3):391â399</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24151766</ArticleId>
+                    <ArticleId IdType="pmcid">24151766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anis KH, Pober D, Rosas SE (2020) Vitamin D analogues and coronary calcification in CKD stages 3 and 4: a randomized controlled trial of calcitriol versus paricalcitol. Kidney Med 2(4):450â458</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32775985</ArticleId>
+                    <ArticleId IdType="pmcid">7406841</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.xkme.2020.05.009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lomashvili AK, Monier-Faugere MC, Wang X et al (2009) Effect of bisphosphonates on vascular calcification and bone metabolism in experimental renal failure. Kidney Int 75(6):617â625</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19129793</ArticleId>
+                    <ArticleId IdType="pmcid">2999577</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2008.646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Otero JE, Gottesman GS, McAlister WH et al (2013) Severe skeletal toxicity from protracted etidronate therapy for generalized arterial calcification of infancy. J Bone Miner Res 28(2):419â430</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22972716</ArticleId>
+                    <ArticleId IdType="doi">10.1002/jbmr.1752</ArticleId>
+                    <ArticleId IdType="pmcid">22972716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Giger EV, Castagner B, Leroux JC (2013) Biomedical applications of bisphosphonates. J Control Release 167(2):175â188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23395668</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.jconrel.2013.01.032</ArticleId>
+                    <ArticleId IdType="pmcid">23395668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Li Q, Kingman J, Sundberg JP et al (2018) Etidronate prevents, but does not reverse, ectopic mineralization in a mouse model of pseudoxanthoma elasticum (Abcc6<sup>â/â</sup>). Oncotarget 9(56):30721â30730</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30112102</ArticleId>
+                    <ArticleId IdType="pmcid">6089405</ArticleId>
+                    <ArticleId IdType="doi">10.18632/oncotarget.10738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oikonomaki T, Papasotiriou M, Ntrinias T et al (2019) The effect of vitamin K2 supplementation on vascular calcification in haemodialysis patients: a 1-year follow-up randomized trial. Int Urol Nephrol 51(11):2037â2044</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31529295</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s11255-019-02275-2</ArticleId>
+                    <ArticleId IdType="pmcid">31529295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>De Vriese AS, CaluwÃ© R, Pyfferoen L et al (2020) Multicenter randomized controlled trial of vitamin K antagonist replacement by rivaroxaban with or without vitamin K2 in hemodialysis patients with atrial fibrillation: the Valkyrie study. J Am Soc Nephrol 31(1):186â196</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31704740</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2019060579</ArticleId>
+                    <ArticleId IdType="pmcid">31704740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tantisattamo E, Han KH, Neill WCO (2014) Increased vascular calcification in patients receiving warfarin. Arterioscler Thromb Vasc Biol 34:1â6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/01.atv.0000441188.68640.6c</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fusaro MD, Alessandro C, Noale M et al (2017) Low vitamin K1 intake in haemodialysis patients. Clin Nutr 36(2):601â607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27234935</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.clnu.2016.04.024</ArticleId>
+                    <ArticleId IdType="pmcid">27234935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brandenburg VM, Reinartz S, Kaesler N et al (2017) Slower progress of aortic valve calcification with vitamin K supplementation: results from a prospective interventional proof-of-concept study. Circulation 135(21):2081â2083</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28533322</ArticleId>
+                    <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.116.027011</ArticleId>
+                    <ArticleId IdType="pmcid">28533322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Haroon SW, Tai BC, Ling LH et al (2020) Treatment to reduce vascular calcification in hemodialysis patients using vitamin K (Trevasc-HDK): a study protocol for a randomized controlled trial. Medicine (Baltimore) 99(36)</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schlieper G, Brandenburget V, Ketteler M et al (2009) Sodium thiosulfate in the treatment of calcific uremic arteriolopathy. Nat Rev Nephrol 5:539â543</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19701230</ArticleId>
+                    <ArticleId IdType="doi">10.1038/nrneph.2009.99</ArticleId>
+                    <ArticleId IdType="pmcid">19701230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pasch A, Schaffner T, Huynh-Do U et al (2008) Sodium thiosulfate prevents vascular calcifications in uremic rats. Kidney Int 74:1444â1453</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18818688</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2008.455</ArticleId>
+                    <ArticleId IdType="pmcid">18818688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Generali JA, Cada DJ (2015) Sodium thiosulfate: calciphylaxis. Hosp Pharm 50(11):975â977</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27621504</ArticleId>
+                    <ArticleId IdType="pmcid">4750847</ArticleId>
+                    <ArticleId IdType="doi">10.1310/hpj5011-975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Henley C, Davis J, Miller G et al (2009) The calcimimetic AMG 641 abrogates parathyroid hyperplasia, bone and vascular calcification abnormalities in uremic rats. Eur J Pharmacol 616(1â3):306â313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19470383</ArticleId>
+                    <ArticleId IdType="pmcid">6854701</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.ejphar.2009.05.013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zu Y, Lu X, Song J et al (2019) Cinacalcet treatment significantly improves all-cause and cardiovascular survival in dialysis patients: results from a meta-analysis. Kidney Blood Press Res 44:1327â1338</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31747666</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000504139</ArticleId>
+                    <ArticleId IdType="pmcid">31747666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ferrer MD, Ketteler M, Tur F et al (2018) Characterization of SNF472 pharmacokinetics and efficacy in uremic and non-uremic rats models of cardiovascular calcification. PLoS One 13:1â19</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Irvine RF, Schell MJ (2001) Back in the water: the return of the inositol phosphates. Nat Rev Mol Cell Biol 2:327â338</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11331907</ArticleId>
+                    <ArticleId IdType="doi">10.1038/35073015</ArticleId>
+                    <ArticleId IdType="pmcid">11331907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Grases F, Sanchis P, Perello J et al (2006) Phytate (myo-inositol hexakisphosphate) inhibits cardiovascular calcifications in rats. Front Biosci 11:136â142</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16146720</ArticleId>
+                    <ArticleId IdType="doi">10.2741/1786</ArticleId>
+                    <ArticleId IdType="pmcid">16146720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hedayati SS (2020) A novel treatment for vascular calcification in patients with dialysis-dependent chronic kidney disease. Circulation 141(9):740â742</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32119585</ArticleId>
+                    <ArticleId IdType="doi">10.1161/CIRCULATIONAHA.119.044801</ArticleId>
+                    <ArticleId IdType="pmcid">32119585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schantl AE, Verhulst A, Neven E et al (2020) Inhibition of vascular calcification by inositol phosphates derivatized with ethylene glycol oligomers. Nat Commun 11:721</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32024848</ArticleId>
+                    <ArticleId IdType="pmcid">7002685</ArticleId>
+                    <ArticleId IdType="doi">10.1038/s41467-019-14091-4</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dougall W, Chaisson M (2006) Monoclonal antibody targeting RANKL as a therapy for cancer-induced bone diseases. Clin Calcium 16(4):627â635</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16582514</ArticleId>
+                    <ArticleId IdType="pmcid">16582514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Helas S, Goettsch C, Schoppet M et al (2009) Inhibition of receptor activator of NF-ÎºB ligand by denosumab attenuates vascular calcium deposition in mice. Am J Pathol 175(2):473â478</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19590040</ArticleId>
+                    <ArticleId IdType="pmcid">2716948</ArticleId>
+                    <ArticleId IdType="doi">10.2353/ajpath.2009.080957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Savinov AY, Salehi M, Yadav MC et al (2015) Transgenic overexpression of tissue-nonspecific alkaline phosphatase (TNAP) in vascular endothelium results in generalized arterial calcification. J Am Heart Assoc 4:1â13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1161/JAHA.115.002499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

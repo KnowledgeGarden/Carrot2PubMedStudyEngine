@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29843900</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1989-2284</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>38</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Sep - Oct</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia</Title>
+                <ISOAbbreviation>Nefrologia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum 25-hydroxyvitamin D level is negatively associated with serum phosphorus level among stage 3a-5 chronic kidney disease patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>514-519</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0211-6995(18)30066-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.nefro.2018.02.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Serum 25-hydroxyvitamin D (25(OH)D) negatively correlates with serum phosphorus level of stage 3a-5 chronic kidney disease (CKD) patients. So far, no explanation has been provided for this negative association.</AbstractText>
+                <AbstractText Label="OBJECTIVE">To confirm this negative association and determine if this relationship is mediated through other known co-morbid factors.</AbstractText>
+                <AbstractText Label="CASES AND METHODS">One hundred (57 male and 43 female) pre-dialysis stage 3a-5 CKD patients were selected. Estimated glomerular filtration rate (eGFR), serum calcium (Ca), phosphorus (P), 25(OH)D, parathyroid hormone (PTH), and intact fibroblast growth factor-23 (FGF23) were assessed. A correlation analysis between serum 25(OH)D and the different parameters studied was performed. Multivariate linear regression analysis was carried out to determine predictors of 25(OH)D.</AbstractText>
+                <AbstractText Label="RESULTS">The negative association between serum 25(OH)D and serum P was confirmed in univariate and multivariate correlation analysis. On the other hand, we failed to detect a significant association between 25(OH)D and serum FGF23. Serum P is the most important independent predictor of 25(OH)D in these patients (partial R<sup>2</sup>=0.15, p&lt;0.0001).</AbstractText>
+                <AbstractText Label="CONCLUSION">Serum P is likely to have a direct negative impact on serum 25(OH)D. Further studies are needed to determine the underlying mechanism.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 Sociedad EspaÃ±ola de NefrologÃ­a. Published by Elsevier EspaÃ±a, S.L.U. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fayed</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Nokeety</LastName>
+                    <ForeName>Mahmoud M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heikal</LastName>
+                    <ForeName>Ahmed A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marzouk</LastName>
+                    <ForeName>Khaled</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammad</LastName>
+                    <ForeName>Hany</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdulazim</LastName>
+                    <ForeName>Dina O</ForeName>
+                    <Initials>DO</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Rheumatology and Rehabilitation Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salem</LastName>
+                    <ForeName>Mona M</ForeName>
+                    <Initials>MM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrinology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharaf El Din</LastName>
+                    <ForeName>Usama A</ForeName>
+                    <Initials>UA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology unit, Internal Medicine Department, School of Medicine, Cairo University, Egypt. Electronic address: usamaaas@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Vascular Calcification Group (VCG)</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Nefrologia</MedlineTA>
+            <NlmUniqueID>8301215</NlmUniqueID>
+            <ISSNLinking>0211-6995</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000078331" MajorTopicYN="N">Correlation of Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">25-Hidroxivitamina D</Keyword>
+            <Keyword MajorTopicYN="Y">25-Hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">CKD-MBD</Keyword>
+            <Keyword MajorTopicYN="Y">ERC-TMO</Keyword>
+            <Keyword MajorTopicYN="Y">FGF23</Keyword>
+            <Keyword MajorTopicYN="Y">FÃ³sforo</Keyword>
+            <Keyword MajorTopicYN="Y">Hormona paratiroidea</Keyword>
+            <Keyword MajorTopicYN="Y">Parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphorus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29843900</ArticleId>
+            <ArticleId IdType="pii">S0211-6995(18)30066-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.nefro.2018.02.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

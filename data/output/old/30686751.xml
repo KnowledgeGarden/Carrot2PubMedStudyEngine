@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30686751</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-8503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation</Title>
+                <ISOAbbreviation>J Ren Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cholecalciferol Supplementation Did Not Change Interleukin-7 and B cell-Activating Factor Levels and CD95 Expression in B lymphocytes in Patients on Dialysis: AÂ Randomized Pilot-Controlled Trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>454-461</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1051-2276(18)30274-7</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.jrn.2018.11.006</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">End-stage renal disease results in B cell lymphopenia and low levels of vitamin D. Since the link between vitamin D deficiency and B lymphocytes dysfunction are not clear in patients with end-stage renal disease, we suggest that vitamin D adequacy and factors related to the homeostasis of these cells should be investigated. B lymphocytes homeostasis is a process mainly regulated signals of grown and death as interleukin (IL)-7, B cell-activating factor (BAFF)/BAFF-receptor and CD95 expression.</AbstractText>
+                <AbstractText Label="OBJECTIVE">As vitamin D serum levels were reduced in patients with end stage renal disease and it is associated with human B homeostasis, we evaluated the effect of cholecalciferol supplementation on dialysis.</AbstractText>
+                <AbstractText Label="DESIGN">Randomized, double blind clinical trial in dialysis patients with 25OH Vitamin D deficiency for a period of 12 weeks.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURE">In a pilot study, we investigated the effect of cholecalciferol supplementation (100,000 UI once per week or placebo. In vitro, peripheral blood mononuclear cells isolated by Ficoll-Hypaque centrifugation from 12 healthy volunteers were incubated with healthy or uremic serum in the presence or absence of 25 (OH)DC with 5% CO.</AbstractText>
+                <AbstractText Label="RESULTS">There was an increase in the serum 25(OH)D level in the cholecalciferol group. No differences were found in BAFF and IL7 levels and CD95 and BAFF-R expression in B lymphocytes from patients on dialysis after cholecalciferol supplementation. Uremic serum induced an increase in the IL-7, BAFF, BAFF-R and CD95 expression compared with the control. However, we observed no effect of incubation of 25(OH)D3 and 1,25(OH)2D3 on the expression of IL-7, BAFF, BAFF-R and CD95 when incubated in the presence of normal or uremic serum.</AbstractText>
+                <AbstractText Label="CONCLUSION">Our results suggest that vitamin D is not involved in mechanisms of regulation of differentiation and survival in BÂ lymphocytes. In conclusion, further studies are needed to explore the effects of vitamin D on B lymphocytes to better evaluate the possible impact of vitamin D on humoral response in the CKD population.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>de Carvalho</LastName>
+                    <ForeName>JosÃ© Tarcisio Giffoni</ForeName>
+                    <Initials>JTG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil. Electronic address: tarcisiogiffoni@outlook.com.br.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Marion</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cuppari</LastName>
+                    <ForeName>Lilian</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grabulosa</LastName>
+                    <ForeName>Caren Cristina</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cendoroglo</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil; Hospital Israelita Albert Einstein, SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dalboni</LastName>
+                    <ForeName>Maria Aparecida</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology- Universidade Federal SÃ£o Paulo, UNIFESP, SÃ£o Paulo, SÃ£o Paulo, Brazil; Post-graduate Program in Medicine, Universidade Nove de Julho/UNINOVE, SÃ£o Paulo, SÃ£o Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Ren Nutr</MedlineTA>
+            <NlmUniqueID>9112938</NlmUniqueID>
+            <ISSNLinking>1051-2276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053264">B-Cell Activating Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015851">Interleukin-7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019014">fas Receptor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053264" MajorTopicYN="N">B-Cell Activating Factor</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015851" MajorTopicYN="N">Interleukin-7</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008231" MajorTopicYN="N">Lymphopenia</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="N">Uremia</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019014" MajorTopicYN="N">fas Receptor</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30686751</ArticleId>
+            <ArticleId IdType="pii">S1051-2276(18)30274-7</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.jrn.2018.11.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

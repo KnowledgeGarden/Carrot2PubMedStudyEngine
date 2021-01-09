@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31405665</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-0334</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jul - Aug</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Diabetes &amp; metabolic syndrome</Title>
+                <ISOAbbreviation>Diabetes Metab Syndr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Challenges in management of diabetic ketoacidosis in hemodialysis patients, case presentation and review of literature.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2481-2487</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1871-4021(19)30336-4</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.dsx.2019.06.022</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease is associated with accumulation of uremic toxins that increases insulin resistance which will lead to blunted ability to suppress hepatic gluconeogenesis and reduce peripheral utilization of insulin. CKD patients fail to increase insulin secretion in response to insulin resistance because of acidosis, 1,25 vitamin D deficiency, and secondary hyperparathyroidism. Hemodialysis causes further fluctuations in glycemic control due to alterations in insulin secretion, clearance and resistance. DKA is uncommon in hemodialysis patients because of the absence of glycosuria and osmotic diuresis which accounts for most of the fluid and electrolyte losses seen in DKA, anuric patients may be somewhat protected from dehydration and shock, although still subject to hyperkalemia and metabolic acidosis. However, substantial volume loss can still occur due to a prolonged decrease in oral intake or increased insensible water losses related to tachypnoea and fever. There is no current guidelines for the management of diabetic ketoacidosis in anuric hemodialysis patients considering their differences than general population. In this review article we reviewed the literature and came with specific recommendations for management of Ketoacidosis in patients with CKD treated by hemodialysis.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2019 Diabetes India. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Seddik</LastName>
+                    <ForeName>Ayman Aly</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Units, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bashier</LastName>
+                    <ForeName>Alaaeldin</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates. Electronic address: aekhidir@dha.gov.ae.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alhadari</LastName>
+                    <ForeName>Amna Khalifa</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Units, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>AlAlawi</LastName>
+                    <ForeName>Fakhryia</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Units, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alnour</LastName>
+                    <ForeName>Hind Hassan</ForeName>
+                    <Initials>HH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Units, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bin Hussain</LastName>
+                    <ForeName>Azza Abdulaziz</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endocrine Department, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frankel</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imperial College Healthcare NHS Trust, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Railey</LastName>
+                    <ForeName>Mohammed Jaffer</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Units, Dubai Hospital, Dubai Health Authority, United Arab Emirates.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Diabetes Metab Syndr</MedlineTA>
+            <NlmUniqueID>101462250</NlmUniqueID>
+            <ISSNLinking>1871-4021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004573">Electrolytes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016883" MajorTopicYN="N">Diabetic Ketoacidosis</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004573" MajorTopicYN="N">Electrolytes</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007333" MajorTopicYN="N">Insulin Resistance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014883" MajorTopicYN="N">Water-Electrolyte Imbalance</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Diabetes mellitus</Keyword>
+            <Keyword MajorTopicYN="N">Diabetic ketoacidosis</Keyword>
+            <Keyword MajorTopicYN="N">ESRD</Keyword>
+            <Keyword MajorTopicYN="N">Hemodialysis</Keyword>
+            <Keyword MajorTopicYN="N">Hyperkalaemia</Keyword>
+            <Keyword MajorTopicYN="N">Hyperphosphatemia</Keyword>
+            <Keyword MajorTopicYN="N">Hypomagnesemia</Keyword>
+            <Keyword MajorTopicYN="N">Insulin therapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31405665</ArticleId>
+            <ArticleId IdType="pii">S1871-4021(19)30336-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dsx.2019.06.022</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

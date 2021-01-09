@@ -1,0 +1,231 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31412740</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4636</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>10</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arteriosclerosis, thrombosis, and vascular biology</Title>
+                <ISOAbbreviation>Arterioscler Thromb Vasc Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Atherosclerosis in Chronic Kidney Disease: More, Less, or Just Different?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1938-1966</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1161/ATVBAHA.119.312705</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with chronic kidney disease (CKD) are at an increased risk of premature mortality, mainly from cardiovascular causes. The association between CKD on hemodialysis and accelerated atherosclerosis was described &gt;40 years ago. However, more recently, it has been suggested that the increase in atherosclerosis risk is actually observed in early CKD stages, remaining stable thereafter. In this regard, interventions targeting the pathogenesis of atherosclerosis, such as statins, successful in the general population, have failed to benefit patients with very advanced CKD. This raises the issue of the relative contribution of atherosclerosis versus other forms of cardiovascular injury such as arteriosclerosis or myocardial injury to the increased cardiovascular risk in CKD. In this review, the pathophysiogical contributors to atherosclerosis in CKD that are shared with the general population, or specific to CKD, are discussed. The NEFRONA study (Observatorio Nacional de Atherosclerosis en NEFrologia) prospectively assessed the prevalence and progression of subclinical atherosclerosis (plaque in vascular ultrasound), confirming an increased prevalence of atherosclerosis in patients with moderate CKD. However, the adjusted odds ratio for subclinical atherosclerosis increased with CKD stage, suggesting a contribution of CKD itself to subclinical atherosclerosis. Progression of atherosclerosis was closely related to CKD progression as well as to the baseline presence of atheroma plaque, and to higher phosphate, uric acid, and ferritin and lower 25(OH) vitamin D levels. These insights may help design future clinical trials of stratified personalized medicine targeting atherosclerosis in patients with CKD. Future primary prevention trials should enroll patients with evidence of subclinical atherosclerosis and should provide a comprehensive control of all known risk factors in addition to testing any additional intervention or placebo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Valdivielso</LastName>
+                    <ForeName>JosÃ© M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Vascular &amp; Renal Translational Research Group and UDETMA, IRBLleida. Spanish Research Network for Renal Diseases (RedInRen. ISCIII), Lleida, Spain (J.M.V., M.B.-L.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RodrÃ­guez-Puyol</LastName>
+                    <ForeName>Diego</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Unit, FundaciÃ³n para la investigaciÃ³n del Hospital Universitario PrÃ­ncipe de Asturias, RedInRen, AlcalÃ¡ de Henares, Madrid, Spain (D.R.-P.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pascual</LastName>
+                    <ForeName>Julio</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Institute Mar for Medical Research, Hospital del Mar, RedInRen, Barcelona, Spain (J.P., C.B.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrios</LastName>
+                    <ForeName>Clara</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Institute Mar for Medical Research, Hospital del Mar, RedInRen, Barcelona, Spain (J.P., C.B.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>BermÃºdez-LÃ³pez</LastName>
+                    <ForeName>Marcelino</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Vascular &amp; Renal Translational Research Group and UDETMA, IRBLleida. Spanish Research Network for Renal Diseases (RedInRen. ISCIII), Lleida, Spain (J.M.V., M.B.-L.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>SÃ¡nchez-NiÃ±o</LastName>
+                    <ForeName>Maria Dolores</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz, School of Medicine, University Autonoma of Madrid, FRIAT and RedInRen, Madrid, Spain (M.D.S.-N., A.O.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PÃ©rez-FernÃ¡ndez</LastName>
+                    <ForeName>MarÃ­a</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>IIS-Fundacion Jimenez Diaz, School of Medicine, University Autonoma of Madrid, FRIAT and RedInRen, Madrid, Spain (M.D.S.-N., A.O.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arterioscler Thromb Vasc Biol</MedlineTA>
+            <NlmUniqueID>9505803</NlmUniqueID>
+            <ISSNLinking>1079-5642</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017677" MajorTopicYN="N">Age Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050197" MajorTopicYN="N">Atherosclerosis</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017678" MajorTopicYN="N">Sex Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013030" MajorTopicYN="N" Type="Geographic">Spain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">atherosclerosis</Keyword>
+            <Keyword MajorTopicYN="Y">cardiovascular diseases</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">mortality</Keyword>
+            <Keyword MajorTopicYN="Y">phosphate</Keyword>
+            <Keyword MajorTopicYN="Y">prevalence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31412740</ArticleId>
+            <ArticleId IdType="doi">10.1161/ATVBAHA.119.312705</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

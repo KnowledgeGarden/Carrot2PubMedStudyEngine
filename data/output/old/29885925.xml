@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29885925</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-6838</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>72</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of kidney diseases : the official journal of the National Kidney Foundation</Title>
+                <ISOAbbreviation>Am J Kidney Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum Calcitriol Concentrations and Kidney Function Decline, Heart Failure, and Mortality in Elderly Community-Living Adults: The Health, Aging, and Body Composition Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>419-428</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0272-6386(18)30637-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.ajkd.2018.03.026</ELocationID>
+            <Abstract>
+                <AbstractText Label="RATIONALE &amp; OBJECTIVES">Lower 25-hydroxyvitamin D concentrations have been associated with risk for kidney function decline, heart failure, and mortality. However, 25-hydroxyvitamin D requires conversion to its active metabolite, calcitriol, for most biological effects. The associations of calcitriol concentrations with clinical events have not been well explored.</AbstractText>
+                <AbstractText Label="STUDY DESIGN">Case-cohort study.</AbstractText>
+                <AbstractText Label="SETTING &amp; PARTICIPANTS">Well-functioning community-living older adults aged 70 to 79 years at inception who participated in the Health, Aging, and Body Composition (Health ABC) Study.</AbstractText>
+                <AbstractText Label="PREDICTOR">Serum calcitriol measured using positive ion electrospray ionization-tandem mass spectrometry.</AbstractText>
+                <AbstractText Label="OUTCOMES">Major kidney function decline (â¥30% decline in estimated glomerular filtration rate from baseline), incident heart failure (HF), and all-cause mortality during 10 years of follow-up.</AbstractText>
+                <AbstractText Label="ANALYTIC APPROACH">Baseline calcitriol concentrations were measured in a random subcohort of 479 participants and also in cases with major kidney function decline [n=397]) and incident HF (n=207) during 10 years of follow-up. Associations of serum calcitriol concentrations with these end points were evaluated using weighted Cox regression to account for the case-cohort design, while associations with mortality were assessed in the subcohort alone using unweighted Cox regression.</AbstractText>
+                <AbstractText Label="RESULTS">During 8.6 years of mean follow-up, 212 (44%) subcohort participants died. In fully adjusted models, each 1-standard deviation lower calcitriol concentration was associated with 30% higher risk for major kidney function decline (95% CI, 1.03-1.65; P=0.03). Calcitriol was not significantly associated with incident HF (HR, 1.16; 95% CI, 0.94-1.47) or mortality (HR, 1.01; 95% CI, 0.81-1.26). We observed no significant interactions between calcitriol concentrations and chronic kidney disease status, baseline intact parathyroid or fibroblast factor 23 concentrations.</AbstractText>
+                <AbstractText Label="LIMITATIONS">Observational study design, calcitriol measurements at a single time point, selective study population of older adults only of white or black race.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Lower calcitriol concentrations are independently associated with kidney function decline in community-living older adults. Future studies will be needed to clarify whether theseÂ associations reflect lower calcitriol concentrations resulting from abnormal kidney tubule dysfunction or direct mechanisms relating lower calcitriol concentrations to more rapid loss of kidney function.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Selamet</LastName>
+                    <ForeName>Umut</ForeName>
+                    <Initials>U</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of California Los Angeles, Los Angeles, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katz</LastName>
+                    <ForeName>Ronit</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Research Institute, Division of Nephrology, Department of Medicine, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ginsberg</LastName>
+                    <ForeName>Charles</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology-Hypertension, Department of Medicine, University of California San Diego, San Diego, CA; Nephrology Section, Veterans Affairs San Diego Healthcare System, San Diego, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rifkin</LastName>
+                    <ForeName>Dena E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology-Hypertension, Department of Medicine, University of California San Diego, San Diego, CA; Nephrology Section, Veterans Affairs San Diego Healthcare System, San Diego, CA; Division of Preventive Medicine, Department of Family Medicine and Public Health, University of California San Diego, San Diego, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fried</LastName>
+                    <ForeName>Linda F</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Section, Veterans Affairs Hospital, University of Pittsburgh, Pittsburgh, PA; Division of Nephrology, Department of Medicine, University of Pittsburgh, Pittsburgh, PA; Department of Epidemiology, University of Pittsburgh, Pittsburgh, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kritchevsky</LastName>
+                    <ForeName>Stephen B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sticht Center on Aging, Wake Forest School of Medicine, Winston-Salem, NC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoofnagle</LastName>
+                    <ForeName>Andrew N</ForeName>
+                    <Initials>AN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, University of Washington, Seattle, WA; Department of Medicine, University of Washington, Seattle, WA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bibbins-Domingo</LastName>
+                    <ForeName>Kirsten</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of California San Francisco, San Francisco, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drew</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Tufts Medical Center, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harris</LastName>
+                    <ForeName>Tamara</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Epidemiology and Population Sciences, National Institute on Aging, Bethesda, MD.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Newman</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, University of Pittsburgh, Pittsburgh, PA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GutiÃ©rrez</LastName>
+                    <ForeName>Orlando M</ForeName>
+                    <Initials>OM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Alabama at Birmingham, Birmingham, AL; Department of Epidemiology, University of Alabama at Birmingham, Birmingham, AL.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarnak</LastName>
+                    <ForeName>Mark J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Tufts Medical Center, Boston, MA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shlipak</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Health Research Collaborative, San Francisco Veterans Affairs Medical Center, University of California, San Francisco, CA; Department of Epidemiology and Biostatistics, University of California San Francisco, San Francisco, CA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ix</LastName>
+                    <ForeName>Joachim H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology-Hypertension, Department of Medicine, University of California San Diego, San Diego, CA; Nephrology Section, Veterans Affairs San Diego Healthcare System, San Diego, CA; Division of Preventive Medicine, Department of Family Medicine and Public Health, University of California San Diego, San Diego, CA. Electronic address: joeix@ucsd.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K24 DK110427</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>L30 DK110882</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z01 AG007390-02</GrantID>
+                    <Acronym>ImNIH</Acronym>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z99 AG999999</GrantID>
+                    <Acronym>ImNIH</Acronym>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Kidney Dis</MedlineTA>
+            <NlmUniqueID>8110075</NlmUniqueID>
+            <ISSNLinking>0272-6386</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000375" MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001823" MajorTopicYN="N">Body Composition</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006304" MajorTopicYN="Y">Health Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006333" MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057187" MajorTopicYN="N">Independent Living</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008137" MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009026" MajorTopicYN="N">Mortality</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011897" MajorTopicYN="N">Random Allocation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">1,25-dihydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">24,25 dihydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">25-hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">Calcitriol</Keyword>
+            <Keyword MajorTopicYN="Y">Health ABC</Keyword>
+            <Keyword MajorTopicYN="Y">chronic kidney disease (CKD)</Keyword>
+            <Keyword MajorTopicYN="Y">death</Keyword>
+            <Keyword MajorTopicYN="Y">disease progression</Keyword>
+            <Keyword MajorTopicYN="Y">elderly</Keyword>
+            <Keyword MajorTopicYN="Y">heart failure (HF)</Keyword>
+            <Keyword MajorTopicYN="Y">incident HF</Keyword>
+            <Keyword MajorTopicYN="Y">kidney function decline</Keyword>
+            <Keyword MajorTopicYN="Y">vitamin D metabolite ratio (VMR)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29885925</ArticleId>
+            <ArticleId IdType="pii">S0272-6386(18)30637-1</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.ajkd.2018.03.026</ArticleId>
+            <ArticleId IdType="pmc">PMC6245577</ArticleId>
+            <ArticleId IdType="mid">NIHMS988020</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin Chem. 1972 Jun;18(6):499-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4337382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2000 Sep 1;381(1):143-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11019830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2018 Feb;107:124-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29155243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2007 Mar;103(3-5):316-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17368179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Jul 5;367(1):20-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22762315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Aug;60(2):225-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22560844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metabolism. 2009 Apr;58(4):438-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19303961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Lipidol. 2002 Jun;13(3):255-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12045394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lifetime Data Anal. 1999 Jun;5(2):99-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10408179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2008 Oct;93(10):3927-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18682515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Sep;3(5):1555-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18450926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Oct;60(4):567-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22621970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2008 Apr;12(2):126-131</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart. 2004 Apr;90(4):464-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15020532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2002 Nov;62(5):1672-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12371967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2002 Jul;110(2):229-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12122115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 Jan;75(1):88-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18843258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Heart Fail Rep. 2011 Jun;8(2):123-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21328082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2004 Feb;43(2):244-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14750089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2013 Jan 1;127(1):e6-e245</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23239837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2008 Aug;88(2):491S-499S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18689389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Jul;50(1):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17591526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Cardiol. 2010 Oct 1;106(7):963-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20854958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Mar;19(3):429-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15040831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2002 Nov 29;91(11):988-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12456484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Endocrinol Invest. 2010 Oct;33(9):612-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20208455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2009 Aug 15;347(1-2):3-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19538965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2014 Jun 25;311(24):2518-2531</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24892770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 May 19;352(20):2049-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15901858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2009 Jun;55(6):1163-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19359534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Jun;18(6):1637-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17494882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Nov 21;369(21):1991-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24256378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2003 Jan 7;107(1):87-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12515748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2011 Sep;57(9):1279-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21768219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Aug 11;168(15):1629-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Metab Cardiovasc Dis. 2010 Nov;20(9):633-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20399085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2009 Sep;57(9):1595-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19549021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Jun 23;168(12):1340-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18574092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 2015 Jun;61(6):877-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25922442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1991 May;39(5):954-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2067212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2014 Jan;99(1):178-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24170105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ethn Dis. 2009 Autumn;19(4 Suppl 5):S5-8-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20077598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

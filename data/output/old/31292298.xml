@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31292298</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2379-3708</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>07</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>JCI insight</Title>
+                <ISOAbbreviation>JCI Insight</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin D-regulated osteocytic sclerostin and BMP2 modulate uremic extraskeletal calcification.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1172/jci.insight.126467</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">126467</ELocationID>
+            <Abstract>
+                <AbstractText>We induced chronic kidney disease (CKD) with adenine in WT mice, mice with osteocyte-specific deletion of Cyp27b1, encoding the 25-hydroxyvitamin D 1(OH)ase [Oct-1(OH)ase-/-], and mice with global deletion of Cyp27b1 [global-1Î±(OH)ase-/-]; we then compared extraskeletal calcification. After adenine treatment, mice displayed increased blood urea nitrogen, decreased serum 1,25(OH)2D, and severe hyperparathyroidism. Skeletal expression of Cyp27b1 and of sclerostin and serum sclerostin all increased in WT mice but not in Oct-1Î±(OH)ase-/- mice or global-1Î±(OH)ase-/- mice. In contrast, skeletal expression of BMP2 and serum BMP2 rose in the Oct-1Î±(OH)ase-/- mice and in the global-1Î±(OH)ase-/- mice. Extraskeletal calcification occurred in muscle and blood vessels of mice with CKD and was highest in Oct-1Î±(OH)ase-/-mice. In vitro, recombinant sclerostin (100 ng/mL) significantly suppressed BMP2-induced osteoblastic transdifferentiation of vascular smooth muscle A7r5 cells and diminished BMP2-induced mineralization. Our study provides evidence that local osteocytic production of 1,25(OH)2D stimulates sclerostin and inhibits BMP2 production in murine CKD, thus mitigating osteoblastic transdifferentiation and mineralization of soft tissues. Increased osteocytic 1,25(OH)2D production, triggered by renal malfunction, may represent a &quot;primary defensive response&quot; to protect the organism from ectopic calcification by increasing sclerostin and suppressing BMP2 production.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nguyen-Yamamoto</LastName>
+                    <ForeName>Loan</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, McGill University and McGill University Health Centre, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Ken-Ichiro</ForeName>
+                    <Initials>KI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, McGill University and McGill University Health Centre, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>St-Arnaud</LastName>
+                    <ForeName>Rene</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Surgery and Human Genetics, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Centre, Shriners Hospital for Children, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goltzman</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, McGill University and McGill University Health Centre, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>PJT-152963</GrantID>
+                    <Agency>CIHR</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>JCI Insight</MedlineTA>
+            <NlmUniqueID>101676073</NlmUniqueID>
+            <ISSNLinking>2379-3708</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C525719">Bmp2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055396">Bone Morphogenetic Protein 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C486030">Sost protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.15.18</RegistryNumber>
+                <NameOfSubstance UI="D015090">25-Hydroxyvitamin D3 1-alpha-Hydroxylase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>JAC85A2161</RegistryNumber>
+                <NameOfSubstance UI="D000225">Adenine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015090" MajorTopicYN="N">25-Hydroxyvitamin D3 1-alpha-Hydroxylase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000225" MajorTopicYN="N">Adenine</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001806" MajorTopicYN="N">Blood Urea Nitrogen</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055396" MajorTopicYN="N">Bone Morphogenetic Protein 2</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001842" MajorTopicYN="N">Bone and Bones</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002114" MajorTopicYN="N">Calcinosis</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054338" MajorTopicYN="N">Cell Transdifferentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010011" MajorTopicYN="N">Osteocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014511" MajorTopicYN="N">Uremia</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Bone Biology</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Nephrology</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31292298</ArticleId>
+            <ArticleId IdType="pii">126467</ArticleId>
+            <ArticleId IdType="doi">10.1172/jci.insight.126467</ArticleId>
+            <ArticleId IdType="pmc">PMC6629247</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Matrix Biol. 2000 May;19(2):91-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10842092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Jun 19;98(13):7498-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11416220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2004 Oct 27;341:19-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15474285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2004 Nov;19(11):1749-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15476573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Jan 28;280(4):2498-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15545262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2005 Jan;132(1):49-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15576404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 May 20;280(20):19883-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15778503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2005 May;115(5):1210-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15841209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Jul 22;280(29):26770-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15908424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Jul;16(7):2205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15917335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Sep 30;280(39):33132-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16043491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2005 Oct;20(10):1867-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16160745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Birth Defects Res C Embryo Today. 2005 Sep;75(3):213-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16187316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 May;38(5):525-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16642017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2007 Jan;22(1):19-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17032150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2007 Jun;148(6):2778-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17379647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Dent Res. 2007 Apr;86(4):320-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17384025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2007 Dec;27(12):2589-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17932314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Jan 29;117(4):503-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 May 30;283(22):15319-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18378684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Aug;19(8):1509-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18448587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Jun 9;168(11):1174-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18541825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Jun 23;168(12):1340-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18574092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2008 Dec;14(12):1363-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19029982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Res. 2008 Sep;42(9):789-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19051077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2009 Sep;150(9):4024-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19477943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Osteoporos Rep. 2009 Jul;7(2):58-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19631030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Sep;4(9):1515-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19696220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2009 Oct 15;170(8):1032-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19762371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Feb;25(2):200-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19874086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2010 Oct;30(10):1908-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20651281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Jun;79(12):1370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21389978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Sep;26(9):1997-2001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21713997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Oct;58(4):519-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21783289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bras Nefrol. 2011 Jul-Sep;33(3):351-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22042353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2012 Jul;51(1):168-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22391215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2012 Aug;27(8):1757-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22492547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(4):e35316</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22536373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2012 Jul;9(7):671-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22930834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 May;8(5):819-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23430206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2013 Oct;34(5):658-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23612223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Apr 19;8(4):e61423</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23620751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2013 Oct;68(10):1209-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23689830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2014 Jan 30;370(5):412-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24382002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 May 16;9(5):e96862</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24837969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Endocrinol. 2015;2015:872193</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25873958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2015 Sep 15;413:157-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26112182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Lab Sci. 2015 Spring;45(3):256-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26116588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2016 Nov;164:369-373</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26690786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2016 Oct;31(10):1865-1876</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27074284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Jul;90(1):77-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27165819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Feb;28(2):586-597</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27535551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bonekey Rep. 2016 Jul 20;5:826</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27579164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2017 Mar;96:76-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27771382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2017 Jul 15;450:94-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28456475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2017 Oct;30(5):689-699</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28540603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Pharmacol. 2017 Dec;69(12):1802-1816</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28980322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2018 Mar 25;498(1):32-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29476741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2019 Mar 1;34(3):408-414</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29846712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Aug;94(2):315-325</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29861060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2018 Oct 31;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30382333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1965 Nov 12;150(3698):893-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5319761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Mar 6;386(6620):78-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9052783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 May 30;89(5):765-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9182764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

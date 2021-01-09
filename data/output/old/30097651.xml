@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30097651</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5640</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>73</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>06</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of clinical nutrition</Title>
+                <ISOAbbreviation>Eur J Clin Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association between vitamin D deficiency and lipid and non-lipid markers of cardiovascular diseases in the middle east region.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>850-858</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41430-018-0280-1</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Previous studies have associated vitamin D deficiency with cardiovascular disease (CVD) markers. The underlying mechanism remains elusive. Lipid and non-lipid markers of CVD and their relationship to vitamin D deficiency have not been assessed simultaneously.</AbstractText>
+                <AbstractText Label="OBJECTIVE">To measure the association between vitamin D deficiency and non-lipid markers of CVD after adjustment of lipid markers.</AbstractText>
+                <AbstractText Label="METHODS">This cross-sectional study used the following biological data, which was routinely collected in a general hospital laboratory database between 2011 and 2016: 25OH vitamin D [25(OH)D], creatinine, CKD-EPI eGFR (eGFR), fasting blood glucose (FPG), glycated hemoglobin (HbA1c), uric acid, Î³-glutamyl transferase (Î³GT), C-reactive protein (CRP), total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides, and a surrogate for CVD. Crude odds ratios (ORs) and ORs adjusted for lipid profile, gender and age using separate logistic regression models were derived.</AbstractText>
+                <AbstractText Label="RESULTS">A total of 8658 subjects were included. Half had 25(OH)Dâ&lt;â20âng/mL. 25(OH)D was associated with increased odds of CRP, eGFR, increased uric acid, Î³GT, FPG, HbA1c, male gender, CV status, and abnormal lipid markers. After adjustment for lipid markers, age, and gender, vitamin D deficiency was associated with increased odds of CRP, eGFR, Î³GT, FPG, HbA1c, and the surrogate for CVD.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">In this exploratory analysis, the first of its kind in the MENA region, vitamin D deficiency was associated with abnormal lipid markers, non-lipid markers of CVD, male gender, lower eGFR, and a surrogate variable for CVD. The association between vitamin D deficiency and non-lipid markers of CVD persisted after adjustment for lipid markers, age, and gender.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakhl</LastName>
+                    <ForeName>Sahar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de recherche en Physiologie et Physiopathologie (LRPP), pÃ´le technologie santÃ©, FacultÃ© de MÃ©decine, UniversitÃ© Saint Joseph, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Stress Oxydatif et Antioxydants, FacultÃ© des Sciences MÃ©dicales et Ã©cole doctorale en sciences et technologie, UniversitÃ© Libanaise, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sleilaty</LastName>
+                    <ForeName>Ghassan</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FacultÃ© de MÃ©decine and Institut SupÃ©rieur de SantÃ© Publique, UniversitÃ© Saint Joseph, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El Samad</LastName>
+                    <ForeName>Salam</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre Hospitalier Du Nord, Zghorta, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saliba</LastName>
+                    <ForeName>Youakim</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de recherche en Physiologie et Physiopathologie (LRPP), pÃ´le technologie santÃ©, FacultÃ© de MÃ©decine, UniversitÃ© Saint Joseph, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chahine</LastName>
+                    <ForeName>Ramez</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire Stress Oxydatif et Antioxydants, FacultÃ© des Sciences MÃ©dicales et Ã©cole doctorale en sciences et technologie, UniversitÃ© Libanaise, Beirut, Lebanon.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>FarÃ¨s</LastName>
+                    <ForeName>Nassim</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de recherche en Physiologie et Physiopathologie (LRPP), pÃ´le technologie santÃ©, FacultÃ© de MÃ©decine, UniversitÃ© Saint Joseph, Beirut, Lebanon. nassim.fares@usj.edu.lb.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Clin Nutr</MedlineTA>
+            <NlmUniqueID>8804070</NlmUniqueID>
+            <ISSNLinking>0954-3007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008877" MajorTopicYN="N" Type="Geographic">Middle East</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30097651</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41430-018-0280-1</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41430-018-0280-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

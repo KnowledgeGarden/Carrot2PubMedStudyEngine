@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">32291535</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>08</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vitamin and trace element concentrations in infants and children with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1463-1470</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-020-04536-0</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">There are limited data regarding vitamin and trace element blood concentrations and supplementation needs in children with non-dialysis stages 3-5 of chronic kidney disease (CKD).</AbstractText>
+                <AbstractText Label="METHODS">Retrospective cross-sectional review for nutritional blood concentrations measured over a recent 2-year period. In our CKD clinics, nutritional bloods including copper, zinc, selenium and vitamin A, vitamin E, active vitamin B<sub>12</sub> and folate are monitored annually. Vitamin D status is monitored every 6-12Â months.</AbstractText>
+                <AbstractText Label="RESULTS">We reviewed 112 children (70 boys) with median (IQ1, IQ3) age 8.97 (4.24, 13.80) years. Estimated median (IQ1, IQ3) GFR (mL/min/1.73Â m<sup>2</sup>) was 28 (21, 37). Vitamin A, active vitamin B<sub>12</sub> and vitamin E concentrations were within normal range in 19%, 23% and 67% respectively, with all others being above normal range. Vitamin D blood concentrations were within desired range for 85% (15% had low levels) and folate blood concentrations were within normal range in 92%, with the remainder above or below target. For trace elements, 60%, 85% and 87% achieved normal ranges for zinc, selenium and copper respectively. Deficiencies were seen for zinc (35%), copper (7%), folate (3%) and selenium (1%), whilst 5%, 6% and 14% had zinc, copper and selenium levels above normal ranges.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Several vitamin and trace element blood concentrations were outside normal reference ranges. Monitoring vitamin D and zinc blood concentrations is indicated due to the percentages with low levels in this group. Targeted vitamin and trace element supplementation should be considered where indicated rather than commencing multivitamin and/or mineral supplementation. Graphical abstract Vitamin and trace element concentrations in infants and children with non-dialysis chronic kidney disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Joyce</LastName>
+                    <ForeName>Triona</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition and Dietetics, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, Westminster Bridge Road, London, SE1 7EH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rasmussen</LastName>
+                    <ForeName>Pernille</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Nephrology, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, 3rd Floor Beckett House, Westminster Bridge Road, London, SE1 7EH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melhem</LastName>
+                    <ForeName>Nabil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Nephrology, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, 3rd Floor Beckett House, Westminster Bridge Road, London, SE1 7EH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clothier</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Nephrology, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, 3rd Floor Beckett House, Westminster Bridge Road, London, SE1 7EH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Booth</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Nephrology, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, 3rd Floor Beckett House, Westminster Bridge Road, London, SE1 7EH, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sinha</LastName>
+                    <ForeName>Manish D</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Paediatric Nephrology, Evelina London Children's Hospital, Guys &amp; St Thomas' NHS Foundation Trust, 3rd Floor Beckett House, Westminster Bridge Road, London, SE1 7EH, UK. manish.1.sinha@kcl.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kings College London, London, UK. manish.1.sinha@kcl.ac.uk.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Acronym>DH_</Acronym>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Blood monitoring</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Trace elements</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamins</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32291535</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-020-04536-0</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-020-04536-0</ArticleId>
+            <ArticleId IdType="pmc">PMC7316696</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2007 Oct;22(10):1689-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17216263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2019 Jan;29(1):48-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30097325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Mar 15;9(3):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28294976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Aug;21(8):1153-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16791611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2018 Jan;33(1):159-165</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28799141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jul 1;32(7):1114-1127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2015 Feb;30(2):317-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25119682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2000 Jun;35(6 Suppl 2):S1-140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10895784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hippokratia. 2012 Oct;16(4):356-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23935317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,853 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30753268</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2156-5376</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>01</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in nutrition (Bethesda, Md.)</Title>
+                <ISOAbbreviation>Adv Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nutritional Management for Chronic Kidney Disease Patients who Undergo Bariatric Surgery: A Narrative Review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>122-132</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/advances/nmy112</ELocationID>
+            <Abstract>
+                <AbstractText>Bariatric surgery (BS) may be effective for chronic kidney disease (CKD) patients by reducing microalbuminuria and proteinuria, and by facilitating their meeting inclusion criteria for kidney transplantation. However, nutritional management for this population is complex and specific guidelines are scarce. A literature search was performed to create dietetic practice for these patients based on the most recent evidence. For the purposes of nutritional recommendations, we divided the patients into 2 subgroups: 1) patients with CKD and dialysis, and 2) patients after kidney transplantation. Before surgery, nutritional care includes nutritional status evaluation and adjusting doses of supplements to treat deficiencies and daily nutrient intake according to the dietary restrictions derived from kidney disease, including quantities of fluids, protein, phosphorus, potassium, and vitamins. After BS, these patients are at major risk for lean body mass loss, malnutrition and dehydration because of fluid restriction and diuretics. Postoperative nutritional recommendations should be carefully tailored according to CKD nutritional limitations and include specific considerations regarding protein, fluids, and supplementation, in particular calcium, vitamin A, and vitamin D. Nutritional management of CKD and kidney transplant patients undergoing BS is challenging and future studies are required to establish uniform high-level evidence-based guidelines.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ben-Porat</LastName>
+                    <ForeName>Tair</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss-Sadan</LastName>
+                    <ForeName>Anat</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rottenstreich</LastName>
+                    <ForeName>Amihai</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sherf-Dagan</LastName>
+                    <ForeName>Shiri</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Assuta Medical Center, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schweiger</LastName>
+                    <ForeName>Chaya</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Rabin Medical Center, Petach Tiqva, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yosef-Levi</LastName>
+                    <ForeName>Irit Mor</ForeName>
+                    <Initials>IM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology and Hypertension Services, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiner</LastName>
+                    <ForeName>Dana</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Sheba Medical Center, Tel Aviv, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Azulay</LastName>
+                    <ForeName>Odile</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Rabin Medical Center, Petach Tiqva, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakran</LastName>
+                    <ForeName>Nasser</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery A, Emek Medical Center, Afula, affiliated with Rappaport Faculty of Medicine, Technion Israel Institute of Technology, Haifa, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harari</LastName>
+                    <ForeName>Rivki</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Israeli Dietetic Association, Herzliya, Israel.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutrition, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elazary</LastName>
+                    <ForeName>Ram</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Hadassah-Hebrew University Medical Center, Jerusalem, Israel.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Adv Nutr</MedlineTA>
+            <NlmUniqueID>101540874</NlmUniqueID>
+            <ISSNLinking>2161-8313</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050110" MajorTopicYN="N">Bariatric Surgery</DescriptorName>
+                <QualifierName UI="Q000534" MajorTopicYN="Y">rehabilitation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015596" MajorTopicYN="N">Nutrition Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044623" MajorTopicYN="N">Nutrition Therapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009752" MajorTopicYN="N">Nutritional Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011184" MajorTopicYN="N">Postoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057234" MajorTopicYN="N">Preoperative Period</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000178" MajorTopicYN="Y">diet therapy</QualifierName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30753268</ArticleId>
+            <ArticleId IdType="pii">5315933</ArticleId>
+            <ArticleId IdType="doi">10.1093/advances/nmy112</ArticleId>
+            <ArticleId IdType="pmc">PMC6370259</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Invest. 1971 Nov;50(11):2426-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5096525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 May;83(5):959-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23254903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Jul;90(1):164-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27181999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Urol Rep. 2018 Apr 16;19(6):41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29663088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Biochem. 2012 Sep;49(Pt 5):419-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22783025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2016 Dec;12(10):1883-1889</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27516220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2012 Feb;5(Suppl 1):i39-i51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26069820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2015 Mar-Apr;11(2):406-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25487633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2013 Aug;32(4):550-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23200926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 1996 Aug;11(8):1613-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8856221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 Mar;83(3):377-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23325075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Nutr Metab. 2015;66 Suppl 3:10-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26088040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2003 May;63(5):1934-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12675874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2001 Jan;37(1 Suppl 2):S66-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11158865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2018 Oct;23(10):912-920</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28742255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2007 Oct;22(10):1689-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17216263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2017 Jan;27(1):126-133</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27312348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2014 Oct;24(10):1749-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25056233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2017 Jan;13(1):101-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27521254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Nutr. 2017 Mar 15;8(2):382-394</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28298280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2013 Mar-Apr;9(2):202-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23246320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 Apr;65(4):1375-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15086477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 May;55(5):1945-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10231458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2015 Mar-Apr;11(2):419-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25813752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Diabetes Endocrinol. 2014 Feb;2(2):165-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24622720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1996 May;7(5):728-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8738808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1998 Jul;54(1):236-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9648084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Transl Sci. 2016 Aug;9(4):207-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27277845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2015 Sep-Oct;11(5):1029-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25857443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Oct;4(10):1565-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19808241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Sci (Lond). 1983 Dec;65(6):619-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6354560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Clin Pract. 2015 Jun;30(3):383-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25547336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2002 Dec;62(6):2238-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12427151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2005 Feb;28(2):481-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15677821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2017 Jul;13(7):1138-1144</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28416186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2011 Sep;21(5):355-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21439853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Clin Belg. 2016 Dec;71(6):462-467</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27254816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Dec;21(12):1807-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16897005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rocz Panstw Zakl Hig. 2015;66(1):13-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25813068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2017 Nov 2;377(18):1765-1776</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29091561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2016 Sep;26(5):282-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26975777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Nov;42(5):864-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14582032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 Feb;55(2):648-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9987089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bol Asoc Med P R. 2007 Oct-Dec;99(4):279-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18756641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Acad Nutr Diet. 2017 Jul;117(7):1011-1015</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27597746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2004 Jan 28;291(4):451-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14747502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2002 Feb;39(2):422-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11840387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Diet Assoc. 2001 Mar;101(3):294-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11269606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2016 Oct;26(10):2324-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26843085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2013 Dec;84(6):1096-107</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23698226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aliment Pharmacol Ther. 2014 Sep;40(6):582-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25078533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2017 May;13(5):727-741</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28392254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Feb;77(4):299-311</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19847156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2016 Feb;35(1):12-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25779332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Rev (Orlando). 2015 Jul;29(3):154-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26001746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Nutr. 1996 May;50(5):295-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8735310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Mar;69(3):380-388</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27927587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2016 Jan-Feb;29(1):39-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26384581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2012 Jun;81(11):1116-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22297674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2009 May 15;87(9):1265-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19424022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2011 Dec;21(12):1965-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21526378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Obes (Lond). 2018 Jun;42(5):964-973</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29568103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 Nov;66(5):2054-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2015 May;15(5):1360-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25708829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2004 Oct 13;292(14):1724-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15479938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2009 Apr 27;87(8):1167-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19384163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2007 Mar;7(3):550-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17173655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2018 Sep;14(9):1411-1418</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30077663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Metab. 2009 Dec;35(6 Pt 2):544-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20152742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2011 Apr;21(4):528-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21327552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Nutr Soc. 2018 Nov;77(4):445-455</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29619914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Clin Pract. 2014 Dec;29(6):718-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25288251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2014 Nov;10(11):653-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25223988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Mar;6(3):620-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2009 Nov-Dec;5(6):662-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19359221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Feb;73(4):391-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18094682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obesity (Silver Spring). 2013 Mar;21 Suppl 1:S1-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23529939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2008 Mar;17(2):162-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18277149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2009 Nov;9 Suppl 3:S1-155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19845597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2012 Jun;22(6):881-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22403000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Obes Relat Dis. 2016 Sep - Oct;12(8):1513-1521</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27396545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2007 May;22 Suppl 2:ii45-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17507426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Feb 25;10(3):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29495340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2011 Jan;21(1):47-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21195919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2016 Dec;20(6):972-981</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26781128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2012 Jan;22(1):119-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21611875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2015 Oct;28(5):523-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25791209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2010 Dec;6(12):699-710</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20956992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2018 Feb;28(2):489-496</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28785976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2018 Dec;28(12):3783-3794</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30121858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Rep. 2017 Mar;2(2):261-270</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28439568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2006 Apr;25(2):295-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16697495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cleve Clin J Med. 2008 May;75(5):333-4, 336, 338 passim</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18556875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Dec;7(3):e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30681074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Surg. 2014 Oct;24(10):1639-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24706197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Dec;92(6):1343-1355</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28964571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2017 Jul;92(1):26-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28646995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1990 Aug;52(2):183-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2197848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2000 Jun;35(6 Suppl 2):S1-140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10895784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Med J. 1975 Aug 9;3(5979):352-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1156752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

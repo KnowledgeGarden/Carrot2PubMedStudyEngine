@@ -1,0 +1,556 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32576601</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1533-3450</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society of Nephrology : JASN</Title>
+                <ISOAbbreviation>J Am Soc Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fibroblast Growth Factor 23 and Risk of Hospitalization with Infection in Chronic Kidney Disease: The Chronic Renal Insufficiency Cohort (CRIC) Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1836-1846</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1681/ASN.2019101106</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Risk of infectious disease is increased among individuals with CKD. Fibroblast growth factor 23 (FGF23) is often elevated in CKD, and may impair immune function directly or indirectly through proinflammatory and vitamin D-suppressing pathways. Whether FGF23 is associated with risk of infection has not been evaluated in a CKD population.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In 3655 participants of the Chronic Renal Insufficiency Cohort study, we evaluated the association of baseline plasma levels of C-terminal FGF23 with time to first hospitalization with major infection, defined by hospital discharge with a diagnosis code for urinary tract infection, pneumonia, cellulitis/osteomyelitis, or bacteremia/septicemia. Multivariable Cox models were used to estimate hazard ratios (HRs) and adjust for confounding.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">During a median follow-up of 6.5 years, 1051 individuals (29%) were hospitalized with major infection. Multivariable Cox analysis indicated a graded increase in the risk of infection with higher levels of FGF23 (HR, 1.51; 95% CI, 1.23 to 1.85 with the highest quartile [â¥235.9 RU/ml] versus lowest quartile [&lt;95.3 RU/ml]; HR, 1.26; 95% CI, 1.18 to 1.35 per SD increment in log FGF23). The association was consistent across infection subtypes and demographic and clinical subgroups, and remained significant after additional adjustment for biomarkers of inflammation (IL-6, TNF-<i>Î±</i>, high-sensitivity C-reactive protein, fibrinogen, and albumin), and bone mineral metabolism (25-hydroxyvitamin D, phosphorus, calcium, and parathyroid hormone). The association was consistent across infection subtypes of urinary tract infection (482 cases), cellulitis/osteomyelitis (422 cases), pneumonia (399 cases), and bacteremia/septicemia (280 cases).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Among individuals with CKD, higher FGF23 levels were independently and monotonically associated with an increased risk of hospitalization with infection.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 by the American Society of Nephrology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ishigami</LastName>
+                    <ForeName>Junichi</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-6396-3723</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland jishiga1@jhu.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Welch Center for Prevention, Epidemiology, and Clinical Research, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taliercio</LastName>
+                    <ForeName>Jonathan T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology and Hypertension, Cleveland Clinic Foundation, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feldman</LastName>
+                    <ForeName>Harold I</ForeName>
+                    <Initials>HI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Epidemiology, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srivastava</LastName>
+                    <ForeName>Anand</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Northwestern University Feinberg School of Medicine, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Townsend</LastName>
+                    <ForeName>Raymond R</ForeName>
+                    <Initials>RR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Epidemiology, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Debbie L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Epidemiology, University of Pennsylvania, Philadelphia, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horwitz</LastName>
+                    <ForeName>Edward J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, MetroHealth Medical Center, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Panduranga</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University of Michigan, Ann Arbor, Michigan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Charleston</LastName>
+                    <ForeName>Jeanne</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fink</LastName>
+                    <ForeName>Jeffrey C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Maryland School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ricardo</LastName>
+                    <ForeName>Ana C</ForeName>
+                    <Initials>AC</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-8670-3644</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University of Illinois, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sondheimer</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-9538-9682</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Wayne State University School of Medicine, Detroit, Michigan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Teresa K</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Johns Hopkins University School of Medicine, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolf</LastName>
+                    <ForeName>Myles</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, and Duke Clinical Research Institute, Duke University School of Medicine, Durham, North Carolina.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Isakova</LastName>
+                    <ForeName>Tamara</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Northwestern University Feinberg School of Medicine, Chicago, Illinois.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Appel</LastName>
+                    <ForeName>Lawrence J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Welch Center for Prevention, Epidemiology, and Clinical Research, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsushita</LastName>
+                    <ForeName>Kunihiro</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Welch Center for Prevention, Epidemiology, and Clinical Research, Johns Hopkins Bloomberg School of Public Health, Baltimore, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>CRIC study Investigators</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK072231</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 DK060980</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 DK072231</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>M01 RR013987</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 DK061022</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K23 DK120811</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 DK114857</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Nephrol</MedlineTA>
+            <NlmUniqueID>9013836</NlmUniqueID>
+            <ISSNLinking>1046-6673</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Chronic inflammation</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">fibroblast</Keyword>
+        </KeywordList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>Go</LastName>
+                <ForeName>Alan S</ForeName>
+                <Initials>AS</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>He</LastName>
+                <ForeName>Jiang</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lash</LastName>
+                <ForeName>James P</ForeName>
+                <Initials>JP</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rahman</LastName>
+                <ForeName>Mahboob</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2021</Year>
+                <Month>08</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32576601</ArticleId>
+            <ArticleId IdType="pii">ASN.2019101106</ArticleId>
+            <ArticleId IdType="doi">10.1681/ASN.2019101106</ArticleId>
+            <ArticleId IdType="pmc">PMC7460903</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Kidney Int. 2012 Oct;82(7):737-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22622492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Heart Fail. 2013 Jul;6(4):817-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23748358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2003 Jul;14(7 Suppl 2):S148-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12819321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Mar;59(3):356-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21906862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Jun;69(6):752-761</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27884474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2010 Sep;56(3):522-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20619518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2012 Sep;97(9):3357-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22689697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2020 May 5;189(5):433-444</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31673705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Nov 24;168(21):2333-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19029498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2014 Apr;124(4):1587-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24569459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Apr;28(4):1239-1246</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28122946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2015 Jan 5;399:208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25458698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Feb;25(2):349-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24158986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 May;7(5):810-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22362065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2011 Jun 15;305(23):2432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21673295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Care Res (Hoboken). 2013 Aug;65(8):1343-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23335588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Sep;3(5):1398-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18562596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Mar;69(3 Suppl 1):A7-A8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28236831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chim Acta. 2011 May 12;412(11-12):1008-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21324311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Nov;90(5):985-996</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27457912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2007 Apr;60(4):397-409</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17346615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Jul 5;367(1):20-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22762315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Sep 7;12(9):1399-1408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28818849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Dec 7;12(12):1930-1940</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29074818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2016 Jan;89(1):135-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26535997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2013 Jan;28(1):46-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22886720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Jun;79(12):1370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21389978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2016 Mar 1;126(3):962-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26878171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Sep 1;32(9):1448-1453</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27659127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jan;27(1):227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25971439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone Rep. 2016 May 13;5:158-162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28326356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Mar 24;311(5768):1770-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16497887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2012 Jul;122(7):2543-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22728934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2017 Dec 1;102(12):4648-4657</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29029099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Oct 1;49(7):1025-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19708796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2016 Apr;31(4):742-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26590361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1983 Sep;80(18):5583-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6577445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

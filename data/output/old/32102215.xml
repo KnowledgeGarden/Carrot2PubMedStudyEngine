@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">32102215</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1660-4601</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>02</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of environmental research and public health</Title>
+                <ISOAbbreviation>Int J Environ Res Public Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Relationship between Serum Vitamin D and Leg Strength in Older Adults with Pre-Dialysis Chronic Kidney Disease: A Preliminary Study.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E1433</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijerph17041433</ELocationID>
+            <Abstract>
+                <AbstractText>Active vitamin D (calcitriol, or 1.25 (OH) 2 D) is associated with muscle weakness, falls, and fracture in community-dwelling older people. This study aimed to investigate the relationship between a serum active vitamin D level and lower extremity muscle strength in elderly patients with pre-dialysis chronic kidney disease (CKD). This cross-sectional study included 231 patients with CKD treated conservatively as outpatients. We analyzed patient background factors, including age, sex, body mass index (BMI), intact parathyroid hormone (PTH), phosphorus, calcium, albumin, serum calcitriol level as an indicator of active vitamin D, and estimated glomerular filtration rate (eGFR) collected from medical records. As an index of lower extremity muscle strength, the isometric knee extension muscle strength-to-weight ratio (kgf/kg) was calculated. The mean patient age was 75.9 Â± 6.1 years (68.8% male), and the BMI was 24.1 Â± 3.8 kg/m<sup>2</sup>. A significant correlation was observed between knee extensor muscle strength and serum calcitriol level (<i>r</i> = 0.32, <i>p</i> &lt; 0.01), age (<i>r</i> = -0.30, <i>p</i> &lt; 0.01), BMI (r = -0.31, <i>p</i> &lt; 0.01), intact PTH (<i>r</i> = -0.22, <i>p</i> &lt; 0.01), phosphorus (<i>r</i> = -0.29, <i>p</i> &lt; 0.01), albumin (<i>r</i> = -0.28, <i>p</i> &lt; 0.01), and eGFR (<i>r</i> = 0.25, <i>p</i> &lt; 0.01). Multiple regression analysis showed calcitriol to be significantly associated with knee extensor muscle strength (Î²: 0.14, 95% confidence interval: 0-0.002, <i>p</i> = 0.04) after adjustment for covariates. These results suggest that the serum active vitamin D level is associated with lower extremity muscle strength in older adults with pre-dialysis CKD. It is necessary to verify whether vitamin D supplementation increases lower extremity muscle strength in pre-dialysis CKD patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rehabilitation Center, St. Marianna University School of Medicine Hospital, 2-16-1 Sugao, Miyamae-ku, Kawasaki-city, Kanagawa 216-8511, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hiraki</LastName>
+                    <ForeName>Koji</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rehabilitation Center, St. Marianna University School of Medicine Hospital, 2-16-1 Sugao, Miyamae-ku, Kawasaki-city, Kanagawa 216-8511, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otobe</LastName>
+                    <ForeName>Yuhei</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Rehabilitation Medicine, Kawasaki Municipal Tama Hospital,1-30-37 Syukugawara Tama-ku Kawasaki-city, Kanagawa 214-8525, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Izawa</LastName>
+                    <ForeName>Kazuhiro P</ForeName>
+                    <Initials>KP</Initials>
+                    <Identifier Source="ORCID">0000-0001-7262-8903</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Graduate School of Health Sciences, Kobe University, Kobe-city, Hyogo 654-0142, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakurada</LastName>
+                    <ForeName>Tsutomu</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">0000-0003-2434-0483</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Department of Internal Medicine, St. Marianna University School of Medicine Hospital, 2-16-1 Sugao, Miyamae-ku, Kawasaki-city, Kanagawa 216-8511, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shibagaki</LastName>
+                    <ForeName>Yugo</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Department of Internal Medicine, St. Marianna University School of Medicine Hospital, 2-16-1 Sugao, Miyamae-ku, Kawasaki-city, Kanagawa 216-8511, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Environ Res Public Health</MedlineTA>
+            <NlmUniqueID>101238455</NlmUniqueID>
+            <ISSNLinking>1660-4601</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000058" MajorTopicYN="N">Accidental Falls</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="N">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007564" MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007866" MajorTopicYN="N">Leg</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053580" MajorTopicYN="Y">Muscle Strength</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">leg strength</Keyword>
+            <Keyword MajorTopicYN="Y">older adults</Keyword>
+            <Keyword MajorTopicYN="Y">pre-dialysis chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">serum vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>02</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32102215</ArticleId>
+            <ArticleId IdType="pii">ijerph17041433</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijerph17041433</ArticleId>
+            <ArticleId IdType="pmc">PMC7068570</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2015 Sep;70(9):1156-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25748032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2018 Dec;72(6):834-845</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30297082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2013 Feb;34(1):33-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23169676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2013 Apr;17(2):225-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22911116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 2015 Apr;36(2):174-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25695404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Nov 25;10(12):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30477276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cachexia Sarcopenia Muscle. 2017 Oct;8(5):686-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28675610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2009 Dec;13(6):621-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19513802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Nephrol. 2009 Dec;13(6):537-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19960305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2002 Feb;143(2):683-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11796525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2003 Dec;88(12):5766-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14671166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2013 Feb;92(2):151-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22968766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2019 Aug;105(2):173-182</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31069442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

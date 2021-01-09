@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">30289192</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1542-4758</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>01</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hemodialysis international. International Symposium on Home Hemodialysis</Title>
+                <ISOAbbreviation>Hemodial Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Factors affecting TST level in patients undergoing dialysis: a multicenter study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>81-87</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/hdi.12676</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION">The risk of TB is increased in patients with chronic kidney disease (CKD) when compared with individuals with normal renal function. We aimed to determine tuberculin skin test (TST) response and the factors which might affect the response in patients with CKD undergoing dialysis in this study.</AbstractText>
+                <AbstractText Label="METHODS">The purified protein derivative solution was administered to the patients and the diameter of induration was measured. Additionally, the age, gender and smoking status of the patients were interrogated. Comorbidities were recorded both by patients' self-reports and data from the hospital files. The number of Bacille Calmette-Guerin (BCG) scars was recorded by checking both shoulders.</AbstractText>
+                <AbstractText Label="FINDINGS">The study was conducted with a total of 371 patients (194 men and 177 women). The mean age was 60.09âÂ±â15.88, TST was 6.99âÂ±â6.9, duration of dialysis was 4.44âÂ±â4.5 (3.8-0.1,24). A total of 229 patients have comorbodities (61.7%, the most frequent was hypertension). Logistic regression model was performed. Gender, vitamin D treatment and high parathormone (PTH) levels remained in the final stage of the analysis and vitamin D intake and PTH levels were detected to be statistically significant (Pâ=â0.002, 0.007, respectively).</AbstractText>
+                <AbstractText Label="DISCUSSION">This study is the first study which showed a correlation between TST negativity and increased PTH levels and receiving vitamin D treatment. Starting from this point, it was concluded that PTH may suppress the immune system and especially cellular immunity.</AbstractText>
+                <CopyrightInformation>Â© 2018 International Society for Hemodialysis.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deniz</LastName>
+                    <ForeName>Sami</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinic of Chest Diseases Dr. Suat Seren Chest Diseases and Thoracic Surgery Research and Education Hospital, Ä°zmir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aydemir</LastName>
+                    <ForeName>Yusuf</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chest Diseases Department, Sakarya University, Sakarya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ÅengÃ¼l</LastName>
+                    <ForeName>Aysun</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kocaeli Derince Research and Education Hospital, Derince, Kocaeli, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emre</LastName>
+                    <ForeName>JÃ¼lide Ãeldir</ForeName>
+                    <Initials>JÃ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chest Diseases Department, Turgutlu State Hospital, Turgutlu, Manisa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanrisev</LastName>
+                    <ForeName>Mehmet</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Tepecik Research and Education Hospital, Ä°zmir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ãzhan</LastName>
+                    <ForeName>Mustafa Hikmet</ForeName>
+                    <Initials>MH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chest Diseases, Ege University, Ä°zmir, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GÃ¼ney</LastName>
+                    <ForeName>Ä°brahim</ForeName>
+                    <Initials>Ä°</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Konya Research and Training Hospital, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Canada</Country>
+            <MedlineTA>Hemodial Int</MedlineTA>
+            <NlmUniqueID>101093910</NlmUniqueID>
+            <ISSNLinking>1492-7535</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014374" MajorTopicYN="N">Tuberculin Test</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014376" MajorTopicYN="N">Tuberculosis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Hemodialysis</Keyword>
+            <Keyword MajorTopicYN="Y">parathormone</Keyword>
+            <Keyword MajorTopicYN="Y">tuberculin skin test</Keyword>
+            <Keyword MajorTopicYN="Y">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30289192</ArticleId>
+            <ArticleId IdType="doi">10.1111/hdi.12676</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">33401711</PMID>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fibrosis in Chronic Kidney Disease: Pathogenesis and Consequences.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E408</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms22010408</ELocationID>
+            <Abstract>
+                <AbstractText>Fibrosis is a process characterized by an excessive accumulation of the extracellular matrix as a response to different types of tissue injuries, which leads to organ dysfunction. The process can be initiated by multiple and different stimuli and pathogenic factors which trigger the cascade of reparation converging in molecular signals responsible of initiating and driving fibrosis. Though fibrosis can play a defensive role, in several circumstances at a certain stage, it can progressively become an uncontrolled irreversible and self-maintained process, named pathological fibrosis. Several systems, molecules and responses involved in the pathogenesis of the pathological fibrosis of chronic kidney disease (CKD) will be discussed in this review, putting special attention on inflammation, renin-angiotensin system (RAS), parathyroid hormone (PTH), fibroblast growth factor 23 (FGF23), Klotho, microRNAs (miRs), and the vitamin D hormonal system. All of them are key factors of the core and regulatory pathways which drive fibrosis, having a great negative kidney and cardiac impact in CKD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panizo</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MartÃ­nez-Arias</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alonso-Montes</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cannata</LastName>
+                    <ForeName>Pablo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, FundaciÃ³n Instituto de Investigaciones Sanitarias-FundaciÃ³n JimÃ©nez DÃ­az (IIS-FJD), Universidad AutÃ³noma de Madrid (UAM), Retic REDinREN-ISCIII, 28040 Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MartÃ­n-Carro</LastName>
+                    <ForeName>Beatriz</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">0000-0002-1683-6617</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>FernÃ¡ndez-MartÃ­n</LastName>
+                    <ForeName>JosÃ© L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naves-DÃ­az</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carrillo-LÃ³pez</LastName>
+                    <ForeName>Natalia</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cannata-AndÃ­a</LastName>
+                    <ForeName>Jorge B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bone and Mineral Research Unit, Hospital Universitario Central de Asturias, Instituto de InvestigaciÃ³n Sanitaria del Principado de Asturias (ISPA), Retic REDinREN-ISCIII, Universidad de Oviedo, 33011 Oviedo, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>PI17/00384, PI17/00715, PI19/00532, PI20/00633, PI20/00753</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>Retic REDinREN (RD06/0016/1013, RD12/0021/0023, RD16/0009/0017 and RD16/0009/0001)</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>(GRUPIN14-028, IDI-2018-000152)</GrantID>
+                    <Agency>Plan de Ciencia, TecnologÃ­a e InnovaciÃ³n 2013-2017 y 2018-2022 del Principado de Asturias</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2021</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">FGF23</Keyword>
+            <Keyword MajorTopicYN="N">Klotho</Keyword>
+            <Keyword MajorTopicYN="N">PTH</Keyword>
+            <Keyword MajorTopicYN="N">RAS</Keyword>
+            <Keyword MajorTopicYN="N">artificial intelligence</Keyword>
+            <Keyword MajorTopicYN="N">fibrosis</Keyword>
+            <Keyword MajorTopicYN="N">image analysis</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">microRNAs</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+                <Hour>1</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33401711</ArticleId>
+            <ArticleId IdType="pii">ijms22010408</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms22010408</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

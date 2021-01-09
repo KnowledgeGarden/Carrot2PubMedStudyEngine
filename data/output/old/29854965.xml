@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">29854965</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">2468-0249</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international reports</Title>
+                <ISOAbbreviation>Kidney Int Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Racial Variations in the Markers of Mineral Bone Disorders in CKD Patients in South Africa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>583-591</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ekir.2017.12.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="Introduction" NlmCategory="UNASSIGNED">Several studies showed that serum intact parathyroid hormone (PTH), phosphate, and vitamin D levels differ across races. These comparative studies were largely carried out between Caucasians and black Americans. However, little is known of the existence of these associations in an African population with chronic kidney disease (CKD).</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">This cross-sectional multicenter study involved 293 CKD patients from 3 renal units in Johannesburg, South Africa.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">The 293 CKD patients (208 blacks, 85 whites) had an overall mean age of 51.1 Â± 13.6 years, and black patients were significantly younger than the white patients (48.4 Â± 13.6 years vs. 57.1 Â± 15.5 years; <i>P</i>Â &lt; 0.001). Compared with whites, blacks had higher median intact PTH (498 [range: 37-1084] pg/ml vs. 274 [range: 131-595] pg/ml; <i>P</i>Â = 0.03), alkaline phosphatase (122 [range: 89-192] U/L vs. 103 [range: 74-144] U/L; pÂ = 0.03), and mean 25 OH vitamin D<sub>3</sub> (26.8 Â± 12.7 ng/ml vs. 22.7 Â± 12.2 ng/ml, <i>P</i>Â = 0.01) levels, whereas their median fibroblast growth factor (FGF) level was 23 (100 [range: 34-639] pg/ml vs. 233 [range: 80-1370] pg/ml; <i>P</i>Â = 0.002), and their mean serum phosphate (1.3 Â± 0.5 vs. 1.5 Â± 0.5; <i>P</i>Â = 0.001) levels were significantly lower. In multivariable analyses, black race was independently associated with increased log PTH (Î²Â = 0.488, <i>P</i>Â = 0.01) and decreased log FGF-23 (Î²Â =Â -0.636, <i>P</i>Â = 0.02). Similarly, blacks had a 3.08 times higher likelihood (95% confidence interval: 1.51-6.30; <i>P</i>Â = 0.002) of developing severe hyperparathyroidism than whites.</AbstractText>
+                <AbstractText Label="Conclusion" NlmCategory="UNASSIGNED">This study highlighted the existence of racial differences in the circulating markers of mineral bone disorders in an African CKD population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Waziri</LastName>
+                    <ForeName>Bala</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duarte</LastName>
+                    <ForeName>Raquel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dickens</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dix Peek</LastName>
+                    <ForeName>Therese</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>George</LastName>
+                    <ForeName>Jaya</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Pathology, National Health Laboratory Services, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rekhviashvili</LastName>
+                    <ForeName>Vakhtang</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Unit, Donald Gordon Medical Center, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paget</LastName>
+                    <ForeName>Graham</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naicker</LastName>
+                    <ForeName>Saraladevi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Faculty of Health Sciences, University of the Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int Rep</MedlineTA>
+            <NlmUniqueID>101684752</NlmUniqueID>
+            <ISSNLinking>2468-0249</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">fibroblast growth factor-23</Keyword>
+            <Keyword MajorTopicYN="N">mineral bone disorder</Keyword>
+            <Keyword MajorTopicYN="N">race</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29854965</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ekir.2017.12.004</ArticleId>
+            <ArticleId IdType="pii">S2468-0249(17)30475-8</ArticleId>
+            <ArticleId IdType="pmc">PMC5976813</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Diet Assoc. 2007 Feb;107(2):256-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17258962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1997 Jun;12(6):958-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9169356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Oct;58(4):544-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21803465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2012 Sep;17 (7):607-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22515484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Jul;27(7):2847-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22505656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Jun;26(6):1948-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20466670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Apr 15;8(4):e61282</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23596520</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Oct;42(4 Suppl 3):S1-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Aug;74(3):276-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17568787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Apr;7(4):640-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22383748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2011 Oct;22(10):1913-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21903574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Apr;73(8):956-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18256597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Nov;8(11):1870-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24135218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Biochem. 2008 Mar;45(Pt 2):153-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18325178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Nutr. 1988 Apr;7(2):111-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3361035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 1997;7(2):105-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9166389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2006 Mar;17(3 Suppl 1):S1-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16497879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 1996 Oct;11(10 ):1545-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8889856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2008 Sep;52(3):519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18514987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lab Clin Med. 1995 Nov;126(5):452-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7595030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2011 Jun;26(6):1368-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21611975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2004 Jul;89(7):3152-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15240586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiology. 1994 Jan;5(1):42-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8117781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2013 Jul 10;310(2):179-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23839752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2015;42(1):25-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26287973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2005 Feb;20(2):185-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15647811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Nov 21;369(21):1991-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24256378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Aug;27(8):3072-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22851630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Aug 11;168(15):1629-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18695076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Aug 7;359(6):584-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Jun;79(12):1370-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21389978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 Aug;15(8):2208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15284307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Endocrinol. 2014;2014:981581</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24868205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Diet Assoc. 2005 Sep;105(9):1391-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16129080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Aug 15;145(4):247-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16908915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

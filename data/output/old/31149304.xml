@@ -1,0 +1,366 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31149304</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1841-0987</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>14</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 Oct-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta endocrinologica (Bucharest, Romania : 2005)</Title>
+                <ISOAbbreviation>Acta Endocrinol (Buchar)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>NUTRITIONAL OR ACTIVE VITAMIN D FOR THE CORRECTION OF MINERAL METABOLISM ABNORMALITIES IN NON-DIALYSIS CHRONIC KIDNEY DISEASE PATIENTS?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>505-513</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4183/aeb.2018.505</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Benefits of vitamin D therapies in chronic kidney disease (CKD) are debated.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">To compare the effects of medium-term native (VitD) and active (VDRA) vitamin D on parameters of mineral metabolism and arterial function in non-dialysis CKD.</AbstractText>
+                <AbstractText Label="Design" NlmCategory="UNASSIGNED">Open-label, active comparator, randomized study.</AbstractText>
+                <AbstractText Label="Subjects and Methods" NlmCategory="UNASSIGNED">Forty-eight adult patients, vitamin D naÃ¯ve, CKD stage 3 to 5 with increased parathyroid hormone (iPTH) were randomized to receive either oral cholecalciferol 1000UI/day (n=24) or paricalcitol 1mcg/day (n=24) for 6 months. Median changes at end of study <i>vs.</i> baseline in serum calcidiol, iPTH, total alkaline phosphatase (ALP), and cardio-ankle vascular index (CAVI) were the efficacy parameters.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Higher increase in calcidiol (15.5 [95%CI 13.3; 17.2] <i>vs</i>. 0.4 [95%CI -6.1; 3.7]ng/mL, p&lt;0.001) were found in VitD group. Conversely, the decline of iPTH (-35.2 [95%CI -83; 9] <i>vs</i>. 13.3 [95%CI -8.1; 35]pg/mL, p=0.008) and ALP (-34 [95%CI -58; -11] <i>vs</i>. -10 [95%CI -23; -2]U/L, p=0.02) were greater after paricalcitol. More subjects experienced iPTH decrease in VDRA group (71% <i>vs</i>. 39%, p=0.03). The variation in CAVI and the incidence of hypercalcemia and hyperphosphatemia were similar.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">It seems that secondary hyperparathyroidism was more efficiently treated by VDRA, whereas cholecalciferol better corrected the calcidiol deficiency in non-dialysis CKD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Stancu</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Carol Davila&quot; University of Medicine and Pharmacy - Nephrology Department, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Dr Carol Davila&quot; Teaching Hospital of Nephrology, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chiriac</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Carol Davila&quot; University of Medicine and Pharmacy - Nephrology Department, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maria</LastName>
+                    <ForeName>D T</ForeName>
+                    <Initials>DT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emergency County Hospital - Nephrology Department, Craiova, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mota</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emergency County Hospital - Nephrology Department, Craiova, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mircescu</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Carol Davila&quot; University of Medicine and Pharmacy - Nephrology Department, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Dr Carol Davila&quot; Teaching Hospital of Nephrology, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Capusa</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Carol Davila&quot; University of Medicine and Pharmacy - Nephrology Department, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Dr Carol Davila&quot; Teaching Hospital of Nephrology, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Acta Endocrinol (Buchar)</MedlineTA>
+            <NlmUniqueID>101269720</NlmUniqueID>
+            <ISSNLinking>1841-0987</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">arterial stiffness.</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">native vitamin D</Keyword>
+            <Keyword MajorTopicYN="N">secondary hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D receptor activators</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31149304</ArticleId>
+            <ArticleId IdType="doi">10.4183/aeb.2018.505</ArticleId>
+            <ArticleId IdType="pii">aeb.2018.505</ArticleId>
+            <ArticleId IdType="pmc">PMC6516423</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2002 Feb;39(2 Suppl 1):S1-266</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11904577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Manag Care Pharm. 2007 Jun;13(5):397-411</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17605511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2007 Dec 18;147(12):840-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18087055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Pract. 2008 Jan-Feb;14(1):10-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18238736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Clin Pract Nephrol. 2009 Jan;5(1):24-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2009 Jan-Feb;22(1):75-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19229821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 Dec;24(12):3799-805</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19622574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Sep;4(9):1529-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19661219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Feb;5(2):299-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20056760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Mar;5(3):512-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20133492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 May;5(5):905-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2010 Aug;(117):S10-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20671739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Jan;6(1):50-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Apr;79(7):702-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20962748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2010 Nov 6;376(9752):1543-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21055801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem Rev. 2010 Nov;31(4):129-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21170259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Apr;79(7):715-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21270766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol. 2011;2011:269060</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21603158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Nov;80(10):1073-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21716260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Jan;59(1):58-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21885174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Jul;60(1):139-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22560832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Renal Physiol. 2012 Oct 15;303(8):F1136-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22874762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Jul;8(7):1143-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23493381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Res Int. 2013;2013:320560</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23509710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2013 Oct;62(4):810-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23623575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Integr Blood Press Control. 2013 Apr 30;6:27-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23667317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2013 Oct;62(4):703-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23769134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2013;33(5):716-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24089164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2014 Mar 24;15:50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24661355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Nov;64(5):696-705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24856872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2011 Sep;1(4):136-141</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25018912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2015;35(1):28-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25611831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Pharmacol. 2016 Jun;56(6):761-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26465921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Jan 26;11(1):e0147347</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26812502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Dec;7(3):e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30681074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,603 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31324183</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1475-2840</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>07</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular diabetology</Title>
+                <ISOAbbreviation>Cardiovasc Diabetol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Subclinical atherosclerosis burden predicts cardiovascular events in individuals with diabetes and chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>93</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12933-019-0897-y</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Individuals with diabetes have remarkably high rates of cardiovascular morbidity and mortality. However, the incremental cardiovascular risk in diabetes is heterogeneous and has often been related to renal involvement. The purpose of this study was to analyse the prognostic value of subclinical atherosclerosis in determining the incidence of first cardiovascular events (CVEs) in individuals with diabetes and chronic kidney disease (CKD) compared to CKD individuals without diabetes.</AbstractText>
+                <AbstractText Label="METHODS">We included data from individuals with CKD with and without diabetes, free from pre-existing cardiovascular disease, from the NEFRONA cohort. Participants underwent baseline carotid and femoral ultrasound and were followed up for 4Â years. All CVEs during follow-up were registered. Bivariate analysis and Fine-Gray competing risk models were used to perform the statistical analysis.</AbstractText>
+                <AbstractText Label="RESULTS">During the mean follow-up time of 48Â months, a total of 203 CVE was registered. 107 CVE occurred among participants without diabetes (19.58 per 1000 person-years) and 96 CVE occurred among participants with diabetes (44.44 per 1000 person-years). Following the competing risk analysis, the variables predicting CVEs in CKD individuals without diabetes were the number of territories with plaque at baseline (HR 1.862, 95% CI [1.432;2.240]), age (HR 1.026, 95% CI [1.003;1.049]) and serum concentrations of 25-OH vitamin D (HR 0.963, 95% CI [0.933;0.094]). The only variable predicting CVEs among CKD participants with diabetes was the number of territories with plaque at baseline (HR 1.782, 95% CI [1.393, 2.278]). For both models, concordance (C) index yielded was over 0.7.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">The burden of subclinical atherosclerosis is the strongest predictor of future CVEs in diabetic individuals with CKD. Early detection of subclinical atherosclerotic burden by multiterritorial vascular ultrasound could improve CVE prediction in this population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Palanca</LastName>
+                    <ForeName>Ana</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Health Sciences Research Institute &amp; University Hospital Germans Trias i Pujol, Carretera Canyet S/N, 08916, Badalona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Barcelona Autonomous University (UAB), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castelblanco</LastName>
+                    <ForeName>Esmeralda</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Hospital de la Santa Creu i Sant Pau &amp; Institut d'InvestigaciÃ³ BiomÃ©dica Sant Pau (IIB Sant Pau), Sant QuintÃ­, 89, 08041, Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Research on Diabetes and Associated Metabolic Diseases (CIBERDEM), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Betriu</LastName>
+                    <ForeName>Ãngels</ForeName>
+                    <Initials>Ã</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vascular and Renal Translational Research Group, Institut de Recerca BiomÃ¨dica de Lleida, Lleida, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PerpiÃ±Ã¡n</LastName>
+                    <ForeName>HÃ¨ctor</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics Unit, Institut de Recerca BiomÃ¨dica de Lleida, Lleida, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soldevila</LastName>
+                    <ForeName>Berta</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Health Sciences Research Institute &amp; University Hospital Germans Trias i Pujol, Carretera Canyet S/N, 08916, Badalona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Barcelona Autonomous University (UAB), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Research on Diabetes and Associated Metabolic Diseases (CIBERDEM), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valdivielso</LastName>
+                    <ForeName>JosÃ© Manuel</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vascular and Renal Translational Research Group, Institut de Recerca BiomÃ¨dica de Lleida, Lleida, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>BermÃºdez-Lopez</LastName>
+                    <ForeName>Marcelino</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vascular and Renal Translational Research Group, Institut de Recerca BiomÃ¨dica de Lleida, Lleida, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puig-JovÃ©</LastName>
+                    <ForeName>Carlos</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Health Sciences Research Institute &amp; University Hospital Germans Trias i Pujol, Carretera Canyet S/N, 08916, Badalona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puig-Domingo</LastName>
+                    <ForeName>Manel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Health Sciences Research Institute &amp; University Hospital Germans Trias i Pujol, Carretera Canyet S/N, 08916, Badalona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Barcelona Autonomous University (UAB), Barcelona, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Groop</LastName>
+                    <ForeName>Per-Henrik</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FolkhÃ¤lsan Institute of Genetics, FolkhÃ¤lsan Research Center, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Abdominal Center Nephrology, University of Helsinki and Helsinki University Central Hospital, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Program for Clinical and Molecular Metabolism, Faculty of Medicine, University of Helsinki, Helsinki, Finland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Diabetes, Central Clinical School, Monash University, Melbourne, VIC, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>FernÃ¡ndez</LastName>
+                    <ForeName>Elvira</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vascular and Renal Translational Research Group, Institut de Recerca BiomÃ¨dica de Lleida, Lleida, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alonso</LastName>
+                    <ForeName>NÃºria</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Health Sciences Research Institute &amp; University Hospital Germans Trias i Pujol, Carretera Canyet S/N, 08916, Badalona, Spain. nalonso32416@yahoo.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Barcelona Autonomous University (UAB), Barcelona, Spain. nalonso32416@yahoo.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Research on Diabetes and Associated Metabolic Diseases (CIBERDEM), Barcelona, Spain. nalonso32416@yahoo.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauricio</LastName>
+                    <ForeName>Didac</ForeName>
+                    <Initials>D</Initials>
+                    <Identifier Source="ORCID">0000-0002-2868-0250</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Barcelona Autonomous University (UAB), Barcelona, Spain. didacmauricio@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Endocrinology &amp; Nutrition, Hospital de la Santa Creu i Sant Pau &amp; Institut d'InvestigaciÃ³ BiomÃ©dica Sant Pau (IIB Sant Pau), Sant QuintÃ­, 89, 08041, Barcelona, Spain. didacmauricio@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Biomedical Research on Diabetes and Associated Metabolic Diseases (CIBERDEM), Barcelona, Spain. didacmauricio@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cardiovasc Diabetol</MedlineTA>
+            <NlmUniqueID>101147637</NlmUniqueID>
+            <ISSNLinking>1475-2840</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D058070" MajorTopicYN="N">Asymptomatic Diseases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050197" MajorTopicYN="N">Atherosclerosis</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003920" MajorTopicYN="N">Diabetes Mellitus</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013030" MajorTopicYN="N" Type="Geographic">Spain</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018615" MajorTopicYN="N">Ultrasonography, Doppler, Color</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Cardiovascular events</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Diabetes</Keyword>
+            <Keyword MajorTopicYN="Y">Multiterritorial arterial ultrasound</Keyword>
+            <Keyword MajorTopicYN="Y">Subclinical atherosclerosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31324183</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12933-019-0897-y</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12933-019-0897-y</ArticleId>
+            <ArticleId IdType="pmc">PMC6639953</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 1990 Jan;15(1):196-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2136873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Echocardiogr. 2008 Feb;21(2):93-111; quiz 189-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18261694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2006 Jul 1;368(9529):29-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16815377</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2019 Mar;282:202-209</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30600075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2002 Jun 18;105(24):2872-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12070116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2013 Sep;36(9):2582-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23564923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2001 Jun;156(2):379-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11395035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2010 Dec 14;56(25):e50-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21144964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 2007 Nov;38(11):2873-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17901390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Diabetes Endocrinol. 2015 Mar;3(3):198-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25660575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Diabetol. 2018 May 4;17(1):66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29728117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2014 Jul;29(7):1415-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24586070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JACC Cardiovasc Imaging. 2014 Nov;7(11):1108-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25459592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2006 Nov;27(21):2580-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16952925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cerebrovasc Dis. 2004;18(4):346-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15523176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2016 Aug 1;37(29):2315-2381</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27222591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2009 Jun;204(2):549-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19281981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Feb 5;11(2):287-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26668022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2015 Dec 22;132(25):2424-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26644329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2017 Oct 18;12(10):e0186665</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29045466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2006 Jan 14;332(7533):73-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16371403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JACC Cardiovasc Imaging. 2016 Feb;9(2):176-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26846937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2011 Oct;34(10):2285-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21844289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2010 Apr 13;55(15):1600-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20378078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Obes Metab. 2018 Aug;20(8):2000-2003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29577540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Diabetes Endocrinol. 2015 Jul;3(7):514-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26028594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood Press. 2018 Oct;27(5):262-270</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29648468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2016 Mar 22;67(11):1263-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26988945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ Open. 2016 Nov 24;6(11):e012457</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27884845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1998 Jul 23;339(4):229-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9673301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Cardiol. 2013 Mar 1;111(5):754-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23266072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2010 Jul 07;11:14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20609210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabet Med. 2009 Feb;26(2):142-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19236616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2012 May;97(5):1434-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22419711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2012 Jan;220(1):128-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21764060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Diabetol. 2016 Mar 05;15:43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26944724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2004 Feb 24;109(7):855-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14757692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2004 Dec;27(12):2898-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15562204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetologia. 2018 May;61(5):1203-1211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29423580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Atheroscler Thromb. 2018 Jan 1;25(1):55-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28179606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2018 Sep;276:50-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30032025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2017 Jul 18;70(3):301-313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28705310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2014;37(1):144-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24062319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2015 Jun 16;131(24):2104-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25882487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Diabetol. 2018 Dec 7;17(1):156</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30526614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 2011 Apr;42(4):972-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21311059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2002 Apr 20;324(7343):939-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11964337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2015 Mar;38(3):521-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25524951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Comput Tomogr. 2015 Sep-Oct;9(5):406-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26043963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

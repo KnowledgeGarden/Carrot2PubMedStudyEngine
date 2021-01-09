@@ -1,0 +1,378 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21431384</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1955</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>109</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Parasitology research</Title>
+                <ISOAbbreviation>Parasitol Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vitro sensitivity of Blastocystis hominis to garlic, ginger, white cumin, and black pepper used in diet.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>379-85</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00436-011-2265-z</ELocationID>
+            <Abstract>
+                <AbstractText>To determine the growth pattern and in vitro susceptibility of Blastocystis hominis to metronidazole (MTZ), garlic, ginger, white cumin, and black pepper. Stool specimens were collected from 16 irritable bowel syndrome (IBS) and 10 controls between July-November 2010. Stool microscopy and culture for B. hominis was performed. Drug susceptibility assays was done using 0.01 and 0.1 mg/ml of MTZ, garlic, ginger, white cumin, and black pepper. Effect was assessed on B. hominis culture after 48 h. Stool DNA was extracted using stool DNA extraction kit (Qiagen) and polymerase chain reaction (PCR) done using subtype-specific sequence-tagged-site primers. B. hominis genotype 3 and coinfection of 1 and 3 tended to grow well in culture compared to isolated type 1 infection. Exposed to MTZ at a concentration of 0.01 mg/ml, 38% (6/16) B. hominis from IBS did not grow in culture compared to 100% (10/10) of B. hominis from control (p = 0.001). When they were exposed to MTZ at 0.1 mg/ml, 56% (9/16) B. hominis from IBS did not grow in cultures compared to 100% (10/10) from control (p = 0.01). Forty-four percent (7/16) B. hominis from IBS did not grow in culture compared to 100% (10/10) B. hominis from control when exposed to garlic at a concentration of 0.01 mg/ml (p = 0.003) and following exposure to garlic at 0.1 mg/ml, 38% (6/16) B. hominis from IBS did not grow in cultures compared to 100% (10/10) from control (p = 0.001). B. hominis isolates from IBS had a cell count of 6,625 at a MTZ concentration of 0.01 mg/ml that reduced to 1,250 as MTZ concentration was increased to 0.1 mg/ml (p = 0.08). B. hominis from IBS with a mean cell count of 3 Ã 10(5) at baseline decreased to 1 Ã 10(4) when exposed to garlic at 0.01 mg/ml (p &lt; 0.001) and to 1 Ã 10(3) (p &lt; 0.001) when garlic was 0.1 mg/ml. B. hominis from IBS cell count decreased to 1 Ã 10(5) when exposed to white cumin at 0.01 mg/ml (p = 0.01) and to 1 Ã 10(5) (p &lt; 0.001) when white cumin was 0.1 mg/ml. Exposed to black pepper at 0.1 mg/ml, cell count of B. hominis from IBS decreased to 1 Ã 10(5) (p = 0.01). B. hominis from IBS decreased to 1.3 Ã 10(5) exposed to ginger at 0.01 mg/ml (p = 0.001). B. hominis isolates were mostly genotypes 3, type 1 and 3 coinfection, and non-typeable B. hominis isolates. B. hominis isolates from IBS mostly genotype 1 demonstrated an increased sensitivity to garlic at 0.01 mg/ml with a B. hominis cell count of 3,714 compared to 6,142 when exposed to 0.01 mg/ml of MTZ. However, this sensitivity did not increase as garlic concentration was increased to 0.1 mg/ml, for B. hominis cell count was 6,000 compared to 1,428 as MTZ was increased to 0.1 mg/ml.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yakoob</LastName>
+                    <ForeName>Javed</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, The Aga Khan University, Stadium Road, Karachi 74800, Pakistan. yakoobjaved@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abbas</LastName>
+                    <ForeName>Zaigham</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beg</LastName>
+                    <ForeName>Muhammad Asim</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naz</LastName>
+                    <ForeName>Shagufta</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Awan</LastName>
+                    <ForeName>Safia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamid</LastName>
+                    <ForeName>Saeed</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jafri</LastName>
+                    <ForeName>Wasim</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Parasitol Res</MedlineTA>
+            <NlmUniqueID>8703571</NlmUniqueID>
+            <ISSNLinking>0932-0113</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000981">Antiprotozoal Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010936">Plant Extracts</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000981" MajorTopicYN="N">Antiprotozoal Agents</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016776" MajorTopicYN="N">Blastocystis Infections</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="N">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016845" MajorTopicYN="N">Blastocystis hominis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D028527" MajorTopicYN="N">Cuminum</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005737" MajorTopicYN="N">Garlic</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020939" MajorTopicYN="N">Ginger</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021261" MajorTopicYN="N">Parasitic Sensitivity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029222" MajorTopicYN="N">Piper nigrum</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010936" MajorTopicYN="N">Plant Extracts</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21431384</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00436-011-2265-z</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Parasitol Res. 2007 Dec;102(1):83-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17912552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Parasitol. 2003 May 1;113(3-4):321-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12719144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Parasitol. 2004 Jun;20(6):251-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15147669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Int. 2007 Dec;56(4):281-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17627869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Southeast Asian J Trop Med Public Health. 1994 Dec;25(4):792-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7667737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2010 Apr;106(5):1033-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20177906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytomedicine. 2002 Apr;9(3):224-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12046863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Eukaryot Microbiol. 2003;50 Suppl:710-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14736230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2005 Jun;96(4):273-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15915364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trop Med Int Health. 1996 Oct;1(5):677-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8911453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Parasitol. 2007 Mar;23(3):93-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17241816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2002 Dec 10;187(1-2):61-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12359352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2006 Oct;99(5):597-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16688468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Probes. 1998 Jun;12(3):153-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9664577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Egypt Soc Parasitol. 2007 Dec;37(3):801-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18383782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trop Med Int Health. 1999 Apr;4(4):274-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10357863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Biomed Sci. 2004;61(2):75-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15250669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2003 Jun;90(2):124-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12756546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytother Res. 2000 May;14(3):213-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10815019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2010 Aug;107(3):679-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20532564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 1991 Apr;27(4):507-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1856129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1988 Dec;32(12):1763-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2469386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2000 Apr;38(4):1324-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10747102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Immunol Med Microbiol. 1996 Apr;13(4):273-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8739190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 1999 Jun;43(6):837-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10404325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2011 Mar;108(3):541-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20922415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Am. 1985 Mar;252(3):114-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3975593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 1998 Dec;59(6):1008-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9886215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Res. 2003 Mar;89(5):393-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12632154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Cancer. 1997;27(2):118-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9121937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

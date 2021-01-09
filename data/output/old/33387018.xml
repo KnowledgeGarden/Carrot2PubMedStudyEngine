@@ -1,0 +1,599 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33387018</PMID>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-198X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric nephrology (Berlin, Germany)</Title>
+                <ISOAbbreviation>Pediatr Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tumor necrosis factor-alpha is associated with mineral bone disorder and growth impairment in children with chronic kidney disease.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00467-020-04846-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Mineral and bone disorder (MBD) and growth impairment are common complications of pediatric chronic kidney disease (CKD). Chronic inflammation detrimentally affects bone health and statural growth in non-CKD settings, but the impact of inflammation on CKD-MBD and growth in pediatric CKD remains poorly understood. This study assessed associations between inflammatory cytokines with biomarkers of CKD-MBD and statural growth in pediatric CKD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">This is a cross-sectional study of children with predialysis CKD stages II-V. Cytokines (IL-1b, IL-4, IL-6, IL-8, IL-10, IL-12, IL-13, TNF-Î±, interferon-Î³), bone alkaline phosphatase (BAP), and procollagen type 1 N-terminal propeptide (P1NP) were measured at the same time as standard CKD-MBD biomarkers. Associations between cytokines, CKD-MBD biomarkers, and height z-score were assessed using linear regression analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Among 63 children, 52.4% had stage 3 CKD, 76.2% non-glomerular CKD etiology, and 21% short stature. TNF-Î± was the only cytokine associated with parathyroid hormone (PTH) independent of glomerular filtration rate. After stratification by low, medium, and high TNF-Î± tertiles, significant differences in PTH, serum phosphorus, alkaline phosphatase, BAP, P1NP, and height z-score were found. In a multivariate analysis, TNF-Î± positively associated with phosphorus, PTH, and alkaline phosphatase and inversely associated with height z-score, independent of kidney function, age, sex, and active vitamin D analogue use.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">TNF-Î± is positively associated with biomarkers of CKD-MBD and inversely associated with height z-score, indicating that inflammation likely contributes to the development of CKD-MBD and growth impairment in pediatric CKD. Prospective studies to definitively assess causative effects of inflammation on bone health and growth in children with CKD are warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Meza</LastName>
+                    <ForeName>Kelly</ForeName>
+                    <Initials>K</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-1777-2360</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biswas</LastName>
+                    <ForeName>Sharmi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Yuan-Shan</ForeName>
+                    <Initials>YS</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7215-8275</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Medicine, Clinical and Translational Science Center, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gajjar</LastName>
+                    <ForeName>Anuradha</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York-Presbyterian Phyllis and David Komansky Children's Hospital, 505 East 70th Street-HT 388, New York, NY, 10021, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perelstein</LastName>
+                    <ForeName>Eduardo</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-6423-5947</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York-Presbyterian Phyllis and David Komansky Children's Hospital, 505 East 70th Street-HT 388, New York, NY, 10021, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Juhi</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-7702-253X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York-Presbyterian Phyllis and David Komansky Children's Hospital, 505 East 70th Street-HT 388, New York, NY, 10021, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akchurin</LastName>
+                    <ForeName>Oleh</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-3745-5418</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medical College, Department of Pediatrics, New York, NY, USA. oma9005@med.cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Weill Cornell Medicine, New York-Presbyterian Phyllis and David Komansky Children's Hospital, 505 East 70th Street-HT 388, New York, NY, 10021, USA. oma9005@med.cornell.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1TR00457</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1TR002384</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Clinical Scholar Award</GrantID>
+                    <Agency>Weill Cornell Medical College</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>DK114558</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2021</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Pediatr Nephrol</MedlineTA>
+            <NlmUniqueID>8708728</NlmUniqueID>
+            <ISSNLinking>0931-041X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD-mineral and bone disorder</Keyword>
+            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">Inflammation</Keyword>
+            <Keyword MajorTopicYN="N">Pediatric</Keyword>
+            <Keyword MajorTopicYN="N">TNF-Î±</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>09</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>2</Day>
+                <Hour>12</Hour>
+                <Minute>8</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33387018</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00467-020-04846-3</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00467-020-04846-3</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Saran R, Robinson B, Abbott KC, Bragg-Gresham J, Chen X, Gipson D, Gu H, Hirth RA, Hutton D, Jin Y, Kapke A, Kurtz V, Li Y, McCullough K, Modi Z, Morgenstern H, Mukhopadhyay P, Pearson J, Pisoni R, Repeck K, Schaubel DE, Shamraj R, Steffick D, Turf M, Woodside KJ, Xiang J, Yin M, Zhang X, Shahinian V (2020) US renal data system 2019 annual data report: epidemiology of kidney disease in the United States. Am J Kidney Dis 75(1 Suppl 1):A6âA7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31704083</ArticleId>
+                    <ArticleId IdType="doi">10.1053/j.ajkd.2019.09.003</ArticleId>
+                    <ArticleId IdType="pmcid">31704083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Borzych D, Rees L, Ha IS, Chua A, Valles PG, Lipka M, Zambrano P, Ahlenstiel T, Bakkaloglu SA, Spizzirri AP, Lopez L, Ozaltin F, Printza N, Hari P, Klaus G, Bak M, Vogel A, Ariceta G, Yap HK, Warady BA, Schaefer F, International Pediatric PD Network (IPPN) (2010) The bone and mineral disorder of children undergoing chronic peritoneal dialysis. Kidney Int 78:1295â1304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20811335</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2010.316</ArticleId>
+                    <ArticleId IdType="pmcid">20811335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wesseling-Perry K, Pereira RC, Tseng CH, Elashoff R, Zaritsky JJ, Yadin O, Sahney S, Gales B, JÃ¼ppner H, Salusky IB (2012) Early skeletal and biochemical alterations in pediatric chronic kidney disease. Clin J Am Soc Nephrol 7:146â152</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22052943</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.05940611</ArticleId>
+                    <ArticleId IdType="pmcid">22052943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Portale AA, Wolf M, JÃ¼ppner H, Messinger S, Kumar J, Wesseling-Perry K, Schwartz GJ, Furth SL, Warady BA, Salusky IB (2014) Disordered FGF23 and mineral metabolism in children with CKD. Clin J Am Soc Nephrol 9:344â353</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311704</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.05840513</ArticleId>
+                    <ArticleId IdType="pmcid">24311704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Denburg MR (2016) Fracture burden and risk factors in childhood CKD: results from the CKiD cohort study. J Am Soc Nephrol 27:543â550</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26139439</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2015020152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Faul C, Amaral AP, Oskouei B, Hu MC, Sloan A, Isakova T, GutiÃ©rrez OM, Aguillon-Prada R, Lincoln J, Hare JM, Mundel P, Morales A, Scialla J, Fischer M, Soliman EZ, Chen J, Go AS, Rosas SE, Nessel L, Townsend RR, Feldman HI, St John Sutton M, Ojo A, Gadegbeku C, Di Marco GS, Reuter S, Kentrup D, Tiemann K, Brand M, Hill JA, Moe OW, Kuro-O M, Kusek JW, Keane MG, Wolf M (2011) FGF23 induces left ventricular hypertrophy. J Clin Invest 121:4393â4408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21985788</ArticleId>
+                    <ArticleId IdType="pmcid">3204831</ArticleId>
+                    <ArticleId IdType="doi">10.1172/JCI46122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Staude H, Jeske S, Schmitz K, Warncke G, Fischer DC (2013) Cardiovascular risk and mineral bone disorder in patients with chronic kidney disease. Kidney Blood Press Res 37:68â83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23548827</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000343402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wesseling-Perry K, Salusky IB (2013) Chronic kidney disease: mineral and bone disorder in children. Semin Nephrol 33:169â179</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23465503</ArticleId>
+                    <ArticleId IdType="pmcid">4209124</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.semnephrol.2012.12.017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Waller SC, Ridout D, Cantor T, Rees L (2005) Parathyroid hormone and growth in children with chronic renal failure. Kidney Int 67:2338â2345</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15882277</ArticleId>
+                    <ArticleId IdType="doi">10.1111/j.1523-1755.2005.00339.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Seikaly MG, Salhab N, Gipson D, Yiu V, Stablein D (2006) Stature in children with chronic kidney disease: analysis of NAPRTCS database. Pediatr Nephrol 21:793â799</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16583244</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00467-006-0040-7</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Akchurin OM, Kaskel F (2015) Update on inflammation in chronic kidney disease. Blood Purif 39:84â92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25662331</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000368940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gupta J, Mitra N, Kanetsky PA, Devaney J, Wing MR, Reilly M, Shah VO, Balakrishnan VS, Guzman NJ, Girndt M, Periera BG, Feldman HI, Kusek JW, Joffe MM, Raj DS, CRIC Study Investigators (2012) Association between albuminuria, kidney function, and inflammatory biomarker profile in CKD in CRIC. Clin J Am Soc Nephrol 7:1938â1946</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23024164</ArticleId>
+                    <ArticleId IdType="pmcid">3513744</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.03500412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Akchurin O, Patino E, Dalal V, Meza K, Bhatia D, Brovender S, Zhu YS, Cunningham-Rundles S, Perelstein E, Kumar J, Rivella S, Choi ME (2018) Interleukin-6 contributes to the development of anemia in juvenile CKD. Kidney Int Rep 4:470â483</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30899874</ArticleId>
+                    <ArticleId IdType="pmcid">6409399</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.ekir.2018.12.006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fardellone P, SÃ©journÃ© A, Paccou J, GoÃ«b V (2014) Bone remodelling markers in rheumatoid arthritis. Mediat Inflamm 2014:484280</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1155/2014/484280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sgambato D, Gimigliano F, De Musis C, Moretti A, Toro G, Ferrante E, Miranda A, De Mauro D, Romano L, Iolascon G, Romano M (2019) Bone alterations in inflammatory bowel diseases. World J Clin Cases 7:1908â1925</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31423424</ArticleId>
+                    <ArticleId IdType="pmcid">6695530</ArticleId>
+                    <ArticleId IdType="doi">10.12998/wjcc.v7.i15.1908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shaw AT, Gravallese EM (2016) Mediators of inflammation and bone remodeling in rheumatic disease. Semin Cell Dev Biol 49:2â10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26481971</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.semcdb.2015.10.013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tambralli A, Beukelman T, Weiser P, Atkinson TP, Cron RQ, Stoll ML (2013) High doses of infliximab in the management of juvenile idiopathic arthritis. J Rheumatol 40:1749â1755</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23950184</ArticleId>
+                    <ArticleId IdType="doi">10.3899/jrheum.130133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rinawi F, Assa A, Almagor T, Ziv-Baran T, Shamir R (2019) Prevalence and predictors of growth impairment and short stature in pediatric-onset inflammatory bowel disease. Digestion. https://doi.org/10.1159/000501924</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Guzman J, Kerr T, Ward LM, Ma J, Oen K, Rosenberg AM, Feldman BM, Boire G, Houghton K, Dancey P, Scuccimarri R, Bruns A, Huber AM, Watanabe Duffy K, Shiff NJ, Berard RA, Levy DM, Stringer E, Morishita K, Johnson N, Cabral DA, LarchÃ© M, Petty RE, Laxer RM, Silverman E, Miettunen P, Chetaille AL, Haddad E, Spiegel L, Turvey SE, Schmeling H, Lang B, Ellsworth J, Ramsey SE, Roth J, Campillo S, Benseler S, ChÃ©deville G, Schneider R, Tse SML, Bolaria R, Gross K, Feldman D, Cameron B, Jurencak R, Dorval J, LeBlanc C, St Cyr C, Gibbon M, Yeung RSM, Duffy CM, Tucker LB (2017) Growth and weight gain in children with juvenile idiopathic arthritis: results from the ReACCh-Out cohort. Pediatr Rheumatol Online J 15:68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28830457</ArticleId>
+                    <ArticleId IdType="pmcid">5567720</ArticleId>
+                    <ArticleId IdType="doi">10.1186/s12969-017-0196-7</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Maldonado-PÃ©rez MB, Castro-Laria L, Caunedo-Ãlvarez A, Montoya-GarcÃ­a MJ, Giner-GarcÃ­a M, ArgÃ¼elles-Arias F, Romero-GÃ³mez M, VÃ¡zquez-GÃ¡mez MÃ (2019) Does the antitumor necrosis factor-alpha therapy decrease the vertebral fractures occurrence in inflammatory bowel disease? J Clin Densitom 22:195â202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30205986</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.jocd.2018.07.010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horneff G, Burgos-Vargas R, Constantin T, Foeldvari I, Vojinovic J, Chasnyk VG, Dehoorne J, Panaviene V, Susic G, Stanevica V, Kobusinska K, Zuber Z, Mouy R, Rumba-Rozenfelde I, Breda L, Dolezalova P, Job-Deslandre C, Wulffraat N, Alvarez D, Zang C, Wajdula J, Woodworth D, Vlahos B, Martini A, Ruperto N, Paediatric Rheumatology International Trials Organisation (PRINTO) (2014) Efficacy and safety of open-label etanercept on extended oligoarticular juvenile idiopathic arthritis, enthesitis-related arthritis and psoriatic arthritis: part 1 (week 12) of the CLIPPER study. Ann Rheum Dis 73:1114â1122</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23696632</ArticleId>
+                    <ArticleId IdType="doi">10.1136/annrheumdis-2012-203046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Navarro-GonzÃ¡lez JF, Mora-FernÃ¡ndez C, Muros M, Herrera H, GarcÃ­a J (2009) Mineral metabolism and inflammation in chronic kidney disease patients: a cross-sectional study. Clin J Am Soc Nephrol 4:1646â1654</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19808245</ArticleId>
+                    <ArticleId IdType="pmcid">2758261</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.02420409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Munoz Mendoza J, Isakova T, Ricardo AC, Xie H, Navaneethan SD, Anderson AH, Bazzano LA, Xie D, Kretzler M, Nessel L, Hamm LL, Negrea L, Leonard MB, Raj D, Wolf M, Chronic renal insufficiency cohort (2012) Fibroblast growth factor 23 and Inflammation in CKD. Clin J Am Soc Nephrol 7:1155â1162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22554719</ArticleId>
+                    <ArticleId IdType="pmcid">3386678</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.13281211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Egli-Spichtig D, Imenez Silva PH, Glaudemans B, Gehring N, Bettoni C, Zhang MYH, Pastor-Arroyo EM, SchÃ¶nenberger D, Rajski M, Hoogewijs D, Knauf F, Misselwitz B, Frey-Wagner I, Rogler G, Ackermann D, Ponte B, Pruijm M, Leichtle A, Fiedler GM, Bochud M, Ballotta V, Hofmann S, Perwad F, FÃ¶ller M, Lang F, Wenger RH, Frew I, Wagner CA (2019) Tumor necrosis factor stimulates fibroblast growth factor 23 levels in chronic kidney disease and non-renal inflammation. Kidney Int 96:890â905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31301888</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2019.04.009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Viaene L, Behets GJ, Heye S, Claes K, Monbaliu D, Pirenne J, D'Haese PC, Evenepoel P (2016) Inflammation and the bone-vascular axis in end-stage renal disease. Osteoporos Int 27:489â497</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26294291</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00198-015-3233-8</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sang C, Zhang Y, Chen F, Huang P, Qi J, Wang P, Zhou Q, Kang H, Cao X, Guo L (2016) Tumor necrosis factor alpha suppresses osteogenic differentiation of MSCs by inhibiting semaphorin 3B via Wnt/Î²-catenin signaling in estrogen-deficiency induced osteoporosis. Bone 84:78â87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26723579</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.bone.2015.12.012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Andrassy KM (2013) Comments on 'KDIGO 2012 Clinical Practice Guideline for the evaluation and management of chronic kidney disease'. Kidney Int 84:622â623</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23989362</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2013.243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mian AN, Schwartz GJ (2017) Measurement and estimation of glomerular filtration rate in children. Adv Chronic Kidney Dis 24:348â356</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29229165</ArticleId>
+                    <ArticleId IdType="pmcid">6198668</ArticleId>
+                    <ArticleId IdType="doi">10.1053/j.ackd.2017.09.011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kuczmarski RJ, Ogden CL, Guo SS, Grummer-Strawn LM, Flegal KM, Mei Z, Wei R, Curtin LR, Roche AF, Johnson CL (2002) 2000 CDC growth charts for the United States: methods and development. Vital Health Stat 11:1â190</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hulley S, Cummings SR, Browner WS, Grady DG, Newman TB (2013) Designing clinical research, vol 4th. LWW, Philadelphia</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Glosse P, Fajol A, Hirche F, Feger M, Voelkl J, Lang F, Stangl GI, FÃ¶ller M (2018) A high-fat diet stimulates fibroblast growth factor 23 formation in mice through TNFÎ± upregulation. Nutr Diabetes 8:36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29807981</ArticleId>
+                    <ArticleId IdType="pmcid">5972144</ArticleId>
+                    <ArticleId IdType="doi">10.1038/s41387-018-0037-x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>McKnight Q, Jenkins S, Li X, Nelson T, Marlier A, Cantley LG, Finberg KE, Fretz JA (2020) IL-1Î² drives production of FGF-23 at the onset of chronic kidney disease in mice. J Bone Miner Res 35:1352â1362</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32154933</ArticleId>
+                    <ArticleId IdType="doi">10.1002/jbmr.4003</ArticleId>
+                    <ArticleId IdType="pmcid">32154933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wallquist C, Mansouri L, NorrbÃ¤ck M, Hylander B, Jacobson SH, Larsson TE, Lundahl J (2018) Associations of fibroblast growth factor 23 with markers of inflammation and leukocyte transmigration in chronic kidney disease. Nephron 138:287â295</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29301137</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000485472</ArticleId>
+                    <ArticleId IdType="pmcid">29301137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lee C-T, Tsai YC, Ng HY, Su Y, Lee WC, Lee LC, Chiou TT, Liao SC, Hsu KT (2009) Association between C-reactive protein and biomarkers of bone and mineral metabolism in chronic hemodialysis patients: a cross-sectional study. J Ren Nutr 19:220â227</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19243976</ArticleId>
+                    <ArticleId IdType="doi">10.1053/j.jrn.2008.11.004</ArticleId>
+                    <ArticleId IdType="pmcid">19243976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>VÃ¡zquez-Huerta DI, Alvarez-RodrÃ­guez BA, Topete-Reyes JF, MuÃ±oz-Valle JF, Parra-Michel R, Fuentes-RamÃ­rez F, Salazar-LÃ³pez MA, Valle Y, Reyes-Castillo Z, Cruz-GonzÃ¡lez A, Brennan-Bourdon LM, Torres-Carrillo N (2014) Tumor necrosis factor alpha-238 G/A and-308 G/A polymorphisms and soluble TNF-Î± levels in chronic kidney disease: correlation with clinical variables. Int J Clin Exp Med 7:2111â2119</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25232395</ArticleId>
+                    <ArticleId IdType="pmcid">4161555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sanchez-NiÃ±o MD, Bozic M, CÃ³rdoba-LanÃºs E, Valcheva P, Gracia O, Ibarz M, Fernandez E, Navarro-Gonzalez JF, Ortiz A, Valdivielso JM (2012) Beyond proteinuria: VDR activation reduces renal inflammation in experimental diabetic nephropathy. Am J Physiol Ren Physiol 302:F647âF657</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1152/ajprenal.00090.2011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Paul K, Franke S, Nadal J, Schmid M, Yilmaz A, Kretzschmar D, BÃ¤rthlein B, Titze S, Koettgen A, Wolf G, Busch M, GCKD study group (2016) Inflammation, vitamin D and dendritic cell precursors in chronic kidney disease. Clin Exp Immunol 186:86â95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27414487</ArticleId>
+                    <ArticleId IdType="pmcid">5011369</ArticleId>
+                    <ArticleId IdType="doi">10.1111/cei.12844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Querfeld U (2013) Vitamin D and inflammation. Pediatr Nephrol 28:605â610</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23239393</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00467-012-2377-4</ArticleId>
+                    <ArticleId IdType="pmcid">23239393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ding J, Ghali O, Lencel P, Broux O, Chauveau C, Devedjian JC, Hardouin P, Magne D (2009) TNF-Î± and IL-1Î² inhibit RUNX2 and collagen expression but increase alkaline phosphatase activity and mineralization in human mesenchymal stem cells. Life Sci 84:499â504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19302812</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.lfs.2009.01.013</ArticleId>
+                    <ArticleId IdType="pmcid">19302812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lam J, Takeshita S, Barker JE, Kanagawa O, Ross FP, Teitelbaum SL (2000) TNF-Î± induces osteoclastogenesis by direct stimulation of macrophages exposed to permissive levels of RANK ligand. J Clin Invest 106:1481â1488</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11120755</ArticleId>
+                    <ArticleId IdType="pmcid">387259</ArticleId>
+                    <ArticleId IdType="doi">10.1172/JCI11176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>David V, Martin A, Isakova T, Spaulding C, Qi L, Ramirez V, Zumbrennen-Bullough KB, Sun CC, Lin HY, Babitt JL, Wolf M (2016) Inflammation and functional iron deficiency regulate fibroblast growth factor 23 production. Kidney Int 89:135â146</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26535997</ArticleId>
+                    <ArticleId IdType="pmcid">4854810</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2015.290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tu J, Cheung WW, Mak RH (2016) Inflammation and nutrition in children with chronic kidney disease. World J Nephrol 5:274â282</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27152263</ArticleId>
+                    <ArticleId IdType="pmcid">4848150</ArticleId>
+                    <ArticleId IdType="doi">10.5527/wjn.v5.i3.274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wu W, Zhang H (2014) Role of tumor necrosis factor-Î± and interleukin-1Î² in anorexia induction following oral exposure to the trichothecene deoxynivalenol (vomitoxin) in the mouse. J Toxicol Sci 39:875â886</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25392278</ArticleId>
+                    <ArticleId IdType="doi">10.2131/jts.39.875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Starnes HF Jr, Warren RS, Jeevanandam M, Gabrilove JL, Larchian W, Oettgen HF, Brennan MF (1988) Tumor necrosis factor and the acute metabolic response to tissue injury in man. J Clin Invest 82:1321â1325</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3139712</ArticleId>
+                    <ArticleId IdType="pmcid">442686</ArticleId>
+                    <ArticleId IdType="doi">10.1172/JCI113733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Solmi M, Veronese N, Favaro A, Santonastaso P, Manzato E, Sergi G, Correll CU (2015) Inflammatory cytokines and anorexia nervosa: a meta-analysis of cross-sectional and longitudinal studies. Psychoneuroendocrinology 51:237â252</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25462897</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.psyneuen.2014.09.031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sharma R, Agrawal S, Saxena A, Sharma RK (2013) Association of IL-6, IL-10, and TNF-Î± gene polymorphism with malnutrition inflammation syndrome and survival among end stage renal disease patients. J Interf Cytokine Res 33:384â391</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1089/jir.2012.0109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Picardi A, Gentilucci UV, Zardi EM, Caccavo D, Petitti T, Manfrini S, Pozzilli P, Afeltra A (2003) TNF-Î± and growth hormone resistance in patients with chronic liver disease. J Interf Cytokine Res 23:229â235</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1089/107999003321829944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kuvibidila S, Gardner R, Ode D, Yu L, Lane G, Warrier RP (1997) Tumor necrosis factor alpha in children with sickle cell disease in stable condition. J Natl Med Assoc 89:609â615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9302858</ArticleId>
+                    <ArticleId IdType="pmcid">2608260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Griffin LM, Thayu M, Baldassano RN, DeBoer MD, Zemel BS, Denburg MR, Denson LA, Shults J, Herskovitz R, Long J, Leonard MB (2015) Improvements in bone density and structure during anti-TNF-alpha therapy in pediatric Crohn's disease. J Clin Endocrinol Metab 100:2630â2639</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25919459</ArticleId>
+                    <ArticleId IdType="pmcid">4490303</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jc.2014-4152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malik S, Ahmed SF, Wilson ML, Shah N, Loganathan S, Naik S, Bourke B, Thomas A, Akobeng AK, Fagbemi A, Wilson DC, Russell RK (2012) The effects of anti-TNF-alpha treatment with adalimumab on growth in children with Crohn's disease (CD). J Crohns Colitis 6:337â344</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22405171</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.crohns.2011.09.004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Simonini G, Giani T, Stagi S, de Martino M, Falcini F (2005) Bone status over 1 yr of etanercept treatment in juvenile idiopathic arthritis. Rheumatology (Oxford) 44:777â780</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1093/rheumatology/keh592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>TynjÃ¤lÃ¤ P, Lahdenne P, VÃ¤hÃ¤salo P, Kautiainen H, Honkanen V (2006) Impact of anti-TNF treatment on growth in severe juvenile idiopathic arthritis. Ann Rheum Dis 65:1044â1049</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16449314</ArticleId>
+                    <ArticleId IdType="pmcid">1798245</ArticleId>
+                    <ArticleId IdType="doi">10.1136/ard.2005.047225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Singh S, Grabner A, Yanucil C, Schramm K, Czaya B, Krick S, Czaja MJ, Bartz R, Abraham R, Di Marco GS, Brand M, Wolf M, Faul C (2016) Fibroblast growth factor 23 directly targets hepatocytes to promote inflammation in chronic kidney disease. Kidney Int 90:985â996</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27457912</ArticleId>
+                    <ArticleId IdType="pmcid">5065745</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2016.05.019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yamada S, Tokumoto M, Tatsumoto N, Taniguchi M, Noguchi H, Nakano T, Masutani K, Ooboshi H, Tsuruya K, Kitazono T (2014) Phosphate overload directly induces systemic inflammation and malnutrition as well as vascular calcification in uremia. Am J Physiol Ren Physiol 306:F1418âF1428</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1152/ajprenal.00633.2013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Santos FRL, MoysÃ©s RMA, Montenegro FLM, Jorgetti V, Noronha IL (2003) IL-1Î², TNF-Î±, TGF-Î², and bFGF expression in bone biopsies before and after parathyroidectomy. Kidney Int 63:899â907</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12631070</ArticleId>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.2003.00835.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

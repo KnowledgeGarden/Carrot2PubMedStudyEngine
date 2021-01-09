@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29903718</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0103</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>366</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>09</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of pharmacology and experimental therapeutics</Title>
+                <ISOAbbreviation>J Pharmacol Exp Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Calcitriol Accelerates Vascular Calcification Irrespective of Vitamin K Status in a Rat Model of Chronic Kidney Disease with Hyperphosphatemia and Secondary Hyperparathyroidism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>433-445</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1124/jpet.117.247270</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with chronic kidney disease (CKD) have a markedly increased risk for developing cardiovascular disease. Nontraditional risk factors, such as increased phosphate retention, increased serum fibroblast growth factor 23 (FGF-23), and deficiencies in vitamins D and K metabolism, likely play key roles in the development of vascular calcification during CKD progression. Calcitriol [1,25-(OH)<sub>2</sub>-D<sub>3</sub>] is a key transcriptional regulator of matrix Gla protein, a vitamin K-dependent protein that inhibits vascular calcification. We hypothesized that calcitriol treatment would inhibit the development of vascular calcification and this inhibition would be dependent on vitamin K status in a rat model of CKD. Rats were treated with dietary adenine (0.25%) to induce CKD, with either 0, 20, or 80 ng/kg of calcitriol with low or high dietary vitamin K1 (0.2 or 100 mg/kg) for 7 weeks. Calcitriol at both lower (20 ng/kg) and moderate (80 ng/kg) doses increased the severity of vascular calcification, and contrary to our hypothesis this was not significantly improved by high dietary vitamin K1. Calcitriol had a dose-dependent effect on: 1) lowering serum parathyroid hormone, 2) increasing serum calcium, and 3) increasing serum FGF-23. Calcitriol treatment significantly increased aortic expression of the calcification genes <i>Runx2</i> and <i>Pit-1</i> These data also implicate impaired vitamin D catabolism in CKD, which may contribute to the development of calcitriol toxicity and increased vascular calcification. The present findings demonstrate that in an adenine-induced rat model of CKD calcitriol treatment at doses as low as 20 ng/kg can increase the severity of vascular calcification regardless of vitamin K status.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 by The American Society for Pharmacology and Experimental Therapeutics.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McCabe</LastName>
+                    <ForeName>Kristin M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zelt</LastName>
+                    <ForeName>Jason G</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaufmann</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laverty</LastName>
+                    <ForeName>Kimberly</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Emilie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barron</LastName>
+                    <ForeName>Henry</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Glenville</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Michael A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada holdenr@kgh.kari.net adams@queensu.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holden</LastName>
+                    <ForeName>Rachel M</ForeName>
+                    <Initials>RM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biomedical and Molecular Sciences (K.M.M., J.G.Z., M.K., K.L., E.W., H.B., G.J., M.A.A.) and Medicine (G.J., R.M.H.), Queen's University, Kingston, Ontario, Canada holdenr@kgh.kari.net adams@queensu.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Pharmacol Exp Ther</MedlineTA>
+            <NlmUniqueID>0376362</NlmUniqueID>
+            <ISSNLinking>0022-3565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>12001-79-5</RegistryNumber>
+                <NameOfSubstance UI="D014812">Vitamin K</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006439" MajorTopicYN="N">Hemodynamics</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054559" MajorTopicYN="N">Hyperphosphatemia</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014812" MajorTopicYN="N">Vitamin K</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>6</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29903718</ArticleId>
+            <ArticleId IdType="pii">jpet.117.247270</ArticleId>
+            <ArticleId IdType="doi">10.1124/jpet.117.247270</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

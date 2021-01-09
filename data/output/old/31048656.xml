@@ -1,0 +1,774 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31048656</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2005-6648</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Korean journal of internal medicine</Title>
+                <ISOAbbreviation>Korean J Intern Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Supplementary nutrients for prevention of vascular calcification in patients with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>459-469</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3904/kjim.2019.125</ELocationID>
+            <Abstract>
+                <AbstractText>Vascular calcification (VC) and malnutrition associated with cardiovascular disease are common in patients with chronic kidney disease (CKD) treated with dialysis. VC, which reflects vascular aging, and malnutrition are also encountered in the non-CKD elderly population. This similarity of clinical findings suggests that the progression of CKD is related to aging and the existence of a causal relationship between VC and malnutrition. To retard renal progression, a low- or very-low-protein diet is usually recommended for CKD patients. Dietary education may induce malnutrition and deficiency of important nutrients, such as vitamins K and D. Menaquinone-7, a type of vitamin K2, is under investigation for inhibiting VC in elderly patients without CKD, as well as for prevention of VC in patients with CKD. Nutritional vitamin D, such as cholecalciferol, may be considered to decrease the required dose of active vitamin D, which increases the risk of VC due to increased calcium and phosphate loads. Omega-3 fatty acids are important nutrients and their ability to inhibit VC needs to be evaluated in clinical trials. This review focuses on the ability of supplementary nutrients to prevent VC in patients with CKD, in whom dietary restriction is essential.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Su Mi</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Dong-A University College of Medicine, Busan, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>An</LastName>
+                    <ForeName>Won Suk</ForeName>
+                    <Initials>WS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Dong-A University College of Medicine, Busan, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Dong-A University</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Korean J Intern Med</MedlineTA>
+            <NlmUniqueID>8712418</NlmUniqueID>
+            <ISSNLinking>1226-3303</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003677" MajorTopicYN="N">Deficiency Diseases</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019587" MajorTopicYN="Y">Dietary Supplements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Cholecalciferol</Keyword>
+            <Keyword MajorTopicYN="N">Fatty acids, omega-3</Keyword>
+            <Keyword MajorTopicYN="N">Renal insufficiency, chronic</Keyword>
+            <Keyword MajorTopicYN="N">Vascular calcification</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin K 2</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31048656</ArticleId>
+            <ArticleId IdType="pii">kjim.2019.125</ArticleId>
+            <ArticleId IdType="doi">10.3904/kjim.2019.125</ArticleId>
+            <ArticleId IdType="pmc">PMC6506750</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1999 Sep;70(3):368-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10479199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1999 Nov 23;100(21):2168-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2000 Jul;15(7):1014-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10862640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Sci Monit. 2000 Jul-Aug;6(4):668-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11208389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cardiol. 2001 Mar;78(1):27-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11259810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Haemostasis. 2000 Nov-Dec;30(6):298-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11356998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2001 Jul;38(1):64-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11431183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2001 Jul 24;104(4):412-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11468202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hypertension. 2001 Oct;38(4):938-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11641313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2002 Aug;76(2):326-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12145002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2003 Aug;112(3):357-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12897203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2003 Sep;18(9):1731-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12937218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2003 Sep;18(9):1770-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12937223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Nov;42(5):864-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14582032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 2004 Feb;91(2):373-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14961167</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2004 Mar;43(3):572-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14981617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2004 Jun;19(6):1480-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15034154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2004 Jun;19(6):1489-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15102961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2004 Oct;89(10):4904-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15472183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 Nov;66(5):2017-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2004 Nov;134(11):3100-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15514282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2004 Dec;44(6):1024-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15558523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Feb;16(2):520-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15615819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Diabetol. 2005 Mar 18;4:4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15777477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2005 Jul;20(7):1370-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15855208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Jun;67(6):2383-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15882283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2005 Oct 25;112(17):2627-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16246962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2006 May;21(5):1293-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16396973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2006 Jul;318(1):90-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16603671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2006 Jul;48(1):37-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16797385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Nov;70(9):1577-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16955099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Mar;71(5):438-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17200680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Mar;49(3):432-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17336705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2007 Mar-Apr;20(2):103-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17374082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Sep;72(6):709-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17597697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2007 Jul-Aug;20(4):309-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17635820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2007 Dec;22(12):3679-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17720990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2008 Feb;138(2):287-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18203893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2008 Feb 25;168(4):397-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18299495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vasc Res. 2008;45(5):427-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18401181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Aug;19(8):1613-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18463168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ren Fail. 2008;30(4):407-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18569914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2008 Dec;23(12):4009-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18676346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Blood Press Res. 2008;31(5):322-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18802363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Nov;3(6):1599-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18815240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 Mar;24(3):997-1002</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18952701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Heart J. 2008 Dec;156(6):1117-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19033007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Korean Med Sci. 2009 Jan;24 Suppl:S115-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19194540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Feb;4(2):316-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19218471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 Jul;76(1):18-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19387474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hemodial Int. 2009 Jul;13(3):301-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19486186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2009 Jul;19(4):267-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19539181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2010 Sep;42(3):773-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20041296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 May;5(5):905-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2010 Dec;25(12):4041-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20501463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Sep;78(5):463-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20531451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 2010 Oct;104(4):811-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20694284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Jan;6(1):153-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20829424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 May;26(5):1662-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20880929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Apr;26(4):1327-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2011 Mar;215(1):43-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21193197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tohoku J Exp Med. 2011;223(2):79-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21258192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2012 Jan;22(1):58-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21620727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Korean J Intern Med. 2011 Sep;26(3):320-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22016593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prostaglandins Leukot Essent Fatty Acids. 2012 Jan-Feb;86(1-2):29-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22071008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2012 Feb;59(2):186-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22169620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2012 Nov 14;108(9):1652-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22289649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2012 Sep;82(5):605-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22648294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Nutr Metab. 2012;61(1):74-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22889840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Res. 2012 Jul;32(7):495-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22901557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 1990 Mar;88(3):252-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2309740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2013 Jan 29;14:27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23360132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2013;33(3):362-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23640120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Gen Med. 2013 Aug 09;6:665-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23966800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2014 Jul;29(7):1385-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24285428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Jun 5;10(6):1031-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25904755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2015 Mar;34(1):4-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26484013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2015 Mar;34(1):28-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26484016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2015 Oct 28;7(11):8905-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26516910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Aug;27(8):2475-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26701977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jul;27(7):2164-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26823552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2016 Nov 05;8(11):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27827962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cardiol. 2017 Sep 15;243:431-436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28502735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Korean J Intern Med. 2017 Sep;32(5):790-797</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28823140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ren Fail. 2017 Nov;39(1):729-735</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29157086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2017 Dec;36(4):377-386</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29285430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Feb 10;10(2):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29439405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2018 Mar;37(1):4-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29629272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2018 Mar;37(1):20-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29629274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2018 Mar;37(1):69-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29629279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Oct 07;10(10):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30301276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Res Clin Pract. 2018 Dec;37(4):384-392</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30619694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Jul;7(1):1-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30675420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 1995 Jul;125(7):1812-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7616295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hypertens. 1996 Dec;14(12):1483-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8986934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1997 Mar;82(3):719-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9062471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1997 Mar;65(3):779-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9062529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 1997 Jun;131(2):229-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9199276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 1997 Nov;62:S90-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9350691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1998 Nov;32(5 Suppl 3):S112-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9820470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prostaglandins Leukot Essent Fatty Acids. 1998 Sep;59(3):221-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9844996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 1999 Jan;69(1):74-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9925126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

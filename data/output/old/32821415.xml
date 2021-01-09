@@ -1,0 +1,1061 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">32821415</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2054-3581</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Canadian journal of kidney health and disease</Title>
+                <ISOAbbreviation>Can J Kidney Health Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Canadian Society of Nephrology Commentary on the Kidney Disease Improving Global Outcomes 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease-Mineral and Bone Disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2054358120944271</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/2054358120944271</ELocationID>
+            <Abstract>
+                <AbstractText Label="Purpose of review" NlmCategory="UNASSIGNED">(1) To provide commentary on the 2017 update to the Kidney Disease Improving Global Outcomes (KDIGO) 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD); (2) to apply the evidence-based guideline update for implementation within the Canadian health care system; (3) to provide comment on the care of children with chronic kidney disease (CKD); and (4) to identify research priorities for Canadian patients.</AbstractText>
+                <AbstractText Label="Sources of information" NlmCategory="UNASSIGNED">The KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of CKD-MBD.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">The commentary committee co-chairs selected potential members based on their knowledge of the Canadian kidney community, aiming for wide representation from relevant disciplines, academic and community centers, and different geographical regions.</AbstractText>
+                <AbstractText Label="Key findings" NlmCategory="UNASSIGNED">We agreed with many of the recommendations in the clinical practice guideline on the diagnosis, evaluation, prevention, and treatment of CKD-MBD. However, based on the uncommon occurrence of abnormalities in calcium and phosphate and the low likelihood of severe abnormalities in parathyroid hormone (PTH), we recommend against screening and monitoring levels of calcium, phosphate, PTH, and alkaline phosphatase in adults with CKD G3. We suggest and recommend monitoring these parameters in adults with CKD G4 and G5, respectively. In children, we agree that monitoring for CKD-MBD should begin in CKD G2, but we suggest measuring ionized calcium, rather than total calcium or calcium adjusted for albumin. With regard to vitamin D, we suggest against routine screening for vitamin D deficiency in adults with CKD G3-G5 and G1T-G5T and suggest following population health recommendations for adequate vitamin D intake. We recommend that the measurement and management of bone mineral density (BMD) be according to general population guidelines in CKD G3 and G3T, but we suggest against routine BMD testing in CKD G4-G5, CKD G4T-5T, and in children with CKD. Based on insufficient data, we also recommend against routine bone biopsy in clinical practice for adults with CKD or CKD-T, or in children with CKD, although we consider it an important research tool.</AbstractText>
+                <AbstractText Label="Limitations" NlmCategory="UNASSIGNED">The committee relied on the evidence summaries produced by KDIGO. The CSN committee did not replicate or update the systematic reviews.</AbstractText>
+                <CopyrightInformation>Â© The Author(s) 2020.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Holden</LastName>
+                    <ForeName>Rachel M</ForeName>
+                    <Initials>RM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-6431-3127</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Queen's University, Kingston, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mustafa</LastName>
+                    <ForeName>Reem A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology and Hypertension, Department of Internal Medicine, The University of Kansas Medical Center, Kansas City, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Research Methods, Evidence, and Impact, McMaster University, Hamilton, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alexander</LastName>
+                    <ForeName>R Todd</ForeName>
+                    <Initials>RT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Physiology, University of Alberta, Edmonton, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Battistella</LastName>
+                    <ForeName>Marisa</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Health Network, Leslie Dan Faculty of Pharmacy, University of Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bevilacqua</LastName>
+                    <ForeName>Micheli U</ForeName>
+                    <Initials>MU</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, The University of British Columbia, Vancouver, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knoll</LastName>
+                    <ForeName>Greg</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, The Ottawa Hospital, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mac-Way</LastName>
+                    <ForeName>Fabrice</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, CHU de QuÃ©bec, HÃ´tel-Dieu de QuÃ©bec Hospital, UniversitÃ© Laval, QuÃ©bec City, QC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reslerova</LastName>
+                    <ForeName>Martina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Section, St. Boniface General Hospital, University of Manitoba, Winnipeg, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wald</LastName>
+                    <ForeName>Ron</ForeName>
+                    <Initials>R</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4411-8169</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, St. Michael's Hospital, University of Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Acott</LastName>
+                    <ForeName>Philip D</ForeName>
+                    <Initials>PD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Pediatrics, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feltmate</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Geriatric Medicine, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grill</LastName>
+                    <ForeName>Allan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Family &amp; Community Medicine, University of Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jindal</LastName>
+                    <ForeName>Kailash K</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Alberta, Edmonton, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karsanji</LastName>
+                    <ForeName>Meena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Professional Practice, Vancouver Coastal Health, Richmond, BC, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiberd</LastName>
+                    <ForeName>Bryce A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahdavi</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nutritional Sciences, University of Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Scarborough Health Network, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McCarron</LastName>
+                    <ForeName>Kailee</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nova Scotia Renal Program, Nova Scotia Health Authority, Halifax, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molnar</LastName>
+                    <ForeName>Amber O</ForeName>
+                    <Initials>AO</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4549-0202</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, McMaster University, Hamilton, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pinsk</LastName>
+                    <ForeName>Maury</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Pediatrics &amp; Child Health, University of Manitoba, Winnipeg, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodd</LastName>
+                    <ForeName>Celia</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Diabetes &amp; Endocrinology, Department of Pediatrics &amp; Child Health, University of Manitoba, Winnipeg, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soroka</LastName>
+                    <ForeName>Steven D</ForeName>
+                    <Initials>SD</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-7278-1702</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Dalhousie University, NSHA Renal Program and Pharmacy Services, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vinson</LastName>
+                    <ForeName>Amanda J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Dalhousie University, Halifax, NS, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zimmerman</LastName>
+                    <ForeName>Deborah</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, University of Ottawa, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clase</LastName>
+                    <ForeName>Catherine M</ForeName>
+                    <Initials>CM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-4538-5958</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Department of Health Research, Evidence and Impact, McMaster University, Hamilton, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Can J Kidney Health Dis</MedlineTA>
+            <NlmUniqueID>101640242</NlmUniqueID>
+            <ISSNLinking>2054-3581</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherAbstract Type="Publisher" Language="fre">
+            <AbstractText Label="Justification" NlmCategory="UNASSIGNED">(1) Commenter les recommandations du KDIGO 2017 (Kidney Disease Improving Global Outcomes) sur les bonnes pratiques cliniques pour le diagnostic, lâÃ©valuation et le traitement des troubles du mÃ©tabolisme minÃ©ral osseux associÃ©s aux maladies rÃ©nales chroniques (TMO-MRC); (2) appliquer les lignes directrices actualisÃ©es et fondÃ©es sur les donnÃ©es probantes en vue de leur mise en Åuvre dans le systÃ¨me de soins de santÃ© canadien; (3) commenter les soins prodiguÃ©s aux enfants atteints dâinsuffisance rÃ©nale chronique (IRC) et (4) dÃ©finir les prioritÃ©s de recherche des patients Canadiens.</AbstractText>
+            <AbstractText Label="Sources" NlmCategory="UNASSIGNED">Les recommandations du KDIGO 2017 (Kidney Disease Improving Global Outcomes) sur les bonnes pratiques cliniques pour le diagnostic, lâÃ©valuation et le traitement des troubles du mÃ©tabolisme minÃ©ral osseux associÃ©s aux maladies rÃ©nales chroniques (TMO-MRC).</AbstractText>
+            <AbstractText Label="MÃ©thodologie" NlmCategory="UNASSIGNED">Les coprÃ©sidents du comitÃ© ont sÃ©lectionnÃ© les membres potentiels sur la base de leur connaissance du secteur de la santÃ© rÃ©nale au Canada, tout en visant une bonne reprÃ©sentation de toutes les disciplines concernÃ©es, des centres universitaires et communautaires et des diffÃ©rentes rÃ©gions gÃ©ographiques.</AbstractText>
+            <AbstractText Label="Principaux commentaires" NlmCategory="UNASSIGNED">Nous approuvons un grand nombre des recommandations du KDIGO. Cependant, compte tenu de la raretÃ© des anomalies du calcium et du phosphate et de la faible probabilitÃ© dâanomalies graves de la PTH (hormone parathyroÃ¯de), nous dÃ©conseillons le dÃ©pistage et la surveillance des taux de calcium, de phosphate, de PTH et de phosphatase alcaline chez les adultes atteints dâIRC de stade G3. Nous suggÃ©rons de mesurer ces paramÃ¨tres chez les adultes de stade G4 et nous le recommandons pour les patients de stade G5. Chez les enfants, nous appuyons la recommandation de commencer la surveillance des TMO-MRC dÃ¨s le stade G2, mais nous suggÃ©rons de mesurer le calcium ionisÃ© plutÃ´t que les taux de calcium total ou de calcium corrigÃ© en fonction de lâalbumine. En ce qui concerne la vitamine D, nous dÃ©conseillons le dÃ©pistage de routine des carences chez les adultes atteints dâIRC de stade G3 Ã  G5 et G1T Ã  G5T; nous suggÃ©rons plutÃ´t de suivre les recommandations visant la population gÃ©nÃ©rale pour un apport adÃ©quat en vitamine D. Nous recommandons que la mesure et la prise en charge de la densitÃ© minÃ©rale osseuse (DMO) se fassent en suivant les recommandations pour la population gÃ©nÃ©rale chez les adultes atteints dâIRC de stade G3 et G3T, mais nous dÃ©conseillons les tests de DMO de routine chez les adultes de stades G4-G5 et G4T-G5T, de mÃªme que chez les enfants atteints dâIRC. En raison de donnÃ©es insuffisantes, nous dÃ©conseillons Ã©galement la pratique systÃ©matique dâune biopsie osseuse chez les adultes atteints dâIRC ou dâIRC-TMO, ainsi que chez les enfants atteints dâIRC, bien que nous la considÃ©rions comme un important outil de recherche.</AbstractText>
+            <AbstractText Label="Limites" NlmCategory="UNASSIGNED">Le comitÃ© sâest appuyÃ© sur le rÃ©sumÃ© des preuves rÃ©digÃ© par le KDIGO. Le comitÃ© de la SCN nâa pas reproduit ou mis Ã  jour les revues systÃ©matiques.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD (chronic kidney disease)</Keyword>
+            <Keyword MajorTopicYN="N">Canada</Keyword>
+            <Keyword MajorTopicYN="N">KDIGO</Keyword>
+            <Keyword MajorTopicYN="N">guidelines</Keyword>
+            <Keyword MajorTopicYN="N">mineral bone disease</Keyword>
+        </KeywordList>
+        <CoiStatement>Declaration of Conflicting Interests: The author(s) declared the following potential conflicts of interest with respect to the research, authorship, and/or publication of this article: R.M.H. has received investigator-initiated research funding from OPKO Health, Inc (OPKO Renal Division) and Sanofi. R.A.M. has received research funding from the Patient-Centered Outcomes Research Institute (PCORI), the American Society of Hematology (ASH), and the American College of Rheumatology (ACR). R.T.A. has received consulting honoraria from Ardelyx, Inc and from Advicenne. M.B. has received honoraria for advisory board membership with Otsuka Canada Pharmaceutical Inc (OCPI) and AstraZeneca. M.U.B. has received honoraria for consultation, advisory board membership, speaking engagements, or research funding from Janssen, OCPI, and Sanofi. G.K. declared no conflicts of interest. F.M.-W. has received honoraria for conferences, advisory board membership, or research funding from Amgen Inc, Otsuka Canada Pharmaceutical Inc, and Sanofi. M.R. declared no conflicts of interest. R.W. declared no conflicts of interest. P.D.A. declared no conflicts of interest. P.F. has no conflicts of interest. A.G. declared no conflicts of interest. K.K.J. has received honoraria for consultation or advisory board membership from Boehringer Ingelheim, Baxter, Amgen Inc, Sanofi, Eli Lilly and Company, LEO Pharma Inc Canada, and AstraZeneca. M.K. declared no conflicts of interest. B.A.K. declared no conflicts of interest. S.M. has received honoraria for consultation, advisory board membership, research funding, unrestricted grants, and educational grants from the Ontario Ministry of Health, NGX, Health Canada, Nutrigenomix Inc, Mitacs, Central East Local Health Integration Network, Ontario Renal Network (ORN), Sanofi, Shire, Amgen Inc, Sanofi Genzyme, Boehringer Ingelheim, and Baxter. K.M. declared no conflicts of interest. A.M. declared no conflicts of interest. M.P. declared no conflicts of interest. C.R. declared no conflicts of interest. S.D.S. has received honoraria for consultation, advisory board membership, and Canadian Medical Education (CME) lectures from the, Sanofi, Pfizer Inc, Janssen Inc, Amgen Inc, and Otsuka Canada Pharmaceutical Inc. A.J.V. has received honoraria for consultation from Paladin Labs Inc. D.Z. has received investigator-initiated research funding from Sanofi and has been a member of advisory boards for Otsuka Canada Pharmaceutical Inc, and Amgen Inc. C.M.C. has received honoraria for consultation, advisory board membership, or research funding from the Ontario Ministry of Health, Sanofi, Pfizer Inc, LEO Pharma Inc Canada, Astellas, Janssen Inc, Amgen Inc, Boehringer Ingelheim, and Baxter.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32821415</ArticleId>
+            <ArticleId IdType="doi">10.1177/2054358120944271</ArticleId>
+            <ArticleId IdType="pii">10.1177_2054358120944271</ArticleId>
+            <ArticleId IdType="pmc">PMC7412914</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Mar;4(3):665-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19261823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2017 May 2;166(9):649-658</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28395318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1976 Jan 12;235(2):164-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">946022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2017 Apr 13;18(1):134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28407760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2012 Jul;27(7):1139-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22350304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2015 Aug;30 Suppl 4:iv76-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26209742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2017 Jul;27(4):233-242</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28065493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2016 Jun 28;353:i2016</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27353417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Biochem. 2014 Mar;51(Pt 2):228-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24000371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Kidney Health Dis. 2016 Jan 16;3:2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26779343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Jul 1;32(7):1114-1127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28873971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Aug;4(8):1370-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19628683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Aug;19(8):1592-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2010 Dec;56(6):1108-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20951487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2013 Jul;62(1):187-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23566638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 Jun;93(6):1475-1482</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29525393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2006 Jun;21(6):793-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16583244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surgery. 2017 Jan;161(1):44-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27863776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2016 Jan;27(1):249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26302684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Public Health. 2014 Apr;104(4):e75-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24524497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 May 3;356(18):1809-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17476007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Densitom. 2014 Apr-Jun;17(2):281-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24656723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2011 Apr;26(4):587-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21246220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2011 Jan;26(1):139-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20922433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2017 Aug 15;167(4):JC19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28806800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CMAJ. 2002 Aug 20;167(4):363-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12197692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Oct;68(4):1840-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Transplant. 2013 May-Jun;27(3):397-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23448282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2015;41(2):129-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25790847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2015 Nov-Dec;28(6):620-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26358370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Feb;6(2):257-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21183586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2005 Dec;20(12):2105-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16294264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Feb;71(4):312-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17183248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2002 Nov 13;288(18):2300-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12425707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2017 Mar;22 Suppl 2:22-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28429554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood Purif. 2010;29(3):293-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20090316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2009 Jun;24(6):1834-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19182240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Kidney Health Dis. 2018 Feb 19;5:2054358117753615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29487746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1991 Jan 10;324(2):78-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1984187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2012 Aug;23(8):1407-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22822075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1998 Nov;83(11):3845-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9814456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2011 Apr;64(4):380-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21185693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2015 Feb;65(2):177-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25511161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lab Med. 2018 Oct 11;49(4):355-361</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29790973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Mar 19;10(3):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29562658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surgery. 2017 Jan;161(1):16-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27836213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Diabetes Endocrinol. 2018 Nov;6(11):847-858</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30293909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2017 Oct 1;32(10):1608-1613</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28339949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Experientia. 1977 Jun 15;33(6):746-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">891735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2016 Mar;67(3):423-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26687923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2019 Jul;111:69-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30738926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2014 Mar;32(2):215-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23794122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Med Interne (Paris). 1986;137(3):193-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3532899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Oct;5(10):1860-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20634327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2018 Oct 1;47(5):1603-1612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29618018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2017 Jul;7(1):1-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30675420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Aug 20;361(8):756-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19671655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Kidney Health Dis. 2015 Sep 05;2:32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26346754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Aug;27(8):2487-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26647424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2019 Apr 5;14(4):626-634</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30819670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Dec;7(12):2010-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22977216</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2012 Feb 15;307(7):674-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 2008 Jun;40(5):1404-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18589117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2004 Nov;66(5):2010-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2013;33(3):362-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23640120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Miner Electrolyte Metab. 1982 Feb;7(2):86-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6820473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 Jun 21;378(25):e34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29897866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Age (Dordr). 2012 Dec;34(6):1493-515</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21922251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2017 Mar;27(2):78-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27810171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Intern Med. 2016 Oct 1;176(10):1453-1463</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27479196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Extra. 2015 Aug 31;5(2):39-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26557841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 2008 May;121(5):406-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18456037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2001 Apr;11(2):90-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11295029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2015 Aug;88(2):350-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25786097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Jul;5(7):1261-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20498246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2019 Feb 7;14(2):268-276</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30696660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2008 Jul;19(7):1430-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CMAJ. 2014 Feb 4;186(2):112-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24492525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2017 Feb 7;12(2):272-279</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27932391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Apr 4;144(7):485-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Surg. 2001 Sep;136(9):1064-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11529832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2019 Apr;73(4):496-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30598347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2007 Aug;18(8):2401-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CMAJ. 2010 Nov 23;182(17):1864-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20940232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Kidney Health Dis. 2017 Apr 10;4:2054358117699822</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28491335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Nephrol. 2011;2011:906832</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21760999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2007 Apr;22(4):503-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17243862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nephrol. 2018 Jan;89 (2018)(1):34-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28853704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2005 Jun;45(6):1026-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15957131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2004 Jun 19;328(7454):1490</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15205295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2016 Jan;100(1):167-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26154389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Public Health. 2018 Sep;3(9):e419-e428</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30122560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2016 Aug;76:89-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26931285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2014 Feb;25(2):627-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23948876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2016 Jun 30;353:i2089</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27365494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2004 May;19(5):1281-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14993493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2015 Feb;99(2):351-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25594550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Res Policy Syst. 2018 May 29;16(1):45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29843743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Intern Med. 2013 Oct 14;173(18):1682-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23939297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Jan;25(1):175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24052631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2007;105(4):c178-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17347576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2000 Nov;15(11):1841-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11071975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2010 Sep;25(9):3050-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20392706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Mar 7;11(3):481-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26712809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ont Health Technol Assess Ser. 2010;10(2):1-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23074397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2008 Dec;8(12):2647-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18853956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Mar;6(3):620-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2008 Nov;3(6):1711-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18815242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplantation. 2018 Aug;102(8):1358-1366</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29470347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Transplant. 2018 Jul 11;:e13253</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29992675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Kidney Health Dis. 2014 May 12;1:5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25780600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Phys Med Rehabil. 2010 Nov;91(11):1705-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21044715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2009 Oct;24(10):1699-708</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19419296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Nov;72(9):1130-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17728707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Jan;7(1):146-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22052943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2018 Sep 7;13(9):1373-1380</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30131425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2014 Jun;164(6):1252-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24607245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2002 Jul;62(1):245-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12081584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Dec 27;367(26):2482-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23121374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Jan;71(1):31-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17091124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Jun;49(6):801-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17533023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2019 Jan 3;380(1):33-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30415629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

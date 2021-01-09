@@ -1,0 +1,245 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">31149066</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1841-0987</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>-5</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2019 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta endocrinologica (Bucharest, Romania : 2005)</Title>
+                <ISOAbbreviation>Acta Endocrinol (Buchar)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>IS THERE A RELATIONSHIP BETWEEN PARATHYROID HORMONE AND NEUTROPHIL LYMPHOCYTE RATIO OR PLATELET LYMPHOCYTE RATIO?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>96-101</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4183/aeb.2019.96</ELocationID>
+            <Abstract>
+                <AbstractText Label="Context" NlmCategory="UNASSIGNED">Neutrophil lymphocyte ratio (NLR) and platelet lymphocyte ratio (PLR) are recent prognostic markers associated with inflammation in many diseases such as chronic kidney disease (CKD), malignancies, myocardial infarction.</AbstractText>
+                <AbstractText Label="Objective" NlmCategory="UNASSIGNED">In this study, we investigated the relationship between NLR-PLR and parathyroid hormone (PTH) and vitamin D in patients with high PTH levels.</AbstractText>
+                <AbstractText Label="Design" NlmCategory="UNASSIGNED">The patients with high PTH levels in Nephrology and Endocrinolgy Outpatient clinics were evaluated retrospectively.</AbstractText>
+                <AbstractText Label="Subjects and methods" NlmCategory="UNASSIGNED">The medical records of the patients were examined and clinical data, including demographic details, clinical and laboratory findings, treatment and follow-up data were obtained. NLR and PLR were calculated. Serum creatinine, calcium, phosphorus, magnesium, lipid levels, calcium phosphorus product, PTH and vitamin D values were investigated. The relationship between NLR-PLR and laboratory parameters, GFR (MDRD-GFR), PTH and vitamin D were investigated.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">48 male and 253 female patients were enrolled in this study. The mean age was 57.57Â±13.28. NLR correlated negatively with albumin, hemoglobin, vitamin D, calcium and cholesterol and it positively correlated with creatinine and PTH. Multiple regression analysis showed that main determinants of NLR were PTH, albumin, LDL-cholesterol, hemoglobin and gender.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">In this study NLR and PLR correlated negatively with hemoglobin and cholesterol. Positive correlation between NLR and creatinine could be explained by increased degrees of inflammation associated with more pronounced degrees of renal dysfunction. The impact of PTH on NLR was independent of GFR. In multiple regression model this suggests that PTH could be a pro-inflammatory parameter independent of the degree of renal dysfunction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Toraman</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Celal Bayar&quot; University, Dept. of Nephrology, Manisa, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aras</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Celal Bayar&quot; University, Dept. of Nuclear Medicine, Manisa, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hekimsoy</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Celal Bayar&quot; University, Dept. of Endocrinology, Manisa, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kursat</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>&quot;Celal Bayar&quot; University, Dept. of Nephrology, Manisa, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Romania</Country>
+            <MedlineTA>Acta Endocrinol (Buchar)</MedlineTA>
+            <NlmUniqueID>101269720</NlmUniqueID>
+            <ISSNLinking>1841-0987</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">inflammation</Keyword>
+            <Keyword MajorTopicYN="N">neutrophil lymphocyte ratio</Keyword>
+            <Keyword MajorTopicYN="N">platelet lymphocyte ratio</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors have declared that they have no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31149066</ArticleId>
+            <ArticleId IdType="doi">10.4183/aeb.2019.96</ArticleId>
+            <ArticleId IdType="pii">aeb.2019.96</ArticleId>
+            <ArticleId IdType="pmc">PMC6535317</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1998 Dec;9(12 Suppl):S24-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11443765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2004 Jul;45(7):1169-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15102878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Sci Monit. 2008 Dec;14(12):CR628-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19043371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Princ Pract. 2012;21(3):249-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22179481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2013 Mar-Apr;26(2):358-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22573523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2013 Apr;98(4):E638-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23408568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hemodial Int. 2013 Jul;17(3):391-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23522328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetol Metab Syndr. 2015 Jun 12;7:53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26078787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ren Fail. 2016;38(1):70-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26540580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Surg. 2015 Jul;100(7-8):1185-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26595491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2016 Apr;20(2):118-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26929254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell Microenviron. 2016;3(1):e1116</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26949721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Med Sci. 2016 Aug 1;12(4):721-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27478451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Med Sci. 2016 Jul 05;13(8):588-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27499691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Iran J Kidney Dis. 2016 Jul;10(4):205-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27514767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Saudi J Kidney Dis Transpl. 2017 Jan-Feb;28(1):90-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28098108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Port Cardiol. 2017 Feb;36(2):97-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28159426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Lab Anal. 2018 Feb;32(2):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28378887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2017 Dec;118(12):4317-4322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28425575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Endocrinol (Buchar). 2016 Jul-Sep;12(3):282-290</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31149102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

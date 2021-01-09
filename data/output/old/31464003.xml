@@ -1,0 +1,508 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31464003</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>07</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-139X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>11</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Seminars in dialysis</Title>
+                <ISOAbbreviation>Semin Dial</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pathogenesis and management of vascular calcification in CKD and dialysis patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>553-561</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/sdi.12840</ELocationID>
+            <Abstract>
+                <AbstractText>Patients with chronic kidney disease (CKD) have a predisposition to develop vascular calcification due to dysregulated homeostatic mechanisms, which lead to an imbalance in the circulatory promoters and inhibitors of vascular calcification, leading to a net calcification stress. These factors promote ectopic calcification and induce vascular smooth muscle cells to undergo osteogenic differentiation and actively calcify the vascular media. The article summarizes clinically relevant pathogenic mechanisms of vascular calcification in patients with CKD and in dialysis patients and summarizes novel therapeutic interventions. In addition to the management of traditional cardiovascular risk factors, patients with CKD-mineral and bone disorder need close attention in the management of the mineral metabolism to prevent adverse effects on the bone and vascular compartments. This article reviews current evidence and therapeutic guidelines in the management of mineral metabolism in CKD and dialysis.</AbstractText>
+                <CopyrightInformation>Â© 2019 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kakani</LastName>
+                    <ForeName>Elijah</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hospital Medicine, University of Kentucky, Lexington, KY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elyamny</LastName>
+                    <ForeName>Mohamed</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Bone and Mineral Metabolism, University of Kentucky, Lexington, KY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayach</LastName>
+                    <ForeName>Taha</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Bone and Mineral Metabolism, University of Kentucky, Lexington, KY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El-Husseini</LastName>
+                    <ForeName>Amr</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Bone and Mineral Metabolism, University of Kentucky, Lexington, KY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Semin Dial</MedlineTA>
+            <NlmUniqueID>8911629</NlmUniqueID>
+            <ISSNLinking>0894-0959</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>UAZ6V7728S</RegistryNumber>
+                <NameOfSubstance UI="D000069449">Cinacalcet</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002115" MajorTopicYN="N">Calciphylaxis</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069449" MajorTopicYN="N">Cinacalcet</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061205" MajorTopicYN="N">Vascular Calcification</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31464003</ArticleId>
+            <ArticleId IdType="doi">10.1111/sdi.12840</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>REFERENCES</Title>
+            <Reference>
+                <Citation>Paloian NJ, Giachelli CM. A current understanding of vascular calcification in CKD. Am J Physiol Renal Physiol. 2014;307:F891-F900.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Amann K. Media calcification and intima calcification are distinct entities in chronic kidney disease. Clin J Am Soc Nephrol. 2008;3:1599-1605.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Disease: Improving global outcomes CKDMBDWG. KDIGO clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of Chronic Kidney Disease-Mineral and. Bone Disorder (CKD-MBD). Kidney Int Suppl. 2009;S1-S130.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>London GM, Guerin AP, Marchais SJ, Metivier F, Pannier B, Adda H. Arterial media calcification in end-stage renal disease: impact on all-cause and cardiovascular mortality. Nephrol Dial Transpl. 2003;18:1731-1740.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Russo D, Corrao S, Battaglia Y, et al. Progression of coronary artery calcification and cardiac events in patients with chronic renal disease not receiving dialysis. Kidney Int. 2011;80:112-118.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mizobuchi M, Towler D, Slatopolsky E. Vascular calcification: the killer of patients with chronic kidney disease. J Am Soc Nephrol. 2009;20:1453-1464.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>London GM. Arterial calcification: cardiovascular function and clinical outcome. Nefrologia. 2011;31:644-647.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Raggi P, Boulay A, Chasan-Taber S, et al. Cardiac calcification in adult hemodialysis patients. A link between end-stage renal disease and cardiovascular disease? J Am Coll Cardiol. 2002;39:695-701.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Daniel WT, Weber C, Bailey JA, Raggi P, Sharma J. Prospective analysis of coronary calcium in patients on dialysis undergoing a near-total parathyroidectomy. Surgery. 2013;154:1315-1321; discussion 21-2.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>O'Neill WC. Vascular calcification: not so crystal clear. Kidney Int. 2007;71:282-283.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Holt SG, Smith ER. Fetuin-A-containing calciprotein particles in mineral trafficking and vascular disease. Nephrol Dial Transpl. 2016;31:1583-1587.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cozzolino M, Galassi A, Biondi ML, et al. Serum fetuin-A levels link inflammation and cardiovascular calcification in hemodialysis patients. Am J Nephrol. 2006;26:423-429.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stenvinkel P, Wang K, Qureshi AR, et al. Low fetuin-A levels are associated with cardiovascular death: impact of variations in the gene encoding fetuin. Kidney Int. 2005;67:2383-2392.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lomashvili KA, Khawandi W, O'Neill WC. Reduced plasma pyrophosphate levels in hemodialysis patients. J Am Soc Nephrol. 2005;16:2495-2500.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>McCabe KM, Booth SL, Fu X, et al. Dietary vitamin K and therapeutic warfarin alter the susceptibility to vascular calcification in experimental chronic kidney disease. Kidney Int. 2013;83:835-844.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Holden RM, Booth SL, Day AG, et al. Inhibiting the progression of arterial calcification with vitamin K in HemoDialysis patients (iPACK-HD) trial: rationale and study design for a randomized trial of vitamin K in patients with end stage kidney disease. Can J Kidney Health Dis. 2015;2:17.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kurnatowska I, Grzelak P, Masajtis-Zagajewska A, et al. Effect of vitamin K2 on progression of atherosclerosis and vascular calcification in nondialyzed patients with chronic kidney disease stages 3-5. Pol Arch Med Wewn. 2015;125:631-640.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ruderman I, Holt SG, Hewitson TD, Smith ER, Toussaint ND. Current and potential therapeutic strategies for the management of vascular calcification in patients with chronic kidney disease including those on dialysis. Semin Dial. 2018;31:487-499.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Pasch A. Novel assessments of systemic calcification propensity. Curr Opin Nephrol Hypertens. 2016;25:278-284.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bressendorff I, Hansen D, Schou M, Pasch A, Brandi L. The effect of increasing dialysate magnesium on serum calcification propensity in subjects with end stage kidney disease: a randomized, controlled clinical trial. Clin J Am Soc Nephrol. 2018;13:1373-1380.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Gross P, Six I, Kamel S, Massy ZA. Vascular toxicity of phosphate in chronic kidney disease: beyond vascular calcification. Circ J. 2014;78:2339-2346.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sugatani T. Systemic activation of activin a signaling causes chronic kidney disease-mineral bone disorder. Int J Mol Sci. 2018;19:2490.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schoppet M, Hofbauer LC, Brinskelle-Schmal N, et al. Serum level of the phosphaturic factor FGF23 is associated with abdominal aortic calcification in men: the STRAMBO study. J Clin Endocrinol Metab. 2012;97:E575-E583.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Desjardins L, Liabeuf S, Renard C, et al. FGF23 is independently associated with vascular calcification but not bone mineral density in patients at various CKD stages. Osteoporos Int. 2012;23:2017-2025.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Freedman BI, Divers J, Russell GB, et al. Plasma FGF23 and calcified atherosclerotic plaque in african americans with type 2 diabetes mellitus. Am J Nephrol. 2015;42:391-401.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Floege J, Kim J, Ireland E, et al. Serum iPTH, calcium and phosphate, and the risk of mortality in a European haemodialysis population. Nephrol Dial Transpl. 2011;26:1948-1955.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Klassen PS, Lazarus JM, Ofsthun N, Lowrie EG, Chertow GM. Mineral metabolism, mortality, and morbidity in maintenance hemodialysis. J Am Soc Nephrol. 2004;15:2208-2218.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Coen G, Manni M, Mantella D, et al. Are PTH serum levels predictive of coronary calcifications in haemodialysis patients? Nephrol Dial Transpl. 2007;22:3262-3267.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Neves K-R, Graciolli F-G, dos Reis L-M, et al. Vascular calcification: contribution of parathyroid hormone in renal failure. Kidney Int. 2007;71:1262-1270.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Picton ML, Moore PR, Mawer EB, et al. Down-regulation of human osteoblast PTH/PTHrP receptor mRNA in end-stage renal failure. Kidney Int. 2000;58:1440-1449.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Rhee H, Song SH, Kwak IS, et al. Persistently low intact parathyroid hormone levels predict a progression of aortic arch calcification in incident hemodialysis patients. Clin Exp Nephrol. 2012;16:433-441.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lee SA, Lee MJ, Ryu GW, et al. Low serum intact parathyroid hormone level is an independent risk factor for overall mortality and major adverse cardiac and cerebrovascular events in incident dialysis patients. Osteoporos Int. 2016;27:2717-2726.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>London GM, Marty C, Marchais SJ, Guerin AP, Metivier F, de Vernejoul MC. Arterial calcifications and bone histomorphometry in end-stage renal disease. J Am Soc Nephrol. 2004;15:1943-1951.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hernandes FR, Canziani M, Barreto FC, et al. The shift from high to low turnover bone disease after parathyroidectomy is associated with the progression of vascular calcification in hemodialysis patients: a 12-month follow-up study. PLoS ONE. 2017;12:e0174811.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bover J, UreÃ±a P, Brandenburg V, et al. Adynamic bone disease: from bone to vessels in chronic kidney disease. Semin Nephrol. 2014;34:626-640.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Asci G, Ok E, Savas R, et al. The link between bone and coronary calcifications in CKD-5 patients on haemodialysis. Nephrol Dial Transpl. 2011;26:1010-1015.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hayashi M, Takamatsu I, Kanno Y, Yoshida T, Abe T, Sato Y. A case-control study of calciphylaxis in Japanese end-stage renal disease patients. Nephrol Dial Transpl. 2012;27:1580-1584.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hamano T, Matsui I, Mikami S, et al. Fetuin-mineral complex reflects extraosseous calcification stress in CKD. J Am Soc Nephrol. 2010;21:1998-2007.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Smith ER, Ford ML, Tomlinson LA, Rajkumar C, McMahon LP, Holt SG. Phosphorylated fetuin-A-containing calciprotein particles are associated with aortic stiffness and a procalcific milieu in patients with predialysis CKD. Nephrol Dial Transpl. 2012;27:1957-1966.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stevens LA, Djurdjev O, Cardew S, Cameron EC, Levin A. Calcium, phosphate, and parathyroid hormone levels in combination and as a function of dialysis duration predict mortality: evidence for the complexity of the association between mineral metabolism and outcomes. J Am Soc Nephrol. 2004;15:770-779.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kurz P, Monier-Faugere M-C, Bognar B, et al. Evidence for abnormal calcium homeostasis in patients with adynamic bone disease. Kidney Int. 1994;46:855-861.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>London GM, Marchais SJ, Guerin AP, Boutouyrie P, Metivier F, de Vernejoul MC. Association of bone activity, calcium load, aortic stiffness, and calcifications in ESRD. J Am Soc Nephrol. 2008;19:1827-1835.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Tomiyama C, Carvalho AB, Higa A, Jorgetti V, Draibe SA, Canziani ME. Coronary calcification is associated with lower bone formation rate in CKD patients not yet in dialysis treatment. J Bone Miner Res. 2010;25:499-504.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Mathew S, Lund RJ, Strebeck F, Tustison KS, Geurs T, Hruska KA. Reversal of the adynamic bone disorder and decreased vascular calcification in chronic kidney disease by sevelamer carbonate therapy. J Am Soc Nephrol. 2007;18:122-130.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Cozzolino M, Dusso AS, Liapis H, et al. The effects of sevelamer hydrochloride and calcium carbonate on kidney calcification in uremic rats. J Am Soc Nephrol. 2002;13:2299-2308.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Spiegel DM, Ehrlich J, et al. Effects of sevelamer and calcium on coronary artery calcification in patients new to hemodialysis. Kidney Int. 2005;68:1815-1824.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chertow GM, Burke SK, Raggi P, for the Treat to Goal Working Group. Sevelamer attenuates the progression of coronary and aortic calcification in hemodialysis patients. Kidney Int. 2002;62:245-252.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Russo D, Miranda I, Ruocco C, et al. The progression of coronary artery calcification in predialysis patients on calcium carbonate or sevelamer. Kidney Int. 2007;72:1255-1261.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Raggi P, Bellasi A, Kooienga L, Spiegel DM. Mortality effect of coronary calcification and phosphate binder choice in incident hemodialysis patients. Kidney Int. 2007;71:438-441.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>St Peter WL, Liu J, Weinhandl E, Fan Q. A comparison of sevelamer and calcium-based phosphate binders on mortality, hospitalization, and morbidity in hemodialysis: a secondary analysis of the Dialysis Clinical Outcomes Revisited (DCOR) randomized trial using claims data. Am J Kidney Dis. 2008;51:445-454.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Suki WN, Zabaneh R, Cangiano JL, et al. Effects of sevelamer and calcium-based phosphate binders on mortality in hemodialysis patients. Kidney Int. 2007;72:1130-1137.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Westenfeld R, Krueger T, Schlieper G, et al. Effect of vitamin K2 supplementation on functional vitamin K deficiency in hemodialysis patients: a randomized trial. Am J Kidney Dis. 2012;59:186-195.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Caluwe R, Vandecasteele S, Van Vlem B, Vermeer C, De Vriese AS. Vitamin K2 supplementation in haemodialysis patients: a randomized dose-finding study. Nephrol Dial Transpl. 2014;29:1385-1390.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Caluwe R, Pyfferoen L, De Boeck K, De Vriese AS. The effects of vitamin K supplementation and vitamin K antagonists on progression of vascular calcification: ongoing randomized controlled trials. Clin Kidney J. 2016;9:273-279.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nigwekar SU, Bloch DB, Nazarian RM, et al. Vitamin K-dependent carboxylation of matrix Gla protein influences the risk of calciphylaxis. J Am Soc Nephrol. 2017;28:1717-1722.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Isakova T, Nickolas TL, Denburg M, et al. KDOQI US Commentary on the 2017 KDIGO Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD). Am J Kidney Dis. 2017;70:737-751.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Investigators ET, Chertow GM, Block GA, et al. Effect of cinacalcet on cardiovascular disease in patients undergoing dialysis. New England J Med. 2012;367:2482-2494.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM. Rationale to reduce calcium intake in adult patients with chronic kidney disease. Curr Opin Nephrol Hypertens. 2018;27:251-257.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Wheeler DC, Persky MS, et al. Effects of phosphate binders in moderate CKD. J Am Soc Nephrol. 2012;23:1407-1415.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ketteler M, Block GA, Evenepoel P, et al. Executive summary of the 2017 KDIGO Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD) Guideline Update: what's changed and why it matters. Kidney Int. 2017;92:26-36.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Basile C, Libutti P, Lomonte C. The diffusion gradient between the ionized calcium concentration in the dialysate and in the blood is the main driving force of the net calcium mass balance during haemodialysis. Nephrol Dial Transplant. 2010;25(4):1356-1357.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Raggi P, Chertow GM, Torres PU, et al. The ADVANCE study: a randomized study to evaluate the effects of cinacalcet plus low-dose vitamin D on vascular calcification in patients on hemodialysis. Nephrol Dial Transpl. 2011;26:1327-1339.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lopez I, Mendoza FJ, Aguilera-Tejero E, et al. The effect of calcitriol, paricalcitol, and a calcimimetic on extraosseous calcifications in uremic rats. Kidney Int. 2008;73:300-307.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Coen G. Calcimimetics, parathyroid hormone, and vascular calcification in chronic kidney disease. Kidney Int. 2008;74:1229-1231.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ivanovski O, Nikolov IG, Joki N, et al. The calcimimetic R-568 retards uremia-enhanced vascular calcification and atherosclerosis in apolipoprotein E deficient (apoE-/-) mice. Atherosclerosis. 2009;205:55-62.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Koleganova N, Piecha G, Ritz E, Schmitt CP, Gross ML. A calcimimetic (R-568), but not calcitriol, prevents vascular remodeling in uremia. Kidney Int. 2009;75:60-71.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lopez I, Aguilera-Tejero E, Mendoza FJ, et al. Calcimimetic R-568 decreases extraosseous calcifications in uremic rats treated with calcitriol. J Am Soc Nephrol. 2006;17:795-804.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Barreto FC, Barreto DV, MoysÃ©s R, et al. K/DOQI-recommended intact PTH levels do not prevent low-turnover bone disease in hemodialysis patients. Kidney Int. 2008;73:771-777.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>McCabe KM, Zelt JG, Kaufmann M, et al. Calcitriol accelerates vascular calcification irrespective of vitamin K status in a rat model of chronic kidney disease with hyperphosphatemia and secondary hyperparathyroidism. J Pharmacol Exp Ther. 2018;366:433-445.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nordal KP, Dahl E. Low dose calcitriol versus placebo in patients with predialysis chronic renal failure. J Clin Endocrinol Metab. 1988;67:929-936.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hamdy N, Kanis JA, Beneton M, et al. Effect of alfacalcidol on natural course of renal bone disease in mild to moderate renal failure. BMJ. 1995;310:358-363.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Thadhani R, Appelbaum E, Pritchett Y, et al. Vitamin D therapy and cardiac structure and function in patients with chronic kidney disease: the PRIMO randomized controlled trial. JAMA. 2012;307:674-684.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wang A-M, Fang F, Chan J, et al. Effect of paricalcitol on left ventricular mass and function in CKD-the OPERA trial. J Am Soc Nephrol. 2014;25:175-186.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM. Calcium as a cardiovascular toxin in CKD-MBD. Bone. 2017;100:94-99.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hill Gallant KM, Spiegel DM. Calcium balance in chronic kidney disease. Curr Osteoporos Rep. 2017;15:214-221.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wilson RJ, Copley JB. Elemental calcium intake associated with calcium acetate/calcium carbonate in the treatment of hyperphosphatemia. Drugs Context. 2017;6:212302.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wang AY. Calcium balance and negative impact of calcium load in peritoneal dialysis patients. Perit Dial Int. 2014;34:345-352.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Rattazzi M, Bertacco E, Del Vecchio A, Puato M, Faggin E, Pauletto P. Aortic valve calcification in chronic kidney disease. Nephrol Dial Transpl. 2013;28:2968-2976.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Spiegel DM, Brady K. Calcium balance in normal individuals and in patients with chronic kidney disease on low- and high-calcium diets. Kidney Int. 2012;81:1116-1122.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Savica V, Bellinghieri G, Monardo P, Muraca U, Santoro D. An update on calcium metabolism alterations and cardiovascular risk in patients with chronic kidney disease: questions, myths and facts. J Nephrol. 2013;26:456-464.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM, Seifert MF, Chen NX, et al. R-568 reduces ectopic calcification in a rat model of chronic kidney disease-mineral bone disorder (CKD-MBD). Nephrol Dial Transpl. 2009;24:2371-2377.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lipsker D, Chosidow O, Martinez F, Challier E, FrancÃ¨s C. Low-calcium dialysis in calciphylaxis. Arch Dermatol. 1997;133:798-799.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Robinson MR, Augustine JJ, Korman NJ. Cinacalcet for the treatment of calciphylaxis. Arch Dermatol. 2007;143:152-154.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Velasco N, MacGregor MS, Innes A, MacKay IG. Successful treatment of calciphylaxis with cinacalcet-an alternative to parathyroidectomy? Nephrol Dial Transpl. 2006;21:1999-2004.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Arch-Ferrer JE, Beenken SW, Rue LW, Bland KI, Diethelm AG. Therapy for calciphylaxis: an outcome analysis. Surgery. 2003;134:941-944.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Dereure O, Leray H, Barneon G, Canaud B, Mion C, Guilhou JJ. Extensive necrotizing livedo reticularis in a patient with chronic renal failure, hyperparathyroidism and coagulation disorder: regression after subtotal parathyroidectomy. Dermatology. 1996;192:167-170.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Massry SG, Gordon A, Coburn JW, et al. Vascular calcification and peripheral necrosis in a renal transplant recipient. Reversal of lesions following subtotal parathyroidectomy. Am J Med. 1970;49:416-422.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hanafusa T, Yamaguchi Y, Tani M, Umegaki N, Nishimura Y, Katayama I. Intractable wounds caused by calcific uremic arteriolopathy treated with bisphosphonates. J Am Acad Dermatol. 2007;57:1021-1025.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Price PA, Faus SA, Williamson MK. Bisphosphonates alendronate and ibandronate inhibit artery calcification at doses comparable to those that inhibit bone resorption. Arterioscler Thromb Vasc Biol. 2001;21:817-824.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Raymond CB, Wazny LD. Sodium thiosulfate, bisphosphonates, and cinacalcet for treatment of calciphylaxis. Am J Health Syst Pharm. 2008;65:1419-1429.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Torregrosa JV, DurÃ¡n CE, Barros X, et al. Successful treatment of calcific uraemic arteriolopathy with bisphosphonates. Nefrologia. 2012;32:329-334.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Brandenburg VM, Evenepoel P, Floege J, et al. Lack of evidence does not justify neglect: how can we address unmet medical needs in calciphylaxis? Nephrol Dial Transpl. 2016;31:1211-1219.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Fernandes C, Maynard B, Hanna D. Successful treatment of calciphylaxis with intravenous sodium thiosulfate in a nonuremic patient: case report and review of therapy side effects. J Cutan Med Surg. 2014;18:356-360.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Guerra G, Shah RC, Ross EA. Rapid resolution of calciphylaxis with intravenous sodium thiosulfate and continuous venovenous haemofiltration using low calcium replacement fluid: case report. Nephrol Dial Transpl. 2005;20:1260-1262.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Schlieper G, Brandenburg V, Ketteler M, Floege J. Sodium thiosulfate in the treatment of calcific uremic arteriolopathy. Nat Rev Nephrol. 2009;5:539-543.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Urena-Torres P, Bridges I, Christiano C, et al. Efficacy of cinacalcet with low-dose vitamin D in incident haemodialysis subjects with secondary hyperparathyroidism. Nephrol Dial Transpl. 2013;28:1241-1254.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wetmore JB, Gurevich K, Sprague S, et al. A randomized trial of cinacalcet versus vitamin D analogs as monotherapy in secondary hyperparathyroidism (PARADIGM). Clin J Am Soc Nephrol. 2015;10:1031-1040.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Behets GJ, Spasovski G, Sterling LR, et al. Bone histomorphometry before and after long-term treatment with cinacalcet in dialysis patients with secondary hyperparathyroidism. Kidney Int. 2015;87(4):846-856.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

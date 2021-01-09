@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30646860</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2369</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>01</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC nephrology</Title>
+                <ISOAbbreviation>BMC Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum 25-Hydroxyvitamin D were associated with higher risk of both albuminuria and impaired GFR incidence: a cohort study based on CLHLS study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12882-019-1202-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">This study aimed to examine the relationship between 25-hyfromxyvitamin D (25OHD) and chronic kidney disease (CKD) incidence.</AbstractText>
+                <AbstractText Label="METHODS">All the elderly who had participated both in the 2011-2012 survey and 2014 survey in the Chinese Longitudinal Healthy Longevity Survey (CLHLS), and have biomarker data were included in the analysis. We studied those without CKD with complete data at 2011-2012 waves. Serum 25-Hydroxyvitamin D was assessed at baseline. Cox proportional risk model was used to evaluate associations between serum 25-Hydroxyvitamin D and CKD (including both albuminuria and impaired eGFR) incidence after adjusted for potential confounding..</AbstractText>
+                <AbstractText Label="RESULTS">During the follow-up years, 255 incident cases of CKD were diagnosed. Those who developed CKD had relatively lower serum 25(OH)D (mean 37.63 vs.51.36ânmol/L, pâ&lt;â0.001) compared with those who remained free of CKD. Each 1ânmol/L increase in 25(OH)D was associated with 3.4% reduced risk of CKD (HRâ=â0.966, 95%CI: 0.959-0.973) after adjusted for related covariates. The HRs of each 1ânmol/L increase in 25(OH)D for albuminuria and impaired eGFR were 0.952(95%CI: 0.941-0.963) and 0.975(95%CI: 0.966-0.983) respectively. When use the classifications (sufficiency, insufficiency, deficiency) or quintiles of baseline 25(OH)D levels in the Cox model, the corresponding HRs showed an increasing trend along with the decrease of baseline 25(OH)D levels (p for trend &lt;â0.001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Higher 25(OH)D levels were inversely and independently associated with CKD incidence among Chinese elderly. The trend for the observed linear relationship b was most pronounced among the lowest quintile.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Miao</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">0000-0002-7975-6702</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Geriatrics, Beijing Key Laboratory of Aging and Geriatrics, National clinical research center for geriatrics diseases, State Key Laboratory of Kidney Diseases, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China. liumiaolmbxb@163.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jianhua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Geriatrics, Beijing Key Laboratory of Aging and Geriatrics, National clinical research center for geriatrics diseases, State Key Laboratory of Kidney Diseases, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Geriatrics, Beijing Key Laboratory of Aging and Geriatrics, National clinical research center for geriatrics diseases, State Key Laboratory of Kidney Diseases, Chinese PLA General Hospital, 28 Fuxing Road, Beijing, 100853, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Nephrol</MedlineTA>
+            <NlmUniqueID>100967793</NlmUniqueID>
+            <ISSNLinking>1471-2369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000419" MajorTopicYN="N">Albuminuria</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002681" MajorTopicYN="N" Type="Geographic">China</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007674" MajorTopicYN="N">Kidney Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008137" MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Albuminuria 25-Hydroxyvitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Cohort</Keyword>
+            <Keyword MajorTopicYN="Y">Impaired glomerular filtration rate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>1</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30646860</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12882-019-1202-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12882-019-1202-8</ArticleId>
+            <ArticleId IdType="pmc">PMC6332878</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Ren Nutr. 2011 Jul;21(4):295-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20817560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Res Paediatr. 2014;81(6):363-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24776698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 Jan;75(1):88-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18843258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2005 Aug;14(8):1991-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16103450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NDT Plus. 2009 Jun;2(3):205-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25983993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2010 Mar;119(1-2):73-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20064609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2012 Jul 03;13:55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22759247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Feline Med Surg. 2013 Sep;15 Suppl 1:3-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23999182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Int Med Res. 2011;39(6):2273-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22289543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2016 Jan;101(1):33-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26509869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Endocr Disord. 2013 Aug 23;13:33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23971740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2012 Jul 21;380(9838):213-4; author reply 214-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22817966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Jul;50(1):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17591526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Sep;6(9):2141-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21836148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Jan;41(1):1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12500213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2004 Sep-Oct;24(5):503-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15452403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Jul;96(7):1911-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21646368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Environ Res Public Health. 2017 Jan 28;14(2):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28134804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2015 Jul;20(7):474-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25773384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2006 Jan;69(1):33-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16374421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2010 Feb;95(2):471-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20133466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

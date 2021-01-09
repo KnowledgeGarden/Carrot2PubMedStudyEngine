@@ -1,0 +1,550 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">32968158</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>09</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of cholecalciferol on serum hepcidin and parameters of anaemia and CKD-MBD among haemodialysis patients: a randomized clinical trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>15500</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/s41598-020-72385-w</ELocationID>
+            <Abstract>
+                <AbstractText>In this multicentre double-blind randomized clinical trial, we investigated the effects of oral cholecalciferol supplementation on serum hepcidin and parameters related to anaemia and CKD-MBD among haemodialysis patients. Participants were assigned in a 2:2:1:1 ratio to either (1) thrice-weekly 3,000-IU cholecalciferol, (2) once-monthly cholecalciferol (equivalent to 9,000Â IU/week), (3) thrice-weekly placebo, or (4) once-monthly placebo. We also examined the effect modifications by selected single nucleotide polymorphisms in vitamin D-related genes. Out of 96 participants, 94 were available at Month 3, and 88 completed the 6-month study. After adjustment for baseline values, serum hepcidin levels were higher at Day 3 in the combined cholecalciferol (vs. placebo) group, but were lower at Month 6 with increased erythropoietin resistance. Cholecalciferol increased serum 1,25(OH)<sub>2</sub>D levels, resulting in a greater proportion of patients who reduced the dose of active vitamin D at Month 6 (31% vs. 10% in the placebo group). Cholecalciferol also suppressed intact PTH only among patients with severe vitamin D deficiency. In conclusion, cholecalciferol supplementation increases serum hepcidin-25 levels in the short term and may increase erythropoietin resistance in the long term among haemodialysis patients. Both thrice-weekly and once-monthly supplementation effectively increases serum 1,25(OH)<sub>2</sub>D levels, and hence, reduces active vitamin D drugs.Clinical Trial Registry: This study was registered at ClinicalTrials.gov and University Hospital Medical Information Network Clinical Trials Registry (UMIN-CTR) as NCT02214563 (registration date: 12/08/2014) and UMIN000011786 (registration date: 15/08/2014), respectively (please refer to the links below). ClinicalTrials.gov: https://clinicaltrials.gov/ct2/show/record/NCT02214563 . UMIN-CTR: https://upload.umin.ac.jp/cgi-open-bin/ctr/ctr.cgi?function=brows&amp;action=brows&amp;type=summary&amp;recptno=R000017152&amp;language=E .</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Obi</LastName>
+                    <ForeName>Yoshitsugu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Obi Clinic, Osaka, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, University of Tennessee Health Science Centre, Memphis, TN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamaguchi</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamano</LastName>
+                    <ForeName>Takayuki</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan. hamatea@kid.med.osaka-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inter-Organ Communication Research in Kidney Disease, Osaka University Graduate School of Medicine, 2-2 Yamada-oka, Suita, Osaka, 565-0871, Japan. hamatea@kid.med.osaka-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Nagoya City University Graduate School of Medical Science, Nagoya, Japan. hamatea@kid.med.osaka-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakaguchi</LastName>
+                    <ForeName>Yusuke</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inter-Organ Communication Research in Kidney Disease, Osaka University Graduate School of Medicine, 2-2 Yamada-oka, Suita, Osaka, 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shimomura</LastName>
+                    <ForeName>Akihiro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Inter-Organ Communication Research in Kidney Disease, Osaka University Graduate School of Medicine, 2-2 Yamada-oka, Suita, Osaka, 565-0871, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Namba-Hamano</LastName>
+                    <ForeName>Tomoko</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikami</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Higashikouri Hospital, Hirakata, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishi</LastName>
+                    <ForeName>Osamu</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nishi Clinic, Osaka, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Motoko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Akebono Clinic, Kumamoto, Kumamoto, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamoto</LastName>
+                    <ForeName>Akihito</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Futaba Clinic, Osaka, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Obi</LastName>
+                    <ForeName>Yasue</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Obi Clinic, Osaka, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomosugi</LastName>
+                    <ForeName>Naohisa</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Advanced Medicine, Medical Research Institute, Kanazawa Medical University, Kawakita, Ishikawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Care Proteomics Biotechnology Co., Ltd, Kawakita, Ishikawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsubakihara</LastName>
+                    <ForeName>Yoshiharu</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Management in Health Care Sciences, Graduate School of Health Care Sciences, Jikei Institute, Osaka, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Isaka</LastName>
+                    <ForeName>Yoshitaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Osaka University Graduate School of Medicine, Suita, Osaka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT02214563</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+                <DataBank>
+                    <DataBankName>UMIN-CTR</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>UMIN000011786</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D064451">Hepcidins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1C6V77QF41</RegistryNumber>
+                <NameOfSubstance UI="D002762">Cholecalciferol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000740" MajorTopicYN="N">Anemia</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002762" MajorTopicYN="N">Cholecalciferol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004334" MajorTopicYN="N">Drug Administration Schedule</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064451" MajorTopicYN="N">Hepcidins</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>5</Hour>
+                <Minute>31</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32968158</ArticleId>
+            <ArticleId IdType="doi">10.1038/s41598-020-72385-w</ArticleId>
+            <ArticleId IdType="pii">10.1038/s41598-020-72385-w</ArticleId>
+            <ArticleId IdType="pmc">PMC7512011</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2014 Feb;99(2):527-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24285688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Heart Fail. 2010 Sep;12(9):943-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20601671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jun;27(6):1801-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26677862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2008 Jun 15;111(12):5727-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18326822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Nov;64(5):696-705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24856872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2016 Oct;65(4):748-757</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27245430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2010 Apr;77(8):715-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20130525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Haematol. 2013 Mar;90(3):237-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23281632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2010 Sep;31(18):2253-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20688781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2015 Jul 14;314(2):170-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26172896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2011;117(4):c373-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21071961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Aug;4(8):1384-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19556376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Mar;25(3):545-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19775201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 May;7(5):810-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22362065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Prev Res (Phila). 2012 Oct;5(10):1229-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22926340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Apr 7;10(4):611-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25770176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1999 Apr 28;281(16):1505-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10227320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1982 Mar;69(3):722-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6895901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Mar 15;11(3):e0151601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26978524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Nutr. 2017 Aug;36(4):980-985</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27402475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2014 Mar;25(3):564-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24204002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Dec;7(12):1938-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23024164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jan 31;7:41170</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28139665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Dec;70(6):737-751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28941764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1998 Mar 19;338(12):777-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9504937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 May;5(5):905-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2006 Nov;21(11):1778-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17002574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2013 Dec;3(5):469-475</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25019032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Feb 10;10(2):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29439405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2014 Oct;99(10):E2133-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25070320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Mar 25;9(4):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28346348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Jul;8(7):1143-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23493381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2016 Nov;26(6):380-390</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27475338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2005 Jun;45(6):1026-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15957131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2017 Jun 30;12(6):e0179540</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28665937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Apr;57(4):1688-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10760105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dis Markers. 2015;2015:868961</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25883412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood Adv. 2018 Jun 12;2(11):1207-1219</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29844206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

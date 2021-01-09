@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29614098</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>07</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS One</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel calcimimetic agent, evocalcet (MT-4580/KHK7580), suppresses the parathyroid cell function with little effect on the gastrointestinal tract or CYP isozymes in vivo and in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0195316</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0195316</ELocationID>
+            <Abstract>
+                <AbstractText>Cinacalcet hydrochloride (cinacalcet), an oral calcimimetic agent has been widely used for the management of secondary hyperparathyroidism (SHPT) in chronic kidney disease (CKD). In sharp contrast to vitamin D receptor activators, cinacalcet suppresses SHPT without inducing hypercalcemia or hyperphosphatemia. Nevertheless, some patients remain refractory to SHPT with this agent, as the dose cannot be sufficiently increased due to gastrointestinal symptoms. In order to resolve this issue, we have developed a newly synthesized calcimimetic agent, evocalcet (MT-4580/KHK7580). In a rat model of CKD induced by 5/6 nephrectomy, oral administration of evocalcet efficiently suppressed the secretion of parathyroid hormone (PTH). With regard to the gastro-intestinal effects, cinacalcet induced a significant delay in gastric emptying in rats, while evocalcet did no marked effects on it. Evocalcet also demonstrated the less induction of emesis compared to cinacalcet in common marmosets. The pharmacological effects of evocalcet were observed at lower doses because of its higher bioavailability than cinacalcet, which may have contributed to the reduced GI tract symptoms. In addition, evocalcet showed no substantial direct inhibition of any CYP isozymes in in vitro liver microsome assay, suggesting a better profile in drug interactions than cinacalcet that inhibits cytochrome P450 (CYP) 2D6. These findings suggest that evocalcet can be a better alternative to cinacalcet, an oral calcimimetic agent, with a wider safety margin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kawata</LastName>
+                    <ForeName>Takehisa</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Research Laboratories, Nephrology R&amp;D Unit, R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tokunaga</LastName>
+                    <ForeName>Shin</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Research Laboratories, Nephrology R&amp;D Unit, R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murai</LastName>
+                    <ForeName>Miki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Core Function Laboratories, Research Functions Unit, R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masuda</LastName>
+                    <ForeName>Nami</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Takasaki Plant, Production Division, Kyowa Hakko Kirin Co., Ltd., Gunma, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haruyama</LastName>
+                    <ForeName>Waka</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Research Laboratories, Nephrology R&amp;D Unit, R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shoukei</LastName>
+                    <ForeName>Youji</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Core Function Laboratories, Research Functions Unit, R&amp;D Division, Kyowa Hakko Kirin Co., Ltd., Shizuoka, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hisada</LastName>
+                    <ForeName>Yutaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Unit, Innovative Research Division, Mitsubishi Tanabe Pharma Corporation., Kanagawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yanagida</LastName>
+                    <ForeName>Tetsuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Unit, Innovative Research Division, Mitsubishi Tanabe Pharma Corporation., Kanagawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyazaki</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Unit, Innovative Research Division, Mitsubishi Tanabe Pharma Corporation., Kanagawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wada</LastName>
+                    <ForeName>Michihito</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Affairs Department, Kyowa Hakko Kirin Co., Ltd., Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akizawa</LastName>
+                    <ForeName>Tadao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Showa University School of Medicine, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukagawa</LastName>
+                    <ForeName>Masafumi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Endocrinology and Metabolism, Tokai University School of Medicine, Kanagawa, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D057966">Calcimimetic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D065607">Cytochrome P-450 Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007527">Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D044169">Receptors, Calcium-Sensing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9035-51-2</RegistryNumber>
+                <NameOfSubstance UI="D003577">Cytochrome P-450 Enzyme System</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>UAZ6V7728S</RegistryNumber>
+                <NameOfSubstance UI="D000069449">Cinacalcet</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000284" MajorTopicYN="N">Administration, Oral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057966" MajorTopicYN="N">Calcimimetic Agents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002144" MajorTopicYN="N">Callithrix</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069449" MajorTopicYN="N">Cinacalcet</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065607" MajorTopicYN="N">Cytochrome P-450 Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003577" MajorTopicYN="N">Cytochrome P-450 Enzyme System</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004353" MajorTopicYN="N">Drug Evaluation, Preclinical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041981" MajorTopicYN="N">Gastrointestinal Tract</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007527" MajorTopicYN="N">Isoenzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010280" MajorTopicYN="N">Parathyroid Glands</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044169" MajorTopicYN="N">Receptors, Calcium-Sensing</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014839" MajorTopicYN="N">Vomiting</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29614098</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0195316</ArticleId>
+            <ArticleId IdType="pii">PONE-D-17-37872</ArticleId>
+            <ArticleId IdType="pmc">PMC5882164</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Sep;7(9):1473-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22822017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Oncol Pharm Pract. 2005 Jun;11(2):63-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16460607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2006 Sep 7;12(33):5363-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16981269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacokinet. 2007;46(6):495-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17518508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Jan;85(1):166-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23903367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Dec 27;367(26):2482-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23121374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2013 Apr;17(2):221-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23551679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2013;10(4):e1001436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23637579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Ther. 2006 Mar;109 (3):339-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16102839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Ther Pat. 2011 May;21(5):681-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21406038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2017 Jan 10;317(2):156-164</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28097356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Sep;6(9):2280-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21836149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2006;24(4):300-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16816924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Pharmacol. 2007 Oct;47(10):1311-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17652181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Pharmacother. 2017 Apr;18(5):529-534</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28277829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl (2011). 2013 Dec;3(5):436-441</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25019026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Apr 8;350(15):1516-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15071126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacokinet. 2009;48(5):303-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19566113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2008 Sep;52(3):519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18514987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Gastroenterol. 2012;25(2):106-118</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24713845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2008 Jan;23(1):328-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17717030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2005 Oct;68(4):1793-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2015 Jun 5;10(6):1031-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25904755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Apr;6(4):913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21454719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2002 Feb 20;39(4):695-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11849871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2014 Jul;350(1):153-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24784567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hemodial Int. 2010 Jan;14(1):68-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19732171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ther Apher Dial. 2016 Feb;20(1):6-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26879490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2004 Feb;308(2):627-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14593085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Apr;26(4):1327-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

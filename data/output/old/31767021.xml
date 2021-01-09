@@ -1,0 +1,427 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31767021</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1479-5876</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>11</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of translational medicine</Title>
+                <ISOAbbreviation>J Transl Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Renal involvement and metabolic alterations in adults patients affected by cystic fibrosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>388</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12967-019-02139-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Cystic fibrosis (CF) is one of the most frequent genetic diseases and the median survival of these patients has improved in the last few decades, therefore it becomes necessary to evaluate the long-term complications as renal and cardiovascular risk factors.</AbstractText>
+                <AbstractText Label="AIM OF THE STUDY">To evaluate the incidence, the manifestations of renal disease and the possible association with metabolic and endothelial dysfunction markers in the CF population.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS">We performed a cross-sectional, observational study on 226 CF patients. Clinical and laboratory instrumental parameters (metabolic, inflammatory and endothelial dysfunction markers) were evaluated.</AbstractText>
+                <AbstractText Label="RESULTS">We showed 65 patients with chronic kidney disease (CKD) and 158 patients with a reduced value of forced expiratory volume in 1Â s (FEV1), of which 58 patients with a severe reduction of FEV1. Moreover 28 patients had undergone lung transplantation and them had a significant lower estimated Glomerular Filtration Rate (eGFR) with respect to the non-transplanted patients (pâ&lt;â0.001). We reported also a significant association between lower eGFR value and serum triglycerides, total cholesterol and low-density lipoproteins (LDL) (pâ=â0.005, pâ&lt;â0.001, pâ=â0.040; respectively), with a significant negative correlation between eGFR and serum triglycerides (râ=â-â0.28; pâ&lt;â0.01). Moreover we found a significant association between lower eGFR value and serum uric acid (SUA) (pâ=â0.005), while we did not found an association with 25-hydroxy-vitamin-D value, serum glucose and hemoglobin A1c levels.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Our study showed a high prevalence of CKD in CF patients. Moreover we showed an increase of endothelial dysfunction and metabolic indexes in patients with reduced renal function, as SUA, serum triglycerides and LDL, suggesting the need for an early and complete screening of the main metabolic indexes to reduce cardiovascular risk and progression of renal damage, in particular in patients with lung transplant.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational and Precision Medicine, Nephrology and Dialysis Unit, &quot;Sapienza&quot; University of Rome, Viale dell'UniversitÃ  37, 00185, Rome, Italy. silvia.lai@uniroma1.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazzaferro</LastName>
+                    <ForeName>Sandro</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational and Precision Medicine, Nephrology and Dialysis Unit, &quot;Sapienza&quot; University of Rome, Viale dell'UniversitÃ  37, 00185, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitterhofer</LastName>
+                    <ForeName>Anna Paola</ForeName>
+                    <Initials>AP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational and Precision Medicine, Nephrology and Dialysis Unit, &quot;Sapienza&quot; University of Rome, Viale dell'UniversitÃ  37, 00185, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonci</LastName>
+                    <ForeName>Enea</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Experimental Medicine, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marotta</LastName>
+                    <ForeName>Paolo Giangreco</ForeName>
+                    <Initials>PG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational and Precision Medicine, Nephrology and Dialysis Unit, &quot;Sapienza&quot; University of Rome, Viale dell'UniversitÃ  37, 00185, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pelligra</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Translational and Precision Medicine, Nephrology and Dialysis Unit, &quot;Sapienza&quot; University of Rome, Viale dell'UniversitÃ  37, 00185, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murciano</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health and Infectious Diseases, Special Unit of Cystic Fibrosis, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Celani</LastName>
+                    <ForeName>Camilla</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Specialist Pediatric, Rheumatology Unit, Bambino GesÃ¹ Children's Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Troiani</LastName>
+                    <ForeName>Patrizia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health and Infectious Diseases, Special Unit of Cystic Fibrosis, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cimino</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health and Infectious Diseases, Special Unit of Cystic Fibrosis, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palange</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health and Infectious Diseases, Special Unit of Cystic Fibrosis, &quot;Sapienza&quot; University of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Transl Med</MedlineTA>
+            <NlmUniqueID>101190741</NlmUniqueID>
+            <ISSNLinking>1479-5876</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003550" MajorTopicYN="N">Cystic Fibrosis</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005541" MajorTopicYN="N">Forced Expiratory Volume</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016040" MajorTopicYN="N">Lung Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014280" MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Cardiovascular disease</Keyword>
+            <Keyword MajorTopicYN="Y">Chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="Y">Cystic fibrosis</Keyword>
+            <Keyword MajorTopicYN="Y">Endothelial dysfunction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31767021</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12967-019-02139-4</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12967-019-02139-4</ArticleId>
+            <ArticleId IdType="pmc">PMC6878680</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Chest. 2018 Aug;154(2):383-393</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29750923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Presse Med. 2017 Jun;46(6 Pt 2):e109-e124</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28554722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pediatr. 1992 Sep;151(9):684-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1396931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 May;63(5):713-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24647050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2017 May;50(7-8):385-393</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28108166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Presse Med. 2017 Jun;46(6 Pt 2):e125-e138</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28554721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Diabetes. 2016 Oct;40(5):466-470</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27737759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2003 Oct 1;290(13):1749-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14519709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2013 Jul;12(4):309-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23618617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hemodial Int. 2012 Jul;16(3):414-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22469183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2017 May;16(3):318-326</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28117136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2016 Nov 19;388(10059):2519-2531</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27140670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Korean J Pediatr. 2013 Oct;56(10):456-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24244215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ Case Rep. 2011 Jan 25;2011:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22715269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>G Ital Nefrol. 2015;32 Suppl 62:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26005873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Respir J. 2005 Nov;26(5):948-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16264058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2013 Dec;68(12):1157-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23704228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>G Ital Nefrol. 2016 Malattie Metaboliche e Rene;33(S68):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27960010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Respir J. 2005 Aug;26(2):319-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16055882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Rev Med Pharmacol Sci. 2014;18(7):1010-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24763881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2015 Jul;14(4):419-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25814049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Respir Med. 2016 Jul;10(7):799-811</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27268400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2018 May;17(3):297-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29275954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2012 Dec;11(6):461-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23137712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1993 Jul 2;73(7):1251-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7686820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2017 Feb;181S:S52-S57.e2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28129813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1999 Jan 7;340(1):23-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9878641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>High Blood Press Cardiovasc Prev. 2018 Mar;25(1):9-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29094260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2018 Nov;278:226-231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30326405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2017 Nov;27(6):470-473</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29056168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

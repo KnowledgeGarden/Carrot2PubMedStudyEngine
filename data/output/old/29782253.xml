@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">29782253</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-9040</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Issue>S2</Issue>
+                    <PubDate>
+                        <MedlineDate>2018 SFeb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kardiologiia</Title>
+                <ISOAbbreviation>Kardiologiia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Mineral and bone disorders in chronic heart failure].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>42-62</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In many patients, chronic heart failure (CHF) is associated with chronic kidney disease (CKD). Virtually all patients with terminal CKD and many patients with early CKD display various disorders of mineral and bone metabolism (MBM) related with all-cause mortality and high risk of cardiovascular complications. This review addressed disorders of mineral and bone metabolism in patients with CHF, including hypocalcemia, hyperphosphatemia, vitamin D insufficiency/deficiency, secondary hyperparathyroidism, changed levels of FGF23 and Klotho, osteoporosis, osteopenia, their clinical and prognostic significance, and possibilities of their correction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Reznik</LastName>
+                    <ForeName>E V</ForeName>
+                    <Initials>EV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal State Budgetary Educational Institution of Higher Education, &quot;Pirogov Russian National Research Medical University&quot; of the Ministry of Health of the Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nikitin</LastName>
+                    <ForeName>I G</ForeName>
+                    <Initials>IG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Federal State Budgetary Educational Institution of Higher Education, &quot;Pirogov Russian National Research Medical University&quot; of the Ministry of Health of the Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Kardiologiia</MedlineTA>
+            <NlmUniqueID>0376351</NlmUniqueID>
+            <ISSNLinking>0022-9040</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008903">Minerals</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002908" MajorTopicYN="N">Chronic Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006333" MajorTopicYN="Y">Heart Failure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="Y">Hyperparathyroidism, Secondary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008903" MajorTopicYN="N">Minerals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010024" MajorTopicYN="Y">Osteoporosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="Y">Renal Insufficiency, Chronic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic heart failure, chronic kidney disease, mineral and bone disorders in chronic heart failure, hyperphosphatemia, hyperparathyroidism, vitamin B deficiency, osteoporosis, calcification, FGF23, Klotho</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29782253</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

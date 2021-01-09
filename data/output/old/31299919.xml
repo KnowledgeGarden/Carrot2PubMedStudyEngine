@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31299919</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2369</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>07</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC nephrology</Title>
+                <ISOAbbreviation>BMC Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of extended hours dialysis on markers of chronic kidney disease-mineral and bone disorder in the ACTIVE Dialysis study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>258</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12882-019-1438-3</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Chronic Kidney Disease - Mineral and Bone Disorder (CKD-MBD) is a significant cause of morbidity among haemodialysis patients and is associated with pathological changes in phosphate, calcium and parathyroid hormone (PTH). In the ACTIVE Dialysis study, extended hours dialysis reduced serum phosphate but did not cause important changes in PTH or serum calcium. This secondary analysis aimed to determine if changes in associated therapies may have influenced these findings and to identify differences between patient subgroups.</AbstractText>
+                <AbstractText Label="METHODS">The ACTIVE Dialysis study randomised 200 participants to extended hours haemodialysis (â¥24âh/week) or conventional haemodialysis (â¤18âh/week) for 12âmonths. Mean differences between treatment arms in serum phosphate, calcium and PTH; and among key subgroups (high vs. low baseline phosphate/PTH, region, time on dialysis, dialysis setting and frequency) were examined using mixed linear regression.</AbstractText>
+                <AbstractText Label="RESULTS">Phosphate binder use was reduced with extended hours (-â0.83 tablets per day [95% CI -1.61, -â0.04; pâ=â0.04]), but no differences in type of phosphate binder, use of vitamin D, dose of cinacalcet or dialysate calcium were observed. In adjusted analysis, extended hours were associated with lower phosphate (-â0.219âmmol/L [-â0.314, -â0.124; Pâ&lt;â0.001]), higher calcium (0.046âmmol/L [0.007, 0.086; Pâ=â0.021]) and no change in PTH (0.025âpmol/L [-â0.107, 0.157; Pâ=â0.713]). The reduction in phosphate with extended hours was greater in those with higher baseline PTH and dialysing at home.</AbstractText>
+                <AbstractText Label="CONCLUSION">Extended hours haemodialysis independently reduced serum phosphate levels with minimal change in serum calcium and PTH levels. With a few exceptions, these results were consistent across patient subgroups.</AbstractText>
+                <AbstractText Label="TRIAL REGISTRATION">Clinicaltrials.gov NCT00649298 . Registered 1 April 2008.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhan</LastName>
+                    <ForeName>Zhipeng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, China-Japan Friendship Hospital, 2 Yinghuayuan E St, Chaoyang Qu, Beijing Shi, 100096, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Second Clinical Medical Institution of North Sichuan Medical College, Nanchong, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smyth</LastName>
+                    <ForeName>Brendan</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">0000-0003-1838-3348</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>The George Institute for Global Health, UNSW, 1 King St, Newtown, Sydney, 2042, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sydney School of Public Health, University of Sydney, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Toussaint</LastName>
+                    <ForeName>Nigel D</ForeName>
+                    <Initials>ND</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, The Royal Melbourne Hospital, Melbourne, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>Nicholas A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sunshine Coast University Hospital, Birtinya, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Sunshine Coast Clinical School, University of Queensland, Birtinya, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zuo</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Peking University People's Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Zoysa</LastName>
+                    <ForeName>Janak R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>North Shore Hospital, Auckland, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Auckland, Auckland, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Christopher T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Health Network, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Chenggang</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Social Development and Public Policy, Beijing Normal University, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scaria</LastName>
+                    <ForeName>Anish</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The George Institute for Global Health, UNSW, 1 King St, Newtown, Sydney, 2042, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hawley</LastName>
+                    <ForeName>Carmel M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Princess Alexandra Hospital, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perkovic</LastName>
+                    <ForeName>Vlado</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The George Institute for Global Health, UNSW, 1 King St, Newtown, Sydney, 2042, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jardine</LastName>
+                    <ForeName>Meg J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The George Institute for Global Health, UNSW, 1 King St, Newtown, Sydney, 2042, Australia. mjardine@georgeinstitute.org.au.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Unit, Concord Repatriation General Hospital, Sydney, Australia. mjardine@georgeinstitute.org.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ling</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, China-Japan Friendship Hospital, 2 Yinghuayuan E St, Chaoyang Qu, Beijing Shi, 100096, China. zhangling5@medmail.com.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT00649298</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Nephrol</MedlineTA>
+            <NlmUniqueID>100967793</NlmUniqueID>
+            <ISSNLinking>1471-2369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="N">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Chronic haemodialysis</Keyword>
+            <Keyword MajorTopicYN="Y">Clinical trial</Keyword>
+            <Keyword MajorTopicYN="Y">Dialysis dose</Keyword>
+            <Keyword MajorTopicYN="Y">Mineral metabolism</Keyword>
+            <Keyword MajorTopicYN="Y">Phosphate</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31299919</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12882-019-1438-3</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12882-019-1438-3</ArticleId>
+            <ArticleId IdType="pmc">PMC6624904</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 May;15(5):1307-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15100371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2005 Feb;16(2):529-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15625072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Chronic Kidney Dis. 2007 Jan;14(1):3-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17200038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2007 Sep 19;298(11):1291-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17878421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2008 Jun;73(11):1296-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18337714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2008 Dec;88(6):1511-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19064510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2009 Feb;20(2):388-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19092121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Jun;4(6):1089-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19423571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2009 Aug;(113):S1-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19644521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int Suppl. 2010 Aug;(117):S10-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20671739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Dec;5(12):2251-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20688884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 Dec 9;363(24):2287-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21091062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Nov;80(10):1080-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21775973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2011;34(3):226-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21791919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2012 Apr;23(4):727-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22362907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Nov;27(11):4180-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22431708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2013 Nov;9(11):641-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23877588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Aug;64(2):247-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24698199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2014;34(5):658-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25259820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2015 Apr;65(4):559-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25453993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2015 Apr;20(4):257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25529309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2015 Sep;30(9):1542-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25920921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2015 May;30(5):698-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25928337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2017 Jun;28(6):1898-1911</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28151412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Apr 10;9(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28394304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2018 Jan;71(1):75-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29191624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2018 May;93(5):1060-1072</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29580635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 1998 Nov;32(5 Suppl 3):S112-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9820470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

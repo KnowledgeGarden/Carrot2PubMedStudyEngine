@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">32363998</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>05</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1718-4304</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>May</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis</Title>
+                <ISOAbbreviation>Perit Dial Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High alkaline phosphatase and low intact parathyroid hormone associate with worse clinical outcome in peritoneal dialysis patients.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>896860820918131</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1177/0896860820918131</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="UNASSIGNED">Alkaline phosphatase (ALP) is used as a biomarker to monitor the chronic kidney disease-mineral bone disorder (CKD-MBD) and high levels of parathyroid hormone (PTH) that were reported to be related to increased mortality in CKD patients. Therefore, we conducted this longitudinal cohort study to evaluate the relations between ALP and intact PTH (iPTH) and the associations with all-cause and cardiovascular mortality in peritoneal dialysis (PD) patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="UNASSIGNED">In 1276 incident PD patients (median age 50 years, 56% males), baseline serum ALP, iPTH, and metabolic biomarkers potentially linked to CKD-MBD were analyzed in relation to mortality during follow-up period of up to 60 months. All-cause and cardiovascular mortality risk of ALP and iPTH were analyzed with competing-risks regression models with transplantation as competing risk adjusting for all covariates.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="UNASSIGNED">After adjustments for confounders by logistic regression model, older age, higher change level to levels of iPTH, S-albumin, calcium, alanine transaminase (ALT), and lower level of phosphorus were associated with higher ALP level (&gt;79 U/L), and female gender, non-diabetes mellitus, younger age, lower calcium, higher ALT, total bilirubin, phosphorus, and ALP were associated with higher iPTH level (&gt;300 pg/mL). During 60 months (median 44 months) of follow-up, the all-cause mortality rate was 16%, and 91 (46%) of the 199 deaths were caused by cardiovascular disease. In competing-risks regression analysis, &quot;high ALP + low iPTH&quot; was independently associated with all-cause and cardiovascular mortality after adjustment for age, gender, presence of diabetes, and cardiovascular disease, the calendar year of recruitment and vitamin D therapy in PD patients. The subhazard ratio (sHR) of group &quot;high ALP + low iPTH&quot; was 1.96 times and 3.35 times higher than sHR of group &quot;low ALP + high iPTH&quot; for all-cause mortality and cardiovascular mortality, respectively.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="UNASSIGNED">The combination of high ALP and low iPTH was independently associated with increased all-cause and cardiovascular mortality in PD patients, suggesting that ALP and iPTH have the potential to predict clinical outcomes and might be useful risk assessment tools in PD patients. Further studies exploring the observed association between combination of ALP with iPTH and mortality are warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhimin</ForeName>
+                    <Initials>Z</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-3942-9579</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine and Baxter Novum, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiaohui</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Fei</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Xishao</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hua</LastName>
+                    <ForeName>Zhou</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Department, People's Hospital of Suichang County, Lishui, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Xiaohan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindholm</LastName>
+                    <ForeName>Bengt</ForeName>
+                    <Initials>B</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-4269-4293</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine and Baxter Novum, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haarhaus</LastName>
+                    <ForeName>Mathias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine and Baxter Novum, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stenvinkel</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine and Baxter Novum, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qureshi</LastName>
+                    <ForeName>Abdul Rashid</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine and Baxter Novum, Department of Clinical Sciences, Intervention and Technology, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Jianghua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kidney Disease Center, 1st Affiliated Hospital College of Medicine, Zhejiang University, Hangzhou, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Perit Dial Int</MedlineTA>
+            <NlmUniqueID>8904033</NlmUniqueID>
+            <ISSNLinking>0896-8608</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Alkaline phosphatase</Keyword>
+            <Keyword MajorTopicYN="N">intact parathyroid hormone</Keyword>
+            <Keyword MajorTopicYN="N">peritoneal dialysis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32363998</ArticleId>
+            <ArticleId IdType="doi">10.1177/0896860820918131</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

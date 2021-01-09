@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">32791554</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1439-4413</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>145</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Deutsche medizinische Wochenschrift (1946)</Title>
+                <ISOAbbreviation>Dtsch Med Wochenschr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[What's new in CKD-MBD?]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1170-1173</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-1173-5147</ELocationID>
+            <Abstract>
+                <AbstractText>CKD-MBD (chronic kidney disease - mineral and bone disorder) describes a complex syndrome of renal osteodystrophy, mineral disturbances and cardiovascular disease in patients with chronic kidney disease. The present articles intends to provide an up-to-date summary of recent clinically important developments in the field of CKD-MBD. The article touches specifically phosphate management, secondary hyperparathyroidism, vitamin D, arteriosclerosis, renal bone disease, and SGLT2-inhibitors. The summary also comments on which grade of evidence novel aspects and innovative developments in CKD-BMD are based. The author concludes that nephrologists should strive after more high-quality, large-scale randomized-controlled interventional trials in order to optimize the evidence behind CKD-MBD therapy.</AbstractText>
+                <CopyrightInformation>Â©Â Georg Thieme Verlag KG Stuttgart Â· New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Brandenburg</LastName>
+                    <ForeName>Vincent</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Klinik fÃ¼r Kardiologie und Nephrologie, Rhein-Maas-Klinikum GmbH.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>CKD-MBD: Was gibt es Neues?</VernacularTitle>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>08</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Dtsch Med Wochenschr</MedlineTA>
+            <NlmUniqueID>0006723</NlmUniqueID>
+            <ISSNLinking>0012-0472</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherAbstract Type="Publisher" Language="ger">
+            <AbstractText Label="PHOSPHATHAUSHALT" NlmCategory="UNASSIGNED">âNach wie vor ist unklar, wann, mit welchem Zielspiegel und mittels welcher Art von phosphatsenkenden MaÃnahmen und Medikamenten die HyperphosphatÃ¤mie behandelt werden sollte. Aus Erfahrung ist eine Kombination aus phosphatarmer DiÃ¤t und Phosphatbindern sinnvoll.</AbstractText>
+            <AbstractText Label="HYPERPARATHYREOIDISMUS" NlmCategory="UNASSIGNED">âBei chronischer Nierenerkrankung (CKD) ist eine stÃ¤rkere PTH-Stimulation nÃ¶tig als bei Nierengesunden, um nicht eine adyname Osteopathie zu entwickeln. Deutlich erhÃ¶hte PTH-Werte wiederum gehen jedoch mit einer gesteigerten MorbiditÃ¤t und MortalitÃ¤t einher. FÃ¼r Dialysepatienten liegt der Zielbereich im Serum-PTH gemÃ¤Ã den KDIGO-Leitlinien zwischen dem 2- und 9-Fachen der oberen Norm. FÃ¼r Patienten mit CKD ohne Dialyse ist der optimale PTH-Bereich nicht klar.</AbstractText>
+            <AbstractText Label="VITAMIN D" NlmCategory="UNASSIGNED">âVitamin D kann weiterhin begleitend zur Therapie der CKD-MBD und insbesondere des Hyperparathyreoidismus eingesetzt werden. AuÃerhalb des Skelettsystems dÃ¼rften einer nativen Vitamin-D-Supplementierung jedoch kaum messbare Effekte zuzuschreiben sein.</AbstractText>
+            <AbstractText Label="ARTERIOSKLEROSE" NlmCategory="UNASSIGNED">âDer Verzicht auf eine Therapie mit Vitamin-K-Antagonisten und der Ersatz durch Rivaroxaban kann wahrscheinlich das Fortschreiten der Koronarkalzifikation verlangsamen.</AbstractText>
+            <AbstractText Label="BIOMARKER" NlmCategory="UNASSIGNED">âIn der Routinediagnostik von CKD-MBD und deren Therapie spielen auch weiterhin die klassischen Biomarkern wie PTH, Phosphat, Kalzium oder alkalische Phosphatase die grÃ¶Ãte Rolle.</AbstractText>
+            <AbstractText Label="RENALE OSTEODYSTROPHIE UND OSTEOPOROSE" NlmCategory="UNASSIGNED">âEs ist noch nicht ausreichend belegt, wie bei CKD das Frakturrisiko zu senken ist. SGLT2-INHIBITOREN: âAktuell ist der breite Einsatz von SGLT2-Inhibitoren fÃ¼r Patienten mit CKD G3 oder G4 noch keine Option. Zu erwarten ist eine Indikationserweiterung auf einen GFR-Grenzwert von zumindest 30âml/min fÃ¼r die Indikation CKD und/oder Herzinsuffizienz (auch jeweils ohne Diabetes mellitus).</AbstractText>
+        </OtherAbstract>
+        <CoiStatement>Vortragshonorare/ForschungsfÃ¶rderung von: Amgen, Bayer, BMS, Pfizer, Vifor, Resverlogix, Sanifit.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32791554</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-1173-5147</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

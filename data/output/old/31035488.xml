@@ -1,0 +1,413 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31035488</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2072-6643</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>04</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nutrients</Title>
+                <ISOAbbreviation>Nutrients</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Questioning the Safety of Calcidiol in Hemodialysis Patients.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E959</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/nu11050959</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Epidemiological studies have suggested a survival benefit for hemodialysis patients on paricalcitol or calcitriol, but nutritional vitamin D supplementation of patients already on vitamin D receptor (VDR) activators is controversial.</AbstractText>
+                <AbstractText Label="METHODS">This observational retrospective cohort study was conducted with prospectively collected data from all consecutive patients with chronic kidney disease (CKD) who underwent hemodialysis under routine clinical practice conditions for two years.</AbstractText>
+                <AbstractText Label="RESULTS">Of the 129 patients, 89 were treated with calcidiol, paricalcitol, and/or calcitriol. The patients with any vitamin D formulation had higher serum concentrations of 25-hydroxy vitamin D and fibroblast growth factor-23 and tended to have higher mortality rates (42% <i>vs</i><i>.</i> 25%, <i>p</i> = 0.07). On subgroup analysis, any calcidiol treatment or calcidiol combined with paricalcitol associated with significantly higher mortality rates than no treatment (47% and 62.5%, <i>p</i> = 0.043 and 0.008, respectively). The association between calcidiol/paricalcitol treatment and elevated mortality remained significant after adjusting for age, sex, diabetes, C-reactive protein, and hemodialysis vintage. Any calcidiol and calcidiol/paricalcitol treatment exhibited a dose-response relationship with mortality (<i>p</i> for trend: 0.002 and 0.005, respectively).</AbstractText>
+                <AbstractText Label="CONCLUSIONS">These data draw attention to the hitherto unexplored safety of calcidiol supplementation in patients on hemodialysis, especially in those already on vitamin D. Until clinical trials demonstrate the safety and efficacy of this approach, caution should be exercised when prescribing these patients â¥0.5 calcidiol mg/month.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Villa-Bellosta</LastName>
+                    <ForeName>Ricardo</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, FundaciÃ³n Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az (FIIS-FJD), Avenida Reyes CatÃ³licos 2, 29040, Madrid, Spain. metabol@hotmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mahillo-FernÃ¡ndez</LastName>
+                    <ForeName>Ignacio</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biostatistics and Epidemiology Unit, FundaciÃ³n Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az (FIIS-FJD), 29040, Madrid, Spain. IMahillo@fjd.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>OrtÃ­z</LastName>
+                    <ForeName>Alberto</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, FundaciÃ³n Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az (FIIS-FJD), Avenida Reyes CatÃ³licos 2, 29040, Madrid, Spain. AOrtiz@fjd.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>FundaciÃ³n Renal, ÃÃ±igo Ãlvarez de Toledo, 28003 Madrid, Spain. AOrtiz@fjd.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, IIS-FundaciÃ³n JimÃ©nez DÃ­az y Facultad de Medicina, Universidad AutÃ³noma de Madrid, 28049 Madrid, Spain. AOrtiz@fjd.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GonzÃ¡lez-Parra</LastName>
+                    <ForeName>Emilio</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, FundaciÃ³n Instituto de InvestigaciÃ³n Sanitaria FundaciÃ³n JimÃ©nez DÃ­az (FIIS-FJD), Avenida Reyes CatÃ³licos 2, 29040, Madrid, Spain. EGParra@quironsalud.es.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Renal Division, IIS-FundaciÃ³n JimÃ©nez DÃ­az y Facultad de Medicina, Universidad AutÃ³noma de Madrid, 28049 Madrid, Spain. EGParra@quironsalud.es.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>SAF-2014-60669</GrantID>
+                    <Agency>Ministerio de EconomÃ­a y Competitividad</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PRF-2016-68</GrantID>
+                    <Agency>Progeria Research Foundation</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PI16/01298</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>PI16 02057</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country>International</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RD016/009</GrantID>
+                    <Agency>Instituto de Salud Carlos III</Agency>
+                    <Country>International</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Nutrients</MedlineTA>
+            <NlmUniqueID>101521595</NlmUniqueID>
+            <ISSNLinking>2072-6643</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004872">Ergocalciferols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6702D36OG5</RegistryNumber>
+                <NameOfSubstance UI="C084656">paricalcitol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P6YZ13C99Q</RegistryNumber>
+                <NameOfSubstance UI="D002112">Calcifediol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002112" MajorTopicYN="N">Calcifediol</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004872" MajorTopicYN="N">Ergocalciferols</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">calcidiol</Keyword>
+            <Keyword MajorTopicYN="Y">dialysis,</Keyword>
+            <Keyword MajorTopicYN="Y">mortality</Keyword>
+            <Keyword MajorTopicYN="Y">safety</Keyword>
+            <Keyword MajorTopicYN="Y">vitamin D</Keyword>
+        </KeywordList>
+        <CoiStatement>All the authors have declared that no conflicts of interest exist.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31035488</ArticleId>
+            <ArticleId IdType="pii">nu11050959</ArticleId>
+            <ArticleId IdType="doi">10.3390/nu11050959</ArticleId>
+            <ArticleId IdType="pmc">PMC6566618</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 May 22;98(11):6500-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11344269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2001 Jun 22;284(4):977-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11409890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2004 Feb;113(4):561-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14966565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2005 Nov;20(11):1944-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16234967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Lipidol. 2007 Feb;18(1):41-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17218831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Jun;4(6):1128-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19443628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2010 May 18;152(10):640-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20479029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Mar;26(3):1024-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20947538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nefrologia. 2011;31 Suppl 1:3-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21468161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2011 Sep;58(3):374-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21636193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2011 Jul;96(7):1931-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21677037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2011;119(3):c220-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21832848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Feb;7(2):358-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22193236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 May;27(5):1704-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22431706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Agents Med Chem. 2013 Jan;13(1):4-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23094916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2013 Jul;28(7):1779-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23378417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2013;37(3):239-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23467111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2014 Apr;99(4):1132-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24456284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2016 Jan;27(1):227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25971439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2017 Apr 27;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28453636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Nutr. 2017 Jun;71(6):683-693</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28488689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2018 Jun;180:81-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28734988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

@@ -1,0 +1,369 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">31742816</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1601-0825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>26</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oral diseases</Title>
+                <ISOAbbreviation>Oral Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association between severe periodontitis and chronic kidney disease severity in predialytic patients: A cross-sectional study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>447-456</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/odi.13236</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The aim of this cross-sectional study was to evaluate the association between periodontitis and different severities of chronic kidney disease (CKD) in predialytic patients.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Demographic, socioeconomic, and medical data of 139 patients from the nephrology service of one university hospital in Porto Alegre, Brazil, were obtained through interview and clinical records. Full-mouth six-sites per tooth periodontal examinations were performed. Associations between periodontitis, stages of CKD, and estimated glomerular filtration rate (eGFR) were estimated by multivariable models adjusted for sex, smoking, vitamin D supplementation, physical activity, and renal treatment duration. CKD was classified based on eGFR (&lt;60Â ml/min/1.73Â m<sup>2</sup> ) estimated by the Chronic Kidney Disease Epidemiology Collaboration equation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients with severe periodontitis, compared to those without severe periodontitis, had 2.8 (95% CI: 1.25-6.62) and 3.4 (95% CI: 1.27-9.09) times higher risk of being in stages 4 and 5 of CKD, respectively. HavingÂ â¥Â 2 teeth with clinical attachment loss (CAL) â¥6Â mm increased 3.9 times the risk of being in stage 5 of CKD. Patients with severe periodontitis and â¥2 teeth with CALÂ â¥Â 6Â mm had 4.4Â ml/min/1.73<sup>2</sup> and 5.2Â ml/min/1.73<sup>2</sup> lower eGFR (p-valuesÂ &lt;Â .05), respectively.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Severe periodontitis was associated with poor renal conditions in predialytic CKD patients, strengthening the importance of periodontal evaluation in such patient population.</AbstractText>
+                <CopyrightInformation>Â© 2019 John Wiley &amp; Sons A/S. Published by John Wiley &amp; Sons Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>SchÃ¼tz</LastName>
+                    <ForeName>Jasper da Silva</ForeName>
+                    <Initials>JDS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Azambuja</LastName>
+                    <ForeName>Carolina Barrera</ForeName>
+                    <Initials>CB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunha</LastName>
+                    <ForeName>Giuliano Reolon</ForeName>
+                    <Initials>GR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical School, Lutheran University of Brazil, Canoas, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavagni</LastName>
+                    <ForeName>Juliano</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0062-6604</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RÃ¶sing</LastName>
+                    <ForeName>Cassiano Kuchenbecker</ForeName>
+                    <Initials>CK</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8499-5759</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haas</LastName>
+                    <ForeName>Alex Nogueira</ForeName>
+                    <Initials>AN</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0003-0531-6234</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ThomÃ©</LastName>
+                    <ForeName>Fernando Saldanha</ForeName>
+                    <Initials>FS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Hospital de ClÃ­nicas de Porto Alegre, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fiorini</LastName>
+                    <ForeName>Tiago</ForeName>
+                    <Initials>T</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5452-3822</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Periodontology, School of Dentistry, Federal University of Rio Grande do Sul, Porto Alegre, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>150319</GrantID>
+                    <Agency>Hospital de ClÃ­nicas de Porto Alegre</Agency>
+                    <Country/>
+                </Grant>
+                <Grant>
+                    <GrantID>160428</GrantID>
+                    <Agency>Hospital de ClÃ­nicas de Porto Alegre</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Oral Dis</MedlineTA>
+            <NlmUniqueID>9508565</NlmUniqueID>
+            <ISSNLinking>1354-523X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>D</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001938" MajorTopicYN="N" Type="Geographic">Brazil</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010518" MajorTopicYN="N">Periodontitis</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">chronic renal insufficiency</Keyword>
+            <Keyword MajorTopicYN="N">glomerular filtration rate</Keyword>
+            <Keyword MajorTopicYN="N">periodontitis</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31742816</ArticleId>
+            <ArticleId IdType="doi">10.1111/odi.13236</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>REFERENCES</Title>
+            <Reference>
+                <Citation>Ainamo, J., &amp; Bay, I. (1975). Problems and proposals for recording gingivitis and plaque. International Dental Journal, 25(4), 229-235.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Barreto, S. M., Ladeira, R. M., Duncan, B. B., Schmidt, M. I., Lopes, A. A., Bensenor, I. M., â¦ Mill, J. G. (2016). Chronic kidney disease among adult participants of the ELSA-Brasil cohort: Association with race and socioeconomic position. Journal of Epidemiology and Community Health, 70(4), 380-389. https://doi.org/10.1136/jech-2015-205834</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bastos, J. A., Diniz, C. G., Bastos, M. G., Vilela, E. M., Silva, V. L., Chaoubah, A., â¦ Andrade, L. C. (2011). Identification of periodontal pathogens and severity of periodontitis in patients with and without chronic kidney disease. Archives of Oral Biology, 56(8), 804-811. https://doi.org/10.1016/j.archoralbio.2010.12.006</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Brazil (2015). Brazilian Association of Research Companies, CritÃ©rio de classificaÃ§Ã£o econÃ´mica Brasil (CCEB). Retrieved from http://www.abep.org/criterio-brasil. December, 2017.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Brito, F., Almeida, S., Figueredo, C. M., Bregman, R., Suassuna, J. H., &amp; Fischer, R. G. (2012). Extent and severity of chronic periodontitis in chronic kidney disease patients. Journal of Periodontal Research, 47(4), 426-430. https://doi.org/10.1111/j.1600-0765.2011.01449.x</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chambrone, L., Foz, A. M., Guglielmetti, M. R., Pannuti, C. M., Artese, H. P., Feres, M., &amp; Romito, G. A. (2013). Periodontitis and chronic kidney disease: A systematic review of the association of diseases and the effect of periodontal treatment on estimated glomerular filtration rate. Journal of Clinical Periodontology, 40(5), 443-456. https://doi.org/10.1111/jcpe.12067</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chang, J. F., Yeh, J. C., Chiu, Y. L., Liou, J. C., Hsiung, J. R., &amp; Tung, T. H. (2017). Periodontal pocket depth, hyperglycemia, and progression of chronic kidney disease: A population-based longitudinal study. American Journal of Medicine, 130(1), 61-69 e61. https://doi.org/10.1016/j.amjmed.2016.08.024</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Chen, Y. T., Shih, C. J., Ou, S. M., Hung, S. C., Lin, C. H., Tarng, D. C., &amp; Taiwan Geriatric Kidney Disease Research, G (2015). Periodontal disease and risks of kidney function decline and mortality in older people: A community-based cohort study. American Journal of Kidney Diseases, 66(2), 223-230. https://doi.org/10.1053/j.ajkd.2015.01.010</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Craig, R. G., Spittle, M. A., &amp; Levin, N. W. (2002). Importance of periodontal disease in the kidney patient. Blood Purification, 20(1), 113-119. https://doi.org/10.1159/000046994</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Deschamps-Lenhardt, S., Martin-Cabezas, R., Hannedouche, T., &amp; Huck, O. (2019). Association between periodontitis and chronic kidney disease: Systematic review and meta-analysis. Oral Diseases, 25(2), 385-402. https://doi.org/10.1111/odi.12834</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Eke, P. I., Page, R. C., Wei, L., Thornton-Evans, G., &amp; Genco, R. J. (2012). Update of the case definitions for population-based surveillance of periodontitis. Journal of Periodontology, 83(12), 1449-1454. https://doi.org/10.1902/jop.2012.110664</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Fisher, M. A., Taylor, G. W., Papapanou, P. N., Rahman, M., &amp; Debanne, S. M. (2008). Clinical and serologic markers of periodontal infection and chronic kidney disease. Journal of Periodontology, 79(9), 1670-1678. https://doi.org/10.1902/jop.2008.070569</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Fisher, M. A., Taylor, G. W., Shelton, B. J., Jamerson, K. A., Rahman, M., Ojo, A. O., &amp; Sehgal, A. R. (2008). Periodontal disease and other nontraditional risk factors for CKD. American Journal of Kidney Diseases, 51(1), 45-52. https://doi.org/10.1053/j.ajkd.2007.09.018</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Flores, M. F., Montenegro, M. M., Furtado, M. V., Polanczyk, C. A., Rosing, C. K., &amp; Haas, A. N. (2014). Periodontal status affects C-reactive protein and lipids in patients with stable heart disease from a tertiary care cardiovascular clinic. Journal of Periodontology, 85(4), 545-553. https://doi.org/10.1902/jop.2013.130255</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Grubbs, V., Plantinga, L. C., Crews, D. C., Bibbins-Domingo, K., Saran, R., Heung, M., â¦ Prevention, C. K. D. S. T. (2011). Vulnerable populations and the association between periodontal and chronic kidney disease. Clinical Journal of the American Society of Nephrology, 6(4), 711-717. https://doi.org/10.2215/CJN.08270910</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hosmer, D., &amp; Lemeshow, S. (2004). Applied logistic regression, 2nd ed. Hoboken, NJ: John Wiley &amp; Sons.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Iwasaki, M., Taylor, G. W., Nesse, W., Vissink, A., Yoshihara, A., &amp; Miyazaki, H. (2012). Periodontal disease and decreased kidney function in Japanese elderly. American Journal of Kidney Diseases, 59(2), 202-209. https://doi.org/10.1053/j.ajkd.2011.08.027</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jepsen, S., Stadlinger, B., Terheyden, H., &amp; Sanz, M. (2015). Science transfer: Oral health and general health - the links between periodontitis, atherosclerosis and diabetes. Journal of Clinical Periodontology, 42(12), 1071-1073. https://doi.org/10.1111/jcpe.12484</Citation>
+            </Reference>
+            <Reference>
+                <Citation>KDIGO. (2013). Kidney disease: Improving global outcomes CKD work group. KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney International Supplements, 3(1), 1-150.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kingman, A., Susin, C., &amp; Albandar, J. M. (2008). Effect of partial recording protocols on severity estimates of periodontal disease. Journal of Clinical Periodontology, 35(8), 659-667. https://doi.org/10.1111/j.1600-051X.2008.01243.x</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kshirsagar, A. V., Moss, K. L., Elter, J. R., Beck, J. D., Offenbacher, S., &amp; Falk, R. J. (2005). Periodontal disease is associated with renal insufficiency in the atherosclerosis risk in communities (ARIC) study. American Journal of Kidney Diseases, 45(4), 650-657. https://doi.org/10.1053/j.ajkd.2004.12.009</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lertpimonchai, A., Rattanasiri, S., Tamsailom, S., Champaiboon, C., Ingsathit, A., Kitiyakara, C., â¦ Thakkinstian, A. (2019). Periodontitis as the risk factor of chronic kidney disease: Mediation analysis. Journal of Clinical Periodontology, 46(6), 631-639. https://doi.org/10.1111/jcpe.13114</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Levey, A. S., Stevens, L. A., Schmid, C. H., Zhang, Y. L., Castro, A. F. 3rd, Feldman, H. I., â¦ Ckd, E. P. I. (2009). A new equation to estimate glomerular filtration rate. Annals of Internal Medicine, 150(9), 604-612. https://doi.org/10.7326/0003-4819-150-9-200905050-00006</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Lockhart, P. B., Brennan, M. T., Thornhill, M., Michalowicz, B. S., Noll, J., Bahrani-Mougeot, F. K., &amp; Sasser, H. C. (2009). Poor oral hygiene as a risk factor for infective endocarditis-related bacteremia. Journal of the American Dental Association, 140(10), 1238-1244. https://doi.org/10.14219/jada.archive.2009.0046</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Loos, B. G. (2005). Systemic markers of inflammation in periodontitis. Journal of Periodontology, 76(11 Suppl), 2106-2115. https://doi.org/10.1902/jop.2005.76.11-S.2106</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Luyckx, V. A., Tuttle, K. R., Garcia-Garcia, G., Gharbi, M. B., Heerspink, H. J. L., Johnson, D. W., â¦ White, S. L. (2017). Reducing major risk factors for chronic kidney disease. Kidney International Supplements, 7(2), 71-87. https://doi.org/10.1016/j.kisu.2017.07.003</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Messier, M. D., Emde, K., Stern, L., Radhakrishnan, J., Vernocchi, L., Cheng, B., â¦ Papapanou, P. N. (2012). Radiographic periodontal bone loss in chronic kidney disease. Journal of Periodontology, 83(5), 602-611. https://doi.org/10.1902/jop.2011.110306</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nascimento, M. M., Pecoits-Filho, R., Lindholm, B., Riella, M. C., &amp; Stenvinkel, P. (2002). Inflammation, malnutrition and atherosclerosis in end-stage renal disease: A global perspective. Blood Purification, 20(5), 454-458. https://doi.org/10.1159/000063559</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Perozini, C., Ruivo, G. F., Ricardo, L. H., Pavesi, L. A., Kim, Y. J., &amp; Pallos, D. (2017). Medical and periodontal clinical parameters in patients at different levels of chronic renal failure. International Journal of Dentistry, 2017, 9858073. https://doi.org/10.1155/2017/9858073</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Rahmati, M. A., Craig, R. G., Homel, P., Kaysen, G. A., &amp; Levin, N. W. (2002). Serum markers of periodontal disease status and inflammation in hemodialysis patients. American Journal of Kidney Diseases, 40(5), 983-989. https://doi.org/10.1053/ajkd.2002.36330</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ricardo, A. C., Athavale, A., Chen, J., Hampole, H., Garside, D., Marucha, P., &amp; Lash, J. P. (2015). Periodontal disease, chronic kidney disease and mortality: Results from the third national health and nutrition examination survey. BMC Nephrology, 16, 97. https://doi.org/10.1186/s12882-015-0101-x</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sharma, P., Dietrich, T., Ferro, C. J., Cockwell, P., &amp; Chapple, I. L. (2016). Association between periodontitis and mortality in stages 3-5 chronic kidney disease: NHANES III and linked mortality study. Journal of Clinical Periodontology, 43(2), 104-113. https://doi.org/10.1111/jcpe.12502</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sharma, P., Dietrich, T., Sidhu, A., Vithlani, V., Rahman, M., Stringer, S., â¦ Chapple, I. L. (2014). The periodontal health component of the renal impairment in secondary care (RIISC) cohort study: A description of the rationale, methodology and initial baseline results. Journal of Clinical Periodontology, 41(7), 653-661. https://doi.org/10.1111/jcpe.12263</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Shin, H. S. (2017). Number of existing permanent teeth is associated with chronic kidney disease in the elderly Korean population. Korean Journal of Internal Medicine, https://doi.org/10.3904/kjim.2016.386</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Shoji, T., Abe, T., Matsuo, H., Egusa, G., Yamasaki, Y., Kashihara, N., â¦ Peripheral Arteries, J. A. S. (2012). Chronic kidney disease, dyslipidemia, and atherosclerosis. Journal of Atherosclerosis and Thrombosis, 19(4), 299-315. https://doi.org/10.5551/jat.10454</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stenvinkel, P., Carrero, J. J., Axelsson, J., Lindholm, B., Heimburger, O., &amp; Massy, Z. (2008). Emerging biomarkers for evaluating cardiovascular risk in the chronic kidney disease patient: How do new pieces fit into the uremic puzzle? Clinical Journal of the American Society of Nephrology, 3(2), 505-521. https://doi.org/10.2215/CJN.03670807</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Thorman, R., Neovius, M., &amp; Hylander, B. (2009). Clinical findings in oral health during progression of chronic kidney disease to end-stage renal disease in a Swedish population. Scandinavian Journal of Urology and Nephrology, 43(2), 154-159. https://doi.org/10.1080/00365590802464817</Citation>
+            </Reference>
+            <Reference>
+                <Citation>USRDS (2014). United States renal data system 2013 annual data report. CKD in the general population. American Journal of Kidney Diseases, 63(1), e41-e50. https://doi.org/10.1053/j.ajkd.2013.10.016</Citation>
+            </Reference>
+            <Reference>
+                <Citation>USRDS. (2018a). US renal data system 2017 annual data report. Chapter 1: CKD in the general population. American Journal of Kidney Diseases, 71(3), S9-S30. https://doi.org/10.1053/j.ajkd.2018.01.004</Citation>
+            </Reference>
+            <Reference>
+                <Citation>USRDS. (2018b). US renal data system 2017 annual data report. Chapter 6: Health care expenditures for persons with CKD. American Journal of Kidney Diseases, 71(3), S117-S136. https://doi.org/10.1053/j.ajkd.2018.01.009</Citation>
+            </Reference>
+            <Reference>
+                <Citation>von Elm, E., Altman, D. G., Egger, M., Pocock, S. J., Gotzsche, P. C., Vandenbroucke, J. P., &amp; Initiative, S. (2007). The strengthening the reporting of observational studies in epidemiology (STROBE) statement: Guidelines for reporting observational studies. Lancet, 370(9596), 1453-1457. https://doi.org/10.1016/S0140-6736(07)61602-X</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zhao, D., Khawaja, A. T., Jin, L., Li, K. Y., Tonetti, M., &amp; Pelekos, G. (2018). The directional and non-directional associations of periodontitis with chronic kidney disease: A systematic review and meta-analysis of observational studies. Journal of Periodontal Research, 53(5), 682-704. https://doi.org/10.1111/jre.12565</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zimmermann, J., Herrlinger, S., Pruy, A., Metzger, T., &amp; Wanner, C. (1999). Inflammation enhances cardiovascular risk and mortality in hemodialysis patients. Kidney International, 55(2), 648-658. https://doi.org/10.1046/j.1523-1755.1999.00273.x</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

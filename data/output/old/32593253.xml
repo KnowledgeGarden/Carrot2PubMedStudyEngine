@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">32593253</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1561-9125</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>33</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Advances in gerontology = Uspekhi gerontologii</Title>
+                <ISOAbbreviation>Adv Gerontol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The influence of treatment with inactive vitamin D on intrarenal blood flow in patients with chronic obstructive pulmonary disease.]</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>360-366</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of the work was to assess the dynamics of ultrasound parameters of renal blood flow in patients with chronic obstructive pulmonary disease (COPD)and initial stages of chronic kidney disease (CKD) during treatment with inactive vitamin D. The study included 264 patients with COPD of 2-4 degrees of severity in combination with CKD of 1-2 stages: 135 patients of the main group and 129 patients of the control group. Each group was divided into 4 subgroups according to the value of FEV1 and vitamin D level. In the main group, the native vitamin D was prescribed according to the scheme providing maintenance of vitamin D level &gt;34,3 ng/ml during the year, in the control group - according to the recommendations of the Russian Association of Endocrinologists. An ultrasound of the kidneys with the calculation of the resistance index (RI) and albuminuria level were carried out in all patients at inclusion into the study and after its completion. A decrease in the severity of albuminuria from A3 to A2 was revealed in 24,1% (16), and an increase in GFR - in 42,9% (58) patients of all patients in the main group. A statistically significant decrease in the renal artery resistance index was recorded in the group of patients with moderate COPD (GOLD 2) and vitamin D deficiency in the main group (p&lt;0,05). The maintaining of vitamin D levels more than 34,3 ng/ml over 12 months in patients with COPD in combination with CKD stage 1-2 was associated with a decrease in the severity of albuminuria, with an increase in GFR, and statistically significant decrease of resistance index in renal arteries of patients with moderate clinical course of COPD (GOLD 2) and lack of vitamin D.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bolotova</LastName>
+                    <ForeName>E V</ForeName>
+                    <Initials>EV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kuban State Medical University, 4 Sedina str., Krasnodar 350063, Russian Federation, e-mail: rahill_de_novo@mail.ru.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trembach</LastName>
+                    <ForeName>V V</ForeName>
+                    <Initials>VV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kuban State Medical University, 4 Sedina str., Krasnodar 350063, Russian Federation, e-mail: rahill_de_novo@mail.ru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Clinical Hospital â 2, 6/2 Krasnyh partizan str., Krasnodar 350012, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudnikova</LastName>
+                    <ForeName>A V</ForeName>
+                    <Initials>AV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kuban State Medical University, 4 Sedina str., Krasnodar 350063, Russian Federation, e-mail: rahill_de_novo@mail.ru.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Regional Clinical Hospital â 2, 6/2 Krasnyh partizan str., Krasnodar 350012, Russian Federation.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D018848">Controlled Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Adv Gerontol</MedlineTA>
+            <NlmUniqueID>100971443</NlmUniqueID>
+            <ISSNLinking>1561-9125</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000098" MajorTopicYN="Y">blood supply</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029424" MajorTopicYN="N">Pulmonary Disease, Chronic Obstructive</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012039" MajorTopicYN="N">Regional Blood Flow</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012426" MajorTopicYN="N" Type="Geographic">Russia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherAbstract Type="Publisher" Language="rus">
+            <AbstractText>Ð¦ÐµÐ»ÑÑ ÑÐ°Ð±Ð¾ÑÑ ÑÑÐ°Ð»Ð° Ð¾ÑÐµÐ½ÐºÐ° Ð´Ð¸Ð½Ð°Ð¼Ð¸ÐºÐ¸ ÑÐ»ÑÑÑÐ°Ð·Ð²ÑÐºÐ¾Ð²ÑÑ Ð¿Ð°ÑÐ°Ð¼ÐµÑÑÐ¾Ð² Ð¿Ð¾ÑÐµÑÐ½Ð¾Ð³Ð¾ ÐºÑÐ¾Ð²Ð¾ÑÐ¾ÐºÐ° Ñ Ð±Ð¾Ð»ÑÐ½ÑÑ Ð¥ÐÐÐ, Ð¸Ð¼ÐµÑÑÐ¸Ñ Ð½Ð°ÑÐ°Ð»ÑÐ½ÑÐµ ÑÑÐ°Ð´Ð¸Ð¸ ÑÑÐ¾Ð½Ð¸ÑÐµÑÐºÐ¾Ð¹ Ð±Ð¾Ð»ÐµÐ·Ð½Ð¸ Ð¿Ð¾ÑÐµÐº (Ð¥ÐÐ), Ð½Ð° ÑÐ¾Ð½Ðµ Ð»ÐµÑÐµÐ½Ð¸Ñ Ð¿ÑÐµÐ¿Ð°ÑÐ°ÑÐ°Ð¼Ð¸ Ð½ÐµÐ°ÐºÑÐ¸Ð²Ð½Ð¾Ð³Ð¾ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D. Ð Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð²ÐºÐ»ÑÑÐµÐ½Ñ 264 Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ° Ñ Ð¥ÐÐÐ IIâIV ÑÑÐµÐ¿ÐµÐ½Ð¸ ÑÑÐ¶ÐµÑÑÐ¸ Ð² ÑÐ¾ÑÐµÑÐ°Ð½Ð¸Ð¸ Ñ Ð¥ÐÐ IâII ÑÑÐ°Ð´Ð¸Ð¸: 135 Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð³ÑÑÐ¿Ð¿Ñ Ð¸ 129 â ÐºÐ¾Ð½ÑÑÐ¾Ð»ÑÐ½Ð¾Ð¹. ÐÐ°Ð¶Ð´Ð°Ñ Ð³ÑÑÐ¿Ð¿Ð° Ð±ÑÐ»Ð° ÑÐ°Ð·Ð´ÐµÐ»ÐµÐ½Ð° Ð½Ð° ÑÐµÑÑÑÐµ Ð¿Ð¾Ð´Ð³ÑÑÐ¿Ð¿Ñ Ð¿Ð¾ Ð²ÐµÐ»Ð¸ÑÐ¸Ð½Ðµ Ð¾Ð±ÑÐµÐ¼Ð° ÑÐ¾ÑÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð½Ð¾Ð³Ð¾ Ð²ÑÐ´Ð¾ÑÐ° (ÐÐ¤Ð1) Ð¸ ÑÑÐ¾Ð²Ð½Ñ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D. Ð Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð³ÑÑÐ¿Ð¿Ðµ Ð±ÑÐ» Ð½Ð°Ð·Ð½Ð°ÑÐµÐ½ Ð¿ÑÐµÐ¿Ð°ÑÐ°Ñ Ð½Ð°ÑÐ¸Ð²Ð½Ð¾Ð³Ð¾ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ð¿Ð¾ ÑÑÐµÐ¼Ðµ, Ð¾Ð±ÐµÑÐ¿ÐµÑÐ¸Ð²Ð°ÑÑÐµÐ¹ Ð¿Ð¾Ð´Ð´ÐµÑÐ¶Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ &gt;34,3 Ð½Ð³/Ð¼Ð» Ð² ÑÐµÑÐµÐ½Ð¸Ðµ Ð³Ð¾Ð´Ð°, Ð² ÐºÐ¾Ð½ÑÑÐ¾Ð»ÑÐ½Ð¾Ð¹ â ÑÐ¾Ð³Ð»Ð°ÑÐ½Ð¾ ÑÐµÐºÐ¾Ð¼ÐµÐ½Ð´Ð°ÑÐ¸ÑÐ¼ Ð Ð¾ÑÑÐ¸Ð¹ÑÐºÐ¾Ð¹ Ð°ÑÑÐ¾ÑÐ¸Ð°ÑÐ¸Ð¸ ÑÐ½Ð´Ð¾ÐºÑÐ¸Ð½Ð¾Ð»Ð¾Ð³Ð¾Ð². ÐÑÐµÐ¼ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ°Ð¼ Ð½Ð° ÑÑÐ°Ð¿Ðµ Ð²ÐºÐ»ÑÑÐµÐ½Ð¸Ñ Ð² Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ Ð¸ Ð¿Ð¾ÑÐ»Ðµ ÐµÐ³Ð¾ Ð¾ÐºÐ¾Ð½ÑÐ°Ð½Ð¸Ñ Ð¿ÑÐ¾Ð²Ð¾Ð´Ð¸Ð»Ð¸ Ð£ÐÐ Ð¿Ð¾ÑÐµÐº Ñ ÑÐ°ÑÑÐµÑÐ¾Ð¼ Ð¸Ð½Ð´ÐµÐºÑÐ° ÑÐµÐ·Ð¸ÑÑÐµÐ½ÑÐ½Ð¾ÑÑÐ¸ ÐÑÑÑÐ¸Ð»Ð¾ÑÐ° (RI), Ð¸ÑÑÐ»ÐµÐ´Ð¾Ð²Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ Ð°Ð»ÑÐ±ÑÐ¼Ð¸Ð½ÑÑÐ¸Ð¸. Ð£ 16 (24,1%) Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð³ÑÑÐ¿Ð¿Ñ Ð²ÑÑÐ²Ð»ÐµÐ½Ð¾ ÑÐ¼ÐµÐ½ÑÑÐµÐ½Ð¸Ðµ ÑÑÐ¶ÐµÑÑÐ¸ Ð°Ð»ÑÐ±ÑÐ¼Ð¸Ð½ÑÑÐ¸Ð¸ Ñ Ð3 Ð´Ð¾ Ð2, Ð° Ñ 58 (42,9%) â Ð¿Ð¾Ð²ÑÑÐµÐ½Ð¸Ðµ Ð¡ÐÐ¤. Ð¡ÑÐ°ÑÐ¸ÑÑÐ¸ÑÐµÑÐºÐ¸ Ð·Ð½Ð°ÑÐ¸Ð¼Ð¾Ðµ ÑÐ½Ð¸Ð¶ÐµÐ½Ð¸Ðµ Ð·Ð½Ð°ÑÐµÐ½Ð¸Ñ Ð¸Ð½Ð´ÐµÐºÑÐ° ÑÐµÐ·Ð¸ÑÑÐµÐ½ÑÐ½Ð¾ÑÑÐ¸ Ð¿Ð¾ÑÐµÑÐ½ÑÑ Ð°ÑÑÐµÑÐ¸Ð¹ Ð·Ð°ÑÐ¸ÐºÑÐ¸ÑÐ¾Ð²Ð°Ð½Ð¾ Ñ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð³ÑÑÐ¿Ð¿Ñ ÑÐ¾ ÑÑÐµÐ´Ð½ÐµÑÑÐ¶ÐµÐ»ÑÐ¼ ÑÐµÑÐµÐ½Ð¸ÐµÐ¼ Ð¥ÐÐÐ (GOLD 2) Ð¸ Ð´ÐµÑÐ¸ÑÐ¸ÑÐ¾Ð¼ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D (Ñ&lt;0,05). ÐÐ¾Ð´Ð´ÐµÑÐ¶Ð°Ð½Ð¸Ðµ ÑÑÐ¾Ð²Ð½Ñ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D Ð±Ð¾Ð»ÐµÐµ 34,3 Ð½Ð³/Ð¼Ð» Ð² ÑÐµÑÐµÐ½Ð¸Ðµ 12 Ð¼ÐµÑ Ñ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ñ Ð¥ÐÐÐ Ð² ÑÐ¾ÑÐµÑÐ°Ð½Ð¸Ð¸ Ñ Ð¥ÐÐ IâII ÑÑÐ°Ð´Ð¸Ð¸ Ð°ÑÑÐ¾ÑÐ¸Ð¸ÑÐ¾Ð²Ð°Ð½Ð¾ Ñ ÑÐ¼ÐµÐ½ÑÑÐµÐ½Ð¸ÐµÐ¼ ÑÑÐ¶ÐµÑÑÐ¸ Ð°Ð»ÑÐ±ÑÐ¼Ð¸Ð½ÑÑÐ¸Ð¸, Ð¿Ð¾Ð²ÑÑÐµÐ½Ð¸ÐµÐ¼ Ð¡ÐÐ¤, ÑÑÐ°ÑÐ¸ÑÑÐ¸ÑÐµÑÐºÐ¸ Ð·Ð½Ð°ÑÐ¸Ð¼ÑÐ¼ ÑÐ½Ð¸Ð¶ÐµÐ½Ð¸Ðµ Ð¸Ð½Ð´ÐµÐºÑÐ° ÑÐµÐ·Ð¸ÑÑÐµÐ½ÑÐ½Ð¾ÑÑÐ¸ Ð¿Ð¾ÑÐµÑÐ½ÑÑ Ð°ÑÑÐµÑÐ¸Ð¹ Ñ Ð¿Ð°ÑÐ¸ÐµÐ½ÑÐ¾Ð² Ð¾ÑÐ½Ð¾Ð²Ð½Ð¾Ð¹ Ð³ÑÑÐ¿Ð¿Ñ ÑÐ¾ ÑÑÐµÐ´Ð½ÐµÑÑÐ¶ÐµÐ»ÑÐ¼ ÑÐµÑÐµÐ½Ð¸ÐµÐ¼ Ð¥ÐÐÐ (GOLD 2) Ð¸ Ð´ÐµÑÐ¸ÑÐ¸ÑÐ¾Ð¼ Ð²Ð¸ÑÐ°Ð¼Ð¸Ð½Ð° D.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">chronic obstructive pulmonary disease</Keyword>
+            <Keyword MajorTopicYN="N">resistance index in renal arteries</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>9</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32593253</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

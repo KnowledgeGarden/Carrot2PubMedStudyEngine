@@ -1,0 +1,531 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30581062</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>08</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-8503</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>11</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation</Title>
+                <ISOAbbreviation>J Ren Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Likelihood of Self-reporting Balance Problems in Those With Advanced Chronic Kidney Disease, Slow Gait Speed, or Low Vitamin D.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>490-497</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1051-2276(18)30251-6</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1053/j.jrn.2018.10.011</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE">The purpose of this study was to determine the prevalence of vitamin D (25(OH)D) and balance deficits in persons with chronic kidney disease (CKD) and the likelihood of self-reporting balance and falling problems, measured gait speed in persons with kidney disease, and low levels of vitamin D and albumin.</AbstractText>
+                <AbstractText Label="DESIGN">Analysis of the National Health and Nutrition Examination Survey 1999-2004 data set.</AbstractText>
+                <AbstractText Label="SUBJECTS">The study included 8,554 subjects aged &gt;40Â years who were categorized into CKD stages based on the glomerular filtration rate (normal kidney function and stages 1 and 2 served as the control group, and stages 3 and 4/5 served as the CKD groups).</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES">Measured 25(OH)D levels, timed 20-feet walk, Romberg standing balance task, and self-reported balance and falling issues.</AbstractText>
+                <AbstractText Label="RESULTS">The prevalence of balance deficits was found to be high in this CKD sample, with fail rates increasing with kidney disease severity. Similarly, when examining the relationship between CKD stage and the measurement of balance, fail rates (impaired balance) increased and gait speed decreased with kidney disease severity. In addition, the likelihood of self-reporting a balance and falling problem in the past year was higher in persons who had advanced CKD, were of older age, were of female sex, were with former or current smoking status, had lower 25(OH)D levels, and had lower albumin levels. Similarly, the likelihood of having a 20-feet walk time of more than 8Â seconds was associated with those who were older, had higher body mass index, and had lower levels of 25(OH)D and albumin.</AbstractText>
+                <AbstractText Label="CONCLUSION">The unique finding of this study is that increased reporting of balance and falling issues (both perceived and measured) and slower gait were found in persons with increased CKD severity and lower 25(OH)D status.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2018 National Kidney Foundation, Inc. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wickstrom</LastName>
+                    <ForeName>Jordan F</ForeName>
+                    <Initials>JF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomechanics, University of Nebraska at Omaha, Omaha, Nebraska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sayles</LastName>
+                    <ForeName>Harlan R</ForeName>
+                    <Initials>HR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Nebraska Medical Center, Omaha, Nebraska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graeff-Armas</LastName>
+                    <ForeName>Laura A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Nebraska Medical Center, Omaha, Nebraska; Internal Medicine Division of Diabetes, Endocrinology, and Metabolism, University of Nebraska Medical Center, Omaha, Nebraska.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yentes</LastName>
+                    <ForeName>Jennifer M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomechanics, University of Nebraska at Omaha, Omaha, Nebraska. Electronic address: jyentes@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>L30 HL129255</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P20 GM109090</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Ren Nutr</MedlineTA>
+            <NlmUniqueID>9112938</NlmUniqueID>
+            <ISSNLinking>1051-2276</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012709">Serum Albumin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000058" MajorTopicYN="N">Accidental Falls</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015992" MajorTopicYN="N">Body Mass Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005684" MajorTopicYN="N">Gait</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009749" MajorTopicYN="N">Nutrition Surveys</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016017" MajorTopicYN="N">Odds Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004856" MajorTopicYN="N">Postural Balance</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057566" MajorTopicYN="Y">Self Report</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012709" MajorTopicYN="N">Serum Albumin</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012907" MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30581062</ArticleId>
+            <ArticleId IdType="pii">S1051-2276(18)30251-6</ArticleId>
+            <ArticleId IdType="doi">10.1053/j.jrn.2018.10.011</ArticleId>
+            <ArticleId IdType="pmc">PMC6586542</ArticleId>
+            <ArticleId IdType="mid">NIHMS1512789</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Exp Gerontol. 2006 Aug;41(8):746-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16797903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Nov;26(11):3683-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21430182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2014 Oct;86(4):810-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24429401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2014 Sep;155(9):3227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24949660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2008 Jan;51(1):38-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18155531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2013 Sep;24(9):1461-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23744885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Korean Med Sci. 2017 Dec;32(12):2035-2041</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29115088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2014 Oct;64(4):499-509</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25082101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2009 Dec;4(12):1901-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19820134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2010 Jul;58(7):1299-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20579169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Oct;72(8):1004-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17687259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Jan;6(1):50-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2000 Dec;36(6):1115-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11096034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Intern Med. 2016 Feb;176(2):175-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26747333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Mar 25;9(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28346348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2006 Nov;17(11):3223-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17005938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2014 May;24(3):186-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24613295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Aug 15;145(4):247-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16908915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2012 Jun;27(6):2384-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22102617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 1995 Nov;50 Spec No:64-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7493221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2010 Mar;5(3):460-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20185603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Endocrinol (Oxf). 2010 Sep;73(3):299-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20507339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2005 Mar;16(3):332-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15241585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol A Biol Sci Med Sci. 2005 Sep;60(9):1163-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16183957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 1994 Nov;3(6):615-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7881985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2013 Jul;8(7):1143-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23493381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Age Ageing. 2010 Nov;39(6):688-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20833863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2005 Jun;45(6):1026-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15957131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2009 Mar;19(2):127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19218039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2010 Feb;21(2):223-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20075063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ren Nutr. 2008 Jul;18(4):375-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18558303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Contrib Nephrol. 1980;18:98-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7353383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2007 Dec;50(6):918-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18037092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2012 Sep;7(9):1446-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22723451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2009 Oct 01;339:b3692</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19797342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Jul;58(1):396-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10886587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2011 Jun;43(2):475-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20237846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2011 Mar;26(3):1024-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20947538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2005 Jan;45(1):148-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15696454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Mar 24;311(5768):1770-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16497887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2017 Oct;173:317-322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28323044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Osteoporos Int. 2006;17(9):1390-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16799753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2011 Jul;80(1):17-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21150873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2004 Apr 28;291(16):1999-2006</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15113819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2010 Sep;31(18):2253-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20688781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2006 Feb 27;166(4):424-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16505262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Nov;58(5):2200-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11044242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2010 May 12;303(18):1815-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20460620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

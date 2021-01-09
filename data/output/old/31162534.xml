@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31162534</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1945-7197</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>104</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>11</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of clinical endocrinology and metabolism</Title>
+                <ISOAbbreviation>J Clin Endocrinol Metab</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Disturbances in Insulin-Glucose Metabolism in Patients With Advanced Renal Disease With and Without Diabetes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4949-4966</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1210/jc.2019-00286</ELocationID>
+            <Abstract>
+                <AbstractText Label="CONTEXT">Use of insulin in patients with diabetes and advanced chronic kidney disease (CKD; stages 4 to 5) is challenging and shows great variability among individuals. We explored the mechanisms underlying this variability.</AbstractText>
+                <AbstractText Label="EVIDENCE ACQUISITION">PubMed was searched for articles in English from 1960 to 2018 for advanced CKD and diabetes, glucose and insulin metabolism, insulin clearance, secretion and resistance, plasma insulin concentration, glycemic control, hypoglycemia, insulin dosage, and continuous glucose monitoring (CGM) in CKD.</AbstractText>
+                <AbstractText Label="EVIDENCE SYNTHESIS">The evidence shows that in most patients the daily dose of insulin needs to be significantly reduced with a high degree of variability; in some the dose remains unchanged, and rarely it is increased. The premise that the marked reduction in insulin requirement is essentially attributable to decreased insulin clearance by kidneys leading to prolongation of its plasma half-life, elevated blood insulin concentration, and hypoglycemia is not entirely correct. Other factors including decreases in food intake, insulin secretion, insulin clearance by peripheral tissues, and renal gluconeogenesis play important roles. There is also heightened resistance to insulin due to metabolic acidosis, uremic toxins, inflammatory state, and vitamin D deficiency. Importantly, the magnitude of changes in each of these factors varies between individuals with the same degree of CKD.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">In the presence of diabetes with advanced CKD, the insulin regimen should be individualized based on knowledge of the daily glucose patterns. The use of CGM is promising for safer glycemic control in patients with advanced CKD and diabetes and helps prevent extremes of hypoglycemia and hyperglycemia.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2019 Endocrine Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rahhal</LastName>
+                    <ForeName>Marie-Noel</ForeName>
+                    <Initials>MN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Case Western Reserve University, University Hospitals Cleveland Medical Center, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gharaibeh</LastName>
+                    <ForeName>Naser Eddin</ForeName>
+                    <Initials>NE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Case Western Reserve University, University Hospitals Cleveland Medical Center, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahimi</LastName>
+                    <ForeName>Leili</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Case Western Reserve University, University Hospitals Cleveland Medical Center, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ismail-Beigi</LastName>
+                    <ForeName>Faramarz</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Case Western Reserve University, University Hospitals Cleveland Medical Center, Cleveland, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Endocrinol Metab</MedlineTA>
+            <NlmUniqueID>0375362</NlmUniqueID>
+            <ISSNLinking>0021-972X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007004">Hypoglycemic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003920" MajorTopicYN="N">Diabetes Mellitus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003928" MajorTopicYN="N">Diabetic Nephropathies</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007004" MajorTopicYN="N">Hypoglycemic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>02</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31162534</ArticleId>
+            <ArticleId IdType="pii">5510489</ArticleId>
+            <ArticleId IdType="doi">10.1210/jc.2019-00286</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

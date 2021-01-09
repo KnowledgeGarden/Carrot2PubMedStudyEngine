@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31863599</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2362</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of clinical investigation</Title>
+                <ISOAbbreviation>Eur J Clin Invest</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>FGF23 and the PTH response to paricalcitol in chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e13196</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/eci.13196</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The parathyroid glands are endowed both with receptors responsive to FGF23 and to 1,25 vitamin D. Vitamin D receptor (VDR) activation, besides lowering PTH, also raises serum FGF23. FGF23 has been implicated in parathyroid resistance to VDR activation but the issue has never been investigated in predialysis CKD patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In the Paricalcitol and Endothelial Functio in Chronic Kidney Disease (PENNY) study (NCT01680198), a 12-week randomized trial in stage G3-4 CKD patients (placebo nÂ =Â 44 and paricalcitol nÂ =Â 44), we measured PTH and the active form of FGF23 with no missing value across the trial.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">At baseline, serum FGF23 and PTH were inter-related (rÂ =Â .54, PÂ &lt;Â .01). Paricalcitol reduced serum PTH (-75.1Â pg/mL, 95% CI: -90.4 to -59.8; PÂ &lt;Â .001) and increased FGF23 (+107Â pg/mL, 95% CI: 44-170Â pg/mL, PÂ =Â .001). Changes in the CaÂ ÃÂ P product in response to paricalcitol were closely related to simultaneous FGF23 changes in an analysis adjusted for changes in serum calcium and phosphate (PÂ &lt;Â .001). Of note, baseline FGF23, appropriately adjusted for baseline PTH, was unrelated with the PTH response to paricalcitol (rÂ =Â -.06, PÂ =Â .72). Placebo did not change neither PTH nor FGF23.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Serum FGF23 and PTH are inter-related and changes in the CaÂ ÃÂ P product induced by paricalcitol per se correlate with the FGF23 response to this drug. Independently of serum FGF23, the parathyroid glands of patients with moderate to severe CKD maintain an intact ability to respond to VDR activation.</AbstractText>
+                <CopyrightInformation>Â© 2019 Stichting European Society for Clinical Investigation Journal Foundation.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>D'Arrigo</LastName>
+                    <ForeName>Graziella</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pizzini</LastName>
+                    <ForeName>Patrizia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cutrupi</LastName>
+                    <ForeName>Sebastiano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripepi</LastName>
+                    <ForeName>Rocco</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripepi</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mallamaci</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology and Renal Transplantation Unit, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zoccali</LastName>
+                    <ForeName>Carmine</ForeName>
+                    <Initials>C</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-6616-1996</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Epidemiology and Physiopathology of Renal Diseases and Hypertension, CNR-IFC, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Abbvie and the National Research Council (CNR) if Italy</Agency>
+                    <Country/>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Clin Invest</MedlineTA>
+            <NlmUniqueID>0245331</NlmUniqueID>
+            <ISSNLinking>0014-2972</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004872">Ergocalciferols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010281">Parathyroid Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018167">Receptors, Calcitriol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6702D36OG5</RegistryNumber>
+                <NameOfSubstance UI="C084656">paricalcitol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012080" MajorTopicYN="N">Chronic Kidney Disease-Mineral and Bone Disorder</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004872" MajorTopicYN="N">Ergocalciferols</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010281" MajorTopicYN="N">Parathyroid Hormone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018167" MajorTopicYN="N">Receptors, Calcitriol</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CKD</Keyword>
+            <Keyword MajorTopicYN="Y">FGF23</Keyword>
+            <Keyword MajorTopicYN="Y">PTH</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D</Keyword>
+            <Keyword MajorTopicYN="Y">Vitamin D receptor activation</Keyword>
+            <Keyword MajorTopicYN="Y">paricalcitol</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31863599</ArticleId>
+            <ArticleId IdType="doi">10.1111/eci.13196</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Title>REFERENCES</Title>
+            <Reference>
+                <Citation>Andress D. Vitamin D in chronic kidney disease: a systemic role for selective vitamin D receptor activation. Kidney Int. 2006;69:33-43.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ben-Dov IZ, Galitzer H, Lavi-Moshayoff V, et al. The parathyroid is a target organ for FGF23 in rats. J Clin Invest. 2007;117:4003-4008.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Krajisnik T, BjÃ¶rklund P, Marsell R, et al. Fibroblast growth factor-23 regulates parathyroid hormone and 1alpha-hydroxylase expression in cultured bovine parathyroid cells. J Endocrinol. 2007;195:125-131.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kawakami K, Takeshita A, Furushima K, et al. Persistent fibroblast growth factor 23 signalling in the parathyroid glands for secondary hyperparathyroidism in mice with chronic kidney disease. Sci Rep. 2017;7:405-434.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sprague SM, Coyne D. Control of secondary hyperparathyroidism by vitamin D receptor agonists in chronic kidney disease. Clin J Am Soc Nephrol. American Society of Nephrology. 2010;5:512-518.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Isakova T, Wolf MS. FGF23 or PTH: which comes first in CKD. Kidney Int. 2010;78:947-949.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Liu S, Tang W, Zhou J, et al. Fibroblast growth factor 23 is a counter-regulatory phosphaturic hormone for vitamin D. J Am Soc Nephrol. 2006;17:1305-1315.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Hansen D, Rasmussen K, Pedersen SM, Rasmussen LM, Brandi L. Changes in fibroblast growth factor 23 during treatment of secondary hyperparathyroidism with alfacalcidol or paricalcitol. Nephrol Dial Transplant. 2012;27:2263-2269.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Georgiadou E, Marketou H, Trovas G, et al. Effect of calcitriol on FGF23 level in healthy adults and its dependence on phosphate level. In Vivo. 2017;31:145-150.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Nakanishi S, Kazama JJ, Nii-Kono T, et al. Serum fibroblast growth factor-23 levels predict the future refractory hyperparathyroidism in dialysis patients. Kidney Int. 2005;67:1171-1178.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kazama JJ, Sato F, Omori K, et al. Pretreatment serum FGF-23 levels predict the efficacy of calcitriol therapy in dialysis patients. Kidney Int. 2005;67:1120-1125.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Wolf M. Update on fibroblast growth factor 23 in chronic kidney disease. Kidney Int. NIH Public Access. 2012;82:737-747.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Zoccali C, Curatola G, Panuccio V, et al. Paricalcitol and endothelial function in chronic kidney disease trial. Hypertension. 2014;64:1005-1011.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Stevens LA, Coresh J, Schmid CH, et al. Estimating GFR using serum cystatin C alone and in combination with serum creatinine: a pooled analysis of 3,418 individuals with CKD. Am J Kidney Dis. 2008;51:395-406.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Leys C, Klein O, Dominicy Y, Ley C. Detecting multivariate outliers: Use a robust variant of the Mahalanobis distance. J Exp Soc Psychol. Academic Press. 2018;74:150-156.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Ruopp MD, Perkins NJ, Whitcomb BW, Schisterman EF. Youden Index and optimal cut-point estimated from observations affected by a lower limit of detection. Biom J. NIH Public Access. 2008;50:419-430.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Martin A, David V, Quarles LD. Regulation and function of the FGF23/klotho endocrine pathways. Physiol Rev. 2012;92:131-155.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kurosu H, Ogawa Y, Miyoshi M, et al. Regulation of fibroblast growth factor-23 signaling by Klotho. J Biol Chem. 2006;281:6120-6123.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Galitzer H, Ben-Dov IZ, Silver J, Naveh-Many T. Parathyroid cell resistance to fibroblast growth factor 23 in secondary hyperparathyroidism of chronic kidney disease. Kidney Int. 2010;77:211-218.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Larsson T, Marsell R, Schipani E, et al. Transgenic mice expressing fibroblast growth factor 23 under the control of the Î±1(I) collagen promoter exhibit growth retardation, osteomalacia, and disturbed phosphate homeostasis. Endocrinology. 2004;145:3087-3094.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Bai X, Miao D, Li J, Goltzman D, Karaplis AC. Transgenic mice overexpressing human fibroblast growth factor 23 (R176Q) delineate a putative role for parathyroid hormone in renal phosphate wasting disorders. Endocrinology. 2004;145:5269-5279.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Smith RC, O'Bryan LM, Farrow EG, et al. Circulating Î±Klotho influences phosphate handling by controlling FGF23 production. J Clin Invest. 2012;122:4710-4715.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>DeLuca S, Sitara D, Kang K, et al. Amelioration of the premature ageing-like features of Fgf-23 knockout mice by genetically restoring the systemic actions of FGF-23. J Pathol. 2008;216:345-355.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Carpenter TO, Insogna KL, Zhang JH, et al. Circulating levels of soluble klotho and FGF23 in X-linked hypophosphatemia: circadian variance, effects of treatment, and relationship to parathyroid status. J Clin Endocrinol Metab. 2010;95:E352-E357.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Burnett-Bowie SAM, Henao MP, Dere ME, Lee H, Leder BZ. Effects of hPTH(1-34) infusion on circulating serum phosphate, 1,25-dihydroxyvitamin D, and FGF23 levels in healthy men. J Bone Miner Res. American Society for Bone and Mineral Research. 2009;24:1681-1685.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Kolek OI, Hines ER, Jones MD, et al. 1alpha,25-Dihydroxyvitamin D3 upregulates FGF23 gene expression in bone: the final link in a renal-gastrointestinal-skeletal axis that controls phosphate transport. Am J Physiol Gastrointest Liver Physiol. 2005;289:G1036-G1042.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Collins MT, Lindsay JR, Jain A, et al. Fibroblast growth factor-23 is regulated by 1Î±,25-dihydroxyvitamin D. J Bone Miner Res. 2005;20:1944-1950.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Quinn SJ, Thomsen ARB, Pang JL, et al. Interactions between calcium and phosphorus in the regulation of the production of fibroblast growth factor 23 in vivo. Am J Physiol Endocrinol Metab. 2013;304:E310-E320.</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Sprague SM, Wetmore JB, Gurevich K, et al. Effect of cinacalcet and vitamin D analogs on fibroblast growth factor-23 during the treatment of secondary hyperparathyroidism. Clin J Am Soc Nephrol. 2015;10:1021-1030.</Citation>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

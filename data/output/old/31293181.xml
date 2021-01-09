@@ -1,0 +1,217 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31293181</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1366-5804</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biomarkers : biochemical indicators of exposure, response, and susceptibility to chemicals</Title>
+                <ISOAbbreviation>Biomarkers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Renalase in children with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>638-644</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/1354750X.2019.1642957</ELocationID>
+            <Abstract>
+                <AbstractText><b>Background:</b> Renalase is kidney-derived molecule initially considered as catecholamine-inactivating enzyme. However, recent studies suggest that renalase exerts potent cardio- and nephroprotective actions, not related to its enzymatic activity. <b>Purpose:</b> To assess renalase level in children with chronic kidney disease (CKD). <b>Material and methods:</b> Serum renalase, BMI, arterial stiffness, peripheral and central blood pressure, intima-media thickness (IMT), medications, and biochemical parameters were analyzed in 38 children with CKD (12.23âÂ±â4.19âyears) (stage G2-5). Control group consisted of 38 healthy children. <b>Results:</b> In the study group, GFR was 25.74âÂ±â8.94âmL/min/1.73 m<sup>2</sup>; 6 children were dialyzed; 26 had arterial hypertension. Renalase level was higher in the study group compared to control group (<i>pâ&lt;</i>â0.001). In CKD children renalase correlated (<i>pâ&lt;</i>â0.05) with BMI <i>Z</i>-score (<i>râ=</i>â-0.36), alfacalcidol dose (<i>râ=</i>â0.41), GFR (<i>râ=</i>â-0.69), hemoglobin (<i>râ=</i>â-0.48), total cholesterol (<i>râ=</i>â0.35), LDL-cholesterol (<i>râ=</i>â0.36), triglycerides (<i>râ=</i>â0.52), phosphate (<i>râ=</i>â0.35), calcium-phosphorus product (<i>râ=</i>â0.35), parathormone (<i>râ=</i>â0.58), and pulse wave velocity <i>Z</i>-score (<i>râ=</i>â0.42). In multivariate analysis GFR (<i>Î²â=</i>â-0.63, <i>pâ&lt;</i>â0.001), triglycerides (<i>Î²â=</i>â0.59, <i>pâ=</i>â0.002), and alfacalcidol dose (<i>Î²â=</i>â-0.49, <i>pâ=</i>â0.010) were determinants of renalase. <b>Conclusions:</b> In children with CKD there is a strong correlation between renalase level and CKD stage. Furthermore, in these patients renalase does not correlate with blood pressure but may be a marker of arterial stiffness.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Skrzypczyk</LastName>
+                    <ForeName>Piotr</ForeName>
+                    <Initials>P</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-1959-8255</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Nephrology, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okarska-NapieraÅa</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1668-6302</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Nephrology, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics with Observational Unit, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stelmaszczyk-Emmel</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-3667-1220</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Diagnostics and Clinical Immunology of Developmental Age, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>GÃ³rska</LastName>
+                    <ForeName>ElÅ¼bieta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Diagnostics and Clinical Immunology of Developmental Age, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>PaÅczyk-Tomaszewska</LastName>
+                    <ForeName>MaÅgorzata</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4566-7074</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics and Nephrology, Medical University of Warsaw , Warsaw , Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biomarkers</MedlineTA>
+            <NlmUniqueID>9606000</NlmUniqueID>
+            <ISSNLinking>1354-750X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050071">Bone Density Conservation Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006887">Hydroxycholecalciferols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.4.3.4</RegistryNumber>
+                <NameOfSubstance UI="D008995">Monoamine Oxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.4.3.4.</RegistryNumber>
+                <NameOfSubstance UI="C521557">renalase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>URQ2517572</RegistryNumber>
+                <NameOfSubstance UI="C008088">alfacalcidol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050071" MajorTopicYN="N">Bone Density Conservation Agents</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006887" MajorTopicYN="N">Hydroxycholecalciferols</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008995" MajorTopicYN="N">Monoamine Oxidase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014280" MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059289" MajorTopicYN="N">Vascular Stiffness</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adolescents</Keyword>
+            <Keyword MajorTopicYN="N">arterial stiffness</Keyword>
+            <Keyword MajorTopicYN="N">blood pressure</Keyword>
+            <Keyword MajorTopicYN="N">children</Keyword>
+            <Keyword MajorTopicYN="N">chronic kidney disease</Keyword>
+            <Keyword MajorTopicYN="N">renalase</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>7</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31293181</ArticleId>
+            <ArticleId IdType="doi">10.1080/1354750X.2019.1642957</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>

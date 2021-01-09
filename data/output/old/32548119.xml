@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">32548119</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2296-634X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <PubDate>
+                        <Year>2020</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Frontiers in cell and developmental biology</Title>
+                <ISOAbbreviation>Front Cell Dev Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Paget's Disease and Secondary Hyperparathyroidism: Is Healing Possible?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>399</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3389/fcell.2020.00399</ELocationID>
+            <Abstract>
+                <AbstractText>Paget bone disease (PDB) is often asymptomatic and incidentally diagnosed. It is a cause of osteoporosis and bone fragility and exposes patients to a high incidence of bone fractures. In Europe the prevalence varies according to the geographical area of origin, and increases with age. In patients with chronic renal disease, the prevalence is unknown and only few cases with PDB have been reported. We present a challenging case in an elderly patient with chronic kidney disease on peritoneal dialysis treatment. Our patients presented extremely high levels of alkaline phosphatase, suggesting a Paget bone disease. Secondary hyperparathyroidism was confirmed by the bone histological examination. The surprising biochemical and clinical response to active vitamin D confirms the well-known role on hyperparathyroidism and may indicate an additional role in the pathogenesis of Paget's disease.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2020 Panuccio and Tripepi.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Panuccio</LastName>
+                    <ForeName>Vincenzo Antonio</ForeName>
+                    <Initials>VA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology, Dialysis and Transplantation Unit G.O.M. &quot;Bianchi Melacrino Morelli&quot;, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tripepi</LastName>
+                    <ForeName>Rocco</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Clinical Physiology (IFC-CNR), Research Unit of Reggio Calabria, Reggio Calabria, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>05</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Front Cell Dev Biol</MedlineTA>
+            <NlmUniqueID>101630250</NlmUniqueID>
+            <ISSNLinking>2296-634X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CKD</Keyword>
+            <Keyword MajorTopicYN="N">Paget bone disease</Keyword>
+            <Keyword MajorTopicYN="N">alkaline phosphatase</Keyword>
+            <Keyword MajorTopicYN="N">hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>04</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>6</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">32548119</ArticleId>
+            <ArticleId IdType="doi">10.3389/fcell.2020.00399</ArticleId>
+            <ArticleId IdType="pmc">PMC7273920</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell Metab. 2011 Jan 5;13(1):23-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21195346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Endocrinol (Oxf). 1985 Apr;22(4):559-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3872746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Joint Bone Spine. 2006 May;73(3):243-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16574459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2010 Jan;25(1):20-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19580457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Dec;70(6):737-751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28941764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Cell Dev Biol. 2019 Nov 12;7:268</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31799249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2006 Oct;21(10):1545-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16995808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Joint Surg Br. 1980 Feb;62-B(1):12-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7351428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Calcif Tissue Int. 2013 Jul;93(1):39-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23494409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Nephrol. 2012 Oct 09;13:134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23043229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 1986 Oct;119(4):1776-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3489608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2000 Nov;15(11):2123-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11092393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Res. 2019 Apr;34(4):579-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30803025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

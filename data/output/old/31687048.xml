@@ -1,0 +1,630 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31687048</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-8630</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2019</Volume>
+                    <PubDate>
+                        <Year>2019</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Disease markers</Title>
+                <ISOAbbreviation>Dis Markers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inflammation-Related Patterns in the Clinical Staging and Severity Assessment of Chronic Kidney Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1814304</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1155/2019/1814304</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic kidney disease (CKD) is an irreversible loss of kidney function, and it represents a major global public health burden due to both its prevalence and its continuously increasing incidence. Mineral bone disorders (MBDs) constitute a hallmark of CKD, and alongside cardiovascular complications, they underlie a poor prognosis for these patients. Thus, our study focused on novel CKD biomarker patterns and their impact on the clinical staging of the disease. As a first testing approach, the relative expression levels of 105 proteins were assessed by the Proteome Profiler Cytokine Array Kit for pooled CKD stage 2-4 serum samples to establish an overall view regarding the proteins involved in CKD pathogenesis. Among the molecules that displayed significant dysregulation in the CKD stages, we further explored the involvement of Dickkopf-related protein 1 (Dkk-1), a recognised inhibitor of the Wnt signalling pathway, and its crosstalk with 1,25OH<sub>2</sub>D<sub>3</sub> (calcitriol) as new players in renal bone and vascular disease. The serum levels of these two molecules were quantified by an ELISA (76 samples), and the results reveal decreasing circulating levels of Dkk-1 and calcitriol in advanced CKD stages, with their circulating expression showing a downward trend as the CKD develops. In the next step, we analysed the inflammation and MBD biomarkers' expression in CKD (by xMAP array). Our results show that the molecules involved in orchestrating the inflammatory response, interleukin-6 (IL-6) and tumour necrosis factor alpha (TNF<i>Î±</i>), as well as the mineral biomarkers osteoprotegerin (OPG), osteocalcin (OC), osteopontin (OPN), and fibroblast growth factor 23 (FGF-23), correlate with Dkk-1 and calcitriol, raising the possibility of them being potential useful CKD biomarkers. These results reveal the impact of different biomarker patterns in CKD staging and severity, thus opening up novel approaches to be explored in CKD clinical management.</AbstractText>
+                <CopyrightInformation>Copyright Â© 2019 Simona Mihai et al.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mihai</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0001-5624-2058</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry-Proteomics Department, Victor Babes National Institute of Pathology, Splaiul Independentei 99-101, 050096 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Codrici</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-5507-1020</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry-Proteomics Department, Victor Babes National Institute of Pathology, Splaiul Independentei 99-101, 050096 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Popescu</LastName>
+                    <ForeName>Ionela D</ForeName>
+                    <Initials>ID</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry-Proteomics Department, Victor Babes National Institute of Pathology, Splaiul Independentei 99-101, 050096 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Enciu</LastName>
+                    <ForeName>Ana-Maria</ForeName>
+                    <Initials>AM</Initials>
+                    <Identifier Source="ORCID">https://orcid.org/0000-0002-8122-1096</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry-Proteomics Department, Victor Babes National Institute of Pathology, Splaiul Independentei 99-101, 050096 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cellular and Molecular Medicine Department, Carol Davila University of Medicine and Pharmacy, No. 8 B-dul Eroilor Sanitari, 050474 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rusu</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fundeni Clinic of Nephrology, Carol Davila University of Medicine and Pharmacy, Sos Fundeni 258, 022328 Sector 2, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Fundeni Clinical Institute, Sos Fundeni 258, 022328 Sector 2, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zilisteanu</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fundeni Clinic of Nephrology, Carol Davila University of Medicine and Pharmacy, Sos Fundeni 258, 022328 Sector 2, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Fundeni Clinical Institute, Sos Fundeni 258, 022328 Sector 2, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Necula</LastName>
+                    <ForeName>Laura G</ForeName>
+                    <Initials>LG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Virology Department, Stefan S. Nicolau Institute of Virology, Sos Mihai Bravu 285, 030304 Sector 3, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anton</LastName>
+                    <ForeName>Gabriela</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Virology Department, Stefan S. Nicolau Institute of Virology, Sos Mihai Bravu 285, 030304 Sector 3, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanase</LastName>
+                    <ForeName>Cristiana</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry-Proteomics Department, Victor Babes National Institute of Pathology, Splaiul Independentei 99-101, 050096 Sector 5, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Titu Maiorescu University, Cajal Institute, Faculty of Medicine, Strada DÃ¢mbovnicului 22, 040441, Sector 4, Bucharest, Romania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dis Markers</MedlineTA>
+            <NlmUniqueID>8604127</NlmUniqueID>
+            <ISSNLinking>0278-0240</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C000628935">BGLAP protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C501126">DKK1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C508600">IL6 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036341">Intercellular Signaling Peptides and Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053244">Osteoprotegerin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C506895">SPP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C506030">TNFRSF11B protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>104982-03-8</RegistryNumber>
+                <NameOfSubstance UI="D015675">Osteocalcin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>106441-73-0</RegistryNumber>
+                <NameOfSubstance UI="D053495">Osteopontin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>62031-54-3</RegistryNumber>
+                <NameOfSubstance UI="D005346">Fibroblast Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7Q7P4S7RRE</RegistryNumber>
+                <NameOfSubstance UI="C416507">fibroblast growth factor 23</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FXC9231JVH</RegistryNumber>
+                <NameOfSubstance UI="D002117">Calcitriol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015519" MajorTopicYN="N">Bone Density</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001847" MajorTopicYN="N">Bone Diseases</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002117" MajorTopicYN="N">Calcitriol</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005346" MajorTopicYN="N">Fibroblast Growth Factors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036341" MajorTopicYN="N">Intercellular Signaling Peptides and Proteins</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015675" MajorTopicYN="N">Osteocalcin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053495" MajorTopicYN="N">Osteopontin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053244" MajorTopicYN="N">Osteoprotegerin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060449" MajorTopicYN="N">Wnt Signaling Pathway</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <CoiStatement>The authors declare that they have no competing interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>08</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31687048</ArticleId>
+            <ArticleId IdType="doi">10.1155/2019/1814304</ArticleId>
+            <ArticleId IdType="pmc">PMC6800975</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2018 Apr;66(4):804-811</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29360163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yonsei Med J. 2015 Sep;56(5):1296-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26256972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Immunol. 2017 Apr 21;8:405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28484449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dis Markers. 2016;2016:3185232</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27667892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Croat Med J. 2016 Apr 23;57(2):89-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27106351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Jan 27;10(1):e0117687</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25625192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2018 Oct 19;19(10):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30347711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Dial Transplant. 2019 May 05;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31056712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Differentiation. 2010 Jul;80(1):46-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20546990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Nephrol. 2017 Mar;32(3):393-404</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26961492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Nutr Metab. 2018;72(2):87-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29346788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2016 Dec 13;134(24):1991-2007</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27803037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Ther Med. 2019 Jan;17(1):368-372</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30651805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2018 Dec 03;10(12):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30513912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ Glob Health. 2017 Jul 6;2(2):e000380</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29225940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2008 Sep-Oct;28(5A):2613-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19035286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Mar 25;9(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28346348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine. 2013 Oct;64(1):39-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23778029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ScientificWorldJournal. 2014;2014:637065</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25136676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Contrib Nephrol. 2017;191:32-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28910789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bone. 2017 Jul;100:80-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28119179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Mol Med. 2018 Jul 5;:</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29975001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Rheumatol. 2015 May;67(8):2071-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25941031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2011;17(19):1924-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21711238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Pharmacol. 2018 Feb 02;9:50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29456507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2017 Dec;70(6):737-751</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28941764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2017 Jan 27;7:41612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28128299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Endocrinol. 2012 Sep;8(9):529-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22473330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2017 May 11;12(5):e0176411</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28493902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Nephrol. 2017 Oct;13(10):600-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28824172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Jul 06;11(7):e0158765</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27383068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Jul 19;11(7):e0159132</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27434276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2015 Aug;88(2):235-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26083653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2019 Feb 20;20(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30791553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Res. 2018 Sep 6;2018:2180373</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30271792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2016 Feb 16;44(2):246-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26872695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Onco Targets Ther. 2014 Dec 22;8:81-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25565868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pragmat Obs Res. 2016 Aug 17;7:21-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27822135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Heart Assoc. 2013 Sep 23;2(5):e000481</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24060959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2016 Oct 8;388(10053):1459-1544</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27733281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Lipidol. 2017 Oct;28(5):387-396</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28723729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2016 Sep 7;11(9):1546-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27340285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Rheumatol. 2017 Oct;36(10):2351-2358</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28676900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Clin Pract. 2011;117(4):c363-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21071960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Signal Transduct Target Ther. 2017;2:</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29158945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Biosci. 2015 Nov 16;5:63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26579219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2019 Jun;76(11):2077-2091</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30887097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

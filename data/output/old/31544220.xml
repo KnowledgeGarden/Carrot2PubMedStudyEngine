@@ -1,0 +1,539 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31544220</PMID>
+        <DateCompleted>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-7799</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical and experimental nephrology</Title>
+                <ISOAbbreviation>Clin Exp Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of depressive symptoms with 25(OH) vitamin D in hemodialysis patients and effect of gender.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-72</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10157-019-01794-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Depression is common in chronic kidney disease (CKD) patients and associated with significant increase in morbidity and mortality. In recent years, a relationship between vitamin D deficiency and depression has been shown. The aim of this study is to investigate the relationship between 25-hydroxy (OH) vitamin D and depression in hemodialysis patients.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 140 patients were included in the study. Hamilton depression scale (HAM-D) was completed by all patients. 25(OH) vitamin D levels were compared between patients with and without depressive symptoms.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Patients who had depressive symptoms had significantly lower 25(OH) vitamin D levels (13.70 [24.3-8.25] vs. 18.20 [29.2-11.7] ng/mL, pâ=â0.016). HAM-D score showed significant association with gender (pâ=â0.011) and 25(OH) vitamin D level (pâ=â0.011). Univariate logistic regression analysis showed that males had lower risk of depression by a ratio of 61.1% (OR 0.389, pâ=â0.012) and vitamin D-deficient patients had 2.88 times greater risk of depression compared to non-deficient patients (OR 2.885, pâ=â0.013). Multivariate logistic regression analysis showed that males had 53.7% less risk of depression (OR 0.463, pâ=â0.046) and vitamin D-deficient patients had 2.39 times greater risk of depression (OR 2.397, pâ=â0.047). When evaluated by gender, univariate logistic regression analysis showed that 25(OH) vitamin D and other variables were not associated with depression in females (pâ&gt;â0.05), while only vitamin D level had a significant effect on depression in males (OR 8.207, pâ=â0.008).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We found a significant association between vitamin D level and depressive symptoms in hemodialysis patients. When analyzed according to gender, this association was found to stand independent of other variables only in males.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yavuz</LastName>
+                    <ForeName>Yasemin Coskun</ForeName>
+                    <Initials>YC</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0003-1733-9003</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, Selcuk University Faculty of Medicine, Konya, Turkey. yasemincoskun@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Selcuk University Faculty of Medicine, Konya, Turkey. yasemincoskun@yahoo.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biyik</LastName>
+                    <ForeName>Zeynep</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, Selcuk University Faculty of Medicine, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ozkul</LastName>
+                    <ForeName>Durmus</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, Konya Training and Research Hospital, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abusoglu</LastName>
+                    <ForeName>Sedat</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry Department, Selcuk University Faculty of Medicine, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eryavuz</LastName>
+                    <ForeName>Duygu</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry Department, Selcuk University Faculty of Medicine, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dag</LastName>
+                    <ForeName>Mikail</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biochemistry Department, Selcuk University Faculty of Medicine, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korez</LastName>
+                    <ForeName>Muslu Kazim</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Statistics Department, Selcuk University Faculty of Science, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guney</LastName>
+                    <ForeName>Ibrahim</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nephrology Department, Konya Training and Research Hospital, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altintepe</LastName>
+                    <ForeName>Lutfullah</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Internal Medicine Department, Selcuk University Faculty of Medicine, Konya, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Clin Exp Nephrol</MedlineTA>
+            <NlmUniqueID>9709923</NlmUniqueID>
+            <ISSNLinking>1342-1751</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000339" MajorTopicYN="Y">Affect</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003863" MajorTopicYN="N">Depression</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006435" MajorTopicYN="Y">Renal Dialysis</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014421" MajorTopicYN="N" Type="Geographic">Turkey</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Depression</Keyword>
+            <Keyword MajorTopicYN="N">Gender</Keyword>
+            <Keyword MajorTopicYN="N">Hemodialysis</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2019</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2019</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31544220</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10157-019-01794-7</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10157-019-01794-7</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Int J Environ Res Public Health. 2018 Aug 17;15(8):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30126163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cachexia Sarcopenia Muscle. 2017 Feb;8(1):57-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27897415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2018 Mar 17;19(3):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29562608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Turk Psikiyatri Derg. 2007 Winter;18(4):323-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18066723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Nurs Res. 2018 Oct;43:80-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30220369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neurobiol. 2019 May;176:86-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30721749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrol Ther. 2016 Jul;12(4):210-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26915893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Biochem. 2019 Mar 03;38(2):181-187</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30867646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2008 Dec;264(6):599-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18793245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Postgrad Med. 2019 Apr-Jun;65(2):74-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29943744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Dial. 2018 Jul;31(4):388-397</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29513906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Affect Disord. 2016 Jan 1;189:357-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26476420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Health Med. 2019 Dec;24(10):1213-1219</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31046446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2009 Jan;75(1):88-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18843258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Psychiatry. 2017 Feb;4(2):146-158</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27856392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Psychopharmacol. 2011 Oct;25(10):1320-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20823081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Turk Psikiyatri Derg. 2009 Fall;20(3):205-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19757220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychopharmacology. 2019 Jan;44(1):184-199</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29955150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Biophys Mol Biol. 2006 Sep;92(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16566961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hippokratia. 2012 Jul;16(3):236-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23935290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2017 Feb 13;12(2):e0171009</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28192445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aust N Z J Psychiatry. 2014 May;48(5):464-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24226892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NCHS Data Brief. 2011 Mar;(59):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21592422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychiatr Pol. 2017 Jun 18;51(3):437-454</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28866715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2010 Jul;95(7):3225-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20444911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutrients. 2017 Mar 25;9(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28346348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 Mar;55(3):1019-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10027939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Life. 2018 Oct-Dec;11(4):286-292</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30894884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Mol Neurosci. 2015 Oct 07;8:58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26468295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Jul;42(1):125-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12830464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Issues Ment Health Nurs. 2018 Jun;39(6):514-518</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29370555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2015 Jan;47(1):169-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25262147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nephrol. 2012 Nov-Dec;25(6):954-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22241638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephrology (Carlton). 2018 Jun;23(6):546-551</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28545164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Rev. 2017 Apr;69(2):80-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28202503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Nutr. 2009 Dec;63(12):1444-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19690578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychiatr Dis Treat. 2019 Jan 14;15:227-231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30679908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Nephrol Hypertens. 2019 Jan;28(1):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30320621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychiatry Res. 2011 Dec 30;190(2-3):221-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21784535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Asia Pac Psychiatry. 2015 Mar;7(1):78-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24259452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychiatr Danub. 2017 Sep;29(Suppl 3):499-503</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28953816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Metab (Lond). 2017 Mar 17;14:27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28331532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

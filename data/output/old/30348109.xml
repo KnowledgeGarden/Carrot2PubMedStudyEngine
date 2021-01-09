@@ -1,0 +1,379 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">30348109</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2369</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>10</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC nephrology</Title>
+                <ISOAbbreviation>BMC Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Status of vitamin D and parameters of calcium homeostasis in renal transplant recipients in Nepal: a cross sectional study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>290</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12882-018-1088-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Vitamin D, apart from being an important part of the &quot;calcium-vitamin D-parathyroid hormone&quot; endocrine axis, has diverse range of &quot;non-calcemic&quot; biological actions. A high prevalence of vitamin D deficiency has been observed in renal transplant recipients (RTRs) worldwide. This study aimed to determine the prevalence of hypovitaminosis D in Nepalese RTRs and interrelations between serum 25-hydroxyvitamin D [25(OH) D] and other biochemical parameters.</AbstractText>
+                <AbstractText Label="METHODS">A total of 80 adult RTRs visiting a university hospital were enrolled in this cross sectional study. Serum 25(OH) D and intact parathyroid hormone (iPTH) were measured using Enhanced Chemiluminiscent Immunoassay. The RTR population was categorized into recent transplant recipients (â¤1 year) and long term recipients (&gt;â1 year). The vitamin D status was defined as per NKF/KDOQI guidelines. SPSS version 20.0 was used to analyze the data. Appropriate statistical tests were applied to compare variables between groups and establish correlation. P &lt;â0.05 was considered to be statistically significant.</AbstractText>
+                <AbstractText Label="RESULTS">The mean age of the recipients was 38.11 Â± 11.47 years (68 males, 85.0%). Chronic glomerulonephritis was the leading cause of CKD. The two RTR groups (recent and long term) didn't differ in demographic and biochemical characteristics. 83.75% of the recipients had PTH levels above the upper limit of the recommended range for their stage of CKD. 57.5% had hypocalcemia and none of the recipients had hypercalcemia. The median serum 25(OH) D was 24.15Â ng/ml (8.00-51.50Â ng/ml). Only 27.5% had sufficient vitamin D status whereas 53.8% were vitamin D insufficient and 18.8% were vitamin D deficient, the distribution almost comparable in the 2 transplant group. The serum 25(OH) D was not significantly affected by the time post-transplant, gender and sunlight avoidance. There was a significant negative correlation between serum 25(OH) D and iPTH (Pearson's râ=â-â0.35, Pâ=â0.001), but not so with the graft function.</AbstractText>
+                <AbstractText Label="CONCLUSION">There is a high prevalence of vitamin D insufficiency in RTRs. The deficiency status is not corrected despite of nutritional improvement and normalization of GFR post-transplantation and likely exacerbates secondary hyperparathyroidism. Vitamin D supplementation coupled with sensible sun exposure could be important strategies in optimization of the vitamin D status in this population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Timalsina</LastName>
+                    <ForeName>Santosh</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">0000-0003-4425-5614</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Chitwan Medical College, Bharatpur, Nepal. timalsina.santosh@cmc.edu.np.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sigdel</LastName>
+                    <ForeName>Mahesh Raj</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Nephrology, Tribhuvan University Teaching Hospital, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baniya</LastName>
+                    <ForeName>Santosh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice and Emergency Medicine, Tribhuvan University Teaching Hospital, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Subedee</LastName>
+                    <ForeName>Shantos</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Public Health Laboratory, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D064888">Observational Study</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Nephrol</MedlineTA>
+            <NlmUniqueID>100967793</NlmUniqueID>
+            <ISSNLinking>1471-2369</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>A288AR3C9H</RegistryNumber>
+                <NameOfSubstance UI="C104450">25-hydroxyvitamin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006706" MajorTopicYN="N">Homeostasis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016030" MajorTopicYN="N">Kidney Transplantation</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000639" MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009390" MajorTopicYN="N" Type="Geographic">Nepal</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066027" MajorTopicYN="Y">Transplant Recipients</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Hypovitaminosis D</Keyword>
+            <Keyword MajorTopicYN="Y">Renal transplant recipients</Keyword>
+            <Keyword MajorTopicYN="Y">Sensible sun exposure</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30348109</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12882-018-1088-x</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12882-018-1088-x</ArticleId>
+            <ArticleId IdType="pmc">PMC6198466</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>N Engl J Med. 2007 Jul 19;357(3):266-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 1999 Nov;10(11):2426-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10541304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dermatoendocrinol. 2013 Jan 1;5(1):130-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24494046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron Physiol. 2006;104(1):p23-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16691036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Endocrinol Metab. 2012 Mar;16(2):274-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22470867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Kidney Dis. 2003 Oct;42(4 Suppl 3):S1-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Transplant. 2007 Nov-Dec;21(6):683-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17988259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Dermatol. 1993 Sep;129(3):242-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8286220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Lett. 2005 Aug 15;100(1):34-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16054704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Assoc Physicians India. 2009 Jan;57:40-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19753759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Nutr. 2008 Feb;87(2):431-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18258635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2006 Feb;91(2):526-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16303843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Best Pract Res Clin Endocrinol Metab. 2011 Aug;25(4):671-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21872807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Apr 24;348(17):1681-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12711744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Medicine (Baltimore). 2017 May;96(21):e6918</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28538382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2006 Dec;6(12):2929-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17061994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Res Opin. 2005 Apr;21(4):579-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15899107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transplant Proc. 1996 Dec;28(6):3485-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8962355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Dermatol. 2011 Jan;164(1):163-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21039402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1999 Aug;277(2):F157-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10444570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2015 Jan;100(1):81-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25361179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Nutr. 2003 May;89(5):552-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12720576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Kidney J. 2017 Jun;10(3):411-418</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28616220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Biophys Mol Biol. 2006 Sep;92(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16566961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Nephrol. 2004 Sep-Oct;24(5):503-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15452403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1986;42(4):290-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3515218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Transplant. 2007 Nov;7(11):2546-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17908281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1998 Feb 28;351(9103):623-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9500317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>

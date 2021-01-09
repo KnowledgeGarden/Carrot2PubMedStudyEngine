@@ -1,0 +1,744 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">33386480</PMID>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2021</Year>
+                        <Month>Jan</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Calcified tissue international</Title>
+                <ISOAbbreviation>Calcif Tissue Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Old and New Drugs for the Management of Bone Disorders in CKD.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00223-020-00788-y</ELocationID>
+            <Abstract>
+                <AbstractText>Disturbances in mineral and bone metabolism are common in patients with chronic kidney disease (CKD), especially those undergoing dialysis. Renal osteodystrophy, which describes an alteration of bone morphology, is an important component of this systemic disorder and may explain the elevated risk of fracture which adversely affects morbidity and mortality. The most common form of renal osteodystrophy is high-turnover bone disease (osteitis fibrosa), which is induced by secondary hyperparathyroidism (SHPT). During the past decade, there has been considerable advances in the management of SHPT, with the introduction of the calcimimetic agents, the optimized use of nutritional and active vitamin D, and the accumulated experience with surgical parathyroidectomy. Studies supported that these advances could translate into improvement of renal bone disease and fracture prevention, as well as decreasing the risk of cardiovascular events and mortality. In this review, we summarize the available clinical evidence on the effect of old and new drugs on bone disorders in patients with CKD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Komaba</LastName>
+                    <ForeName>Hirotaka</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Endocrinology and Metabolism, Tokai University School of Medicine, 143 Shimo-Kasuya, Isehara, 259-1193, Japan.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Medical Sciences, Tokai University, Isehara, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ketteler</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Internal Medicine and Nephrology, Robert-Bosch-Krankenhaus, Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunningham</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Free Hospital and UCL Medical School, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fukagawa</LastName>
+                    <ForeName>Masafumi</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7832-2339</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Endocrinology and Metabolism, Tokai University School of Medicine, 143 Shimo-Kasuya, Isehara, 259-1193, Japan. fukagawa@tokai-u.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2021</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Calcif Tissue Int</MedlineTA>
+            <NlmUniqueID>7905481</NlmUniqueID>
+            <ISSNLinking>0171-967X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Calcimimetics</Keyword>
+            <Keyword MajorTopicYN="N">Parathyroidectomy</Keyword>
+            <Keyword MajorTopicYN="N">Renal osteodystrophy</Keyword>
+            <Keyword MajorTopicYN="N">Secondary hyperparathyroidism</Keyword>
+            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>11</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>19</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2021</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33386480</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00223-020-00788-y</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00223-020-00788-y</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Isakova T, Wahl P, Vargas GS et al (2011) Fibroblast growth factor 23 is elevated before parathyroid hormone and phosphate in chronic kidney disease. Kidney Int 79:1370â1378</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21389978</ArticleId>
+                    <ArticleId IdType="pmcid">3134393</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2011.47</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shigematsu T, Kazama JJ, Yamashita T et al (2004) Possible involvement of circulating fibroblast growth factor 23 in the development of secondary hyperparathyroidism associated with renal insufficiency. Am J Kidney Dis 44:250â256</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15264182</ArticleId>
+                    <ArticleId IdType="doi">10.1053/j.ajkd.2004.04.029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gutierrez O, Isakova T, Rhee E et al (2005) Fibroblast growth factor-23 mitigates hyperphosphatemia but accentuates calcitriol deficiency in chronic kidney disease. J Am Soc Nephrol 16:2205â2215</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15917335</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2005010052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fukuda N, Tanaka H, Tominaga Y et al (1993) Decreased 1,25-dihydroxyvitamin D3 receptor density is associated with a more severe form of parathyroid hyperplasia in chronic uremic patients. J Clin Invest 92:1436â1443</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8397225</ArticleId>
+                    <ArticleId IdType="pmcid">288288</ArticleId>
+                    <ArticleId IdType="doi">10.1172/JCI116720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kifor O, Moore FD Jr, Wang P et al (1996) Reduced immunostaining for the extracellular Ca2Ã¾-sensing receptor in primary and uremic secondary hyperparathyroidism. J Clin Endocrinol Metab 81:1598â1606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8636374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Komaba H, Goto S, Fujii H et al (2010) Depressed expression of Klotho and FGF receptor 1 in hyperplastic parathyroid glands from uremic patients. Kidney Int 77:232â238</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19890272</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2009.414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Komaba H, Fukagawa M (2012) The role of FGF23 in CKDâwith or without Klotho. Nat Rev Nephrol 8:484â490</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22714041</ArticleId>
+                    <ArticleId IdType="doi">10.1038/nrneph.2012.116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Moe S, Drueke T, Cunningham J et al (2006) Definition, evaluation, and classification of renal osteodystrophy: a position statement from Kidney Disease: improving Global Outcomes (KDIGO). Kidney Int 69:1945â1953</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16641930</ArticleId>
+                    <ArticleId IdType="doi">10.1038/sj.ki.5000414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sherrard DJ, Hercz G, Pei Y et al (1993) The spectrum of bone disease in end-stage renal failure: an evolving disorder. Kidney Int 43:436â442</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8441240</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.1993.64</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Work Group (2009) KDIGO clinical practice guideline for the diagnosis, evaluation, prevention, and treatment of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl 113:S1âS130</Citation>
+            </Reference>
+            <Reference>
+                <Citation>Jadoul M, Albert JM, Akiba T et al (2006) Incidence and risk factors for hip or other bone fractures among hemodialysis patients in the Dialysis Outcomes and Practice Patterns Study. Kidney Int 70:1358â1366</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16929251</ArticleId>
+                    <ArticleId IdType="doi">10.1038/sj.ki.5001754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Coco M, Rush H (2000) Increased incidence of hip fractures in dialysis patients with low serum parathyroid hormone. Am J Kidney Dis 36:1115â1121</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11096034</ArticleId>
+                    <ArticleId IdType="doi">10.1053/ajkd.2000.19812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Martin KJ, de Francisco AL et al (2004) Cinacalcet for secondary hyperparathyroidism in patients receiving hemodialysis. N Engl J Med 350:1516â1525</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15071126</ArticleId>
+                    <ArticleId IdType="doi">10.1056/NEJMoa031633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Holick MF (2007) Vitamin D deficiency. N Engl J Med 357:266â281</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634462</ArticleId>
+                    <ArticleId IdType="doi">10.1056/NEJMra070553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wolf M (2012) Update on fibroblast growth factor 23 in chronic kidney disease. Kidney Int 82:737â747</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22622492</ArticleId>
+                    <ArticleId IdType="pmcid">3434320</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2012.176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wolisi GO, Moe SM (2005) The role of vitamin D in vascular calcification in chronic kidney disease. Semin Dial 18:307â314</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16076354</ArticleId>
+                    <ArticleId IdType="doi">10.1111/j.1525-139X.2005.18407.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Disease: Improving Global Outcomes (KDIGO) CKDâMBD Update Work Group (2017) KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis, Evaluation, Prevention, and Treatment of Chronic Kidney Disease-Mineral and Bone Disorder (CKD-MBD). Kidney Int Suppl 7:1â59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1016/j.kisu.2017.04.001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thadhani R, Appelbaum E, Pritchett Y et al (2012) Vitamin D therapy and cardiac structure and function in patients with chronic kidney disease: the PRIMO randomized controlled trial. JAMA 307:674â684</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337679</ArticleId>
+                    <ArticleId IdType="doi">10.1001/jama.2012.120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wang AY, Fang F, Chan J et al (2014) Effect of paricalcitol on left ventricular mass and function in CKD: the OPERA trial. J Am Soc Nephrol 25:175â186</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24052631</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2013010103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Xiang W, Kong J, Chen S et al (2005) Cardiac hypertrophy in vitamin D receptor knockout mice: role of the systemic and cardiac renin-angiotensin systems. Am J Physiol Endocrinol Metab 288:E125âE132</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367398</ArticleId>
+                    <ArticleId IdType="doi">10.1152/ajpendo.00224.2004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bodyak N, Ayus JC, Achinger S et al (2007) Activated vitamin D attenuates left ventricular abnormalities induced by dietary sodium in Dahl salt-sensitive animals. Proc Natl Acad Sci USA 104:16810â16815</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17942703</ArticleId>
+                    <ArticleId IdType="doi">10.1073/pnas.0611202104</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Baker LR, Muir JW, Sharman VL et al (1986) Controlled trial of calcitriol in hemodialysis patients. Clin Nephrol 26:185â191</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3536232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>London GM, Marty C, Marchais SJ et al (2004) Arterial calcifications and bone histomorphometry in end-stage renal disease. J Am Soc Nephrol 15:1943â1951</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15213285</ArticleId>
+                    <ArticleId IdType="doi">10.1097/01.ASN.0000129337.50739.48</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brandenburg VM, Kramann R, Rothe H et al (2017) Calcific uraemic arteriolopathy (calciphylaxis): data from a large nationwide registry. Nephrol Dial Transplant 32:126â132</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26908770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fukagawa M, Yokoyama K, Koiwa F et al (2013) Clinical practice guideline for the management of chronic kidney disease-mineral and bone disorder. Ther Apher Dial 17:247â288</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23735142</ArticleId>
+                    <ArticleId IdType="doi">10.1111/1744-9987.12058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Torres A, Garcia S, Gomez A et al (2004) Treatment with intermittent calcitriol and calcium reduces bone loss after renal transplantation. Kidney Int 65:705â712</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14717945</ArticleId>
+                    <ArticleId IdType="doi">10.1111/j.1523-1755.2004.00432.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ravani P, Malberti F, Tripepi G et al (2009) Vitamin D levels and patient outcome in chronic kidney disease. Kidney Int 75:88â95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18843258</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2008.501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biggar PH, Liangos O, Fey H et al (2011) Vitamin D, chronic kidney disease and survival: a pluripotent hormone or just another bone drug? Pediatr Nephrol 26:7â18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20422225</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00467-010-1526-x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stubbs JR, Idiculla A, Slusser J et al (2010) Cholecalciferol supplementation alters calcitriol-responsive monocyte proteins and decreases inflammatory cytokines in ESRD. J Am Soc Nephrol 21:353â361</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20007751</ArticleId>
+                    <ArticleId IdType="pmcid">2834546</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2009040451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Agarwal R, Georgianos PI (2016) Con: Nutritional vitamin D replacement in chronic kidney disease and end-stage renal disease. Nephrol Dial Transplant 31:706â713</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27190392</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfw080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ross AC, Manson JE, Abrams SA et al (2011) The 2011 report on dietary reference intakes for calcium and vitamin D from the Institute of Medicine: what clinicians need to know. J Clin Endocrinol Metab 96:53â58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21118827</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jc.2010-2704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Holick MF, Binkley NC, Bischoff-Ferrari HA et al (2011) Evaluation, treatment, and prevention of vitamin D deficiency: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab 96:1911â1930</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21646368</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jc.2011-0385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM, Saifullah A, LaClair RE et al (2010) A randomized trial of cholecalciferol versus doxercalciferol for lowering parathyroid hormone in chronic kidney disease. Clin J Am Soc Nephrol 5:299â306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20056760</ArticleId>
+                    <ArticleId IdType="pmcid">2827596</ArticleId>
+                    <ArticleId IdType="doi">10.2215/CJN.07131009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sprague SM, Strugnell SA, Bishop CW (2017) Extended-release calcifediol for secondary hyperparathyroidism in stage 3â4 chronic kidney disease. Expert Rev Endocrinol Metab 12:289â301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30058895</ArticleId>
+                    <ArticleId IdType="doi">10.1080/17446651.2017.1347501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Strugnell SA, Sprague SM, Ashfaq A et al (2019) Rationale for raising current clinical practice guideline target for serum 25-hydroxyvitamin D in chronic kidney disease. Am J Nephrol 49:284â293</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30878999</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000499187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brown EM, Gamba G, Riccardi D et al (1993) Cloning and characterization of an extracellular Ca(2+)-sensing receptor from bovine parathyroid. Nature 366:575â580</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8255296</ArticleId>
+                    <ArticleId IdType="doi">10.1038/366575a0</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aida K, Koishi S, Tawata M et al (1995) Molecular cloning of a putative Ca(2+)-sensing receptor cDNA from human kidney. Biochem Biophys Res Commun 214:524â529</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7677761</ArticleId>
+                    <ArticleId IdType="doi">10.1006/bbrc.1995.2318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alfadda I, Saleh AMA, Houillier P et al (2014) Calcium-sensing receptor 20 years later. Am J Physiol Cell Physiol 307:C221âC231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24871857</ArticleId>
+                    <ArticleId IdType="pmcid">4121584</ArticleId>
+                    <ArticleId IdType="doi">10.1152/ajpcell.00139.2014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nielsen PK, Feldt-Rasmussen U, Olgaard K (1996) A direct effect in vitro of phosphate on PTH release from bovine parathyroid tissue slices but not from dispersed parathyroid cells. Nephrol Dial Transplant 11:1762â1768</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8918619</ArticleId>
+                    <ArticleId IdType="doi">10.1093/oxfordjournals.ndt.a027665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Almaden Y, Canalejo A, Hernandez A et al (1996) Direct effect of phosphorus on PTH secretion from whole rat parathyroid glands in vitro. J Bone Miner Res 11:970â976</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8797118</ArticleId>
+                    <ArticleId IdType="doi">10.1002/jbmr.5650110714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Centeno PP, Herberger A, Mun HC et al (2019) Phosphate acts directly on the calcium-sensing receptor to stimulate parathyroid hormone secretion. Nature Commun 10:4693</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1038/s41467-019-12399-9</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nemeth EF, Goodman WG (2016) Calcimimetic and calcilytic drugs: feats, flops, and futures. Calcif Tissue Int 98:341â358</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26319799</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s00223-015-0052-z</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Valle C, Rodriguez M, SantamarÃ­a R et al (2008) Cinacalcet reduces the set point of the PTH-calcium curve. J Am Soc Nephrol 19:2430â2436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18632847</ArticleId>
+                    <ArticleId IdType="pmcid">2588095</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2007121320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM, Cunningham J, Bommer J et al (2005) Long-term treatment of secondary hyperparathyroidism with the calcimimetic cinacalcet HCl. Nephrol Dial Transplant 20:2186â2193</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16030053</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfh966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Walter S, Baruch A, Dong J et al (2013) Pharmacology of AMG 416 (Velcalcetide), a novel peptide agonist of the calcium-sensing receptor, for the treatment of secondary hyperparathyroidism in hemodialysis patients. J Pharmacol Exp Ther 346:229â240</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23674604</ArticleId>
+                    <ArticleId IdType="doi">10.1124/jpet.113.204834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Bushinsky DA, Cunningham J et al (2017) Effect of etelcalcetide vs placebo on serum parathyroid hormone in patients receiving hemodialysis with secondary hyperparathyroidism: two randomized clinical trials. JAMA 317:146â155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28097355</ArticleId>
+                    <ArticleId IdType="doi">10.1001/jama.2016.19456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Bushinsky DA, Cheng S et al (2017) Effect of etelcalcetide vs cinacalcet on serum parathyroid hormone in patients receiving hemodialysis with secondary hyperparathyroidism: a randomized clinical trial. JAMA 317:156â164</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28097356</ArticleId>
+                    <ArticleId IdType="doi">10.1001/jama.2016.19468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gowen M, Stroup GB, Dodds RA et al (2000) Antagonizing the parathyroid calcium receptor stimulates parathyroid hormone secretion and bone formation in osteopenic rats. J Clin Invest 105:1595â1604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10841518</ArticleId>
+                    <ArticleId IdType="pmcid">300853</ArticleId>
+                    <ArticleId IdType="doi">10.1172/JCI9038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Silve BC, Bilezikian JP (2015) Parathyroid hormone: anabolic and catabolic actions on the skeleton. Curr Opin Pharmacol 22:41â50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1016/j.coph.2015.03.005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Riccardi D (2012) Antagonizing the calcium-sensing receptor: towards new bone anabolics? Curr Mol Pharmacol 5:182â188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21787287</ArticleId>
+                    <ArticleId IdType="doi">10.2174/1874467211205020182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fitzpatrick LA, Dabrowski CE, Cicconetti G et al (2011) The effects of ronacaleret, a calcium-sensing receptor antagonist, on bone mineral density and biochemical markers of bone turnover in postmenopausal women with low bone mineral density. J Clin Endocrinol Metab 96:2441â2449</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21593114</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jc.2010-2855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Al-Dujaili SA, Koh AJ, Dang M et al (2016) Calcium sensing receptor function supports osteoblast survival and acts as a co-factor in PTH anabolic actions in bone. J Cell Biochem 117:1556â1567</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26579618</ArticleId>
+                    <ArticleId IdType="pmcid">4856537</ArticleId>
+                    <ArticleId IdType="doi">10.1002/jcb.25447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DÃ­az-Tocados JM, RodrÃ­guez-Ortiz ME, AlmadÃ©n Y et al (2019) Calcimimetics maintain bone turnover in uremic rats despite the concomitant decrease in parathyroid hormone concentration. Kidney Int 95:1064â1078</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30878213</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2018.12.015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malluche HH, Monier-Faugere MC, Wang G et al (2008) An assessment of cinacalcet HCl effects on bone histology in dialysis patients with secondary hyperparathyroidism. Clin Nephrol 69:269â278</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18397701</ArticleId>
+                    <ArticleId IdType="doi">10.5414/CNP69269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behets GJ, Spasovski G, Sterling LR et al (2015) Bone histomorphometry before and after long-term treatment with cinacalcet in dialysis patients with secondary hyperparathyroidism. Kidney Int 87:846â856</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25337774</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2014.349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shigematsu T, Fukagawa M, Yokoyama K et al (2018) Long-term effects of etelcalcetide as intravenous calcimimetic therapy in hemodialysis patients with secondary hyperparathyroidism. Clin Exp Nephrol 22:426â436</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28836058</ArticleId>
+                    <ArticleId IdType="doi">10.1007/s10157-017-1442-5</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cunningham J, Danese M, Olson K et al (2005) Effects of the calcimimetic cinacalcet HCl on cardiovascular disease, fracture, and health-related quality of life in secondary hyperparathyroidism. Kidney Int 68:1793â1800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16164656</ArticleId>
+                    <ArticleId IdType="doi">10.1111/j.1523-1755.2005.00596.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Moe SM, Abdalla S, Chertow GM et al (2015) Effects of cinacalcet on fracture events in patients receiving hemodialysis: the EVOLVE trial. J Am Soc Nephrol 26:1466â1475</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25505257</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2014040414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Li X, Yu L, Asuncion F et al (2017) Etelcalcetide (AMG 416), a peptide agonist of the calcium-sensing receptor, preserved cortical bone structure and bone strength in subtotal nephrectomized rats with established secondary hyperparathyroidism. Bone 105:163â172</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28867373</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.bone.2017.08.026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fukagawa M, Shimazaki R, Akizawa T (2018) Head-to-head comparison of the new calcimimetic agent evocalcet with cinacalcet in Japanese hemodialysis patients with secondary hyperparathyroidism. Kidney Int 94:818â825</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30049473</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2018.05.013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kawata T, Tokunaga S, Murai M et al (2018) A novel calcimimetic agent, evocalcet (MT-4580/KHK7580), suppresses the parathyroid cell function with little effect on the gastrointestinal tract or CYP isozymes in vivo and in vitro. PLoS ONE 13:e0195316</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29614098</ArticleId>
+                    <ArticleId IdType="pmcid">5882164</ArticleId>
+                    <ArticleId IdType="doi">10.1371/journal.pone.0195316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wetmore JB, Liu J, Do TP et al (2016) Changes in secondary hyperparathyroidism-related biochemical parameters and medication use following parathyroidectomy. Nephrol Dial Transplant 31:103â111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26292694</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfv291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Takahashi H, Komaba H, Takahashi Y et al (2014) Impact of parathyroidectomy on serum FGF23 and soluble Klotho in hemodialysis patients with severe secondary hyperparathyroidism. J Clin Endocrinol Metab 99:E652âE658</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24476081</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jc.2013-4050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yajima A, Ogawa Y, Takahashi HE et al (2003) Changes of bone remodeling immediately after parathyroidectomy for secondary hyperparathyroidism. Am J Kidney Dis 42:729â738</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14520623</ArticleId>
+                    <ArticleId IdType="doi">10.1016/S0272-6386(03)00909-0</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yajima A, Inaba M, Tominaga Y et al (2008) Bone formation by minimodeling is more active than remodeling after parathyroidectomy. Kidney Int 74:775â781</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18528319</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2008.242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Abdelhadi M, NordenstrÃ¶m J (1998) Bone mineral recovery after parathyroidectomy in patients with primary and renal hyperparathyroidism. J Clin Endocrinol Metab 83:3845â3851</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9814456</ArticleId>
+                    <ArticleId IdType="doi">10.1210/jcem.83.11.5249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chou FF, Chen JB, Lee CH et al (2001) Parathyroidectomy can improve bone mineral density in patients with symptomatic secondary hyperparathyroidism. Arch Surg 136:1064â1068</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11529832</ArticleId>
+                    <ArticleId IdType="doi">10.1001/archsurg.136.9.1064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Iimori S, Mori Y, Akita W et al (2012) Diagnostic usefulness of bone mineral density and biochemical markers of bone turnover in predicting fracture in CKD stage 5D patientsâa single-center cohort study. Nephrol Dial Transplant 27:345â351</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21652550</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfr317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nakagawa Y, Komaba H, Hamano N et al (2020) Metacarpal bone mineral density by radiographic absorptiometry predicts fracture risk in patients undergoing maintenance hemodialysis. Kidney Int 98:970â978</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32682522</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2020.02.035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tentori F, McCullough K, Kilpatrick RD et al (2014) High rates of death and hospitalization follow bone fracture among hemodialysis patients. Kidney Int 85:166â173</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23903367</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2013.279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rudser KD, de Boer IH, Dooley A et al (2007) Fracture risk after parathyroidectomy among chronic hemodialysis patients. J Am Soc Nephrol 18:2401â2407</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17634437</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2007010022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Komaba H, Nakamura M, Fukagawa M (2017) Resurgence of parathyroidectomy: evidence and outcomes. Curr Opin Nephrol Hypertens 26:243â249</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28375871</ArticleId>
+                    <ArticleId IdType="doi">10.1097/MNH.0000000000000326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Floege J, Kim J, Ireland E et al (2011) Serum iPTH, calcium and phosphate, and the risk of mortality in a European haemodialysis population. Nephrol Dial Transplant 26:1948â1955</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20466670</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfq219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Komaba H, Taniguchi M, Wada A et al (2015) Parathyroidectomy and survival among Japanese hemodialysis patients with secondary hyperparathyroidism. Kidney Int 88:350â359</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25786097</ArticleId>
+                    <ArticleId IdType="doi">10.1038/ki.2015.72</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DrÃ¼eke TB, Massy ZA (2016) Changing bone patterns with progression of chronic kidney disease. Kidney Int 89:289â302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26806832</ArticleId>
+                    <ArticleId IdType="doi">10.1016/j.kint.2015.12.004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alfrey AC, LeGendre GR, Kaehny WD (1976) The dialysis encephalopathy syndrome. Possible aluminum intoxication. N Engl J Med 294:184â188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1244532</ArticleId>
+                    <ArticleId IdType="doi">10.1056/NEJM197601222940402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Wills MR, Savory J (1983) Aluminium poisoning: dialysis encephalopathy, osteomalacia, and anaemia. Lancet 2:29â34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6134894</ArticleId>
+                    <ArticleId IdType="doi">10.1016/S0140-6736(83)90014-4</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ferreira A, FrazÃ£o JM, Monier-Faugere MC et al (2008) Effects of sevelamer hydrochloride and calcium carbonate on renal osteodystrophy in hemodialysis patients. J Am Soc Nephrol 19:405â412</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18199805</ArticleId>
+                    <ArticleId IdType="pmcid">2396748</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2006101089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rudnicki M, Hyldstrup L, Petersen LJ et al (1994) Effect of oral calcium on noninvasive indices of bone formation and bone mass in hemodialysis patients: a randomized double-blind placebo-controlled study. Miner Electrolyte Metab 20:130â134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7816001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Block GA, Wheeler DC, Persky MS et al (2012) Effects of phosphate binders in moderate CKD. J Am Soc Nephrol 23:1407â1415</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22822075</ArticleId>
+                    <ArticleId IdType="pmcid">3402292</ArticleId>
+                    <ArticleId IdType="doi">10.1681/ASN.2012030223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Qunibi W, Moustafa M, Muenz LR et al (2008) A 1-year randomized trial of calcium acetate versus sevelamer on progression of coronary artery calcification in hemodialysis patients with comparable lipid control: the Calcium Acetate Renagel Evaluation-2 (CARE-2) study. Am J Kidney Dis 51:952â965</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18423809</ArticleId>
+                    <ArticleId IdType="doi">10.1053/j.ajkd.2008.02.298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Barreto DV, Barreto Fde C, de Carvalho AB et al (2008) Phosphate binder impact on bone remodeling and coronary calcification: results from the BRiC study. Nephron Clin Pract 110:c273âc283</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19001830</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000170783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DâHaese PC, Spasovski GB, Sikole A et al (2003) A multicenter study on the effects of lanthanum carbonate (Fosrenol) and calcium carbonate on renal bone disease in dialysis patients. Kidney Int Suppl 85:S73âS78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1046/j.1523-1755.63.s85.18.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Malluche HH, Siami GA, Swanepoel C et al (2008) Improvements in renal osteodystrophy in patients treated with lanthanum carbonate for two years. Clin Nephrol 70:284â295</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18826853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Spasovski GB, Sikole A, Gelev S et al (2006) Evolution of bone and plasma concentration of lanthanum in dialysis patients before, during 1 year of treatment with lanthanum carbonate and after 2 years of follow-up. Nephrol Dial Transplant 21:2217â2224</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16595583</ArticleId>
+                    <ArticleId IdType="doi">10.1093/ndt/gfl146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shigematsu T, Tokumoto A, Nakaoka A et al (2011) Effect of lanthanum carbonate treatment on bone in Japanese dialysis patients with hyperphosphatemia. Ther Apher Dial 15:76â184</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="doi">10.1111/j.1744-9987.2010.00898.x</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hutchison A, Whelton A, Thadhani R et al (2018) Long-term mortality and bone safety in patients with end-stage renal disease receiving lanthanum carbonate. Nephron 140:265â274</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30352437</ArticleId>
+                    <ArticleId IdType="pmcid">6390446</ArticleId>
+                    <ArticleId IdType="doi">10.1159/000492603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
