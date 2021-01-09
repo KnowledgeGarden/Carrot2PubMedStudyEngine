@@ -1,138 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2014//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_140101.dtd">
-<PubmedArticle>
-    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
-        <PMID Version="1">32074683</PMID>
-        <DateCompleted>
-            <Year>2020</Year>
-            <Month>03</Month>
-            <Day>16</Day>
-        </DateCompleted>
-        <DateRevised>
-            <Year>2020</Year>
-            <Month>03</Month>
-            <Day>16</Day>
-        </DateRevised>
-        <Article PubModel="Print">
-            <Journal>
-                <ISSN IssnType="Print">0578-1426</ISSN>
-                <JournalIssue CitedMedium="Print">
-                    <Volume>59</Volume>
-                    <Issue>2</Issue>
-                    <PubDate>
-                        <Year>2020</Year>
-                        <Month>Feb</Month>
-                        <Day>01</Day>
-                    </PubDate>
-                </JournalIssue>
-                <Title>Zhonghua nei ke za zhi</Title>
-                <ISOAbbreviation>Zhonghua Nei Ke Za Zhi</ISOAbbreviation>
-            </Journal>
-            <ArticleTitle>[The application of vitamin D and its analogues in patients with chronic kidney disease: the Chinese practice program (2019)].</ArticleTitle>
-            <Pagination>
-                <MedlinePgn>104-116</MedlinePgn>
-            </Pagination>
-            <ELocationID EIdType="doi" ValidYN="Y">10.3760/cma.j.issn.0578-1426.2020.02.004</ELocationID>
-            <Abstract>
-                <AbstractText>Vitamin D insufficiency/deficiency are common in the general population and in patients with chronic kidney disease (CKD), and should be avoided by using supplementation.Although many domestic and foreign clinical practice guidelines or expert consensus have made norms for the reasonable application of vitamin D and its analogues, most of them are limited to a certain disease or complication, and there is still a lack of overall guidance for CKD patients. In addition, the previous clinical practice guidelines have insufficient description of the pharmacological effects of vitamin D and its analogues and insufficient guidance on how to rationally choose them for individualized treatment based on the different pathophysiology of CKD. Aiming at common problems in the diagnosis and treatment of CKD, this present practice systematically introduces vitamin D and its analogues on the following aspects: sources and metabolism, classification, pharmacology, indications, monitoring and management, clinical usage, adverse reactions and precautions. This Chinese practice is intended to standardize the use of vitamin D and its analogues in CKD patients and improve the clinical diagnosis and treatment of CKD. With more evidence from relevant research worldwide, this Chinese practice will be revised in the future.</AbstractText>
-            </Abstract>
-            <AuthorList CompleteYN="Y">
-                <Author ValidYN="Y">
-                    <CollectiveName>Chinese Nephrologist Association, The Working Group of Chinese Practice Program of Vitamin D</CollectiveName>
-                </Author>
-            </AuthorList>
-            <Language>chi</Language>
-            <GrantList CompleteYN="Y">
-                <Grant>
-                    <GrantID>D171100002817002; D181100000118002</GrantID>
-                    <Agency>Beijing Science and Technology Major Project</Agency>
-                    <Country/>
-                </Grant>
-            </GrantList>
-            <PublicationTypeList>
-                <PublicationType UI="D016428">Journal Article</PublicationType>
-            </PublicationTypeList>
-        </Article>
-        <MedlineJournalInfo>
-            <Country>China</Country>
-            <MedlineTA>Zhonghua Nei Ke Za Zhi</MedlineTA>
-            <NlmUniqueID>16210490R</NlmUniqueID>
-            <ISSNLinking>0578-1426</ISSNLinking>
-        </MedlineJournalInfo>
-        <ChemicalList>
-            <Chemical>
-                <RegistryNumber>0</RegistryNumber>
-                <NameOfSubstance UI="D014815">Vitamins</NameOfSubstance>
-            </Chemical>
-            <Chemical>
-                <RegistryNumber>1406-16-2</RegistryNumber>
-                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
-            </Chemical>
-        </ChemicalList>
-        <CitationSubset>IM</CitationSubset>
-        <MeshHeadingList>
-            <MeshHeading>
-                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
-            </MeshHeading>
-            <MeshHeading>
-                <DescriptorName UI="D010818" MajorTopicYN="N">Practice Patterns, Physicians'</DescriptorName>
-            </MeshHeading>
-            <MeshHeading>
-                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
-                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
-                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
-            </MeshHeading>
-            <MeshHeading>
-                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
-                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
-            </MeshHeading>
-            <MeshHeading>
-                <DescriptorName UI="D014808" MajorTopicYN="N">Vitamin D Deficiency</DescriptorName>
-                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
-                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
-            </MeshHeading>
-            <MeshHeading>
-                <DescriptorName UI="D014815" MajorTopicYN="N">Vitamins</DescriptorName>
-                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
-            </MeshHeading>
-        </MeshHeadingList>
-        <OtherAbstract Type="Publisher" Language="chi">
-            <AbstractText>ç»´çç´ Dåå¶ç±»ä¼¼ç©çä¸è¶³/ç¼ºä¹å¨æå½æ®éäººç¾¤åæ¢æ§è¾èçï¼CKDï¼æ£èä¸­å¹¿æ³å­å¨ï¼ç»´çç´ Dåå¶ç±»ä¼¼ç©äº¦å¹¿æ³åºç¨äºCKDæ£èæ²»çãå°½ç®¡å¤ä¸ªå½åå¤ä¸´åºå®è·µæåæä¸å®¶å±è¯å¯¹ç»´çç´ Dåå¶ç±»ä¼¼ç©åçåºç¨ååºäºè§èï¼ä½å¤ä¸ºéå¯¹æä¸ç¾çæå¹¶åçï¼ç¼ºä¹éå¯¹CKDæ£èç»´çç´ Dåå¶ç±»ä¼¼ç©çæ´ä½æå¯¼å»ºè®®ãå¹¶ä¸ï¼åºäºå¾ªè¯å»å­¦è¯æ®çä¸´åºå®è·µæåä¸­ï¼å¯¹ç»´çç´ Dåå¶ç±»ä¼¼ç©çè¯çä½ç¨éè¿°ä¸è¶³ï¼å¯¹å¦ä½ä¾æ®CKDæ£èä¸åççççç¶æåçéæ©ç»´çç´ Dåå¶ç±»ä¼¼ç©è¿è¡ä¸ªä½åæ²»ççæå¯¼ä¸è¶³ãå æ­¤ï¼æ¬æ¹æ¡éå¯¹CKDè¯çå®è·µä¸­çå¸¸è§é®é¢ï¼ç³»ç»ä»ç»äºç»´çç´ Dåå¶ç±»ä¼¼ç©çæ¥æºãä»£è°¢ä¸åç±»ãè¯çæºå¶ãéåºèå´ãä¸´åºæ£æµä¸ç®¡çç®æ ãä¸åççççç¶æä¸ä¸´åºç¨è¯éæ©åæ²»çæ¹æ¡ä»¥åä¸è¯ååºä¸æ³¨æäºé¡¹ãæ¨å¨æå¯¼ä¸´åºå»çå¨CKDè¯çè¿ç¨ä¸­ï¼åçåºç¨ç»´çç´ Dåå¶ç±»ä¼¼ç©ï¼æé«ä¸´åºè¯çæ°´å¹³ãå¹¶ä¸ï¼éçæ´å¤å½åå¤ç¸å³ç ç©¶è¯æ®çåç°ï¼æ¬æ¹æ¡å°å¨æªæ¥éæ°ä¿®è®¢ã.</AbstractText>
-        </OtherAbstract>
-        <KeywordList Owner="NOTNLM">
-            <Keyword MajorTopicYN="N">Chinese practice program</Keyword>
-            <Keyword MajorTopicYN="N">Chronic kidney disease</Keyword>
-            <Keyword MajorTopicYN="N">Vitamin D</Keyword>
-        </KeywordList>
-    </MedlineCitation>
-    <PubmedData>
-        <History>
-            <PubMedPubDate PubStatus="entrez">
-                <Year>2020</Year>
-                <Month>2</Month>
-                <Day>20</Day>
-                <Hour>6</Hour>
-                <Minute>0</Minute>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="pubmed">
-                <Year>2020</Year>
-                <Month>2</Month>
-                <Day>20</Day>
-                <Hour>6</Hour>
-                <Minute>0</Minute>
-            </PubMedPubDate>
-            <PubMedPubDate PubStatus="medline">
-                <Year>2020</Year>
-                <Month>3</Month>
-                <Day>17</Day>
-                <Hour>6</Hour>
-                <Minute>0</Minute>
-            </PubMedPubDate>
-        </History>
-        <PublicationStatus>ppublish</PublicationStatus>
-        <ArticleIdList>
-            <ArticleId IdType="pubmed">32074683</ArticleId>
-            <ArticleId IdType="doi">10.3760/cma.j.issn.0578-1426.2020.02.004</ArticleId>
-        </ArticleIdList>
-    </PubmedData>
-</PubmedArticle>
