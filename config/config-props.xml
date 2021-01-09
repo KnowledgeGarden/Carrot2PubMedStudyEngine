@@ -9,24 +9,9 @@
 	<parameter name="StatServerPort" value="6900" /> <!-- coordinate with StatServer -->
 	<parameter name="StatServerClientId" value = "changeme" /> <!-- coordinate with StatServer -->
 
-	<parameter name="DatabaseSchema" value = "tqos_asr" />
-
-
-	<!-- 
-		Multi-valued properties in a list.
-		Note that ConfigPullParser will return a list of lists
-		in this form List<List<String>> where the inner list
-		is [name,value]; thus, the name of each parameter can
-		be used together with its value.
-		list.get(0) returns the name
-		list.get(1) returns the value
-	 -->
-	<list name="MyList">
-		<parameter name="FirstParam" value="somevalue" />
-		<parameter name="SecondParam" value="someothervalue" />
-	</list>	
-
-
+	<parameter name="ClusterDataPath" value = "data/output/" />
+	<parameter name="PubMedAbstractPath" value="data/pubmed/" />
+	<parameter name="NlpPath" value="data/nlp/" />
 
 
 </properties>

@@ -20,6 +20,13 @@ public class FileManager {
 	}
 
 	/**
+	 * A signal that the ParserThread is empty;
+	 * use that to safe files, etc
+	 */
+	public void bump() {
+		
+	}
+	/**
 	 * Persist abstracts in groups of 100 in gzip files
 	 * @param pmid
 	 * @param xml

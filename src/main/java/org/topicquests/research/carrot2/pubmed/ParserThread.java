@@ -19,6 +19,7 @@ public class ParserThread {
 	private PubMedReportPullParser parser;
 	private List<String> docs;
 	private boolean isRunning = true;
+	private boolean hasBeenRunning = false;
 	private Worker worker;
 
 	/**
@@ -58,6 +59,10 @@ public class ParserThread {
 			while (isRunning) {
 				synchronized(docs) {
 					if (docs.isEmpty()) {
+						if (hasBeenRunning) {
+							environment.queueEmpty();
+							hasBeenRunning  = false;
+						}
 						try {
 							docs.wait();
 						} catch (Exception e) {}
@@ -81,10 +86,11 @@ public class ParserThread {
 		 */
 		void processDoc(String xml) {
 			environment.logDebug("PT.process "+parser);
-
+			hasBeenRunning = true;
 			IResult r = parser.parseXML(xml);
 			JSONDocumentObject j = (JSONDocumentObject)r.getResultObject();
 			environment.logDebug("PT+\n"+j);
+			environment.getAccountant().haveSeen(j.getPMID());
 			docThread.addDoc(j);
 		}
 	}

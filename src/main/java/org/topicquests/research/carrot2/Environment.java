@@ -66,7 +66,6 @@ public class Environment extends RootEnvironment {
 		});
 		logDebug("Environment booted");
 		System.out.println("E7");
-
 	}
 	
 	/**
@@ -82,6 +81,14 @@ public class Environment extends RootEnvironment {
 		fileManager.persistAbstract(pmid, xml);
 	}
 	
+	/**
+	 * Callback from ParserThread when its
+	 * queue runs empty
+	 */
+	public void queueEmpty() {
+		accountant.bump();
+		fileManager.bump();
+	}
 	public FileManager getFileManager() {
 		return fileManager;
 	}

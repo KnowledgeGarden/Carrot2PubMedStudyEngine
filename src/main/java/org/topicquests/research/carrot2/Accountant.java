@@ -33,6 +33,13 @@ public class Accountant {
 	}
 	
 	/**
+	 * A signal that the ParserThread is empty;
+	 * use that to safe files, etc
+	 */
+	public void bump() {
+		saveDocs();
+	}
+	/**
 	 * Prevent duplicate document processing
 	 * @param pmid
 	 * @return
