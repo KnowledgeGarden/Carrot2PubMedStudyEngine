@@ -1,5 +1,10 @@
 <searchresult>
    <query>Vitamin D AND chronic kidney disease</query>
+   <document id="33234810">
+      <title>Association of vitamin D deficiency with arterial stiffness in newly diagnosed hypertension.</title>
+      <snippet>Vitamin D has beneficial effects on vascular endothelial function, blood pressure (BP) and arterial stiffness. Arterial stiffness increases in early-stage hypertensive patients and it is a strong predictor of cardiovascular morbidity and mortality. The purpose of this study was to assess the association between serum 25-hydroxyvitamin D (25-OH D) levels and arterial stiffness in patients with newly diagnosed hypertension.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33234810</url>
+   </document>
    <document id="33233840">
       <title>New Aspects of the Kidney in the Regulation of Fibroblast Growth Factor 23 (FGF23) and Mineral Homeostasis.</title>
       <snippet>The bone-derived hormone fibroblast growth factor 23 (FGF23) acts in concert with parathyroid hormone (PTH) and the active vitamin D metabolite calcitriol in the regulation of calcium (Ca) and phosphate (P) homeostasis. More factors are being identified to regulate FGF23 levels and the endocrine loops between the three hormones. The present review summarizes the complex regulation of FGF23 and the disturbed FGF23/Klotho system in chronic kidney disease (CKD). In addition to the reduced ability of the injured kidney to regulate plasma levels of FGF23, several CKD-related factors have been shown to stimulate FGF23 production. The high circulating FGF23 levels have detrimental effects on erythropoiesis, the cardio-vascular system and the immune system, all contributing to the disturbed system biology in CKD. Moreover, new factors secreted by the injured kidney and the uremic calcified vasculature play a role in the mineral and bone disorder in CKD and create a vicious pathological crosstalk.</snippet>
@@ -95,12 +100,25 @@
       <snippet>Vitamin D insufficiency and age related cataract (ARC) are public health problems. We evaluated serum vitamin D levels in ARC patients. ... A prospective hospital-based cross-sectional study was designed to measure the vitamin D status of patients with ARC. Patients have grouped either presence of any type of posterior subcapsular cataract (PSC) (group 1) or ARC without the PSC component (Group 2). After full ophthalmologic consideration, patients over 40 years of age with no history of ocular trauma, multivitamin supplement ingestion, chronic renal failure, thyroidectomy, parathyroidectomy, skin cancer, and cigarette smoking were included in the study. ... Totally, 79 subjects of which 26 (32.9%) subjects in group 1 and 53 (67.1%) subjects in group 2 were included in the study. Group 1 had mean vitamin D levels of 17.31±13.30 ng/mL. Vitamin D levels in Group 2 were 13.34±7.87 ng/mL. Group 1 did not show vitamin D insufficiency (P = 0.31; one-sample t-test). However, Group 2 showed a statistically significantly lower vitamin D level compared to the insufficiency level of 20ng/mL (P= 0.00; one-sample t-test). ... Vitamin D may have an important function in lens metabolism. Vitamin D deficiency and cataract development need further extensive researches.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/33029234</url>
    </document>
-   <document id="33027890">
-      <title>Expression of Phosphatonin-Related Genes in Sheep, Dog and Horse Kidneys Using Quantitative Reverse Transcriptase PCR.</title>
-      <snippet> genes in all three species. These results provide the basis for further research into this important regulatory system. In particular, species differences in phosphatonin gene expression should be considered when considering the pathogenesis of chronic kidney disease.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/33027890</url>
-   </document>
-   <group id="0" score="34.031319164605016" size="3">
+   <group id="0" size="4" score="18.79219713172024">
+      <title>
+         <phrase>Active Vitamin</phrase>
+      </title>
+      <document refid="33233840"/>
+      <document refid="33230698"/>
+      <document refid="33206298"/>
+      <document refid="33115916"/>
+   </group>
+   <group id="1" size="4" score="20.154305863471627">
+      <title>
+         <phrase>Serum Vitamin D Levels</phrase>
+      </title>
+      <document refid="33234810"/>
+      <document refid="33194137"/>
+      <document refid="33068383"/>
+      <document refid="33029234"/>
+   </group>
+   <group id="2" size="3" score="32.23809609099097">
       <title>
          <phrase>Fibroblast Growth Factor 23 FGF23</phrase>
       </title>
@@ -108,95 +126,84 @@
       <document refid="33230698"/>
       <document refid="33035687"/>
    </group>
-   <group id="1" score="25.752831884815564" size="3">
-      <title>
-         <phrase>Genes</phrase>
-      </title>
-      <document refid="33206298"/>
-      <document refid="33099630"/>
-      <document refid="33027890"/>
-   </group>
-   <group id="2" score="21.207153326458315" size="3">
-      <title>
-         <phrase>Parathyroid Hormone PTH</phrase>
-      </title>
-      <document refid="33233840"/>
-      <document refid="33128421"/>
-      <document refid="33068419"/>
-   </group>
-   <group id="3" score="26.545292150249864" size="3">
-      <title>
-         <phrase>Serum Vitamin D Levels</phrase>
-      </title>
-      <document refid="33194137"/>
-      <document refid="33068383"/>
-      <document refid="33029234"/>
-   </group>
-   <group id="4" score="18.60519994699242" size="3">
-      <title>
-         <phrase>Uremic</phrase>
-      </title>
-      <document refid="33233840"/>
-      <document refid="33197658"/>
-      <document refid="33068383"/>
-   </group>
-   <group id="5" score="34.00049538133232" size="2">
+   <group id="3" size="2" score="36.225919953512815">
       <title>
          <phrase>25-hydroxyvitamin D 25 OH</phrase>
       </title>
       <document refid="33188595"/>
       <document refid="33115916"/>
    </group>
-   <group id="6" score="26.3097168373356" size="2">
+   <group id="4" size="2" score="24.02158423199868">
       <title>
          <phrase>COVID-19</phrase>
       </title>
       <document refid="33123774"/>
       <document refid="33082024"/>
    </group>
-   <group id="7" score="12.391347793228961" size="2">
+   <group id="5" size="2" score="20.242504809811408">
+      <title>
+         <phrase>CYP24A1</phrase>
+      </title>
+      <document refid="33219692"/>
+      <document refid="33099630"/>
+   </group>
+   <group id="6" size="2" score="20.397064884232687">
       <title>
          <phrase>Case</phrase>
       </title>
       <document refid="33194137"/>
       <document refid="33081745"/>
    </group>
-   <group id="8" score="27.02599607000118" size="2">
+   <group id="7" size="2" score="13.43125984045902">
+      <title>
+         <phrase>Children</phrase>
+      </title>
+      <document refid="33099630"/>
+      <document refid="33068383"/>
+   </group>
+   <group id="8" size="2" score="38.09572094000253">
       <title>
          <phrase>Chronic Kidney Disease-mineral and Bone Disorders</phrase>
       </title>
       <document refid="33190187"/>
       <document refid="33128421"/>
    </group>
-   <group id="9" score="22.96588424796804" size="2">
+   <group id="9" size="2" score="38.989894323474346">
       <title>
          <phrase>End-stage Renal Disease ESRD</phrase>
       </title>
       <document refid="33109593"/>
       <document refid="33099630"/>
    </group>
-   <group id="10" score="18.120487725662795" size="2">
+   <group id="10" size="2" score="28.602097317247395">
       <title>
-         <phrase>Marker of Vitamin D Status</phrase>
-      </title>
-      <document refid="33188595"/>
-      <document refid="33068383"/>
-   </group>
-   <group id="11" score="16.747809553253266" size="2">
-      <title>
-         <phrase>Vitamin D Insufficiency</phrase>
+         <phrase>Left Ventricular Hypertrophy</phrase>
       </title>
       <document refid="33206298"/>
-      <document refid="33029234"/>
+      <document refid="33035687"/>
    </group>
-   <group id="12" score="0.0" size="1">
+   <group id="11" size="2" score="22.987044785276968">
+      <title>
+         <phrase>PTH Control</phrase>
+      </title>
+      <document refid="33190187"/>
+      <document refid="33068419"/>
+   </group>
+   <group id="12" size="2" score="29.838683383304332">
+      <title>
+         <phrase>Vascular Calcification</phrase>
+      </title>
+      <document refid="33219692"/>
+      <document refid="33190187"/>
+   </group>
+   <group id="13" size="1" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
       <attribute key="other-topics">
          <value type="java.lang.Boolean" value="true"/>
       </attribute>
-      <document refid="33219692"/>
+      <document refid="33197658"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -210,7 +217,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="412"/>
+      <value type="java.lang.Long" value="93"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="20"/>
@@ -222,7 +229,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="2839"/>
+      <value type="java.lang.Long" value="1555"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -231,12 +238,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="3251"/>
+      <value type="java.lang.Long" value="1648"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="5492"/>
+      <value type="java.lang.Long" value="5493"/>
    </attribute>
 </searchresult>

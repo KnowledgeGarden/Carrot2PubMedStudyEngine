@@ -35,42 +35,42 @@
       <snippet>To determine the growth pattern and in vitro susceptibility of Blastocystis hominis to metronidazole (MTZ), garlic, ginger, white cumin, and black pepper. Stool specimens were collected from 16 irritable bowel syndrome (IBS) and 10 controls between July-November 2010. Stool microscopy and culture for B. hominis was performed. Drug susceptibility assays was done using 0.01 and 0.1 mg/ml of MTZ, garlic, ginger, white cumin, and black pepper. Effect was assessed on B. hominis culture after 48 h. Stool DNA was extracted using stool DNA extraction kit (Qiagen) and polymerase chain reaction (PCR) done using subtype-specific sequence-tagged-site primers. B. hominis genotype 3 and coinfection of 1 and 3 tended to grow well in culture compared to isolated type 1 infection. Exposed to MTZ at a concentration of 0.01 mg/ml, 38% (6/16) B. hominis from IBS did not grow in culture compared to 100% (10/10) of B. hominis from control (p = 0.001). When they were exposed to MTZ at 0.1 mg/ml, 56% (9/16) B. hominis from IBS did not grow in cultures compared to 100% (10/10) from control (p = 0.01). Forty-four percent (7/16) B. hominis from IBS did not grow in culture compared to 100% (10/10) B. hominis from control when exposed to garlic at a concentration of 0.01 mg/ml (p = 0.003) and following exposure to garlic at 0.1 mg/ml, 38% (6/16) B. hominis from IBS did not grow in cultures compared to 100% (10/10) from control (p = 0.001). B. hominis isolates from IBS had a cell count of 6,625 at a MTZ concentration of 0.01 mg/ml that reduced to 1,250 as MTZ concentration was increased to 0.1 mg/ml (p = 0.08). B. hominis from IBS with a mean cell count of 3 × 10(5) at baseline decreased to 1 × 10(4) when exposed to garlic at 0.01 mg/ml (p &lt; 0.001) and to 1 × 10(3) (p &lt; 0.001) when garlic was 0.1 mg/ml. B. hominis from IBS cell count decreased to 1 × 10(5) when exposed to white cumin at 0.01 mg/ml (p = 0.01) and to 1 × 10(5) (p &lt; 0.001) when white cumin was 0.1 mg/ml. Exposed to black pepper at 0.1 mg/ml, cell count of B. hominis from IBS decreased to 1 × 10(5) (p = 0.01). B. hominis from IBS decreased to 1.3 × 10(5) exposed to ginger at 0.01 mg/ml (p = 0.001). B. hominis isolates were mostly genotypes 3, type 1 and 3 coinfection, and non-typeable B. hominis isolates. B. hominis isolates from IBS mostly genotype 1 demonstrated an increased sensitivity to garlic at 0.01 mg/ml with a B. hominis cell count of 3,714 compared to 6,142 when exposed to 0.01 mg/ml of MTZ. However, this sensitivity did not increase as garlic concentration was increased to 0.1 mg/ml, for B. hominis cell count was 6,000 compared to 1,428 as MTZ was increased to 0.1 mg/ml.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/21431384</url>
    </document>
-   <group id="0" score="19.4647129382662" size="2">
+   <group id="0" size="2" score="19.4647129382662">
       <title>
          <phrase>B. Hominis Isolates</phrase>
       </title>
       <document refid="26012223"/>
       <document refid="21431384"/>
    </group>
-   <group id="1" score="12.25436514710187" size="2">
+   <group id="1" size="2" score="12.25436514710187">
       <title>
          <phrase>Diet Change</phrase>
       </title>
       <document refid="30598938"/>
       <document refid="26350937"/>
    </group>
-   <group id="2" score="10.025370159602543" size="2">
+   <group id="2" size="2" score="10.025370159602543">
       <title>
          <phrase>Improved</phrase>
       </title>
       <document refid="32151878"/>
       <document refid="30598938"/>
    </group>
-   <group id="3" score="8.525254939291724" size="2">
+   <group id="3" size="2" score="8.525254939291724">
       <title>
          <phrase>Levels</phrase>
       </title>
       <document refid="32151878"/>
       <document refid="29710769"/>
    </group>
-   <group id="4" score="20.74986887418909" size="2">
+   <group id="4" size="2" score="20.74986887418909">
       <title>
          <phrase>Low FODMAP Diet</phrase>
       </title>
       <document refid="28700090"/>
       <document refid="26350937"/>
    </group>
-   <group id="5" score="5.795131033360485" size="2">
+   <group id="5" size="2" score="5.795131033360485">
       <title>
          <phrase>Lowered</phrase>
       </title>
@@ -89,7 +89,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="342"/>
+      <value type="java.lang.Long" value="127"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="0"/>
@@ -101,7 +101,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="1544"/>
+      <value type="java.lang.Long" value="1432"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -110,7 +110,7 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="1886"/>
+      <value type="java.lang.Long" value="1559"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>

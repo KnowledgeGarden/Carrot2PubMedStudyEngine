@@ -100,7 +100,7 @@
       <snippet>Uremic pruritus (UP) is one of the most bothersome symptoms among chronic kidney disease (CKD) patients. The pathophysiology of UP remains elusive, resulting in limited treatment options. The inability of standard medical treatments to provide effective relief has piqued interest in complementary and alternative medicine (CAM).</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/33197658</url>
    </document>
-   <group id="0" score="12.94825287468761" size="9">
+   <group id="0" size="9" score="12.94825287468761">
       <title>
          <phrase>Active Vitamin</phrase>
       </title>
@@ -114,7 +114,7 @@
       <document refid="33211721"/>
       <document refid="33206298"/>
    </group>
-   <group id="1" score="28.31377846974972" size="3">
+   <group id="1" size="3" score="28.31377846974972">
       <title>
          <phrase>Bone and Mineral Metabolism Disorder</phrase>
       </title>
@@ -122,7 +122,7 @@
       <document refid="33302656"/>
       <document refid="33291777"/>
    </group>
-   <group id="2" score="22.06964076780804" size="3">
+   <group id="2" size="3" score="22.06964076780804">
       <title>
          <phrase>Dysfunction</phrase>
       </title>
@@ -130,7 +130,7 @@
       <document refid="33401560"/>
       <document refid="33206298"/>
    </group>
-   <group id="3" score="42.88136074260806" size="3">
+   <group id="3" size="3" score="42.88136074260806">
       <title>
          <phrase>Hormone Fibroblast Growth Factor 23 FGF23</phrase>
       </title>
@@ -138,7 +138,7 @@
       <document refid="33233840"/>
       <document refid="33230698"/>
    </group>
-   <group id="4" score="37.41312934390585" size="3">
+   <group id="4" size="3" score="37.41312934390585">
       <title>
          <phrase>Patients with end Stage Renal Disease</phrase>
       </title>
@@ -146,7 +146,7 @@
       <document refid="33391906"/>
       <document refid="33302656"/>
    </group>
-   <group id="5" score="45.787570334613676" size="3">
+   <group id="5" size="3" score="45.787570334613676">
       <title>
          <phrase>Vascular Calcification</phrase>
       </title>
@@ -154,56 +154,56 @@
       <document refid="33219692"/>
       <document refid="33211721"/>
    </group>
-   <group id="6" score="37.13354511030653" size="2">
+   <group id="6" size="2" score="37.13354511030653">
       <title>
          <phrase>Associations of Serum</phrase>
       </title>
       <document refid="33378761"/>
       <document refid="33302656"/>
    </group>
-   <group id="7" score="37.345859726389776" size="2">
+   <group id="7" size="2" score="37.345859726389776">
       <title>
          <phrase>Bone Disorder MBD</phrase>
       </title>
       <document refid="33387018"/>
       <document refid="33302656"/>
    </group>
-   <group id="8" score="27.84885124859543" size="2">
+   <group id="8" size="2" score="27.84885124859543">
       <title>
          <phrase>CKD Arteries</phrase>
       </title>
       <document refid="33219692"/>
       <document refid="33211721"/>
    </group>
-   <group id="9" score="33.63935973533049" size="2">
+   <group id="9" size="2" score="33.63935973533049">
       <title>
          <phrase>Children with CKD Stages</phrase>
       </title>
       <document refid="33367869"/>
       <document refid="33241290"/>
    </group>
-   <group id="10" score="32.52131941013155" size="2">
+   <group id="10" size="2" score="32.52131941013155">
       <title>
          <phrase>End-stage Renal Disease</phrase>
       </title>
       <document refid="33416889"/>
       <document refid="33302656"/>
    </group>
-   <group id="11" score="27.65773490377691" size="2">
+   <group id="11" size="2" score="27.65773490377691">
       <title>
          <phrase>FGF-23</phrase>
       </title>
       <document refid="33238271"/>
       <document refid="33232874"/>
    </group>
-   <group id="12" score="29.05389159922661" size="2">
+   <group id="12" size="2" score="29.05389159922661">
       <title>
          <phrase>Fibrosis</phrase>
       </title>
       <document refid="33416889"/>
       <document refid="33401711"/>
    </group>
-   <group id="13" score="0.0" size="1">
+   <group id="13" size="1" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
@@ -224,7 +224,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="362"/>
+      <value type="java.lang.Long" value="34"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="0"/>
@@ -236,7 +236,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="2756"/>
+      <value type="java.lang.Long" value="1430"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -245,7 +245,7 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="3118"/>
+      <value type="java.lang.Long" value="1464"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>

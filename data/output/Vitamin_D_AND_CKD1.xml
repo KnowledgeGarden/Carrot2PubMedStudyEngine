@@ -100,7 +100,7 @@
       <snippet>Very few studies have investigated vitamin D deficiency of Chinese chronic kidney disease (CKD) patients. Our main aims were to measure 25(OH)D levels and to explore the possible correlated factors contributing to vitamin D deficiency.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/32831162</url>
    </document>
-   <group id="0" score="21.77077442924883" size="5">
+   <group id="0" size="5" score="21.77077442924883">
       <title>
          <phrase>Vitamin D Supplement</phrase>
       </title>
@@ -110,7 +110,7 @@
       <document refid="32846760"/>
       <document refid="32843714"/>
    </group>
-   <group id="1" score="23.681812224661073" size="4">
+   <group id="1" size="4" score="23.681812224661073">
       <title>
          <phrase>Vascular Calcification</phrase>
       </title>
@@ -119,7 +119,7 @@
       <document refid="32954678"/>
       <document refid="32913635"/>
    </group>
-   <group id="2" score="27.09328239016309" size="3">
+   <group id="2" size="3" score="27.09328239016309">
       <title>
          <phrase>Children with CKD</phrase>
       </title>
@@ -127,7 +127,7 @@
       <document refid="32964520"/>
       <document refid="32844292"/>
    </group>
-   <group id="3" score="41.12047692569494" size="3">
+   <group id="3" size="3" score="41.12047692569494">
       <title>
          <phrase>Chronic Kidney Disease-mineral and Bone Disorder</phrase>
       </title>
@@ -135,7 +135,7 @@
       <document refid="33128421"/>
       <document refid="32913635"/>
    </group>
-   <group id="4" score="13.632112873676874" size="3">
+   <group id="4" size="3" score="13.632112873676874">
       <title>
          <phrase>Mineral Metabolism</phrase>
       </title>
@@ -143,56 +143,56 @@
       <document refid="32913635"/>
       <document refid="32878067"/>
    </group>
-   <group id="5" score="30.63875684969171" size="2">
+   <group id="5" size="2" score="30.63875684969171">
       <title>
          <phrase>Aging</phrase>
       </title>
       <document refid="33068383"/>
       <document refid="32982966"/>
    </group>
-   <group id="6" score="29.942279483679624" size="2">
+   <group id="6" size="2" score="29.942279483679624">
       <title>
          <phrase>Bone Turnover Biomarkers</phrase>
       </title>
       <document refid="32998144"/>
       <document refid="32961953"/>
    </group>
-   <group id="7" score="17.319197601802653" size="2">
+   <group id="7" size="2" score="17.319197601802653">
       <title>
          <phrase>Components</phrase>
       </title>
       <document refid="32990929"/>
       <document refid="32935805"/>
    </group>
-   <group id="8" score="32.01617085728822" size="2">
+   <group id="8" size="2" score="32.01617085728822">
       <title>
          <phrase>FGF23 Gene Expression</phrase>
       </title>
       <document refid="32982966"/>
       <document refid="32964520"/>
    </group>
-   <group id="9" score="23.963117619900803" size="2">
+   <group id="9" size="2" score="23.963117619900803">
       <title>
          <phrase>Muscle</phrase>
       </title>
       <document refid="32954678"/>
       <document refid="32843714"/>
    </group>
-   <group id="10" score="48.759325487114495" size="2">
+   <group id="10" size="2" score="48.759325487114495">
       <title>
          <phrase>Secondary Hyperparathyroidism</phrase>
       </title>
       <document refid="33068419"/>
       <document refid="32913635"/>
    </group>
-   <group id="11" score="20.281539504329402" size="2">
+   <group id="11" size="2" score="20.281539504329402">
       <title>
          <phrase>Serum</phrase>
       </title>
       <document refid="33068383"/>
       <document refid="32968158"/>
    </group>
-   <group id="12" score="30.401855993172074" size="2">
+   <group id="12" size="2" score="30.401855993172074">
       <title>
          <phrase>Vitamin D Deficiency</phrase>
       </title>
@@ -211,7 +211,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="319"/>
+      <value type="java.lang.Long" value="45"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="20"/>
@@ -223,7 +223,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="3212"/>
+      <value type="java.lang.Long" value="1504"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -232,7 +232,7 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="3531"/>
+      <value type="java.lang.Long" value="1549"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>

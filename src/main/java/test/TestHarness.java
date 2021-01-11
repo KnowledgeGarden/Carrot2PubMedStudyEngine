@@ -16,8 +16,8 @@ public class TestHarness {
 	public static void main(String[] args) {
 		System.out.println("Starting");
 		//new FirstFetchTest();
-		new BatchTest();
-	
+		//new BatchTest();
+		new EsQueryTest();
 		System.out.println("Did");
 	}
 

@@ -1,5 +1,10 @@
 <searchresult>
    <query>Vitamin D AND chronic kidney disease</query>
+   <document id="33027890">
+      <title>Expression of Phosphatonin-Related Genes in Sheep, Dog and Horse Kidneys Using Quantitative Reverse Transcriptase PCR.</title>
+      <snippet> genes in all three species. These results provide the basis for further research into this important regulatory system. In particular, species differences in phosphatonin gene expression should be considered when considering the pathogenesis of chronic kidney disease.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33027890</url>
+   </document>
    <document id="33022030">
       <title>Racial differences in the relationship between high-normal 25-hydroxy vitamin d and parathyroid hormone levels in early stage chronic kidney disease.</title>
       <snippet>Current guidelines do not address between-person variability in markers of bone and mineral metabolism across subgroups of patients, nor delineate treatment strategies based upon such factors.</snippet>
@@ -95,29 +100,28 @@
       <snippet>Postmenopausal women are at increased risk of osteoporosis. Osteoporotic fractures carry an increased risk of morbidity and mortality. Denosumab is a monoclonal antibody widely used for the treatment of osteoporosis by inhibiting osteoclast-induced bone resorption. Hypocalcaemia is a known side-effect of denosumab treatment. The majority of such cases have been described in patients with underlying metastatic cancer or chronic kidney disease. We present a patient who developed severe hypocalcaemia after administration of denosumab in the context of severe vitamin D deficiency and a normal kidney function. The management was further complicated by hypophosphatemia. Following replacement of vitamin D, the patient&apos;s calcium and phosphate levels stabilised. The patient required intensive care monitoring for replacement of electrolytes. This case report emphasises the importance of screening and ongoing monitoring of risk factors for iatrogenic hypocalcaemia with denosumab treatment.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/32847872</url>
    </document>
-   <document id="32844292">
-      <title>Native vs. active vitamin D in children with chronic kidney disease: a cross-over study.</title>
-      <snippet>The rationale for the prescription of vitamin D analogues in patients with chronic kidney disease (CKD) is still a matter of debate. We aimed to compare native vs. active forms of vitamin D on pre-dialysis children with CKD and evaluate effects on calcium (Ca), phosphorus (P), and parathyroid hormone (PTH).</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/32844292</url>
-   </document>
-   <group id="0" score="23.27016759922162" size="4">
+   <group id="0" size="7" score="13.237283496026173">
       <title>
-         <phrase>Vascular Calcification</phrase>
+         <phrase>CKD Patients</phrase>
       </title>
-      <document refid="33000285"/>
+      <document refid="32998144"/>
+      <document refid="32990929"/>
+      <document refid="32964520"/>
       <document refid="32961953"/>
       <document refid="32954678"/>
-      <document refid="32913635"/>
+      <document refid="32935805"/>
+      <document refid="32878067"/>
    </group>
-   <group id="1" score="23.32099123063572" size="3">
+   <group id="1" size="4" score="39.02235560410672">
       <title>
-         <phrase>Active Vitamin</phrase>
+         <phrase>Gene Expression</phrase>
       </title>
+      <document refid="33027890"/>
       <document refid="32982966"/>
-      <document refid="32968158"/>
-      <document refid="32844292"/>
+      <document refid="32964520"/>
+      <document refid="32954678"/>
    </group>
-   <group id="2" score="28.663976906583024" size="3">
+   <group id="2" size="3" score="25.35429284087181">
       <title>
          <phrase>Age</phrase>
       </title>
@@ -125,86 +129,84 @@
       <document refid="32982966"/>
       <document refid="32981786"/>
    </group>
-   <group id="3" score="27.347426340530248" size="2">
+   <group id="3" size="2" score="28.878981530776866">
       <title>
          <phrase>Bone Turnover Biomarkers</phrase>
       </title>
       <document refid="32998144"/>
       <document refid="32961953"/>
    </group>
-   <group id="4" score="23.81014181432757" size="2">
-      <title>
-         <phrase>Children with CKD</phrase>
-      </title>
-      <document refid="32964520"/>
-      <document refid="32844292"/>
-   </group>
-   <group id="5" score="34.13489385648974" size="2">
+   <group id="4" size="2" score="32.584941833998954">
       <title>
          <phrase>Circulating FGF23</phrase>
       </title>
       <document refid="33000285"/>
       <document refid="32964520"/>
    </group>
-   <group id="6" score="19.376344258706567" size="2">
+   <group id="5" size="2" score="18.08274842051453">
       <title>
-         <phrase>Denosumab</phrase>
+         <phrase>Early</phrase>
       </title>
-      <document refid="32998144"/>
-      <document refid="32847872"/>
+      <document refid="33022030"/>
+      <document refid="32961953"/>
    </group>
-   <group id="7" score="34.39675904103408" size="2">
+   <group id="6" size="2" score="25.14681856244803">
       <title>
          <phrase>End-stage Renal Disease</phrase>
       </title>
       <document refid="32904907"/>
       <document refid="32869097"/>
    </group>
-   <group id="8" score="32.45846889497103" size="2">
+   <group id="7" size="2" score="30.592373263553508">
       <title>
          <phrase>General Population</phrase>
       </title>
       <document refid="32981786"/>
       <document refid="32892370"/>
    </group>
-   <group id="9" score="20.09695736091441" size="2">
+   <group id="8" size="2" score="24.64042080570995">
       <title>
          <phrase>Hepcidin</phrase>
       </title>
       <document refid="32968158"/>
       <document refid="32935805"/>
    </group>
-   <group id="10" score="14.090529085293415" size="2">
+   <group id="9" size="2" score="19.98334844016965">
       <title>
          <phrase>Maintenance Hemodialysis</phrase>
       </title>
       <document refid="33000285"/>
       <document refid="32964341"/>
    </group>
-   <group id="11" score="28.078487083235736" size="2">
+   <group id="10" size="2" score="18.498824757336944">
       <title>
          <phrase>Patients with CKD-MBD</phrase>
       </title>
       <document refid="32968158"/>
       <document refid="32961953"/>
    </group>
-   <group id="12" score="26.92769105475327" size="2">
+   <group id="11" size="2" score="35.850891761545995">
       <title>
          <phrase>Review Focuses</phrase>
       </title>
       <document refid="32961953"/>
       <document refid="32857243"/>
    </group>
-   <group id="13" score="0.0" size="3">
+   <group id="12" size="2" score="50.03144323171276">
+      <title>
+         <phrase>Secondary Hyperparathyroidism</phrase>
+      </title>
+      <document refid="32913635"/>
+      <document refid="32904907"/>
+   </group>
+   <group id="13" size="1" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
       <attribute key="other-topics">
          <value type="java.lang.Boolean" value="true"/>
       </attribute>
-      <document refid="33022030"/>
-      <document refid="32990929"/>
-      <document refid="32878067"/>
+      <document refid="32847872"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -218,7 +220,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="418"/>
+      <value type="java.lang.Long" value="74"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="40"/>
@@ -230,7 +232,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="3500"/>
+      <value type="java.lang.Long" value="1641"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -239,12 +241,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="3918"/>
+      <value type="java.lang.Long" value="1715"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="5492"/>
+      <value type="java.lang.Long" value="5493"/>
    </attribute>
 </searchresult>

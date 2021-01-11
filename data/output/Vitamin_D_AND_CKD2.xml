@@ -100,7 +100,7 @@
       <snippet> and vitamin D is deficient, in the general Japanese population.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/32582730</url>
    </document>
-   <group id="0" score="11.768773716456487" size="4">
+   <group id="0" size="4" score="11.768773716456487">
       <title>
          <phrase>Testing</phrase>
       </title>
@@ -109,7 +109,7 @@
       <document refid="32743028"/>
       <document refid="32639125"/>
    </group>
-   <group id="1" score="33.56676706737871" size="3">
+   <group id="1" size="3" score="33.56676706737871">
       <title>
          <phrase>Fibroblast Growth Factor 23 FGF23</phrase>
       </title>
@@ -117,7 +117,7 @@
       <document refid="32718053"/>
       <document refid="32701599"/>
    </group>
-   <group id="2" score="18.60290596161104" size="3">
+   <group id="2" size="3" score="18.60290596161104">
       <title>
          <phrase>PTH</phrase>
       </title>
@@ -125,70 +125,70 @@
       <document refid="32780482"/>
       <document refid="32743028"/>
    </group>
-   <group id="3" score="19.411944539352678" size="2">
+   <group id="3" size="2" score="19.411944539352678">
       <title>
          <phrase>Albumin Correction</phrase>
       </title>
       <document refid="32743028"/>
       <document refid="32587615"/>
    </group>
-   <group id="4" score="9.78968208357342" size="2">
+   <group id="4" size="2" score="9.78968208357342">
       <title>
          <phrase>Bioavailability</phrase>
       </title>
       <document refid="32830534"/>
       <document refid="32718053"/>
    </group>
-   <group id="5" score="40.250819512391914" size="2">
+   <group id="5" size="2" score="40.250819512391914">
       <title>
          <phrase>Children and Adults</phrase>
       </title>
       <document refid="32821415"/>
       <document refid="32701599"/>
    </group>
-   <group id="6" score="25.7043121607032" size="2">
+   <group id="6" size="2" score="25.7043121607032">
       <title>
          <phrase>Diabetic Kidney Disease</phrase>
       </title>
       <document refid="32782774"/>
       <document refid="32653382"/>
    </group>
-   <group id="7" score="34.232499952090386" size="2">
+   <group id="7" size="2" score="34.232499952090386">
       <title>
          <phrase>Differential Effects</phrase>
       </title>
       <document refid="32775985"/>
       <document refid="32598518"/>
    </group>
-   <group id="8" score="16.171652197111474" size="2">
+   <group id="8" size="2" score="16.171652197111474">
       <title>
          <phrase>Fracture</phrase>
       </title>
       <document refid="32743028"/>
       <document refid="32701599"/>
    </group>
-   <group id="9" score="19.301803815675246" size="2">
+   <group id="9" size="2" score="19.301803815675246">
       <title>
          <phrase>Paricalcitol</phrase>
       </title>
       <document refid="32775985"/>
       <document refid="32631974"/>
    </group>
-   <group id="10" score="44.64559493686326" size="2">
+   <group id="10" size="2" score="44.64559493686326">
       <title>
          <phrase>Vascular Calcification</phrase>
       </title>
       <document refid="32830534"/>
       <document refid="32779642"/>
    </group>
-   <group id="11" score="20.35315443594397" size="2">
+   <group id="11" size="2" score="20.35315443594397">
       <title>
          <phrase>Vitamin D Status in CKD Patients</phrase>
       </title>
       <document refid="32743028"/>
       <document refid="32610842"/>
    </group>
-   <group id="12" score="0.0" size="4">
+   <group id="12" size="4" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
@@ -212,7 +212,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="200"/>
+      <value type="java.lang.Long" value="35"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="40"/>
@@ -224,7 +224,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="2155"/>
+      <value type="java.lang.Long" value="1664"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -233,7 +233,7 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="2355"/>
+      <value type="java.lang.Long" value="1699"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>

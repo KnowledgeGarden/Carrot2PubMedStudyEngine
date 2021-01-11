@@ -1,5 +1,10 @@
 <searchresult>
    <query>Vitamin D AND chronic kidney disease</query>
+   <document id="33420892">
+      <title>Vitamin D and parathyroid hormone status in community-dwelling elderly patients with mild-to-moderate kidney impairment.</title>
+      <snippet>Evidence on vitamin D and parathyroid hormone (PTH) status in patients with early kidney impairment is limited. We aimed to determine the associations among kidney function, vitamin D, and PTH status in community-dwelling elderly patients with mild-to-moderate kidney impairment.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33420892</url>
+   </document>
    <document id="33416889">
       <title>Effects of calcitriol and paricalcitol on renal fibrosis in CKD.</title>
       <snippet>In chronic kidney Disease (CKD) the activation of the renin-angiotensin-aldosterone system and renal inflammation stimulate renal fibrosis and the progression to end-stage renal disease. The low levels of vitamin D receptor (VDR) and its activators (VDRAs) contribute to worsen secondary hyperparathyroidism and renal fibrosis.</snippet>
@@ -95,107 +100,94 @@
       <snippet>The Wnt/β-catenin pathway has been implicated in the development of adynamic bone disease in early-stage chronic kidney disease (CKD). Dickkopf-related protein 1 (DKK1) and sclerostin are antagonists of the Wnt/β-catenin pathway yet have not been widely used as clinical indicators of bone disease. This study characterized levels of DKK1, sclerostin, and other biomarkers of mineral metabolism in participants across a spectrum of inulin-measured glomerular filtration rate (GFR). ... GFR was measured by urinary inulin clearance (mGFR) in 90 participants. Blood samples were obtained for measurement of circulating DKK1, sclerostin, fibroblast growth factor 23 (FGF-23), parathyroid hormone (PTH), calcium, phosphate, α-klotho, and vitamin D metabolites including 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3. Spearman correlations and linear regressions were used where appropriate to examine the associations between measured values. ... The median [IQR] age was 64 years [53.0-71.0], and the median [IQR] mGFR was 32.6 [21.7-60.6] mL/min. DKK1 decreased (r = 0.6, p &lt; 0.001) and sclerostin increased (r = -0.4, p &lt; 0.001) as kidney function declined, and both were associated with phosphate, PTH, FGF-23, and 1,25-dihydroxyvitamin D3 in the unadjusted analysis. After adjustment for age and mGFR, DKK1 remained significantly associated with PTH. ... The results of this study demonstrate opposing trends in Wnt/β-catenin pathway inhibitors, DKK1 and sclerostin, as mGFR declines. Unlike sclerostin, DKK1 levels decreased significantly as mGFR declined and was independently associated with PTH. Future studies should determine whether measurement of Wnt signaling inhibitors may be useful in predicting bone histomorphometric findings and important clinical outcomes in patients with CKD.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/33238271</url>
    </document>
-   <document id="33234810">
-      <title>Association of vitamin D deficiency with arterial stiffness in newly diagnosed hypertension.</title>
-      <snippet>Vitamin D has beneficial effects on vascular endothelial function, blood pressure (BP) and arterial stiffness. Arterial stiffness increases in early-stage hypertensive patients and it is a strong predictor of cardiovascular morbidity and mortality. The purpose of this study was to assess the association between serum 25-hydroxyvitamin D (25-OH D) levels and arterial stiffness in patients with newly diagnosed hypertension.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/33234810</url>
-   </document>
-   <group id="0" score="21.678076597625722" size="4">
+   <group id="0" size="4" score="36.10476444107288">
       <title>
-         <phrase>Hypertension</phrase>
+         <phrase>Bone and Mineral Metabolism Disorder</phrase>
       </title>
-      <document refid="33409846"/>
-      <document refid="33394226"/>
-      <document refid="33344794"/>
-      <document refid="33234810"/>
+      <document refid="33387018"/>
+      <document refid="33386480"/>
+      <document refid="33302656"/>
+      <document refid="33291777"/>
    </group>
-   <group id="1" score="30.020865185217833" size="3">
+   <group id="1" size="3" score="21.86308593826806">
+      <title>
+         <phrase>Parathyroid Hormone PTH</phrase>
+      </title>
+      <document refid="33420892"/>
+      <document refid="33401711"/>
+      <document refid="33238271"/>
+   </group>
+   <group id="2" size="2" score="23.046984256899254">
+      <title>
+         <phrase>Associated with PTH</phrase>
+      </title>
+      <document refid="33420892"/>
+      <document refid="33238271"/>
+   </group>
+   <group id="3" size="2" score="42.21913887178467">
       <title>
          <phrase>Associations of Serum</phrase>
       </title>
       <document refid="33378761"/>
       <document refid="33302656"/>
-      <document refid="33234810"/>
    </group>
-   <group id="2" score="48.631066658640336" size="3">
-      <title>
-         <phrase>Bone and Mineral Metabolism Disorder</phrase>
-      </title>
-      <document refid="33386480"/>
-      <document refid="33302656"/>
-      <document refid="33291777"/>
-   </group>
-   <group id="3" score="33.44885810161465" size="2">
+   <group id="4" size="2" score="27.87357874945189">
       <title>
          <phrase>COVID-19 Pandemic</phrase>
       </title>
       <document refid="33409846"/>
       <document refid="33344794"/>
    </group>
-   <group id="4" score="22.10885566220803" size="2">
+   <group id="5" size="2" score="23.959170980892445">
       <title>
          <phrase>Children with CKD Stages</phrase>
       </title>
       <document refid="33367869"/>
       <document refid="33241290"/>
    </group>
-   <group id="5" score="40.631160376823686" size="2">
+   <group id="6" size="2" score="51.90905530904629">
       <title>
          <phrase>Diabetes Mellitus</phrase>
       </title>
       <document refid="33409846"/>
       <document refid="33391906"/>
    </group>
-   <group id="6" score="25.680045249625984" size="2">
-      <title>
-         <phrase>Elevated Fibroblast Growth</phrase>
-      </title>
-      <document refid="33302656"/>
-      <document refid="33241290"/>
-   </group>
-   <group id="7" score="20.599345574116324" size="2">
-      <title>
-         <phrase>End-stage Renal Disease</phrase>
-      </title>
-      <document refid="33416889"/>
-      <document refid="33302656"/>
-   </group>
-   <group id="8" score="33.11565977738644" size="2">
+   <group id="7" size="2" score="36.03053064768845">
       <title>
          <phrase>Fibrosis</phrase>
       </title>
       <document refid="33416889"/>
       <document refid="33401711"/>
    </group>
-   <group id="9" score="21.80832090651582" size="2">
-      <title>
-         <phrase>Parathyroid Hormone PTH</phrase>
-      </title>
-      <document refid="33401711"/>
-      <document refid="33238271"/>
-   </group>
-   <group id="10" score="20.675424256298594" size="2">
+   <group id="8" size="2" score="14.901174929022822">
       <title>
          <phrase>Regimen</phrase>
       </title>
       <document refid="33369368"/>
       <document refid="33367869"/>
    </group>
-   <group id="11" score="22.98705536231797" size="2">
+   <group id="9" size="2" score="32.417411911093104">
       <title>
          <phrase>Relationship</phrase>
       </title>
       <document refid="33394226"/>
       <document refid="33258465"/>
    </group>
-   <group id="12" score="13.258752904742014" size="2">
+   <group id="10" size="2" score="17.665440808284387">
+      <title>
+         <phrase>Renal Disease ESRD</phrase>
+      </title>
+      <document refid="33391906"/>
+      <document refid="33302656"/>
+   </group>
+   <group id="11" size="2" score="12.113198353873116">
       <title>
          <phrase>Renin-angiotensin System RAS</phrase>
       </title>
       <document refid="33401711"/>
       <document refid="33241290"/>
    </group>
-   <group id="13" score="0.0" size="4">
+   <group id="12" size="3" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
@@ -204,7 +196,6 @@
       </attribute>
       <document refid="33401560"/>
       <document refid="33398781"/>
-      <document refid="33387018"/>
       <document refid="33333140"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
@@ -219,7 +210,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="3222"/>
+      <value type="java.lang.Long" value="733"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="0"/>
@@ -231,7 +222,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="5645"/>
+      <value type="java.lang.Long" value="2175"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -240,12 +231,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="8867"/>
+      <value type="java.lang.Long" value="2908"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="5492"/>
+      <value type="java.lang.Long" value="5493"/>
    </attribute>
 </searchresult>

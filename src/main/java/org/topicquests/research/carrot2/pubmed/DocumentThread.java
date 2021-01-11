@@ -12,6 +12,7 @@ import org.topicquests.asr.general.document.api.IDocumentClient;
 import org.topicquests.hyperbrane.ConcordanceDocument;
 import org.topicquests.hyperbrane.api.IDocument;
 import org.topicquests.research.carrot2.Environment;
+import org.topicquests.research.carrot2.nlp.ElasticSearch;
 import org.topicquests.research.carrot2.pubmed.ParserThread.Worker;
 import org.topicquests.support.api.IResult;
 
@@ -22,6 +23,7 @@ import org.topicquests.support.api.IResult;
 public class DocumentThread {
 	private Environment environment;
 	private IDocumentClient documentDatabase;
+	private ElasticSearch es;
 	private List<JSONDocumentObject> docs;
 	private boolean isRunning = true;
 	private Worker worker;
@@ -30,6 +32,7 @@ public class DocumentThread {
 	 */
 	public DocumentThread(Environment env) {
 		environment = env;
+		es = environment.getElasticSearch();
 		documentDatabase = environment.getDocumentDatabase();
 		docs = new ArrayList<JSONDocumentObject>();
 		isRunning = true;
@@ -84,6 +87,7 @@ public class DocumentThread {
 			List<String>labels = d.listLabels();
 			String label = labels.get(0);
 			IResult r  = documentDatabase.put(docId, pmid, pmcid, url, label, d.getData());
+			es.addDoc(d);
 			environment.logDebug("DocThread+ "+r.getErrorString());
 		}
 	}

@@ -9,6 +9,7 @@ import org.topicquests.asr.general.GeneralDatabaseEnvironment;
 import org.topicquests.asr.general.document.api.IDocumentClient;
 import org.topicquests.es.ProviderEnvironment;
 import org.topicquests.research.carrot2.api.IDocumentProvider;
+import org.topicquests.research.carrot2.nlp.ElasticSearch;
 import org.topicquests.research.carrot2.pubmed.ParserThread;
 import org.topicquests.support.RootEnvironment;
 
@@ -18,6 +19,7 @@ import org.topicquests.support.RootEnvironment;
  */
 public class Environment extends RootEnvironment {
 	private static Environment instance;
+	private ElasticSearch es;
 	//NOT thread safe
 	private StringBuilder buf;
 	private QueryEngine engine;
@@ -40,6 +42,7 @@ public class Environment extends RootEnvironment {
 		fileManager = new FileManager(this);
 		engine = new QueryEngine(this);
 	    esEnvironment = new ProviderEnvironment();
+		es = new ElasticSearch(this);
 
 		logDebug("Environment- "+engine);
 		System.out.println("E1");
@@ -68,6 +71,9 @@ public class Environment extends RootEnvironment {
 		System.out.println("E7");
 	}
 	
+	/////////////////////
+	// DSL
+	/////////////////////
 	/**
 	 * Called from PubMedDocumentSource when it has
 	 * a new PubMed Doc for processing
@@ -87,15 +93,24 @@ public class Environment extends RootEnvironment {
 	 */
 	public void queueEmpty() {
 		accountant.bump();
-		fileManager.bump();
+		//fileManager.bump();
 	}
+	
+	/////////////////////
+	// Support
+	/////////////////////
+	
+	public ElasticSearch getElasticSearch() {
+		return es;
+	}
+	
 	public FileManager getFileManager() {
 		return fileManager;
 	}
 	public Accountant getAccountant() {
 		return accountant;
 	}
-	public ProviderEnvironment getElasticSearch() {
+	public ProviderEnvironment getElasticSearchEnvironment() {
 		return esEnvironment;
 	}
 	
@@ -143,6 +158,7 @@ public class Environment extends RootEnvironment {
 
 	@Override
 	public void shutDown() {
+		logDebug("Environment.shuttingDown");
 		System.out.println("Environment.shutDown");
 		parserThread.shutDown();
 	}

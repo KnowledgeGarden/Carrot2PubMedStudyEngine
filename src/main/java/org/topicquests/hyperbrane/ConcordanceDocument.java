@@ -447,6 +447,8 @@ public class ConcordanceDocument implements IDocument {
 			paras = new ArrayList<JSONObject>();
 		if (!paras.contains(jo))
 			paras.add(jo);
+		abs.put("paragraphs", paras);
+		environment.logDebug("ConcordanceDocument.addAbsPara "+language+"\n"+abs);
 		data.put(ABSTRACTS, abs);
 	}
 
