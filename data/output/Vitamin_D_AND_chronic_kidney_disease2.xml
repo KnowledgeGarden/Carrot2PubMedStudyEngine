@@ -1,5 +1,15 @@
 <searchresult>
    <query>Vitamin D AND chronic kidney disease</query>
+   <document id="33035687">
+      <title>Fibroblast Growth Factor 23 and Exercise Capacity in Heart Failure with Preserved Ejection Fraction.</title>
+      <snippet>Heart failure with preserved ejection fraction (HFpEF) is characterized by left ventricular hypertrophy and decreased exercise capacity. Fibroblast growth factor 23 (FGF23), a hormone involved in phosphate, vitamin D, and iron homeostasis, is linked to left ventricular hypertrophy and HF. We measured c-terminal FGF23 (cFGF23) and intact FGF23 (iFGF23) levels and examined their associations with exercise capacity in patients with HFpEF.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33035687</url>
+   </document>
+   <document id="33029234">
+      <title>SERUM VITAMIN D LEVELS IN DIFFERENT MORPHOLOGIC FORMS OF AGE RELATED CATARACT.</title>
+      <snippet>Vitamin D insufficiency and age related cataract (ARC) are public health problems. We evaluated serum vitamin D levels in ARC patients. ... A prospective hospital-based cross-sectional study was designed to measure the vitamin D status of patients with ARC. Patients have grouped either presence of any type of posterior subcapsular cataract (PSC) (group 1) or ARC without the PSC component (Group 2). After full ophthalmologic consideration, patients over 40 years of age with no history of ocular trauma, multivitamin supplement ingestion, chronic renal failure, thyroidectomy, parathyroidectomy, skin cancer, and cigarette smoking were included in the study. ... Totally, 79 subjects of which 26 (32.9%) subjects in group 1 and 53 (67.1%) subjects in group 2 were included in the study. Group 1 had mean vitamin D levels of 17.31±13.30 ng/mL. Vitamin D levels in Group 2 were 13.34±7.87 ng/mL. Group 1 did not show vitamin D insufficiency (P = 0.31; one-sample t-test). However, Group 2 showed a statistically significantly lower vitamin D level compared to the insufficiency level of 20ng/mL (P= 0.00; one-sample t-test). ... Vitamin D may have an important function in lens metabolism. Vitamin D deficiency and cataract development need further extensive researches.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33029234</url>
+   </document>
    <document id="33027890">
       <title>Expression of Phosphatonin-Related Genes in Sheep, Dog and Horse Kidneys Using Quantitative Reverse Transcriptase PCR.</title>
       <snippet> genes in all three species. These results provide the basis for further research into this important regulatory system. In particular, species differences in phosphatonin gene expression should be considered when considering the pathogenesis of chronic kidney disease.</snippet>
@@ -90,29 +100,25 @@
       <snippet></snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/32869097</url>
    </document>
-   <document id="32857243">
-      <title>The Contribution of Kidney Disease to Cognitive Impairment in Patients with Type 2 Diabetes.</title>
-      <snippet>This review focuses on the relationships between diabetes, cognitive impairment, and the contribution of kidney disease.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/32857243</url>
-   </document>
-   <document id="32847872">
-      <title>Denosumab-induced severe hypocalcaemia in a patient with vitamin D deficiency.</title>
-      <snippet>Postmenopausal women are at increased risk of osteoporosis. Osteoporotic fractures carry an increased risk of morbidity and mortality. Denosumab is a monoclonal antibody widely used for the treatment of osteoporosis by inhibiting osteoclast-induced bone resorption. Hypocalcaemia is a known side-effect of denosumab treatment. The majority of such cases have been described in patients with underlying metastatic cancer or chronic kidney disease. We present a patient who developed severe hypocalcaemia after administration of denosumab in the context of severe vitamin D deficiency and a normal kidney function. The management was further complicated by hypophosphatemia. Following replacement of vitamin D, the patient&apos;s calcium and phosphate levels stabilised. The patient required intensive care monitoring for replacement of electrolytes. This case report emphasises the importance of screening and ongoing monitoring of risk factors for iatrogenic hypocalcaemia with denosumab treatment.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/32847872</url>
-   </document>
-   <group id="0" size="7" score="13.237283496026173">
+   <group id="0" size="4" score="23.940693942440827">
       <title>
-         <phrase>CKD Patients</phrase>
+         <phrase>Age</phrase>
       </title>
-      <document refid="32998144"/>
-      <document refid="32990929"/>
-      <document refid="32964520"/>
-      <document refid="32961953"/>
-      <document refid="32954678"/>
-      <document refid="32935805"/>
-      <document refid="32878067"/>
+      <document refid="33029234"/>
+      <document refid="33000285"/>
+      <document refid="32982966"/>
+      <document refid="32981786"/>
    </group>
-   <group id="1" size="4" score="39.02235560410672">
+   <group id="1" size="4" score="35.963504748998076">
+      <title>
+         <phrase>Fibroblast Growth Factor 23 FGF23</phrase>
+      </title>
+      <document refid="33035687"/>
+      <document refid="33000285"/>
+      <document refid="32981786"/>
+      <document refid="32964520"/>
+   </group>
+   <group id="2" size="4" score="34.07291090278384">
       <title>
          <phrase>Gene Expression</phrase>
       </title>
@@ -121,92 +127,86 @@
       <document refid="32964520"/>
       <document refid="32954678"/>
    </group>
-   <group id="2" size="3" score="25.35429284087181">
+   <group id="3" size="3" score="31.19952262690068">
       <title>
-         <phrase>Age</phrase>
-      </title>
-      <document refid="33000285"/>
-      <document refid="32982966"/>
-      <document refid="32981786"/>
-   </group>
-   <group id="3" size="2" score="28.878981530776866">
-      <title>
-         <phrase>Bone Turnover Biomarkers</phrase>
+         <phrase>Fracture Risk</phrase>
       </title>
       <document refid="32998144"/>
+      <document refid="32981786"/>
       <document refid="32961953"/>
    </group>
-   <group id="4" size="2" score="32.584941833998954">
+   <group id="4" size="2" score="13.87509633834189">
       <title>
-         <phrase>Circulating FGF23</phrase>
+         <phrase>Blood Pressure</phrase>
       </title>
       <document refid="33000285"/>
-      <document refid="32964520"/>
+      <document refid="32990929"/>
    </group>
-   <group id="5" size="2" score="18.08274842051453">
+   <group id="5" size="2" score="15.918490084897524">
       <title>
          <phrase>Early</phrase>
       </title>
       <document refid="33022030"/>
       <document refid="32961953"/>
    </group>
-   <group id="6" size="2" score="25.14681856244803">
+   <group id="6" size="2" score="37.13771418683105">
       <title>
          <phrase>End-stage Renal Disease</phrase>
       </title>
       <document refid="32904907"/>
       <document refid="32869097"/>
    </group>
-   <group id="7" size="2" score="30.592373263553508">
+   <group id="7" size="2" score="32.81491099238248">
       <title>
          <phrase>General Population</phrase>
       </title>
       <document refid="32981786"/>
       <document refid="32892370"/>
    </group>
-   <group id="8" size="2" score="24.64042080570995">
+   <group id="8" size="2" score="21.510723729754336">
       <title>
-         <phrase>Hepcidin</phrase>
+         <phrase>Inhibited</phrase>
       </title>
-      <document refid="32968158"/>
-      <document refid="32935805"/>
+      <document refid="32954678"/>
+      <document refid="32913635"/>
    </group>
-   <group id="9" size="2" score="19.98334844016965">
+   <group id="9" size="2" score="19.27081769275356">
       <title>
          <phrase>Maintenance Hemodialysis</phrase>
       </title>
       <document refid="33000285"/>
       <document refid="32964341"/>
    </group>
-   <group id="10" size="2" score="18.498824757336944">
+   <group id="10" size="2" score="31.04582954159646">
+      <title>
+         <phrase>Parathyroid Hormone PTH</phrase>
+      </title>
+      <document refid="32981786"/>
+      <document refid="32964520"/>
+   </group>
+   <group id="11" size="2" score="26.873083931150067">
       <title>
          <phrase>Patients with CKD-MBD</phrase>
       </title>
       <document refid="32968158"/>
       <document refid="32961953"/>
    </group>
-   <group id="11" size="2" score="35.850891761545995">
-      <title>
-         <phrase>Review Focuses</phrase>
-      </title>
-      <document refid="32961953"/>
-      <document refid="32857243"/>
-   </group>
-   <group id="12" size="2" score="50.03144323171276">
+   <group id="12" size="2" score="44.097343409037094">
       <title>
          <phrase>Secondary Hyperparathyroidism</phrase>
       </title>
       <document refid="32913635"/>
       <document refid="32904907"/>
    </group>
-   <group id="13" size="1" score="0.0">
+   <group id="13" size="2" score="0.0">
       <title>
          <phrase>Other Topics</phrase>
       </title>
       <attribute key="other-topics">
          <value type="java.lang.Boolean" value="true"/>
       </attribute>
-      <document refid="32847872"/>
+      <document refid="32935805"/>
+      <document refid="32878067"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -220,7 +220,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="74"/>
+      <value type="java.lang.Long" value="368"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="40"/>
@@ -232,7 +232,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="1641"/>
+      <value type="java.lang.Long" value="1624"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -241,12 +241,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="1715"/>
+      <value type="java.lang.Long" value="1992"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="5493"/>
+      <value type="java.lang.Long" value="5496"/>
    </attribute>
 </searchresult>

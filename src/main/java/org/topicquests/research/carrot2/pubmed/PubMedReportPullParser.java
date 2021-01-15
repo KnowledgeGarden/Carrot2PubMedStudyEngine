@@ -266,6 +266,7 @@ public class PubMedReportPullParser {
 	                	if (isJournal)
 	                		pubTitle =text ;
 	                } else if (temp.equalsIgnoreCase("Author")) {
+	                	environment.logDebug("PMRPP.author "+isValid); //+"\n"+theDocument);
 	                	if (isValid) {
 	                		IAuthor a = new AuthorPojo();
 	                		a.setAuthorLastName(lastName);
@@ -274,7 +275,8 @@ public class PubMedReportPullParser {
 	                		if (initials != null)
 	                			a.setAuthorInitials(initials);
 	                		if (affiliation != null)
-	                			a.addAffiliationName(affiliation);
+	                			a.addAffiliationName(trimAffiliation(affiliation));
+		                	environment.logDebug("PMRPP.author-1\n"+a);
 	                		theDocument.addAuthor(a);
 	                	}
 	                	lastName = null;
@@ -353,6 +355,29 @@ public class PubMedReportPullParser {
 	      } 		
 	}
 	
+	String trimAffiliation(String affiliation) {
+		int len = affiliation.length();
+		//if (len > 200)
+		//	len = 200;
+		StringBuilder buf = new StringBuilder();
+		char c;
+		for (int i=0;i<len;i++) {
+			c = affiliation.charAt(i);
+			if (canUse(c))
+				buf.append(c);
+		}
+		return buf.toString().trim();
+	}
+	
+	boolean canUse(char c) {
+		if ( c == '"' ||
+			 c == ',' ||
+			 c == '.' ||
+			 c == ':' ||
+			 c == ';')
+			return false;
+		return true;
+	}
 	/**
 	 * @see http://www.nlm.nih.gov/mesh/pubtypes.html
 	 * We don't model every one of them

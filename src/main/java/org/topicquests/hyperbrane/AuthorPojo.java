@@ -61,7 +61,7 @@ public class AuthorPojo extends JSONObject implements IAuthor {
 	 */
 	@Override
 	public String getAuthorFullName() {
-		String result = (IAuthor.FULL_NAME_FIELD);
+		String result = getAsString(IAuthor.FULL_NAME_FIELD);
 		if (result == null) {
 			String firstName = null;
 			List<String> l = listAuthorFirstNames();

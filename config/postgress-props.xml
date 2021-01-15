@@ -6,6 +6,11 @@
 	<parameter name="DatabaseSchema" value = "tqos_asr" />
 	<parameter name="ClientCacheSize" value = "8192" />
 
+	<!--  needed by BlueprintsPGEnvironment -->
+	<parameter name="GraphDatabaseName" value="wordgrams" />
+	<parameter name="GraphDatabaseSchema" value="tq_graph" />
+	
+	
 	<!-- URL for the server -->
 	<parameter name="DatabaseURL" value = "localhost" />
 	<parameter name="DatabasePort" value = "5432" />

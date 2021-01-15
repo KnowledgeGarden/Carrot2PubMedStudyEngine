@@ -1,5 +1,15 @@
 <searchresult>
    <query>Vitamin D AND chronic kidney disease</query>
+   <document id="33443056">
+      <title>Graft survival effect of HLA-A allele matching parathyroid allotransplantation.</title>
+      <snippet>Permanent hypoparathyroidism is an endocrine disease that is mostly associated with the disruption of the parathyroid glands during surgery. Allotransplantation is the most promising approach for treatment particularly for its cost-effective and exact curative potential. Herein our aim was to evaluate human leukocyte antigen (HLA)-A allele matching effect on clinical improvement and graft survival after parathyroid transplantation. We performed parathyroid transplantation between ABO/Rh compatible recipient and an unrelated donor who has chronic kidney disease. Preoperative immunological tests include panel reactive antibody, T-flow cytometry crossmatch, B-flow cytometry crossmatch, autoflow cytometry crossmatch, and complement-dependent cytotoxicity crossmatch tests were performed. After histopathological evaluation, half of the resected parathyroid gland cells were isolated and transplanted to the omentum surface by laparoscopy. The transplantation outcome was followed up throughout 382 days. The recipient discharged 2 days after transplantation without any complication. During follow-up, calcium and vitamin D supplementation reduced to a one-third dose; even the intact PTH levels remained low. However, clinical improvement was observed by serum calcium levels. The recipient still continues with low-dose supplementation after 382 days of post-transplantation. Parathyroid cell transplantation to the omental tissue is the most promising option even with only one allele matching for patients with using lifelong high-dose supplementation. Clinical improvements and long-term effect of HLA-A allele matching should be evaluated with more studies and in larger cohorts as well.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33443056</url>
+   </document>
+   <document id="33430750">
+      <title>Diabetes Mellitus and Renal Function: Current Medical Research and Opinion.</title>
+      <snippet>Diabetes mellitus (DM) which is defined as high blood glucose level is a major public health worldwide. While discussing DM, the knowledge in this field is unlimited hence a syndrome that populations are living with for more than a decade is always an important matter to keep searching for updates on it. Challenges are always present in different means as comorbidities, poorly controlled DM especially type 2 Diabetes mellitus(T2DM) is considered as a risk factor for a lot of different diseases including but not limited to chronic kidney Disease (CKD). Complications might appear through time, as the aging process changes the body functions, while a significant number of antidiabetic medications are cleared eventually by the kidney; this increase the burden on kidney function placing the diabetic patients at risk. The significant high number of patients with uncontrolled diabetes resulting with kidney disease mirror the importance of this condition on patient&apos;s quality of life. This review presents an overview, pathophysiology, etiology and prevalence of Chronic Kidney Disease (CKD) and abnormal renal parameters correlated with poorly controlled T2DM, with emphasis on and clinical studies involving the association between vitamin D Insufficiency/Deficiency and chronic kidney disease among patients with T2DM.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33430750</url>
+   </document>
    <document id="33420892">
       <title>Vitamin D and parathyroid hormone status in community-dwelling elderly patients with mild-to-moderate kidney impairment.</title>
       <snippet>Evidence on vitamin D and parathyroid hormone (PTH) status in patients with early kidney impairment is limited. We aimed to determine the associations among kidney function, vitamin D, and PTH status in community-dwelling elderly patients with mild-to-moderate kidney impairment.</snippet>
@@ -90,113 +100,93 @@
       <snippet></snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/33258465</url>
    </document>
-   <document id="33241290">
-      <title>Active vitamin D is cardioprotective in experimental uraemia but not in children with CKD Stages 3-5.</title>
-      <snippet>Uraemic cardiac remodelling is associated with vitamin D and Klotho deficiency, elevated fibroblast growth factor 23 (FGF23) and activation of the renin-angiotensin system (RAS). The cardioprotective properties of active vitamin D analogues in this setting are unclear.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/33241290</url>
-   </document>
-   <document id="33238271">
-      <title>Circulating Levels of Dickkopf-Related Protein 1 Decrease as Measured GFR Declines and Are Associated with PTH Levels.</title>
-      <snippet>The Wnt/β-catenin pathway has been implicated in the development of adynamic bone disease in early-stage chronic kidney disease (CKD). Dickkopf-related protein 1 (DKK1) and sclerostin are antagonists of the Wnt/β-catenin pathway yet have not been widely used as clinical indicators of bone disease. This study characterized levels of DKK1, sclerostin, and other biomarkers of mineral metabolism in participants across a spectrum of inulin-measured glomerular filtration rate (GFR). ... GFR was measured by urinary inulin clearance (mGFR) in 90 participants. Blood samples were obtained for measurement of circulating DKK1, sclerostin, fibroblast growth factor 23 (FGF-23), parathyroid hormone (PTH), calcium, phosphate, α-klotho, and vitamin D metabolites including 25-hydroxyvitamin D3 and 1,25-dihydroxyvitamin D3. Spearman correlations and linear regressions were used where appropriate to examine the associations between measured values. ... The median [IQR] age was 64 years [53.0-71.0], and the median [IQR] mGFR was 32.6 [21.7-60.6] mL/min. DKK1 decreased (r = 0.6, p &lt; 0.001) and sclerostin increased (r = -0.4, p &lt; 0.001) as kidney function declined, and both were associated with phosphate, PTH, FGF-23, and 1,25-dihydroxyvitamin D3 in the unadjusted analysis. After adjustment for age and mGFR, DKK1 remained significantly associated with PTH. ... The results of this study demonstrate opposing trends in Wnt/β-catenin pathway inhibitors, DKK1 and sclerostin, as mGFR declines. Unlike sclerostin, DKK1 levels decreased significantly as mGFR declined and was independently associated with PTH. Future studies should determine whether measurement of Wnt signaling inhibitors may be useful in predicting bone histomorphometric findings and important clinical outcomes in patients with CKD.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/33238271</url>
-   </document>
-   <group id="0" size="4" score="36.10476444107288">
+   <group id="0" size="3" score="49.04828756203051">
+      <title>
+         <phrase>Associations of Serum</phrase>
+      </title>
+      <document refid="33443056"/>
+      <document refid="33378761"/>
+      <document refid="33302656"/>
+   </group>
+   <group id="1" size="3" score="12.389894308026806">
+      <title>
+         <phrase>Biomarkers</phrase>
+      </title>
+      <document refid="33387018"/>
+      <document refid="33333140"/>
+      <document refid="33302656"/>
+   </group>
+   <group id="2" size="3" score="59.825586930288104">
       <title>
          <phrase>Bone and Mineral Metabolism Disorder</phrase>
       </title>
-      <document refid="33387018"/>
       <document refid="33386480"/>
       <document refid="33302656"/>
       <document refid="33291777"/>
    </group>
-   <group id="1" size="3" score="21.86308593826806">
+   <group id="3" size="3" score="22.15567921116358">
       <title>
-         <phrase>Parathyroid Hormone PTH</phrase>
+         <phrase>Thyroid</phrase>
       </title>
-      <document refid="33420892"/>
-      <document refid="33401711"/>
-      <document refid="33238271"/>
+      <document refid="33401560"/>
+      <document refid="33369368"/>
+      <document refid="33344794"/>
    </group>
-   <group id="2" size="2" score="23.046984256899254">
-      <title>
-         <phrase>Associated with PTH</phrase>
-      </title>
-      <document refid="33420892"/>
-      <document refid="33238271"/>
-   </group>
-   <group id="3" size="2" score="42.21913887178467">
-      <title>
-         <phrase>Associations of Serum</phrase>
-      </title>
-      <document refid="33378761"/>
-      <document refid="33302656"/>
-   </group>
-   <group id="4" size="2" score="27.87357874945189">
+   <group id="4" size="2" score="28.23240518194985">
       <title>
          <phrase>COVID-19 Pandemic</phrase>
       </title>
       <document refid="33409846"/>
       <document refid="33344794"/>
    </group>
-   <group id="5" size="2" score="23.959170980892445">
+   <group id="5" size="2" score="24.997830469189182">
       <title>
-         <phrase>Children with CKD Stages</phrase>
+         <phrase>Children with CKD</phrase>
       </title>
+      <document refid="33387018"/>
       <document refid="33367869"/>
-      <document refid="33241290"/>
    </group>
-   <group id="6" size="2" score="51.90905530904629">
+   <group id="6" size="2" score="43.581614202988945">
       <title>
-         <phrase>Diabetes Mellitus</phrase>
+         <phrase>Chronic Hypoparathyroidism</phrase>
       </title>
-      <document refid="33409846"/>
+      <document refid="33443056"/>
+      <document refid="33369368"/>
+   </group>
+   <group id="7" size="2" score="45.2924829055266">
+      <title>
+         <phrase>Diabetes Mellitus DM</phrase>
+      </title>
+      <document refid="33430750"/>
       <document refid="33391906"/>
    </group>
-   <group id="7" size="2" score="36.03053064768845">
+   <group id="8" size="2" score="34.70461600152954">
       <title>
          <phrase>Fibrosis</phrase>
       </title>
       <document refid="33416889"/>
       <document refid="33401711"/>
    </group>
-   <group id="8" size="2" score="14.901174929022822">
+   <group id="9" size="2" score="23.41080064231389">
       <title>
-         <phrase>Regimen</phrase>
+         <phrase>Parathyroid Hormone PTH</phrase>
       </title>
-      <document refid="33369368"/>
-      <document refid="33367869"/>
+      <document refid="33420892"/>
+      <document refid="33401711"/>
    </group>
-   <group id="9" size="2" score="32.417411911093104">
+   <group id="10" size="2" score="35.72397125026267">
       <title>
          <phrase>Relationship</phrase>
       </title>
       <document refid="33394226"/>
       <document refid="33258465"/>
    </group>
-   <group id="10" size="2" score="17.665440808284387">
+   <group id="11" size="2" score="21.859922868562155">
       <title>
-         <phrase>Renal Disease ESRD</phrase>
+         <phrase>Renal Function</phrase>
       </title>
-      <document refid="33391906"/>
-      <document refid="33302656"/>
-   </group>
-   <group id="11" size="2" score="12.113198353873116">
-      <title>
-         <phrase>Renin-angiotensin System RAS</phrase>
-      </title>
-      <document refid="33401711"/>
-      <document refid="33241290"/>
-   </group>
-   <group id="12" size="3" score="0.0">
-      <title>
-         <phrase>Other Topics</phrase>
-      </title>
-      <attribute key="other-topics">
-         <value type="java.lang.Boolean" value="true"/>
-      </attribute>
-      <document refid="33401560"/>
+      <document refid="33430750"/>
       <document refid="33398781"/>
-      <document refid="33333140"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -210,7 +200,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="733"/>
+      <value type="java.lang.Long" value="993"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="0"/>
@@ -222,7 +212,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="2175"/>
+      <value type="java.lang.Long" value="2371"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -231,12 +221,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="2908"/>
+      <value type="java.lang.Long" value="3364"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="5493"/>
+      <value type="java.lang.Long" value="5496"/>
    </attribute>
 </searchresult>

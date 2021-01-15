@@ -1,5 +1,10 @@
 <searchresult>
    <query>Vitamin D AND CKD</query>
+   <document id="32831162">
+      <title>Prevalence and influencing factors of vitamin D deficiency in chronic kidney disease: A cross-sectional study.</title>
+      <snippet>Very few studies have investigated vitamin D deficiency of Chinese chronic kidney disease (CKD) patients. Our main aims were to measure 25(OH)D levels and to explore the possible correlated factors contributing to vitamin D deficiency.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/32831162</url>
+   </document>
    <document id="32830534">
       <title>Vitamin K deficiency: an emerging player in the pathogenesis of vascular calcification and an iatrogenic consequence of therapies in advanced renal disease.</title>
       <snippet> vitamin D decrease. These imbalances have been linked to the development of vascular calcification. More recently, additional factors have been found to play a role in vascular calcification. Matrix G1a protein (MGP) in its carboxylated form (cMGP) is a potent inhibitor of vascular calcification. Importantly, carboxylation of MGP is dependent on the cofactor vitamin K. In patients with CKD, vitamin K deficiency is prevalent and is exacerbated by warfarin, which is frequently used for anticoagulation. Insufficient bioavailability of vitamin K reduces the amount of cMGP available, and, therefore, it may lead to increased risk of vascular calcification. In vitro studies have shown that in the setting of a high-phosphate environment and vitamin K antagonism, human aortic valve interstitial cells become calcified. In this article, we discuss the pathophysiological consequence of vitamin K deficiency in the setting of altered mineral and bone metabolism, its prevalence, and clinical implications in patients with CKD.</snippet>
@@ -95,21 +100,15 @@
       <snippet> = 1). No further workup was done to investigate the etiology as that patient passed away. Our data suggest that the true hypocalcemia incidence after using albumin-corrected calcium values is very low in patients receiving IPCI, even in the presence of calcium altering factors. The percentage of patients with hypocalcemia is much higher and similar to the KEYNOTE-189 and CHECKMATE-067 trials when serum calcium values without albumin correction are used. Thus, the higher reported incidence of hypocalcemia in these trials is likely due to the reporting of serum calcium without albumin correction.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/32587615</url>
    </document>
-   <document id="32582730">
-      <title>Exacerbation of Hyperparathyroidism, Secondary to a Reduction in Kidney Function, in Individuals With Vitamin D Deficiency.</title>
-      <snippet> and vitamin D is deficient, in the general Japanese population.</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/32582730</url>
-   </document>
-   <group id="0" size="4" score="11.768773716456487">
+   <group id="0" size="3" score="20.863584194996218">
       <title>
-         <phrase>Testing</phrase>
+         <phrase>Deficiency is Prevalent</phrase>
       </title>
-      <document refid="32821415"/>
-      <document refid="32779642"/>
-      <document refid="32743028"/>
+      <document refid="32831162"/>
+      <document refid="32830534"/>
       <document refid="32639125"/>
    </group>
-   <group id="1" size="3" score="33.56676706737871">
+   <group id="1" size="3" score="35.23348876793535">
       <title>
          <phrase>Fibroblast Growth Factor 23 FGF23</phrase>
       </title>
@@ -117,76 +116,76 @@
       <document refid="32718053"/>
       <document refid="32701599"/>
    </group>
-   <group id="2" size="3" score="18.60290596161104">
+   <group id="2" size="3" score="20.245095438234834">
       <title>
-         <phrase>PTH</phrase>
+         <phrase>Levels of 25 OH</phrase>
       </title>
-      <document refid="32821415"/>
-      <document refid="32780482"/>
-      <document refid="32743028"/>
+      <document refid="32831162"/>
+      <document refid="32782774"/>
+      <document refid="32610842"/>
    </group>
-   <group id="3" size="2" score="19.411944539352678">
+   <group id="3" size="2" score="17.449159921255806">
       <title>
          <phrase>Albumin Correction</phrase>
       </title>
       <document refid="32743028"/>
       <document refid="32587615"/>
    </group>
-   <group id="4" size="2" score="9.78968208357342">
+   <group id="4" size="2" score="9.839948137293195">
       <title>
          <phrase>Bioavailability</phrase>
       </title>
       <document refid="32830534"/>
       <document refid="32718053"/>
    </group>
-   <group id="5" size="2" score="40.250819512391914">
+   <group id="5" size="2" score="36.712961780237514">
       <title>
          <phrase>Children and Adults</phrase>
       </title>
       <document refid="32821415"/>
       <document refid="32701599"/>
    </group>
-   <group id="6" size="2" score="25.7043121607032">
+   <group id="6" size="2" score="27.13543753962013">
       <title>
          <phrase>Diabetic Kidney Disease</phrase>
       </title>
       <document refid="32782774"/>
       <document refid="32653382"/>
    </group>
-   <group id="7" size="2" score="34.232499952090386">
+   <group id="7" size="2" score="33.649386782576585">
       <title>
          <phrase>Differential Effects</phrase>
       </title>
       <document refid="32775985"/>
       <document refid="32598518"/>
    </group>
-   <group id="8" size="2" score="16.171652197111474">
+   <group id="8" size="2" score="20.52522407339117">
       <title>
-         <phrase>Fracture</phrase>
+         <phrase>Mechanisms</phrase>
       </title>
-      <document refid="32743028"/>
-      <document refid="32701599"/>
+      <document refid="32718053"/>
+      <document refid="32631974"/>
    </group>
-   <group id="9" size="2" score="19.301803815675246">
+   <group id="9" size="2" score="12.329177492036068">
+      <title>
+         <phrase>Monitoring</phrase>
+      </title>
+      <document refid="32821415"/>
+      <document refid="32639125"/>
+   </group>
+   <group id="10" size="2" score="18.875620829614398">
       <title>
          <phrase>Paricalcitol</phrase>
       </title>
       <document refid="32775985"/>
       <document refid="32631974"/>
    </group>
-   <group id="10" size="2" score="44.64559493686326">
+   <group id="11" size="2" score="46.253274528950215">
       <title>
          <phrase>Vascular Calcification</phrase>
       </title>
       <document refid="32830534"/>
       <document refid="32779642"/>
-   </group>
-   <group id="11" size="2" score="20.35315443594397">
-      <title>
-         <phrase>Vitamin D Status in CKD Patients</phrase>
-      </title>
-      <document refid="32743028"/>
-      <document refid="32610842"/>
    </group>
    <group id="12" size="4" score="0.0">
       <title>
@@ -196,9 +195,9 @@
          <value type="java.lang.Boolean" value="true"/>
       </attribute>
       <document refid="32791554"/>
+      <document refid="32780482"/>
       <document refid="32737578"/>
       <document refid="32593253"/>
-      <document refid="32582730"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -212,7 +211,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="35"/>
+      <value type="java.lang.Long" value="67"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="40"/>
@@ -224,7 +223,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="1664"/>
+      <value type="java.lang.Long" value="1458"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -233,12 +232,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="1699"/>
+      <value type="java.lang.Long" value="1525"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="1604"/>
+      <value type="java.lang.Long" value="1605"/>
    </attribute>
 </searchresult>

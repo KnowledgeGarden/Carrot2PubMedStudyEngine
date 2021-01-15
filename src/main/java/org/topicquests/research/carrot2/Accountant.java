@@ -141,6 +141,7 @@ public class Accountant {
 	public void endQuery(String queryString) {
 		Long x = queries.get(queryString);
 		long delta = System.currentTimeMillis() - x.longValue();
+		environment.queryTiming(queryString, delta);
 		history.put(queryString, new Long(delta));
 		environment.logDebug("History\n"+history);
 	}

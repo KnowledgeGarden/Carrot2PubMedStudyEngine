@@ -12,6 +12,7 @@
 	<parameter name="ClusterDataPath" value = "data/output/" />
 	<parameter name="PubMedAbstractPath" value="data/pubmed/" />
 	<parameter name="NlpPath" value="data/nlp/" />
+	<parameter name="StatsPath" value="data/stats/" />
 
 
 </properties>

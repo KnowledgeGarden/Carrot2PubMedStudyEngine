@@ -89,7 +89,7 @@ public class ParserThread {
 			hasBeenRunning = true;
 			IResult r = parser.parseXML(xml);
 			JSONDocumentObject j = (JSONDocumentObject)r.getResultObject();
-			environment.logDebug("PT+\n"+j);
+			environment.logDebug("PT+");
 			environment.getAccountant().haveSeen(j.getPMID());
 			docThread.addDoc(j);
 		}

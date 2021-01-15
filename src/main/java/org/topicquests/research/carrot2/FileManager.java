@@ -106,7 +106,7 @@ public class FileManager {
 		    	GZIPOutputStream gos = new GZIPOutputStream(fos);
 	    		environment.logDebug("FM.ps-4");
 		    	PrintWriter out = new PrintWriter(gos);
-	    		environment.logDebug("FM.ps-5\n"+them);
+	    		//environment.logDebug("FM.ps-5\n"+them);
 		    	Iterator<String>itr = them.iterator();
 	    		environment.logDebug("FM.ps-6");
 		    	while (itr.hasNext())

@@ -1,5 +1,10 @@
 <searchresult>
    <query>Vitamin D AND CKD</query>
+   <document id="33430750">
+      <title>Diabetes Mellitus and Renal Function: Current Medical Research and Opinion.</title>
+      <snippet>Diabetes mellitus (DM) which is defined as high blood glucose level is a major public health worldwide. While discussing DM, the knowledge in this field is unlimited hence a syndrome that populations are living with for more than a decade is always an important matter to keep searching for updates on it. Challenges are always present in different means as comorbidities, poorly controlled DM especially type 2 Diabetes mellitus(T2DM) is considered as a risk factor for a lot of different diseases including but not limited to chronic kidney Disease (CKD). Complications might appear through time, as the aging process changes the body functions, while a significant number of antidiabetic medications are cleared eventually by the kidney; this increase the burden on kidney function placing the diabetic patients at risk. The significant high number of patients with uncontrolled diabetes resulting with kidney disease mirror the importance of this condition on patient&apos;s quality of life. This review presents an overview, pathophysiology, etiology and prevalence of Chronic Kidney Disease (CKD) and abnormal renal parameters correlated with poorly controlled T2DM, with emphasis on and clinical studies involving the association between vitamin D Insufficiency/Deficiency and chronic kidney disease among patients with T2DM.</snippet>
+      <url>http://www.ncbi.nlm.nih.gov/pubmed/33430750</url>
+   </document>
    <document id="33416889">
       <title>Effects of calcitriol and paricalcitol on renal fibrosis in CKD.</title>
       <snippet>In chronic kidney Disease (CKD) the activation of the renin-angiotensin-aldosterone system and renal inflammation stimulate renal fibrosis and the progression to end-stage renal disease. The low levels of vitamin D receptor (VDR) and its activators (VDRAs) contribute to worsen secondary hyperparathyroidism and renal fibrosis.</snippet>
@@ -95,26 +100,7 @@
       <snippet>Left ventricular hypertrophy (LVH) is a cardiovascular complication highly prevalent in patients with chronic kidney disease (CKD). Previous studies analyzing 1α-hydroxylase or vitamin D receptor (Vdr) knockout mice revealed active vitamin D as a promising agent inhibiting LVH progression. Paricalcitol, an active vitamin D analog, failed to suppress the progression of LV mass index (LVMI) in pre-dialysis patients with CKD. As target genes of activated VDR differ depending on its agonists, we examined the effects of maxacalcitol (22-oxacalcitriol: OCT), a less calcemic active vitamin D analog, on LVH in hemodialysis patients and animal LVH models with renal insufficiency.</snippet>
       <url>http://www.ncbi.nlm.nih.gov/pubmed/33206298</url>
    </document>
-   <document id="33197658">
-      <title>Complementary and alternative medicine therapies for uremic pruritus - A systematic review of randomized controlled trials.</title>
-      <snippet>Uremic pruritus (UP) is one of the most bothersome symptoms among chronic kidney disease (CKD) patients. The pathophysiology of UP remains elusive, resulting in limited treatment options. The inability of standard medical treatments to provide effective relief has piqued interest in complementary and alternative medicine (CAM).</snippet>
-      <url>http://www.ncbi.nlm.nih.gov/pubmed/33197658</url>
-   </document>
-   <group id="0" size="9" score="12.94825287468761">
-      <title>
-         <phrase>Active Vitamin</phrase>
-      </title>
-      <document refid="33416889"/>
-      <document refid="33394226"/>
-      <document refid="33386480"/>
-      <document refid="33241290"/>
-      <document refid="33233840"/>
-      <document refid="33232874"/>
-      <document refid="33230698"/>
-      <document refid="33211721"/>
-      <document refid="33206298"/>
-   </group>
-   <group id="1" size="3" score="28.31377846974972">
+   <group id="0" size="3" score="33.83778525637259">
       <title>
          <phrase>Bone and Mineral Metabolism Disorder</phrase>
       </title>
@@ -122,7 +108,7 @@
       <document refid="33302656"/>
       <document refid="33291777"/>
    </group>
-   <group id="2" size="3" score="22.06964076780804">
+   <group id="1" size="3" score="22.082539496091655">
       <title>
          <phrase>Dysfunction</phrase>
       </title>
@@ -130,7 +116,7 @@
       <document refid="33401560"/>
       <document refid="33206298"/>
    </group>
-   <group id="3" size="3" score="42.88136074260806">
+   <group id="2" size="3" score="37.03383095386582">
       <title>
          <phrase>Hormone Fibroblast Growth Factor 23 FGF23</phrase>
       </title>
@@ -138,15 +124,7 @@
       <document refid="33233840"/>
       <document refid="33230698"/>
    </group>
-   <group id="4" size="3" score="37.41312934390585">
-      <title>
-         <phrase>Patients with end Stage Renal Disease</phrase>
-      </title>
-      <document refid="33394226"/>
-      <document refid="33391906"/>
-      <document refid="33302656"/>
-   </group>
-   <group id="5" size="3" score="45.787570334613676">
+   <group id="3" size="3" score="47.57348931099771">
       <title>
          <phrase>Vascular Calcification</phrase>
       </title>
@@ -154,63 +132,69 @@
       <document refid="33219692"/>
       <document refid="33211721"/>
    </group>
-   <group id="6" size="2" score="37.13354511030653">
+   <group id="4" size="3" score="14.660172248029314">
+      <title>
+         <phrase>Vitamin D Receptor VDR</phrase>
+      </title>
+      <document refid="33416889"/>
+      <document refid="33211721"/>
+      <document refid="33206298"/>
+   </group>
+   <group id="5" size="2" score="44.56490496005125">
       <title>
          <phrase>Associations of Serum</phrase>
       </title>
       <document refid="33378761"/>
       <document refid="33302656"/>
    </group>
-   <group id="7" size="2" score="37.345859726389776">
+   <group id="6" size="2" score="38.45410635853521">
       <title>
          <phrase>Bone Disorder MBD</phrase>
       </title>
       <document refid="33387018"/>
       <document refid="33302656"/>
    </group>
-   <group id="8" size="2" score="27.84885124859543">
+   <group id="7" size="2" score="47.506533477434616">
       <title>
          <phrase>CKD Arteries</phrase>
       </title>
       <document refid="33219692"/>
       <document refid="33211721"/>
    </group>
-   <group id="9" size="2" score="33.63935973533049">
+   <group id="8" size="2" score="25.342372480308953">
       <title>
          <phrase>Children with CKD Stages</phrase>
       </title>
       <document refid="33367869"/>
       <document refid="33241290"/>
    </group>
-   <group id="10" size="2" score="32.52131941013155">
+   <group id="9" size="2" score="51.40989943765741">
       <title>
-         <phrase>End-stage Renal Disease</phrase>
+         <phrase>Diabetes Mellitus DM</phrase>
       </title>
-      <document refid="33416889"/>
-      <document refid="33302656"/>
+      <document refid="33430750"/>
+      <document refid="33391906"/>
    </group>
-   <group id="11" size="2" score="27.65773490377691">
+   <group id="10" size="2" score="23.851216139421666">
       <title>
          <phrase>FGF-23</phrase>
       </title>
       <document refid="33238271"/>
       <document refid="33232874"/>
    </group>
-   <group id="12" size="2" score="29.05389159922661">
+   <group id="11" size="2" score="37.183869753162355">
       <title>
          <phrase>Fibrosis</phrase>
       </title>
       <document refid="33416889"/>
       <document refid="33401711"/>
    </group>
-   <group id="13" size="1" score="0.0">
+   <group id="12" size="2" score="20.722259963348648">
       <title>
-         <phrase>Other Topics</phrase>
+         <phrase>Measured</phrase>
       </title>
-      <attribute key="other-topics">
-         <value type="java.lang.Boolean" value="true"/>
-      </attribute>
-      <document refid="33197658"/>
+      <document refid="33394226"/>
+      <document refid="33238271"/>
    </group>
    <attribute key="MultilingualClustering.languageCounts">
       <value>
@@ -224,7 +208,7 @@
       </value>
    </attribute>
    <attribute key="processing-time-algorithm">
-      <value type="java.lang.Long" value="34"/>
+      <value type="java.lang.Long" value="80"/>
    </attribute>
    <attribute key="start">
       <value type="java.lang.Integer" value="0"/>
@@ -236,7 +220,7 @@
       <value type="java.lang.Integer" value="0"/>
    </attribute>
    <attribute key="processing-time-source">
-      <value type="java.lang.Long" value="1430"/>
+      <value type="java.lang.Long" value="1624"/>
    </attribute>
    <attribute key="SearchEngineStats.pageRequests">
       <value type="java.lang.Integer" value="0"/>
@@ -245,12 +229,12 @@
       <value value=""/>
    </attribute>
    <attribute key="processing-time-total">
-      <value type="java.lang.Long" value="1464"/>
+      <value type="java.lang.Long" value="1704"/>
    </attribute>
    <attribute key="results">
       <value type="java.lang.Integer" value="20"/>
    </attribute>
    <attribute key="results-total">
-      <value type="java.lang.Long" value="1604"/>
+      <value type="java.lang.Long" value="1605"/>
    </attribute>
 </searchresult>

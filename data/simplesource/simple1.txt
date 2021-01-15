@@ -1,9 +1,9 @@
 garlic AND IBS-D
-garlic AND irritable bowel syndrome
+#garlic AND irritable bowel syndrome
 Vitamin D AND CKD
 Vitamin D AND chronic kidney disease
-resistant starch AND irritable bowel syndrome
-resistant starch AND IBS-D
-protein AND BUN
-protein and creatinine
-protein and GLOMERULAR FILTRATION RATE
+#resistant starch AND irritable bowel syndrome
+#resistant starch AND IBS-D
+#protein AND BUN
+#protein and creatinine
+#protein and GLOMERULAR FILTRATION RATE

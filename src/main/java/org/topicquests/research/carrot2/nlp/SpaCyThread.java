@@ -96,6 +96,7 @@ public class SpaCyThread {
 		
 		void processDoc(JSONObject paragraph) {
 			int ps = 0;
+			long startTime = System.currentTimeMillis();
 			synchronized(paragraphs) {
 				ps = paragraphs.size();
 			}
@@ -107,6 +108,8 @@ public class SpaCyThread {
 			IResult r = spaCy.processSentence(text);
 			JSONObject jo = (JSONObject)r.getResultObject();
 			jo.put("docId", docId);
+			long delta = System.currentTimeMillis() - startTime;
+			environment.nlpTiming(docId, delta); // instrument
 			System.out.println("STp+ "+jo.size());
 			environment.logDebug("SpaCyThread+ "+jo.size());
 			fileManager.persistSpaCy(docId, jo.toJSONString());

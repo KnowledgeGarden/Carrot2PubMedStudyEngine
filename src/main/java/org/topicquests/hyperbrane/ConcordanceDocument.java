@@ -120,6 +120,12 @@ public class ConcordanceDocument implements IDocument {
 		}
 		this.setCreatorId(jdo.getCreatorId());
 		this.setDate(new Date());
+		List<IAuthor>authors = jdo.listAuthors();
+		if (authors != null && !authors.isEmpty()) {
+			Iterator<IAuthor> iza = authors.iterator();
+			while (iza.hasNext())
+				this.addAuthor(iza.next());
+		}
 				
 	}
 	/**
@@ -800,6 +806,7 @@ public class ConcordanceDocument implements IDocument {
 			a = new ArrayList<IAuthor>();
 		a.add(author);
 		this.setAuthorList(a);
+		environment.logDebug("CD.addAuthor\n"+author+"\n"+a);
 	}
 
 	@Override
