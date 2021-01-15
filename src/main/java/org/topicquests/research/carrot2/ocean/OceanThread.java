@@ -27,8 +27,8 @@ import java.util.*;
  */
 public class OceanThread {
 	private Environment environment;
-	protected InformationEnvironment oceanEnvironment;
-	protected IInfoOcean dsl;
+	private InformationEnvironment oceanEnvironment;
+	private IInfoOcean dsl;
 	private List<IDocument> docs;
 	private boolean isRunning = true;
 	private Worker worker;

@@ -17,6 +17,7 @@ import org.topicquests.es.ProviderEnvironment;
 import org.topicquests.research.carrot2.api.IDocumentProvider;
 import org.topicquests.research.carrot2.nlp.ElasticSearch;
 import org.topicquests.research.carrot2.pubmed.ParserThread;
+import org.topicquests.research.carrot2.search.VagabondThread;
 import org.topicquests.support.RootEnvironment;
 import org.topicquests.support.util.TextFileHandler;
 
@@ -40,6 +41,7 @@ public class Environment extends RootEnvironment {
 	private ProviderEnvironment esEnvironment;
 	private Accountant accountant;
 	private FileManager fileManager;
+	private VagabondThread vagabondThread;
 	
 	private JSONObject queryInstrumentation;
 	private JSONObject nlpInstrumentation;
@@ -72,6 +74,7 @@ public class Environment extends RootEnvironment {
 		documentProvider = new DocumentProvider(this);
 		System.out.println("E5");
 		parserThread = new ParserThread(this);
+		vagabondThread = new VagabondThread(this);
 		System.out.println("E6");
 		logDebug("Environment-2 "+parserThread);
 		queryInstrumentation = new JSONObject();
@@ -117,6 +120,10 @@ public class Environment extends RootEnvironment {
 	/////////////////////
 	// Support
 	/////////////////////
+	
+	public VagabondThread getVagabondThread() {
+		return vagabondThread;
+	}
 	
 	public ElasticSearch getElasticSearch() {
 		return es;
