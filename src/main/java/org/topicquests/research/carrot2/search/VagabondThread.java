@@ -9,9 +9,14 @@ import java.util.*;
 
 import org.topicquests.os.asr.info.InformationEnvironment;
 import org.topicquests.os.asr.info.api.IInfoOcean;
+import org.topicquests.pg.PostgresConnectionFactory;
+import org.topicquests.pg.api.IPostgresConnection;
 import org.topicquests.research.carrot2.Environment;
 import org.topicquests.research.carrot2.nlp.ElasticSearch;
+import org.topicquests.support.ResultPojo;
 import org.topicquests.support.api.IResult;
+
+import com.tinkerpop.blueprints.Edge;
 
 import net.minidev.json.JSONObject;
 
@@ -22,9 +27,10 @@ import net.minidev.json.JSONObject;
 public class VagabondThread {
 	private Environment environment;
 	private InformationEnvironment oceanEnvironment;
+	private PostgresConnectionFactory database = null;
+
 	private IInfoOcean dsl;
 	private ElasticSearch es;
-
 	private List<String> queries;
 	private boolean isRunning = true;
 	private Worker worker = null;
@@ -34,7 +40,9 @@ public class VagabondThread {
 	 */
 	public VagabondThread(Environment env) {
 		environment = env;
+		
 		oceanEnvironment = new InformationEnvironment();
+		database = oceanEnvironment.getWordGramEnvironment().getSqlGraph().getProvider();
 		dsl = oceanEnvironment.getDSL();
 		es = environment.getElasticSearch();
 		queries = new ArrayList<String>();
@@ -89,22 +97,41 @@ public class VagabondThread {
 			// and repeat until it returns less that count
 			////////
 			IResult r  = es.get(query, begin, count);
-			List<JSONObject> hits = (List<JSONObject>)r.getResultObject();
+			Object o = r.getResultObject();
+			environment.logDebug("VagabondThread.XX "+o);
+			Set<JSONObject> hits = (Set<JSONObject>)r.getResultObject();
 			if (hits != null && !hits.isEmpty()) {
 				Iterator<JSONObject> itr = hits.iterator();
 				while (itr.hasNext())
 					processHit(itr.next(), query);
 			}
-			//TODO
 		}
 		
 		void processHit(JSONObject doc, String query) {
+			System.out.println("QQQ "+query);
+			environment.logDebug("VagabondThread.ph "+query);
+			IPostgresConnection conn = null;
+		    IResult r = new ResultPojo();
+	        try {
+	        	conn = database.getConnection();
+	           	conn.setProxyRole(r);
+	            conn.beginTransaction(r);
+	            IResult x = dsl.processString(query, "SystemUser", null);
+				String gramId = (String)x.getResultObject();
+				environment.logDebug("VagabondThread.ph-1 "+query+" | "+gramId);
+				// get the wordGramId
+				String docId = doc.getAsString("id");
+				Edge d = dsl.connectKeyWordGramToDocument(conn, gramId, docId, r);
+				environment.logDebug("VagabondThread.ph+ "+docId+" | "+d);
+				//NOTE: d will == null if edge already exists
+	            conn.endTransaction(r);
+	        } catch (Exception e) {
+	        	e.printStackTrace();
+	        	environment.logError(e.getMessage(), e);
+	        } finally {
+		    	conn.closeConnection(r);
+	        } 
 			// get the wordgramID
-			String gramId = dsl.wordsToGramId(query);
-			environment.logDebug("VagabondThread.ph "+query+" | "+gramId);
-			// get the wordGramId
-			String docId = doc.getAsString("id");
-			dsl.connectKeyWordGramToDocument(gramId, docId);
 		}
 	}
 

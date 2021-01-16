@@ -19,7 +19,6 @@ import org.topicquests.research.carrot2.nlp.ElasticSearch;
 import org.topicquests.research.carrot2.pubmed.ParserThread;
 import org.topicquests.research.carrot2.search.VagabondThread;
 import org.topicquests.support.RootEnvironment;
-import org.topicquests.support.util.TextFileHandler;
 
 import net.minidev.json.JSONObject;
 
